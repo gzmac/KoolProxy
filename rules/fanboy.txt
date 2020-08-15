@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9TYdWKdkhKSQJvAGrAXSmQ
-! Version: 202008132351
+! Checksum: x8ICWcpMLW3CiP5D4JlM6w
+! Version: 202008142351
 ! Title: Fanboy's Annoyance List
-! Last modified: 13 Aug 2020 23:51 UTC
+! Last modified: 14 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -829,6 +829,7 @@
 ||https://cultofmac.com/e2ma.js
 ||https://d.yimg.com/ds/badge2.js
 ||https://dailymaverick.co.za/images/iabsa.png
+||https://data.indianexpress.com/iframes/covid-19.html
 ||https://easytutoriel.com/wp-content/themes/easytutoriel-10-1/js/scripts.js
 ||https://eatout.co.za^*/iab-
 ||https://emailsherlock.com/javascripts/lightbox.js
@@ -2171,6 +2172,7 @@
 ||http://cultofmac.com/e2ma.js
 ||http://d.yimg.com/ds/badge2.js
 ||http://dailymaverick.co.za/images/iabsa.png
+||http://data.indianexpress.com/iframes/covid-19.html
 ||http://easytutoriel.com/wp-content/themes/easytutoriel-10-1/js/scripts.js
 ||http://eatout.co.za^*/iab-
 ||http://emailsherlock.com/javascripts/lightbox.js
@@ -6613,6 +6615,7 @@ https://legit.ng##.l-header__subscribe
 https://lifeslittlemysteries.com##.llm_newsletter
 https://wakingtimes.com##.lp-bar__iframe-wrapper
 https://minnpost.com##.m-form-minnpost-form-processor-mailchimp
+https://history.com##.m-header--coverline-ng-wrap
 https://minds.com##.m-modal-bg
 https://sbnation.com##.m-nba-newsletter
 https://competitor.com##.mag_nl_dsktp
@@ -9220,6 +9223,7 @@ https://agenda.brussels,visit.brussels##.confirm
 https://acast.com,builds.gg,checkyourmath.com,codementor.io##.consent
 https://fancentro.com##.consent-message
 https://justwatch.com##.consent-notification
+https://printscreenshot.com##.consent-overlay
 https://sportskeeda.com##.consent-pop-up
 https://themaven.net##.consent-ui
 https://xing.com##.consent_wrapper
@@ -10936,7 +10940,7 @@ https://nationalgeographic.it##.segui-ng
 https://lescienze.it,unica.it##.seguici
 https://askanews.it##.seguici_footer
 https://chiesi.com##.seguicisu
-https://amica.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,deejay.it,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,intesasanpaolo.com,isaechia.it,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,listadimaio.com,mediagol.it,megasesso.com,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,trend-online.com,tuttobolognaweb.it,violanews.com##.share
+https://amica.it,areanapoli.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,deejay.it,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,intesasanpaolo.com,isaechia.it,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,listadimaio.com,mediagol.it,megasesso.com,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,trend-online.com,tuttobolognaweb.it,violanews.com##.share
 https://mediaset.it,meteo.it##.shr
 https://assopoker.com##.singlemeta
 https://finanzaonline.com,teleborsa.it,tempostretto.it##.soc
@@ -12967,7 +12971,7 @@ https://dm-drogeriemarkt.it#@##cookie-bar
 https://travelchannel.co.uk#@##cookie-body
 https://biotechusa.hu,hscollective.org,litebit.eu#@##cookie-consent
 https://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@##cookie-container
-https://clever-zoeger.de,ddz24.eu,theorie-musik.de,wiadomosci-lodz.pl#@##cookie-law-info-bar
+https://calciomercato.napoli.it,clever-zoeger.de,ddz24.eu,theorie-musik.de,wiadomosci-lodz.pl#@##cookie-law-info-bar
 https://penny.hu,pennymarket.it#@##cookie-message
 https://bokadirekt.se,zlm.nl#@##cookie-modal
 https://makelaarsland.nl#@##cookie-notice
@@ -12998,7 +13002,7 @@ https://qastack.fr#@##cookies-consent
 https://paradoxplaza.com#@##cookies-info
 https://paravol.org#@##cookies-modal
 https://arbeiterkammer.at#@##cookiesContainer
-https://shoppable.com#@##cookiesModal
+https://aipsurveys.com,shoppable.com#@##cookiesModal
 https://gdansk.pl#@##cookies[role="dialog"]
 https://debeste.de#@##cookies_ok
 https://vkmag.com#@##cookiesdirective
@@ -17063,6 +17067,7 @@ http://legit.ng##.l-header__subscribe
 http://lifeslittlemysteries.com##.llm_newsletter
 http://wakingtimes.com##.lp-bar__iframe-wrapper
 http://minnpost.com##.m-form-minnpost-form-processor-mailchimp
+http://history.com##.m-header--coverline-ng-wrap
 http://minds.com##.m-modal-bg
 http://sbnation.com##.m-nba-newsletter
 http://competitor.com##.mag_nl_dsktp
@@ -19671,6 +19676,7 @@ http://agenda.brussels,visit.brussels##.confirm
 http://acast.com,builds.gg,checkyourmath.com,codementor.io##.consent
 http://fancentro.com##.consent-message
 http://justwatch.com##.consent-notification
+http://printscreenshot.com##.consent-overlay
 http://sportskeeda.com##.consent-pop-up
 http://themaven.net##.consent-ui
 http://xing.com##.consent_wrapper
@@ -21387,7 +21393,7 @@ http://nationalgeographic.it##.segui-ng
 http://lescienze.it,unica.it##.seguici
 http://askanews.it##.seguici_footer
 http://chiesi.com##.seguicisu
-http://amica.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,deejay.it,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,intesasanpaolo.com,isaechia.it,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,listadimaio.com,mediagol.it,megasesso.com,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,trend-online.com,tuttobolognaweb.it,violanews.com##.share
+http://amica.it,areanapoli.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,deejay.it,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,intesasanpaolo.com,isaechia.it,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,listadimaio.com,mediagol.it,megasesso.com,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,trend-online.com,tuttobolognaweb.it,violanews.com##.share
 http://mediaset.it,meteo.it##.shr
 http://assopoker.com##.singlemeta
 http://finanzaonline.com,teleborsa.it,tempostretto.it##.soc
@@ -23419,7 +23425,7 @@ http://dm-drogeriemarkt.it#@##cookie-bar
 http://travelchannel.co.uk#@##cookie-body
 http://biotechusa.hu,hscollective.org,litebit.eu#@##cookie-consent
 http://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@##cookie-container
-http://clever-zoeger.de,ddz24.eu,theorie-musik.de,wiadomosci-lodz.pl#@##cookie-law-info-bar
+http://calciomercato.napoli.it,clever-zoeger.de,ddz24.eu,theorie-musik.de,wiadomosci-lodz.pl#@##cookie-law-info-bar
 http://penny.hu,pennymarket.it#@##cookie-message
 http://bokadirekt.se,zlm.nl#@##cookie-modal
 http://makelaarsland.nl#@##cookie-notice
@@ -23450,7 +23456,7 @@ http://qastack.fr#@##cookies-consent
 http://paradoxplaza.com#@##cookies-info
 http://paravol.org#@##cookies-modal
 http://arbeiterkammer.at#@##cookiesContainer
-http://shoppable.com#@##cookiesModal
+http://aipsurveys.com,shoppable.com#@##cookiesModal
 http://gdansk.pl#@##cookies[role="dialog"]
 http://debeste.de#@##cookies_ok
 http://vkmag.com#@##cookiesdirective
