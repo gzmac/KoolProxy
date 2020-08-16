@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: I27GJGRWLlE5cM3QKKGuCQ
-! Version: 202008150013
+! Checksum: 8rffPUPwlkUNcGbGlOaKIw
+! Version: 202008160013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4876,6 +4876,7 @@
 ||https://aitxt.com/bot-
 ||https://aitxt.com/js/ai.js
 ||https://aitxt.com/m_float.js
+||https://alicdn.com/imgextra/*_!!823262290.
 ||https://biquge.info^*.js?
 ||https://biquge.tw/xtws/true.js
 ||https://biqutxt.com/skin/scripts/97.js
@@ -13364,7 +13365,6 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://qpmue.xyz^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13586,6 +13586,7 @@
 ||http://alibdl.xyz^
 ||http://alibdm.xyz^
 ||http://alibdn.xyz^
+||http://alicdn.com/imgextra/*_!!823262290.
 ||http://alicdn.com^$domain=aikanshu8.com|lawen44.net
 ||http://aligiao.info^
 ||http://alitx963.com^
@@ -13701,6 +13702,7 @@
 ||http://bytb996.top^
 ||http://byujf.cn^
 ||http://c2fsd.xyz^
+||http://cahdfzg.cn^
 ||http://caichenguang.cn^
 ||http://caiji.wiki^
 ||http://cailawyer.cn^
@@ -14620,6 +14622,7 @@
 ||http://qmlcdlo.cn^
 ||http://qneit.com^
 ||http://qnpov.cn^
+||http://qpmue.xyz^
 ||http://qqdashabi.top^
 ||http://qqiat.com^
 ||http://qrdqbe.cn^
@@ -14841,6 +14844,7 @@
 ||http://tochgw.com^
 ||http://toissue.cn^
 ||http://tongjiwo.com^
+||http://tozvhcq.cn^
 ||http://travel-together.cn^
 ||http://trhccn.cn^
 ||http://ts2a1s.com^
@@ -14944,6 +14948,7 @@
 ||http://wfxoi.xyz^
 ||http://wfyqc.com^
 ||http://wgaoe.com^
+||http://wgmgmg.biqugeso.com^
 ||http://whkwpzz.cn^
 ||http://whrles.com^
 ||http://whsjg.cn^
@@ -15925,6 +15930,7 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://nanfengyl.com##.index-top-ad1
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -18816,6 +18822,7 @@ https://lenovo.com.cn##.link-ad
 https://xiaoyun.com##.link-ads
 https://baidu.com##.link-banner
 https://guahao.com##.link-modal
+https://324324.cn##.link_header
 https://dl.pconline.com.cn##.links > p:not([class])
 https://duote.com##.links-banner
 https://linux.cn##.linuxcnad
@@ -20066,6 +20073,8 @@ https://wandhi.com##a[href="http://www1.huizhek.com"]
 https://autohome.com.cn##a[href="https://m.autohome.com.cn/activity/special/autohome29.html"]
 https://2dway.com##a[href="https://www.2dway.com/5244/"]
 https://dzbhdm.com##a[href="https://www.biqudao2.com"]
+https://dzbhdm.com##a[href="https://www.dzbhdm.com"] > img
+https://dzbhdm.com##a[href="https://www.dzbhdm.com/"] > img
 https://centoschina.cn##a[href="https://www.linuxprobe.com/"]
 https://acgcku.com##a[href]:not([href*="acgcku."]) > img[src*="acgcku.com/wp-content/"]
 https://jandan.net##a[href^="//api.jandan.net/money.php?"]
@@ -21996,6 +22005,7 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://nanfengyl.com##.index-top-ad1
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -24887,6 +24897,7 @@ http://lenovo.com.cn##.link-ad
 http://xiaoyun.com##.link-ads
 http://baidu.com##.link-banner
 http://guahao.com##.link-modal
+http://324324.cn##.link_header
 http://dl.pconline.com.cn##.links > p:not([class])
 http://duote.com##.links-banner
 http://linux.cn##.linuxcnad
@@ -26137,6 +26148,8 @@ http://wandhi.com##a[href="http://www1.huizhek.com"]
 http://autohome.com.cn##a[href="https://m.autohome.com.cn/activity/special/autohome29.html"]
 http://2dway.com##a[href="https://www.2dway.com/5244/"]
 http://dzbhdm.com##a[href="https://www.biqudao2.com"]
+http://dzbhdm.com##a[href="https://www.dzbhdm.com"] > img
+http://dzbhdm.com##a[href="https://www.dzbhdm.com/"] > img
 http://centoschina.cn##a[href="https://www.linuxprobe.com/"]
 http://acgcku.com##a[href]:not([href*="acgcku."]) > img[src*="acgcku.com/wp-content/"]
 http://jandan.net##a[href^="//api.jandan.net/money.php?"]
