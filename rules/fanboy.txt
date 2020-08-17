@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 53mIPPn3tdSdo2uBxyyn9Q
-! Version: 202008152351
+! Checksum: QfDHLKluqsI6YhRHujgQUQ
+! Version: 202008162351
 ! Title: Fanboy's Annoyance List
-! Last modified: 15 Aug 2020 23:51 UTC
+! Last modified: 16 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -524,6 +524,7 @@
 ||https://pushbullet.com^$third-party
 ||https://pushengage.com^$third-party
 ||https://pushex.io^$third-party
+||https://pushible.com^$third-party
 ||https://pushify.com^$third-party
 ||https://pushwoosh.com^$third-party
 ||https://reprocautious.com^$third-party
@@ -972,6 +973,7 @@
 ||https://seattletimes.com/wp-content/plugins/st-user-messaging/$script
 ||https://ultimedia.com/js/common/notification.js
 ||https://yahoo.com/manifest_desktop_
+||https://flashscore.fr^*/build/notifications.
 ||https://horoscope.fr/notifications/
 ||https://3dmark.com/proxycon/images/front-some-fb.png
 ||https://5movies.to/share.php
@@ -1854,6 +1856,7 @@
 ||http://pushbullet.com^$third-party
 ||http://pushengage.com^$third-party
 ||http://pushex.io^$third-party
+||http://pushible.com^$third-party
 ||http://pushify.com^$third-party
 ||http://pushwoosh.com^$third-party
 ||http://reprocautious.com^$third-party
@@ -2325,6 +2328,7 @@
 ||http://seattletimes.com/wp-content/plugins/st-user-messaging/$script
 ||http://ultimedia.com/js/common/notification.js
 ||http://yahoo.com/manifest_desktop_
+||http://flashscore.fr^*/build/notifications.
 ||http://horoscope.fr/notifications/
 ||http://push.neko-san.fr^
 ||http://3dmark.com/proxycon/images/front-some-fb.png
@@ -2661,6 +2665,7 @@
 ||http://byom.de/js/cookie.de.js
 ||http://cmp.pcwelt.de^
 ||http://consent.berliner-kurier.de^
+||http://consent.gutefrage.net^
 ||http://henryschein.at^*/CookieList.aspx
 ||http://keltendorf-mitterkirchen.at/system/web/cookie.ashx
 ||http://strato.de^*/consent.js
@@ -2833,6 +2838,7 @@ https://tapiture.com###annoy-non-users
 https://booksnreview.com,classicalite.com,counselheal.com,designntrend.com,enstarz.com,franchiseherald.com,gamenguide.com,hngn.com,kdramastars.com,kpopstarz.com,latinopost.com,latinospost.com,latinpost.com,mobilenapps.com,musictimes.com,natureworldnews.com,parentherald.com,scienceworldreport.com,techtimes.com,universityherald.com,vcpost.com,yibada.com###anotherBox
 https://aol.co.uk###aol-snf-wrapper
 https://indianexpress.com###append_breaking_box
+https://indianexpress.com###append_cubebox_box
 https://stitcher.com###appnag
 https://huffingtonpost.co.uk,huffingtonpost.com,moviefone.com,news.moviefone.ca###apps-feeds
 https://wired.com###around-the-web
@@ -2964,6 +2970,7 @@ https://boston.com###blogtools
 https://cellularfactory.com###blue_popup
 https://uberhumor.com###bluenext
 https://uberhumor.com###blueprevious
+https://bing.com###bnp_hfly
 https://bing.com###bnp_rtc
 https://bing.com###bnp_ttc_div
 https://ptf.com###bnr
@@ -4444,7 +4451,6 @@ https://userbenchmark.com##.be-ls
 https://userbenchmark.com##.be-mr
 https://howtogeek.com##.below-post-features
 https://maketecheasier.com##.below_content
-https://theinquirer.net##.below_top_search
 https://economist.com##.beta-bar
 https://itproportal.com##.beta-overlay-background
 https://itproportal.com##.beta-overlay-popup
@@ -4486,6 +4492,8 @@ https://pcworld.com##.blxPbizdevinternalprimary
 https://littlethings.com##.bmbutton
 https://celebuzz.com##.bmsbw-followCb
 https://cbsnews.com##.bnSharePrompt
+https://bing.com##.bnp_fly_hp
+https://bing.com##.bnp_hfly_actionbar
 https://tripwire.com##.bnr-genekimsocial
 https://businessoffashion.com##.bof-professional-banner
 https://freemake.com,scan.co.uk##.bookmark
@@ -4619,7 +4627,6 @@ https://wateronline.com##.content-bribe-with-image
 https://hothardware.com##.content-delimeter > .header
 https://bbcgoodfood.com##.content-promo
 https://time.com##.content-tools
-https://theinquirer.net##.contentNavi_onemore
 https://dlife.com##.contitle_content_actions_div
 https://huffingtonpost.com##.contributor-disclaimer
 https://pcmag.com##.control-side
@@ -5467,7 +5474,6 @@ https://discovermagazine.com##.rightColumn
 https://cbsnews.com##.rightRailImagePromoModule
 https://dailywire.com##.right[style]
 https://huhmagazine.co.uk##.right_arrow
-https://theinquirer.net##.right_common_block_heading + .right_common_block_content
 https://nbcnews.com##.right_ear_wrap
 https://shoutfactory.com##.right_last
 https://streetinsider.com##.right_pod.premium_signup
@@ -5631,6 +5637,7 @@ https://engadget.com,indiatvnews.com,thehollywoodgossip.com##.sticky
 https://ibtimes.com,idigitaltimes.com##.sticky-bar
 https://airspacemag.com,smithsonianmag.com##.sticky-block
 https://laphamsquarterly.org##.sticky-issue
+https://space.com##.sticky-player-background
 https://news.com.au##.sticky-show
 https://oberlo.com##.sticky-subscribe-banner
 https://aeon.co##.sticky-wrapper
@@ -8388,7 +8395,7 @@ https://xbiz.com##.tool-list
 https://audioprointernational.com,chicagobusiness.com,crainsnewyork.com,mcvuk.com,pcr-online.biz##.toolbar
 https://techpp.com##.toolbar-fixed
 https://abc.net.au,autofocus.ca,cp24.com,progressive.org##.tools
-https://businessgreen.com,risk.net,theinquirer.net,v3.co.uk,waterstechnology.com##.tools-container
+https://businessgreen.com,risk.net,v3.co.uk,waterstechnology.com##.tools-container
 https://eenews.net##.tools_wrapper
 https://thehackernews.com##.top-follow
 https://wfc.tv##.top-item__soc
@@ -9281,6 +9288,7 @@ https://3dslash.net##.floatPopup
 https://maltatoday.com.mt##.floating-bar
 https://novantas.com##.foobar-container
 https://doubleviking.com,fallentitans.com##.footer
+https://swipe.io##.footer-notice
 https://hackerone.com##.footer-popup
 https://whimn.com.au##.footer-statements
 https://palmbeachpost.com##.footer-wrapper
@@ -9731,6 +9739,7 @@ https://antennebrandenburg.de,conleys.de,israelheute.com,radioberlin.de,vodafone
 https://ilninth.wordpress.com###MsgContainer
 https://maisonapart.com###accept-top
 https://gentside.com###actionreceiver
+https://algerie-eco.com###ae-fbp
 https://ladepeche.fr###aside-right
 https://lemonde.fr###bandeau_bas
 https://canalplus.fr###bandeau_fb
@@ -9861,7 +9870,6 @@ https://gabonactu.com##.toup
 https://larousse.fr##.ui-dialog
 https://larousse.fr##.ui-widget-overlay
 https://meteomedia.com##.woahbar
-https://algerie-eco.com#ae-fbp
 https://challenges.fr,nouvelobs.com,sciencesetavenir.fr##div[style="text-align:left;width:550px;background-color:#feefaa;padding:10px;font:12px Arial;position:absolute;z-index:50;undefined"]
 https://buzger.com##div[style="z-index:10000000; position:fixed; padding:10px; top:0px; width:100%; background-color:#fff; color:#888; "]
 https://hsbc.fr##div[style^="display: block; margin: 20px 0px 0px 0px;"]
@@ -11488,6 +11496,7 @@ https://118000.fr,adrea.fr,bpost.be,citus-kalix.fr,clique.tv,communauto.com,comp
 https://creavea.com##.creavea-banner-cookie-consent
 https://tv5unis.ca##.css-wydzoi.e1v9p9hw0
 https://lexus.fr##.disclaimer
+https://doctolib.fr##.dl-drawer
 https://molotov.tv##.eRnhI
 https://weclap.fr##.front_web_app_main_menu_front-web-app-main-menu-component_front_show_cookie_container
 https://woodbrass.com##.hidden-sm.hidden-md.row
@@ -11856,6 +11865,7 @@ https://cinquantamila.corriere.it,cinquantamila.it###privacy_advisor
 https://samaritansonlus.org###sB_injected
 https://malpensabusiness.it###showMessage
 https://sky.it###soundbox_cookie
+https://amazon.it###sp-cc
 https://digimobil.it###sticky-popup
 https://beniculturali.it,nlite.it,sigmastudio.it###system-message
 https://sia.eu###toast
@@ -12960,6 +12970,7 @@ https://popsugar.co.uk#@##_evidon-barrier-wrapper
 https://etonline.com,popsugar.co.uk,popsugar.com,popsugar.com.au#@##_evidon_banner
 https://aboutcookies.org#@##aboutcookies
 https://franziskaner-weissbier.de,xmradio.nl#@##accept-cookies
+https://epolisbari.com#@##accept_cookie
 https://aixfoam.com,aixfoam.de,aixfoam.dk,aixfoam.fi,aixfoam.fr,aixfoam.nl,aixfoam.se#@##cc-notification
 https://aixfoam.com,aixfoam.de,aixfoam.dk,aixfoam.fi,aixfoam.fr,aixfoam.nl,aixfoam.se#@##cc-notification-wrapper
 https://bing.com#@##cc_container
@@ -12987,7 +12998,7 @@ https://ad.win.nl#@##cookieConsentBox
 https://techopital.com#@##cookieConsentContainer
 https://indebuurt.nl,tweakers.net#@##cookieContainer
 https://tiger.nl#@##cookieMessage
-https://arbeiterkammer.at,brieftip.pl,britishairways.com,fotofairsicherung.de,kaliber.pl,naszwybir.pl,onsbrabantnet.nl,tropicana.fr,woolworth.de#@##cookieModal
+https://arbeiterkammer.at,brieftip.pl,britishairways.com,epolisbari.com,fotofairsicherung.de,kaliber.pl,naszwybir.pl,onsbrabantnet.nl,tropicana.fr,woolworth.de#@##cookieModal
 https://dhbbank.nl#@##cookieModalCenter
 https://krefting.de#@##cookieNote
 https://tweakers.net#@##cookieOverlay
@@ -13017,6 +13028,7 @@ https://krone.at#@##krn-privacy-center
 https://bosch-mobility-solutions.com#@##m-cookie-overlay
 https://17track.net#@##modal-gdpr
 https://thesocialmedwork.com#@##notice-cookie-block
+https://crfashionbook.com#@##onetrust-consent-sdk
 https://api.newsguardtech.com,rockpapershotgun.com#@##optanon
 https://theverge.com#@##privacy-consent
 https://readthedocs.io,sportdiver.com#@##privacy-policy
@@ -13070,7 +13082,7 @@ https://bbcstudios.com,fotopuzzle.de,hearst.co.uk#@#.cookie-policy
 https://fotopuzzle.de#@#.cookie-policy-wrapper
 https://60millions-mag.com#@#.cookie-popup
 https://lot.com#@#.cookie-promo
-https://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@#.cookie-text
+https://epolisbari.com,lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@#.cookie-text
 https://proglib.io#@#.cookie-visible
 https://538.nl,pieseauto.ro,saxion.edu,unileverfoodsolutions.com.br,unileverfoodsolutions.com.tr,unileverfoodsolutions.it,xmradio.nl,xs4all.nl#@#.cookie-wall
 https://ben.nl,bynco.com#@#.cookie-wall-container
@@ -13285,6 +13297,7 @@ http://tapiture.com###annoy-non-users
 http://booksnreview.com,classicalite.com,counselheal.com,designntrend.com,enstarz.com,franchiseherald.com,gamenguide.com,hngn.com,kdramastars.com,kpopstarz.com,latinopost.com,latinospost.com,latinpost.com,mobilenapps.com,musictimes.com,natureworldnews.com,parentherald.com,scienceworldreport.com,techtimes.com,universityherald.com,vcpost.com,yibada.com###anotherBox
 http://aol.co.uk###aol-snf-wrapper
 http://indianexpress.com###append_breaking_box
+http://indianexpress.com###append_cubebox_box
 http://stitcher.com###appnag
 http://huffingtonpost.co.uk,huffingtonpost.com,moviefone.com,news.moviefone.ca###apps-feeds
 http://wired.com###around-the-web
@@ -13416,6 +13429,7 @@ http://boston.com###blogtools
 http://cellularfactory.com###blue_popup
 http://uberhumor.com###bluenext
 http://uberhumor.com###blueprevious
+http://bing.com###bnp_hfly
 http://bing.com###bnp_rtc
 http://bing.com###bnp_ttc_div
 http://ptf.com###bnr
@@ -14897,7 +14911,6 @@ http://userbenchmark.com##.be-ls
 http://userbenchmark.com##.be-mr
 http://howtogeek.com##.below-post-features
 http://maketecheasier.com##.below_content
-http://theinquirer.net##.below_top_search
 http://economist.com##.beta-bar
 http://itproportal.com##.beta-overlay-background
 http://itproportal.com##.beta-overlay-popup
@@ -14939,6 +14952,8 @@ http://pcworld.com##.blxPbizdevinternalprimary
 http://littlethings.com##.bmbutton
 http://celebuzz.com##.bmsbw-followCb
 http://cbsnews.com##.bnSharePrompt
+http://bing.com##.bnp_fly_hp
+http://bing.com##.bnp_hfly_actionbar
 http://tripwire.com##.bnr-genekimsocial
 http://businessoffashion.com##.bof-professional-banner
 http://freemake.com,scan.co.uk##.bookmark
@@ -15072,7 +15087,6 @@ http://wateronline.com##.content-bribe-with-image
 http://hothardware.com##.content-delimeter > .header
 http://bbcgoodfood.com##.content-promo
 http://time.com##.content-tools
-http://theinquirer.net##.contentNavi_onemore
 http://dlife.com##.contitle_content_actions_div
 http://huffingtonpost.com##.contributor-disclaimer
 http://pcmag.com##.control-side
@@ -15920,7 +15934,6 @@ http://discovermagazine.com##.rightColumn
 http://cbsnews.com##.rightRailImagePromoModule
 http://dailywire.com##.right[style]
 http://huhmagazine.co.uk##.right_arrow
-http://theinquirer.net##.right_common_block_heading + .right_common_block_content
 http://nbcnews.com##.right_ear_wrap
 http://shoutfactory.com##.right_last
 http://streetinsider.com##.right_pod.premium_signup
@@ -16084,6 +16097,7 @@ http://engadget.com,indiatvnews.com,thehollywoodgossip.com##.sticky
 http://ibtimes.com,idigitaltimes.com##.sticky-bar
 http://airspacemag.com,smithsonianmag.com##.sticky-block
 http://laphamsquarterly.org##.sticky-issue
+http://space.com##.sticky-player-background
 http://news.com.au##.sticky-show
 http://oberlo.com##.sticky-subscribe-banner
 http://aeon.co##.sticky-wrapper
@@ -18841,7 +18855,7 @@ http://xbiz.com##.tool-list
 http://audioprointernational.com,chicagobusiness.com,crainsnewyork.com,mcvuk.com,pcr-online.biz##.toolbar
 http://techpp.com##.toolbar-fixed
 http://abc.net.au,autofocus.ca,cp24.com,progressive.org##.tools
-http://businessgreen.com,risk.net,theinquirer.net,v3.co.uk,waterstechnology.com##.tools-container
+http://businessgreen.com,risk.net,v3.co.uk,waterstechnology.com##.tools-container
 http://eenews.net##.tools_wrapper
 http://thehackernews.com##.top-follow
 http://wfc.tv##.top-item__soc
@@ -19735,6 +19749,7 @@ http://3dslash.net##.floatPopup
 http://maltatoday.com.mt##.floating-bar
 http://novantas.com##.foobar-container
 http://doubleviking.com,fallentitans.com##.footer
+http://swipe.io##.footer-notice
 http://hackerone.com##.footer-popup
 http://whimn.com.au##.footer-statements
 http://palmbeachpost.com##.footer-wrapper
@@ -20185,6 +20200,7 @@ http://antennebrandenburg.de,conleys.de,israelheute.com,radioberlin.de,vodafone.
 http://ilninth.wordpress.com###MsgContainer
 http://maisonapart.com###accept-top
 http://gentside.com###actionreceiver
+http://algerie-eco.com###ae-fbp
 http://ladepeche.fr###aside-right
 http://lemonde.fr###bandeau_bas
 http://canalplus.fr###bandeau_fb
@@ -20315,7 +20331,6 @@ http://gabonactu.com##.toup
 http://larousse.fr##.ui-dialog
 http://larousse.fr##.ui-widget-overlay
 http://meteomedia.com##.woahbar
-http://algerie-eco.com#ae-fbp
 http://challenges.fr,nouvelobs.com,sciencesetavenir.fr##div[style="text-align:left;width:550px;background-color:#feefaa;padding:10px;font:12px Arial;position:absolute;z-index:50;undefined"]
 http://buzger.com##div[style="z-index:10000000; position:fixed; padding:10px; top:0px; width:100%; background-color:#fff; color:#888; "]
 http://hsbc.fr##div[style^="display: block; margin: 20px 0px 0px 0px;"]
@@ -21943,6 +21958,7 @@ http://118000.fr,adrea.fr,bpost.be,citus-kalix.fr,clique.tv,communauto.com,compa
 http://creavea.com##.creavea-banner-cookie-consent
 http://tv5unis.ca##.css-wydzoi.e1v9p9hw0
 http://lexus.fr##.disclaimer
+http://doctolib.fr##.dl-drawer
 http://molotov.tv##.eRnhI
 http://weclap.fr##.front_web_app_main_menu_front-web-app-main-menu-component_front_show_cookie_container
 http://woodbrass.com##.hidden-sm.hidden-md.row
@@ -22311,6 +22327,7 @@ http://cinquantamila.corriere.it,cinquantamila.it###privacy_advisor
 http://samaritansonlus.org###sB_injected
 http://malpensabusiness.it###showMessage
 http://sky.it###soundbox_cookie
+http://amazon.it###sp-cc
 http://digimobil.it###sticky-popup
 http://beniculturali.it,nlite.it,sigmastudio.it###system-message
 http://sia.eu###toast
@@ -23415,6 +23432,7 @@ http://popsugar.co.uk#@##_evidon-barrier-wrapper
 http://etonline.com,popsugar.co.uk,popsugar.com,popsugar.com.au#@##_evidon_banner
 http://aboutcookies.org#@##aboutcookies
 http://franziskaner-weissbier.de,xmradio.nl#@##accept-cookies
+http://epolisbari.com#@##accept_cookie
 http://aixfoam.com,aixfoam.de,aixfoam.dk,aixfoam.fi,aixfoam.fr,aixfoam.nl,aixfoam.se#@##cc-notification
 http://aixfoam.com,aixfoam.de,aixfoam.dk,aixfoam.fi,aixfoam.fr,aixfoam.nl,aixfoam.se#@##cc-notification-wrapper
 http://bing.com#@##cc_container
@@ -23442,7 +23460,7 @@ http://ad.win.nl#@##cookieConsentBox
 http://techopital.com#@##cookieConsentContainer
 http://indebuurt.nl,tweakers.net#@##cookieContainer
 http://tiger.nl#@##cookieMessage
-http://arbeiterkammer.at,brieftip.pl,britishairways.com,fotofairsicherung.de,kaliber.pl,naszwybir.pl,onsbrabantnet.nl,tropicana.fr,woolworth.de#@##cookieModal
+http://arbeiterkammer.at,brieftip.pl,britishairways.com,epolisbari.com,fotofairsicherung.de,kaliber.pl,naszwybir.pl,onsbrabantnet.nl,tropicana.fr,woolworth.de#@##cookieModal
 http://dhbbank.nl#@##cookieModalCenter
 http://krefting.de#@##cookieNote
 http://tweakers.net#@##cookieOverlay
@@ -23472,6 +23490,7 @@ http://krone.at#@##krn-privacy-center
 http://bosch-mobility-solutions.com#@##m-cookie-overlay
 http://17track.net#@##modal-gdpr
 http://thesocialmedwork.com#@##notice-cookie-block
+http://crfashionbook.com#@##onetrust-consent-sdk
 http://api.newsguardtech.com,rockpapershotgun.com#@##optanon
 http://theverge.com#@##privacy-consent
 http://readthedocs.io,sportdiver.com#@##privacy-policy
@@ -23525,7 +23544,7 @@ http://bbcstudios.com,fotopuzzle.de,hearst.co.uk#@#.cookie-policy
 http://fotopuzzle.de#@#.cookie-policy-wrapper
 http://60millions-mag.com#@#.cookie-popup
 http://lot.com#@#.cookie-promo
-http://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@#.cookie-text
+http://epolisbari.com,lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@#.cookie-text
 http://proglib.io#@#.cookie-visible
 http://538.nl,pieseauto.ro,saxion.edu,unileverfoodsolutions.com.br,unileverfoodsolutions.com.tr,unileverfoodsolutions.it,xmradio.nl,xs4all.nl#@#.cookie-wall
 http://ben.nl,bynco.com#@#.cookie-wall-container
