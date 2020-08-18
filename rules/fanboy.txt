@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QfDHLKluqsI6YhRHujgQUQ
-! Version: 202008162351
+! Checksum: hQPtcnLDHHtDSq4V9twumA
+! Version: 202008172351
 ! Title: Fanboy's Annoyance List
-! Last modified: 16 Aug 2020 23:51 UTC
+! Last modified: 17 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -388,6 +388,7 @@
 ||https://zoomanalytics.co^$third-party
 ||https://zotabox.com^*/widgets.js$third-party
 ||https://appspot.com/sounds/chatmsg.mp3
+||https://helpscout.net/static/ui-sounds/$media
 ||https://taboola.com^$third-party
 ||https://taboolasyndication.com^$third-party
 ||https://amplify.outbrain.com^$third-party
@@ -1717,6 +1718,7 @@
 ||http://zoomanalytics.co^$third-party
 ||http://zotabox.com^*/widgets.js$third-party
 ||http://appspot.com/sounds/chatmsg.mp3
+||http://helpscout.net/static/ui-sounds/$media
 ||http://taboola.com^$third-party
 ||http://taboolasyndication.com^$third-party
 ||http://amplify.outbrain.com^$third-party
@@ -9088,6 +9090,7 @@ https://hidive.com###siteMsgSlideUpBG
 https://bluearan.co.uk###slider
 https://bell-labs.com,bigsocietycapital.com,cartoonnetwork.co.uk,eif.co.uk,integralmemory.com,juce.com,meethue.com,middleeasteye.net,parkinsons.org.uk,rmg.co.uk,thalesgroup.com,topuniversities.com,ucas.com###sliding-popup
 https://pressreader.com###snackbar-container
+https://sonic.com###snc-data-disclosure
 https://wasserklinik.com###snppopup-welcome
 https://hotukdeals.com###softMessages-list
 https://eumostwanted.eu###sortingPreference
@@ -19549,6 +19552,7 @@ http://hidive.com###siteMsgSlideUpBG
 http://bluearan.co.uk###slider
 http://bell-labs.com,bigsocietycapital.com,cartoonnetwork.co.uk,eif.co.uk,integralmemory.com,juce.com,meethue.com,middleeasteye.net,parkinsons.org.uk,rmg.co.uk,thalesgroup.com,topuniversities.com,ucas.com###sliding-popup
 http://pressreader.com###snackbar-container
+http://sonic.com###snc-data-disclosure
 http://wasserklinik.com###snppopup-welcome
 http://hotukdeals.com###softMessages-list
 http://eumostwanted.eu###sortingPreference
