@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hQPtcnLDHHtDSq4V9twumA
-! Version: 202008172351
+! Checksum: 9WWlvxvvZ3JvLU2Dx+Fsew
+! Version: 202008182351
 ! Title: Fanboy's Annoyance List
-! Last modified: 17 Aug 2020 23:51 UTC
+! Last modified: 18 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11310,6 +11310,7 @@ https://bueromarkt-ag.de##.cCText
 https://infiniti.at,infiniti.ch,infiniti.de##.c_128
 https://syfit.de##.c_cont
 https://herrenausstatter.de##.ce-container
+https://aeesuisse.ch##.ce_rsce_oneo_fixed_note
 https://tobias-bauer.de##.ce_rsce_swissy_fixed_note
 https://oper-wuppertal.de##.ci-container
 https://massivum.de##.cn_box
@@ -12958,7 +12959,9 @@ https://vk.com,vkontakte.ru#@#a[href^="https://vk.com/share.php?"]
 https://linkedin.com#@#a[href^="https://www.linkedin.com/cws/share?"]
 https://reddit.com#@#a[href^="https://www.reddit.com/submit?"]
 https://stumbleupon.com#@#a[href^="https://www.stumbleupon.com/submit?"]
+https://a2zapk.com#@#a[title="Instagram"]
 https://pinterest.com#@#a[title="Pin it!"]
+https://a2zapk.com#@#a[title="Snapchat"]
 https://flattr.com,tumblr.com#@#a[title="Tumblr"]
 https://livetv210.me#@#a[title="YouTube"]
 https://onlineradiobox.com#@#a[title="ВКонтакте"]
@@ -21773,6 +21776,7 @@ http://bueromarkt-ag.de##.cCText
 http://infiniti.at,infiniti.ch,infiniti.de##.c_128
 http://syfit.de##.c_cont
 http://herrenausstatter.de##.ce-container
+http://aeesuisse.ch##.ce_rsce_oneo_fixed_note
 http://tobias-bauer.de##.ce_rsce_swissy_fixed_note
 http://oper-wuppertal.de##.ci-container
 http://massivum.de##.cn_box
@@ -23421,7 +23425,9 @@ http://vk.com,vkontakte.ru#@#a[href^="https://vk.com/share.php?"]
 http://linkedin.com#@#a[href^="https://www.linkedin.com/cws/share?"]
 http://reddit.com#@#a[href^="https://www.reddit.com/submit?"]
 http://stumbleupon.com#@#a[href^="https://www.stumbleupon.com/submit?"]
+http://a2zapk.com#@#a[title="Instagram"]
 http://pinterest.com#@#a[title="Pin it!"]
+http://a2zapk.com#@#a[title="Snapchat"]
 http://flattr.com,tumblr.com#@#a[title="Tumblr"]
 http://livetv210.me#@#a[title="YouTube"]
 http://onlineradiobox.com#@#a[title="ВКонтакте"]

@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: n5Vpzz5nL3WbvwKUGcee+A
-! Version: 202008180013
+! Checksum: P12YqCNSRXZbeyAGC4+JmA
+! Version: 202008190013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4337,6 +4337,7 @@
 ||https://wm114.cn/0images/hlbxd3.jpg
 ||https://wmzhe.com/pics/ae/d3/
 ||https://wn789.com/wp-content/uploads/*/SugarHosts
+||https://wnacg.org/1sdfdc1/
 ||https://wnacg.org/img/500_60
 ||https://wnacg.org/img/wap
 ||https://wo318.com/sjdy/
@@ -4780,7 +4781,6 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
-||https://wnacg.org/1sdfdc1/
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -6382,6 +6382,7 @@
 ||http://gotonav.com^$third-party
 ||http://gotoniubiurl.pw^
 ||http://gouhei.top^
+||http://gouweida.cn^
 ||http://gouzhibao.cn^
 ||http://govgift.com^
 ||http://gowin01.com^
@@ -12072,6 +12073,7 @@
 ||http://wmcdn.net^$domain=liyuans.com
 ||http://wmzhe.com/pics/ae/d3/
 ||http://wn789.com/wp-content/uploads/*/SugarHosts
+||http://wnacg.org/1sdfdc1/
 ||http://wnacg.org/img/500_60
 ||http://wnacg.org/img/wap
 ||http://wo318.com/sjdy/
@@ -12548,7 +12550,6 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
-||http://wnacg.org/1sdfdc1/
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a25.com|xin99r3.com|xin99r4.com
 ||http://sinaimg.cn^$domain=99a25.com|xin99r3.com|xin99r4.com
@@ -13360,7 +13361,6 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://xiandafood.cn^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13387,6 +13387,7 @@
 ||http://0713bzksl.xyz^
 ||http://0727vjdl.xyz^
 ||http://0755man.cn^
+||http://0817zfbj.xyz^
 ||http://0851ok.com^
 ||http://0923csfsteibv12.xyz^
 ||http://0fwg.cn^
@@ -14209,6 +14210,7 @@
 ||http://jcwwxn.com^
 ||http://jdf494.cn^
 ||http://jdflower.cn^
+||http://jdgcjx.cn^
 ||http://jdgsgl.com^
 ||http://jdzlxtc.com^
 ||http://jh76fy.xyz^
@@ -14522,6 +14524,7 @@
 ||http://onlyshow.top^
 ||http://onsiterope.com^
 ||http://opengam.com^
+||http://opyyy.com^
 ||http://orlandomp.com^
 ||http://osaws.com^
 ||http://osidf.xyz^
@@ -14695,6 +14698,7 @@
 ||http://sdgdtz.cn^
 ||http://sdkdm.com^
 ||http://sdsqyyc.com^
+||http://sdtocv.cn^
 ||http://sdytsh.com^
 ||http://seawayz.com.cn^
 ||http://sec-cloud.cn^
@@ -15008,6 +15012,7 @@
 ||http://xhct66.com^
 ||http://xhera.cn^
 ||http://xiakelea.com^
+||http://xiandafood.cn^
 ||http://xiangchim0.com^
 ||http://xiangwangdesh.com^
 ||http://xiansenmeng.cn^
