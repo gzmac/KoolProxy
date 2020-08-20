@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9WWlvxvvZ3JvLU2Dx+Fsew
-! Version: 202008182351
+! Checksum: v+E87IKnvNtFewmYh+LoKQ
+! Version: 202008192351
 ! Title: Fanboy's Annoyance List
-! Last modified: 18 Aug 2020 23:51 UTC
+! Last modified: 19 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -103,6 +103,7 @@
 ||https://dukecms.com/deals2/$third-party
 ||https://eff.org/bloggers/badges/$third-party
 ||https://embed.e2ma.net^$third-party
+||https://emojics.com^$third-party
 ||https://emsecure.net^$subdocument,third-party
 ||https://engage.im^$third-party
 ||https://enquoted.com^$third-party
@@ -424,6 +425,7 @@
 ||https://push-notifications.top^$third-party
 ||https://push-pro.net^$third-party
 ||https://push.daksham.in^$third-party
+||https://push.delivery^$third-party
 ||https://push.rent^$third-party
 ||https://push.rollout.io^$third-party
 ||https://push.world^$third-party
@@ -468,6 +470,7 @@
 ||https://topswp.com^$third-party
 ||https://ucfeed.ru^$third-party
 ||https://webpush.jp^$third-party
+||https://webpushr.com^$third-party
 ||https://webpushs.com^$third-party
 ||https://whitepush.biz^$third-party
 ||https://worldpush.co^$third-party
@@ -1430,6 +1433,7 @@
 ||http://dukecms.com/deals2/$third-party
 ||http://eff.org/bloggers/badges/$third-party
 ||http://embed.e2ma.net^$third-party
+||http://emojics.com^$third-party
 ||http://emsecure.net^$subdocument,third-party
 ||http://engage.im^$third-party
 ||http://enquoted.com^$third-party
@@ -1756,6 +1760,7 @@
 ||http://push-notifications.top^$third-party
 ||http://push-pro.net^$third-party
 ||http://push.daksham.in^$third-party
+||http://push.delivery^$third-party
 ||http://push.esputnik.com^
 ||http://push.rent^$third-party
 ||http://push.rollout.io^$third-party
@@ -1801,6 +1806,7 @@
 ||http://topswp.com^$third-party
 ||http://ucfeed.ru^$third-party
 ||http://webpush.jp^$third-party
+||http://webpushr.com^$third-party
 ||http://webpushs.com^$third-party
 ||http://whitepush.biz^$third-party
 ||http://worldpush.co^$third-party
@@ -2453,6 +2459,7 @@
 ||http://emerse.com/consent.js
 ||http://freedoflondon.com/Styles/dialog-popup/jquery-ui.js
 ||http://freetls.fastly.net/main/sd-cmp-$domain=spanishdict.com
+||http://fundingchoicesmessages.google.com^$domain=telegram.hr
 ||http://gdpr.internetbrands.com^
 ||http://gdpr.prisa.com^
 ||http://government-and-constitution.org/js/consent.js
@@ -8920,6 +8927,7 @@ https://tinder.com###content > span > .App > div[class*="Start"]
 https://wotinfo.net###coo
 https://alcoholics-anonymous.org.uk,cryps.info###cook
 https://add0n.com,aflite.co.uk,aon.com,atom42.co.uk,bakersmall.co.uk,bbvonline.net,betradar.com,bookingsouthtyrol.com,boscolohotels.com,boxnation.com,e-doggy.com,eqavet.eu,essentraextrusion.eu,flexerasoftware.com,fremantlemedia.com,gulfstream.com,iadvize.com,keyboardco.com,kicc.org.uk,lonewolfonline.net,nspcc.org.uk,oilplusltd.com,onenessscotland.org,pentagon-group.co.uk,prestashop.com,pretix.eu,priorygroup.com,rodacciai.fr,sainsburysenergy.com,simmons-simmons.com,stiripesurse.ro,technutty.co.uk,thebmc.co.uk,toomeymotorgroup.co.uk,tutsandtips.com,tvcorner.com,unsee.cc,wheatley-group.com,zbmath.org###cookie
+https://0calc.com###cookieconsentmodal
 https://anpost.ie,any.run,aquariumforums.co.uk,arag.com,atleticodemadrid.com,ayraviation.com,bl.uk,canadiansolar.com,celulares.com,cifas.org.uk,coinsofhope.eu,educalingo.com,eitb.eus,emrf.eu,emunewz.net,eporner.com,feyenoord.com,film-news.co.uk,forbiddenplanet.co.uk,fulltilt.com,globalpetrolprices.com,gpstraining.co.uk,harper-adams.ac.uk,history.bnpparibas,homecinemachoice.com,humbersideairport.com,ibeesoft.com,inmobi.com,irishjobs.ie,iso-chemie.eu,izikart.co.uk,jomast.co.uk,lloydsbankinggroup.com,mareespeche.com,metbiocat.eu,noisli.com,panfurware.com,phonearena.com,picload.org,playclassic.games,pokernews.com,police.uk,premiumcredit.co.uk,private.com,proteum.co.uk,puromarketing.com,radiocaroline.co.uk,rdnester.eu,rotterdam.info,scl.org,studentski.net,tablademareas.com,tellows-au.com,tellows-fi.com,tellows-ng.com,tellows-tr.com,tellows.asia,tellows.at,tellows.be,tellows.co,tellows.co.nz,tellows.co.uk,tellows.co.za,tellows.com,tellows.com.br,tellows.cz,tellows.de,tellows.dk,tellows.es,tellows.fr,tellows.gr,tellows.hu,tellows.in,tellows.it,tellows.jp,tellows.mx,tellows.net,tellows.nl,tellows.org,tellows.pl,tellows.pt,tellows.ru,tellows.se,tellows.tw,the-tls.co.uk,theatre-news.com,tsb.co.uk,wsws.org,xnostars.com###cookies
 https://patience-is-a-virtue.org###copy > p
 https://dsm.com,ortograf.ws,tesco.ie###cp
@@ -10055,7 +10063,7 @@ https://cronacheancona.it###intestazione
 https://citywire.it###jsRegisterAlertBanner
 https://italiaoggi.it###lig_movingup2it_smartbox
 https://lavocedelnordest.eu###mb-scrollup
-https://agenziaimpress.it,davidemaggio.it,francescocosta.net,ilfarosulmondo.it,meteonetwork.it,moked.it,money.it,techzilla.it,tvsvizzera.it,vvox.it###mc_embed_signup
+https://agenziaimpress.it,davidemaggio.it,francescocosta.net,ilfarosulmondo.it,meteonetwork.it,moked.it,money.it,playstationbit.com,techzilla.it,tvsvizzera.it,vvox.it###mc_embed_signup
 https://decathlon.it###messagetop
 https://milanofinanza.it###milanofinanza_web_smartbox_article
 https://automoto.it,moto.it###mit-bottombar
@@ -10918,6 +10926,7 @@ https://advicegroup.it##.google
 https://webnews.it##.gplus
 https://ilbianconero.com##.header-banner-menu
 https://epochtimes.it,infotelematico.com,regione.abruzzo.it,stroilioro.com,transfermarkt.it##.header-social
+https://fidelityhouse.eu##.header_facebook
 https://nolostand.it##.home-social
 https://tuttosport.com##.ico-shared
 https://mymovies.it##.ico_social_schedine
@@ -11212,6 +11221,7 @@ https://kunstnet.de,notebookinfo.de,zitatezumnachdenken.com###consent
 https://renault-koenig.de###cook
 https://bookingsuedtirol.com,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,lvr.de,ruhrbarone.de,shop-apotheke.com###cookie
 https://bambergfacts.de###cookiebar-007
+https://0rechner.de###cookieconsentmodal
 https://abload.de,autoampel.de,cewe-print.de,dynamo-fanshop.de,elegant.be,firma5.com,livetrakway.de,telspy.org,tonies.de,tti.at,ufpro.de,uni-muenster.de###cookies
 https://start-nrw.de###cpopup
 https://ruegenwalder.de###csdialogbd
@@ -12432,6 +12442,7 @@ https://ludopedia.com.br#@#.follow-text
 https://toutelanutrition.com#@#.footer-newsletter
 https://designdevostransports.fr#@#.gform_widget
 https://ixbt.com#@#.glyphicon-arrow-up
+https://stackcommerce.com#@#.grecaptcha-badge
 https://foreignaffairs.com,novojornal.co.ao,upim.com#@#.newsletter-modal
 https://billabong.com,strikerconcepts.com,tactxflashlights.com,urbanedcsupply.com#@#.newsletter-popup
 https://bidorbuy.co.za#@#.newsletterContainer
@@ -12850,7 +12861,7 @@ https://chrisblattman.com#@#.social-post
 https://infox.ru#@#.social-section
 https://daenischesbettenlager.at,daenischesbettenlager.de,howtogeek.com,jysk-ks.com,jysk.al,jysk.am,jysk.ba,jysk.be,jysk.bg,jysk.by,jysk.ca,jysk.ch,jysk.co.id,jysk.co.uk,jysk.com,jysk.com.cy,jysk.com.kw,jysk.com.mt,jysk.cz,jysk.dk,jysk.ee,jysk.es,jysk.fi,jysk.fr,jysk.ge,jysk.gr,jysk.hr,jysk.hu,jysk.ie,jysk.it,jysk.kz,jysk.lt,jysk.lv,jysk.md,jysk.me,jysk.mk,jysk.nl,jysk.no,jysk.pl,jysk.pt,jysk.ro,jysk.rs,jysk.se,jysk.si,jysk.sk,jysk.ua,jysk.vn,jyskthailand.com,pisiffik.gl,rumfatalagerinn.is,skemman.fo#@#.social-share
 https://cuisineactuelle.fr,femmeactuelle.fr,matvpratique.com#@#.social-share-count
-https://last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,songkick.com#@#.social-sharing
+https://cosmo.ru,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,songkick.com#@#.social-sharing
 https://golem.de#@#.social-sidebar
 https://domain.com.au#@#.social-stick
 https://tv-kino.net#@#.social-tab
@@ -19385,6 +19396,7 @@ http://tinder.com###content > span > .App > div[class*="Start"]
 http://wotinfo.net###coo
 http://alcoholics-anonymous.org.uk,cryps.info###cook
 http://add0n.com,aflite.co.uk,aon.com,atom42.co.uk,bakersmall.co.uk,bbvonline.net,betradar.com,bookingsouthtyrol.com,boscolohotels.com,boxnation.com,e-doggy.com,eqavet.eu,essentraextrusion.eu,flexerasoftware.com,fremantlemedia.com,gulfstream.com,iadvize.com,keyboardco.com,kicc.org.uk,lonewolfonline.net,nspcc.org.uk,oilplusltd.com,onenessscotland.org,pentagon-group.co.uk,prestashop.com,pretix.eu,priorygroup.com,rodacciai.fr,sainsburysenergy.com,simmons-simmons.com,stiripesurse.ro,technutty.co.uk,thebmc.co.uk,toomeymotorgroup.co.uk,tutsandtips.com,tvcorner.com,unsee.cc,wheatley-group.com,zbmath.org###cookie
+http://0calc.com###cookieconsentmodal
 http://anpost.ie,any.run,aquariumforums.co.uk,arag.com,atleticodemadrid.com,ayraviation.com,bl.uk,canadiansolar.com,celulares.com,cifas.org.uk,coinsofhope.eu,educalingo.com,eitb.eus,emrf.eu,emunewz.net,eporner.com,feyenoord.com,film-news.co.uk,forbiddenplanet.co.uk,fulltilt.com,globalpetrolprices.com,gpstraining.co.uk,harper-adams.ac.uk,history.bnpparibas,homecinemachoice.com,humbersideairport.com,ibeesoft.com,inmobi.com,irishjobs.ie,iso-chemie.eu,izikart.co.uk,jomast.co.uk,lloydsbankinggroup.com,mareespeche.com,metbiocat.eu,noisli.com,panfurware.com,phonearena.com,picload.org,playclassic.games,pokernews.com,police.uk,premiumcredit.co.uk,private.com,proteum.co.uk,puromarketing.com,radiocaroline.co.uk,rdnester.eu,rotterdam.info,scl.org,studentski.net,tablademareas.com,tellows-au.com,tellows-fi.com,tellows-ng.com,tellows-tr.com,tellows.asia,tellows.at,tellows.be,tellows.co,tellows.co.nz,tellows.co.uk,tellows.co.za,tellows.com,tellows.com.br,tellows.cz,tellows.de,tellows.dk,tellows.es,tellows.fr,tellows.gr,tellows.hu,tellows.in,tellows.it,tellows.jp,tellows.mx,tellows.net,tellows.nl,tellows.org,tellows.pl,tellows.pt,tellows.ru,tellows.se,tellows.tw,the-tls.co.uk,theatre-news.com,tsb.co.uk,wsws.org,xnostars.com###cookies
 http://patience-is-a-virtue.org###copy > p
 http://dsm.com,ortograf.ws,tesco.ie###cp
@@ -20520,7 +20532,7 @@ http://cronacheancona.it###intestazione
 http://citywire.it###jsRegisterAlertBanner
 http://italiaoggi.it###lig_movingup2it_smartbox
 http://lavocedelnordest.eu###mb-scrollup
-http://agenziaimpress.it,davidemaggio.it,francescocosta.net,ilfarosulmondo.it,meteonetwork.it,moked.it,money.it,techzilla.it,tvsvizzera.it,vvox.it###mc_embed_signup
+http://agenziaimpress.it,davidemaggio.it,francescocosta.net,ilfarosulmondo.it,meteonetwork.it,moked.it,money.it,playstationbit.com,techzilla.it,tvsvizzera.it,vvox.it###mc_embed_signup
 http://decathlon.it###messagetop
 http://milanofinanza.it###milanofinanza_web_smartbox_article
 http://automoto.it,moto.it###mit-bottombar
@@ -21383,6 +21395,7 @@ http://advicegroup.it##.google
 http://webnews.it##.gplus
 http://ilbianconero.com##.header-banner-menu
 http://epochtimes.it,infotelematico.com,regione.abruzzo.it,stroilioro.com,transfermarkt.it##.header-social
+http://fidelityhouse.eu##.header_facebook
 http://nolostand.it##.home-social
 http://tuttosport.com##.ico-shared
 http://mymovies.it##.ico_social_schedine
@@ -21678,6 +21691,7 @@ http://kunstnet.de,notebookinfo.de,zitatezumnachdenken.com###consent
 http://renault-koenig.de###cook
 http://bookingsuedtirol.com,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,lvr.de,ruhrbarone.de,shop-apotheke.com###cookie
 http://bambergfacts.de###cookiebar-007
+http://0rechner.de###cookieconsentmodal
 http://abload.de,autoampel.de,cewe-print.de,dynamo-fanshop.de,elegant.be,firma5.com,livetrakway.de,telspy.org,tonies.de,tti.at,ufpro.de,uni-muenster.de###cookies
 http://start-nrw.de###cpopup
 http://ruegenwalder.de###csdialogbd
@@ -22898,6 +22912,7 @@ http://ludopedia.com.br#@#.follow-text
 http://toutelanutrition.com#@#.footer-newsletter
 http://designdevostransports.fr#@#.gform_widget
 http://ixbt.com#@#.glyphicon-arrow-up
+http://stackcommerce.com#@#.grecaptcha-badge
 http://foreignaffairs.com,novojornal.co.ao,upim.com#@#.newsletter-modal
 http://billabong.com,strikerconcepts.com,tactxflashlights.com,urbanedcsupply.com#@#.newsletter-popup
 http://bidorbuy.co.za#@#.newsletterContainer
@@ -23316,7 +23331,7 @@ http://chrisblattman.com#@#.social-post
 http://infox.ru#@#.social-section
 http://daenischesbettenlager.at,daenischesbettenlager.de,howtogeek.com,jysk-ks.com,jysk.al,jysk.am,jysk.ba,jysk.be,jysk.bg,jysk.by,jysk.ca,jysk.ch,jysk.co.id,jysk.co.uk,jysk.com,jysk.com.cy,jysk.com.kw,jysk.com.mt,jysk.cz,jysk.dk,jysk.ee,jysk.es,jysk.fi,jysk.fr,jysk.ge,jysk.gr,jysk.hr,jysk.hu,jysk.ie,jysk.it,jysk.kz,jysk.lt,jysk.lv,jysk.md,jysk.me,jysk.mk,jysk.nl,jysk.no,jysk.pl,jysk.pt,jysk.ro,jysk.rs,jysk.se,jysk.si,jysk.sk,jysk.ua,jysk.vn,jyskthailand.com,pisiffik.gl,rumfatalagerinn.is,skemman.fo#@#.social-share
 http://cuisineactuelle.fr,femmeactuelle.fr,matvpratique.com#@#.social-share-count
-http://last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,songkick.com#@#.social-sharing
+http://cosmo.ru,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,songkick.com#@#.social-sharing
 http://golem.de#@#.social-sidebar
 http://domain.com.au#@#.social-stick
 http://tv-kino.net#@#.social-tab
