@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: v+E87IKnvNtFewmYh+LoKQ
-! Version: 202008192351
+! Checksum: 2dkP2KPqXGWcrFqoXkJfrA
+! Version: 202008202351
 ! Title: Fanboy's Annoyance List
-! Last modified: 19 Aug 2020 23:51 UTC
+! Last modified: 20 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6682,6 +6682,7 @@ https://inverse.com##.modc.nws-ov
 https://biznews.com##.module-cta
 https://ibtimes.com##.morning-insights
 https://rare.us##.move-social__inner
+https://cybersecurityventures.com##.mpc-callout
 https://motorsport.com##.ms-footer_top
 https://ft.com##.n-sliding-popup
 https://nature.com##.nature-briefing
@@ -6931,6 +6932,7 @@ https://fora.ie##.subscriptions
 https://nocamels.com##.sumome-scrollbox-popup
 https://idiva.com##.sunscribe-cont
 https://thejakartapost.com##.suscribe
+https://syfy.com##.syfy-sailthru-blog-post-subscribe
 https://propublica.org##.syndicated-modal
 https://thenation.com##.takeaction
 https://10clouds.com##.tenc-blog-post__progress
@@ -10845,10 +10847,10 @@ https://comune.torino.it###condividi
 https://ilmeteo.it###condividi_news
 https://italiafruit.net###ctl00_ContentPlaceHolder1_UpdatePanel2
 https://gds.it###data[style="overflow:hidden; height: 246px; margin:10px 0px;"]
-https://bastabugie.it###facebook
+https://bastabugie.it,tuttocampo.it###facebook
 https://gallorosso.it###flyingMenu
 https://valgardena.it###footerbottomlinks
-https://andriaviva.it,bariviva.it,barlettaviva.it,bisceglieviva.it,bitontoviva.it,canosaviva.it,cerignolaviva.it,coratoviva.it,giovinazzoviva.it,margheritaviva.it,minervinoviva.it,modugnoviva.it,molfettaviva.it,ruvoviva.it,sanferdinandoviva.it,spinazzolaviva.it,terlizziviva.it,traniviva.it,trinitapoliviva.it###header-fanpage
+https://altamuralife.it,andriaviva.it,bariviva.it,barlettaviva.it,bisceglieviva.it,bitontoviva.it,canosaviva.it,cerignolaviva.it,coratoviva.it,giovinazzoviva.it,gravinalife.it,margheritaviva.it,materalife.it,minervinoviva.it,modugnoviva.it,molfettaviva.it,ruvoviva.it,sanferdinandoviva.it,spinazzolaviva.it,terlizziviva.it,traniviva.it,trinitapoliviva.it###header-fanpage
 https://ecodibergamo.it###iconz
 https://assopoker.com###more-less-btn
 https://repubblica.it###oro-action-top
@@ -10906,6 +10908,7 @@ https://madeinbz.info##.fa-twitter
 https://agenziacasaclima.it,ilfoglio.it,startromagna.it,teleticino.ch,tuttomercatoweb.com,webnews.it##.facebook
 https://iphoneitalia.com##.faicosoc
 https://crocebianca.bz.it,gianlucadimarzio.com,leitgamhof.com##.fb
+https://alfredopedulla.com##.fb-banner
 https://mezzicommerciali.it##.fb-menu
 https://theitaliantimes.it##.fco2b
 https://agcom.it##.feedback-social
@@ -10931,6 +10934,7 @@ https://nolostand.it##.home-social
 https://tuttosport.com##.ico-shared
 https://mymovies.it##.ico_social_schedine
 https://24plus.ilsole24ore.com##.icon-send
+https://alfredopedulla.com##.ig-banner
 https://infocert.it##.img-facebook
 https://infocert.it##.img-flipboard
 https://infocert.it##.img-linkedin
@@ -10943,6 +10947,7 @@ https://isaechia.it##.instagram-widget
 https://corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it##.introfollow
 https://ilmeteo.net##.liCompartir
 https://thevision.com##.like
+https://ascolinotizie.it,fermonotizie.info,maceratanotizie.it,marchenotizie.info,pesarourbinonotizie.it,senigallianotizie.it,valmisa.com##.like_box
 https://radiosportiva.com##.link-accessori
 https://showprice.it##.link_invia_amico
 https://liujo.com##.liujo-footer-social-container
@@ -10960,7 +10965,7 @@ https://nationalgeographic.it##.segui-ng
 https://lescienze.it,unica.it##.seguici
 https://askanews.it##.seguici_footer
 https://chiesi.com##.seguicisu
-https://amica.it,areanapoli.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,deejay.it,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,intesasanpaolo.com,isaechia.it,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,listadimaio.com,mediagol.it,megasesso.com,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,trend-online.com,tuttobolognaweb.it,violanews.com##.share
+https://alfredopedulla.com,amica.it,areanapoli.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,deejay.it,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,intesasanpaolo.com,isaechia.it,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,listadimaio.com,mediagol.it,megasesso.com,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,trend-online.com,tuttobolognaweb.it,violanews.com##.share
 https://mediaset.it,meteo.it##.shr
 https://assopoker.com##.singlemeta
 https://finanzaonline.com,teleborsa.it,tempostretto.it##.soc
@@ -10974,6 +10979,7 @@ https://agensir.it##.temporary-skin-adv
 https://nurse24.it##.toolbar
 https://epochtimes.it##.tools
 https://gianlucadimarzio.com,ilpost.it##.tw
+https://alfredopedulla.com##.tw-banner
 https://agenziacasaclima.it,ilfoglio.it,teleticino.ch,tuttomercatoweb.com,webnews.it##.twitter
 https://mymovies.it##.vota-pul-consiglio
 https://agenziacasaclima.it##.youtube
@@ -17150,6 +17156,7 @@ http://inverse.com##.modc.nws-ov
 http://biznews.com##.module-cta
 http://ibtimes.com##.morning-insights
 http://rare.us##.move-social__inner
+http://cybersecurityventures.com##.mpc-callout
 http://motorsport.com##.ms-footer_top
 http://ft.com##.n-sliding-popup
 http://nature.com##.nature-briefing
@@ -17399,6 +17406,7 @@ http://fora.ie##.subscriptions
 http://nocamels.com##.sumome-scrollbox-popup
 http://idiva.com##.sunscribe-cont
 http://thejakartapost.com##.suscribe
+http://syfy.com##.syfy-sailthru-blog-post-subscribe
 http://propublica.org##.syndicated-modal
 http://thenation.com##.takeaction
 http://10clouds.com##.tenc-blog-post__progress
@@ -21314,10 +21322,10 @@ http://comune.torino.it###condividi
 http://ilmeteo.it###condividi_news
 http://italiafruit.net###ctl00_ContentPlaceHolder1_UpdatePanel2
 http://gds.it###data[style="overflow:hidden; height: 246px; margin:10px 0px;"]
-http://bastabugie.it###facebook
+http://bastabugie.it,tuttocampo.it###facebook
 http://gallorosso.it###flyingMenu
 http://valgardena.it###footerbottomlinks
-http://andriaviva.it,bariviva.it,barlettaviva.it,bisceglieviva.it,bitontoviva.it,canosaviva.it,cerignolaviva.it,coratoviva.it,giovinazzoviva.it,margheritaviva.it,minervinoviva.it,modugnoviva.it,molfettaviva.it,ruvoviva.it,sanferdinandoviva.it,spinazzolaviva.it,terlizziviva.it,traniviva.it,trinitapoliviva.it###header-fanpage
+http://altamuralife.it,andriaviva.it,bariviva.it,barlettaviva.it,bisceglieviva.it,bitontoviva.it,canosaviva.it,cerignolaviva.it,coratoviva.it,giovinazzoviva.it,gravinalife.it,margheritaviva.it,materalife.it,minervinoviva.it,modugnoviva.it,molfettaviva.it,ruvoviva.it,sanferdinandoviva.it,spinazzolaviva.it,terlizziviva.it,traniviva.it,trinitapoliviva.it###header-fanpage
 http://ecodibergamo.it###iconz
 http://assopoker.com###more-less-btn
 http://repubblica.it###oro-action-top
@@ -21375,6 +21383,7 @@ http://madeinbz.info##.fa-twitter
 http://agenziacasaclima.it,ilfoglio.it,startromagna.it,teleticino.ch,tuttomercatoweb.com,webnews.it##.facebook
 http://iphoneitalia.com##.faicosoc
 http://crocebianca.bz.it,gianlucadimarzio.com,leitgamhof.com##.fb
+http://alfredopedulla.com##.fb-banner
 http://mezzicommerciali.it##.fb-menu
 http://theitaliantimes.it##.fco2b
 http://agcom.it##.feedback-social
@@ -21400,6 +21409,7 @@ http://nolostand.it##.home-social
 http://tuttosport.com##.ico-shared
 http://mymovies.it##.ico_social_schedine
 http://24plus.ilsole24ore.com##.icon-send
+http://alfredopedulla.com##.ig-banner
 http://infocert.it##.img-facebook
 http://infocert.it##.img-flipboard
 http://infocert.it##.img-linkedin
@@ -21412,6 +21422,7 @@ http://isaechia.it##.instagram-widget
 http://corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it##.introfollow
 http://ilmeteo.net##.liCompartir
 http://thevision.com##.like
+http://ascolinotizie.it,fermonotizie.info,maceratanotizie.it,marchenotizie.info,pesarourbinonotizie.it,senigallianotizie.it,valmisa.com##.like_box
 http://radiosportiva.com##.link-accessori
 http://showprice.it##.link_invia_amico
 http://liujo.com##.liujo-footer-social-container
@@ -21429,7 +21440,7 @@ http://nationalgeographic.it##.segui-ng
 http://lescienze.it,unica.it##.seguici
 http://askanews.it##.seguici_footer
 http://chiesi.com##.seguicisu
-http://amica.it,areanapoli.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,deejay.it,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,intesasanpaolo.com,isaechia.it,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,listadimaio.com,mediagol.it,megasesso.com,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,trend-online.com,tuttobolognaweb.it,violanews.com##.share
+http://alfredopedulla.com,amica.it,areanapoli.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,deejay.it,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,intesasanpaolo.com,isaechia.it,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,listadimaio.com,mediagol.it,megasesso.com,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,trend-online.com,tuttobolognaweb.it,violanews.com##.share
 http://mediaset.it,meteo.it##.shr
 http://assopoker.com##.singlemeta
 http://finanzaonline.com,teleborsa.it,tempostretto.it##.soc
@@ -21443,6 +21454,7 @@ http://agensir.it##.temporary-skin-adv
 http://nurse24.it##.toolbar
 http://epochtimes.it##.tools
 http://gianlucadimarzio.com,ilpost.it##.tw
+http://alfredopedulla.com##.tw-banner
 http://agenziacasaclima.it,ilfoglio.it,teleticino.ch,tuttomercatoweb.com,webnews.it##.twitter
 http://mymovies.it##.vota-pul-consiglio
 http://agenziacasaclima.it##.youtube
