@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2dkP2KPqXGWcrFqoXkJfrA
-! Version: 202008202351
+! Checksum: 1xgNwlTf2sm8H4gZhveaxg
+! Version: 202008212351
 ! Title: Fanboy's Annoyance List
-! Last modified: 20 Aug 2020 23:51 UTC
+! Last modified: 21 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1179,6 +1179,7 @@
 ||https://wittgenstein.it/wp-content/themes/wittgenstein/images/ilpost.png
 ||https://wp.com/www.proiezionidiborsa.it/*/google-news-
 ||https://centrometeoitaliano.it^*/logo-messaggero.
+||https://superguidatv.it^*/head-tgCom.
 ||https://diners.co.jp^*/icon_pagetop_
 ||https://gamespark.jp^*/pagetop.
 ||https://girlsheaven-job.net^*/pagetop.
@@ -1300,6 +1301,7 @@
 ||https://cookiesv2.publiekeomroep.nl/light/
 ||https://tmgonlinemedia.nl/cc$script
 ||https://tol.postnl.nl/content/toljs/$script
+||https://almamedia.fi/almacmp/$script
 ||https://hsy.fi^*/hsycookie.js
 ||https://sanoma.fi^*/sccm-b.js
 ||https://sanoma.fi^*/sccm-c.js
@@ -1311,6 +1313,7 @@
 ||https://creaweb.it/cookie/
 ||https://cure-naturali.it/cookies?
 ||https://effekt.it/analytics/
+||https://meteorete.it/cookie.js
 ||https://ok-salute.it^*/cookie-law-info-public-
 ||https://plug.it^*/cmp.min.js
 ||https://rcsobjects.it/rcs_cpmt/
@@ -2561,6 +2564,7 @@
 ||http://wittgenstein.it/wp-content/themes/wittgenstein/images/ilpost.png
 ||http://wp.com/www.proiezionidiborsa.it/*/google-news-
 ||http://centrometeoitaliano.it^*/logo-messaggero.
+||http://superguidatv.it^*/head-tgCom.
 ||http://diners.co.jp^*/icon_pagetop_
 ||http://gamespark.jp^*/pagetop.
 ||http://girlsheaven-job.net^*/pagetop.
@@ -2694,6 +2698,7 @@
 ||http://cookiesv2.publiekeomroep.nl/light/
 ||http://tmgonlinemedia.nl/cc$script
 ||http://tol.postnl.nl/content/toljs/$script
+||http://almamedia.fi/almacmp/$script
 ||http://hsy.fi^*/hsycookie.js
 ||http://sanoma.fi^*/sccm-b.js
 ||http://sanoma.fi^*/sccm-c.js
@@ -2707,6 +2712,7 @@
 ||http://creaweb.it/cookie/
 ||http://cure-naturali.it/cookies?
 ||http://effekt.it/analytics/
+||http://meteorete.it/cookie.js
 ||http://ok-salute.it^*/cookie-law-info-public-
 ||http://plug.it^*/cmp.min.js
 ||http://privacyportal.fatergroup.com^
@@ -4891,6 +4897,7 @@ https://gigaom.com##.go-thisorthat-widget
 https://gigaom.com##.go-toaster
 https://allrecipes.com##.goBack
 https://allrecipes.com##.goNext
+https://hackingloops.com##.go_top
 https://reddit.com##.goldvertisement
 https://good.is##.good-elsewhere
 https://justjaredjr.com##.grabtherssfeed
@@ -10188,7 +10195,7 @@ https://spaziogames.it##.nav-reveal
 https://everyeye.it##.nav_articoli
 https://ilsitodellozoo.com##.navbar-alt
 https://laleggepertutti.it##.news-letter
-https://01net.it,advisoronline.it,aeroporto.net,astrooroscopo.it,basketinside.com,carpicalcionews.it,chiesadimilano.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,giornaledibrescia.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,lanazione.it,leitgamhof.com,lescienze.it,linkiesta.it,lintellettualedissidente.it,lvh.it,mediagol.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,theitaliantimes.it,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
+https://01net.it,advisoronline.it,aeroporto.net,astrooroscopo.it,basketinside.com,carpicalcionews.it,chiesadimilano.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,giornaledibrescia.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,lanazione.it,leitgamhof.com,lescienze.it,linkiesta.it,lintellettualedissidente.it,lvh.it,mediagol.it,meteolive.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,theitaliantimes.it,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
 https://ravennanotizie.it##.newsletter-section
 https://starbene.it##.nlslim
 https://systems.bz##.on-top
@@ -10917,6 +10924,7 @@ https://rivistailmulino.it##.float-container
 https://ilfattoquotidiano.it,silicon.it##.follow
 https://corriere.it##.follow-content
 https://r101.it##.followR101
+https://staseraincucina.it##.footer
 https://ravennanotizie.it##.footer-link
 https://jeanlouisdavid.it##.footerIconsUl
 https://html.it##.footer__tools
@@ -10965,6 +10973,7 @@ https://nationalgeographic.it##.segui-ng
 https://lescienze.it,unica.it##.seguici
 https://askanews.it##.seguici_footer
 https://chiesi.com##.seguicisu
+https://superguidatv.it##.sgtv_divRowContent_messenger_subscribe
 https://alfredopedulla.com,amica.it,areanapoli.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,deejay.it,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,intesasanpaolo.com,isaechia.it,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,listadimaio.com,mediagol.it,megasesso.com,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,trend-online.com,tuttobolognaweb.it,violanews.com##.share
 https://mediaset.it,meteo.it##.shr
 https://assopoker.com##.singlemeta
@@ -13041,6 +13050,7 @@ https://aipsurveys.com,shoppable.com#@##cookiesModal
 https://gdansk.pl#@##cookies[role="dialog"]
 https://debeste.de#@##cookies_ok
 https://vkmag.com#@##cookiesdirective
+https://rossolimone.com#@##cookiesplus-basic
 https://ibs.it#@##divPrivacy
 https://gamewatcher.com,ivoox.com,poszalu.pl,tappedout.net,visionexpress.pl#@##gdpr-modal
 https://n26.com#@##gdpr-notice
@@ -13068,8 +13078,8 @@ https://franziskaner-weissbier.de#@#.accept-cookies
 https://imvu.com#@#.accept-cookies:not(html)
 https://live.nettavisen.no#@#.active > div
 https://patient.info#@#.alert--cookie
-https://openfiber.it#@#.cc-banner
-https://bing.com,czuczu.pl#@#.cc-container
+https://openfiber.it,supertennis.tv#@#.cc-banner
+https://bing.com,czuczu.pl,supertennis.tv#@#.cc-container
 https://morningstar.ca#@#.cc_container
 https://onet.pl#@#.cmp-app_gdpr
 https://consent.yahoo.com,lawrievetgroup.co.uk,oath.com#@#.consent-container
@@ -15365,6 +15375,7 @@ http://gigaom.com##.go-thisorthat-widget
 http://gigaom.com##.go-toaster
 http://allrecipes.com##.goBack
 http://allrecipes.com##.goNext
+http://hackingloops.com##.go_top
 http://reddit.com##.goldvertisement
 http://good.is##.good-elsewhere
 http://justjaredjr.com##.grabtherssfeed
@@ -20663,7 +20674,7 @@ http://spaziogames.it##.nav-reveal
 http://everyeye.it##.nav_articoli
 http://ilsitodellozoo.com##.navbar-alt
 http://laleggepertutti.it##.news-letter
-http://01net.it,advisoronline.it,aeroporto.net,astrooroscopo.it,basketinside.com,carpicalcionews.it,chiesadimilano.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,giornaledibrescia.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,lanazione.it,leitgamhof.com,lescienze.it,linkiesta.it,lintellettualedissidente.it,lvh.it,mediagol.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,theitaliantimes.it,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
+http://01net.it,advisoronline.it,aeroporto.net,astrooroscopo.it,basketinside.com,carpicalcionews.it,chiesadimilano.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,giornaledibrescia.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,lanazione.it,leitgamhof.com,lescienze.it,linkiesta.it,lintellettualedissidente.it,lvh.it,mediagol.it,meteolive.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,theitaliantimes.it,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
 http://ravennanotizie.it##.newsletter-section
 http://starbene.it##.nlslim
 http://systems.bz##.on-top
@@ -21392,6 +21403,7 @@ http://rivistailmulino.it##.float-container
 http://ilfattoquotidiano.it,silicon.it##.follow
 http://corriere.it##.follow-content
 http://r101.it##.followR101
+http://staseraincucina.it##.footer
 http://ravennanotizie.it##.footer-link
 http://jeanlouisdavid.it##.footerIconsUl
 http://html.it##.footer__tools
@@ -21440,6 +21452,7 @@ http://nationalgeographic.it##.segui-ng
 http://lescienze.it,unica.it##.seguici
 http://askanews.it##.seguici_footer
 http://chiesi.com##.seguicisu
+http://superguidatv.it##.sgtv_divRowContent_messenger_subscribe
 http://alfredopedulla.com,amica.it,areanapoli.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,deejay.it,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,intesasanpaolo.com,isaechia.it,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,listadimaio.com,mediagol.it,megasesso.com,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,trend-online.com,tuttobolognaweb.it,violanews.com##.share
 http://mediaset.it,meteo.it##.shr
 http://assopoker.com##.singlemeta
@@ -23517,6 +23530,7 @@ http://aipsurveys.com,shoppable.com#@##cookiesModal
 http://gdansk.pl#@##cookies[role="dialog"]
 http://debeste.de#@##cookies_ok
 http://vkmag.com#@##cookiesdirective
+http://rossolimone.com#@##cookiesplus-basic
 http://ibs.it#@##divPrivacy
 http://gamewatcher.com,ivoox.com,poszalu.pl,tappedout.net,visionexpress.pl#@##gdpr-modal
 http://n26.com#@##gdpr-notice
@@ -23544,8 +23558,8 @@ http://franziskaner-weissbier.de#@#.accept-cookies
 http://imvu.com#@#.accept-cookies:not(html)
 http://live.nettavisen.no#@#.active > div
 http://patient.info#@#.alert--cookie
-http://openfiber.it#@#.cc-banner
-http://bing.com,czuczu.pl#@#.cc-container
+http://openfiber.it,supertennis.tv#@#.cc-banner
+http://bing.com,czuczu.pl,supertennis.tv#@#.cc-container
 http://morningstar.ca#@#.cc_container
 http://onet.pl#@#.cmp-app_gdpr
 http://consent.yahoo.com,lawrievetgroup.co.uk,oath.com#@#.consent-container

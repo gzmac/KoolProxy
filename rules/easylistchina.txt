@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: lD45EOOlbC3ukKLYFK+Wwg
-! Version: 202008210013
+! Checksum: /tVwkGcSQpi7EpLFgQ1OjA
+! Version: 202008220013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -2186,7 +2186,6 @@
 ||https://duba.com/static/*/images/*.swf
 ||https://duba.com/static/images/public/20181110/14661d41048e09e2d523dd2e5f0c6310.png
 ||https://duba.com/wangmeng/
-||https://duboku.net/static/images/336.png
 ||https://dufile.com/jsa/
 ||https://duote.com/duoteimg/dtnew_recom_img/duoteself/
 ||https://duouoo.com/vss/right-ssd.js
@@ -4557,6 +4556,7 @@
 ||https://yigujin.cn/wp-content/themes/Three/js/yierlin
 ||https://yiichina.com/images/yisu-
 ||https://yikeyz.com/pm.js
+||https://yilongrom.com/file/app_
 ||https://yimg.com/bf/homerun/ysm_
 ||https://yimg.com/cv/ae/default/*_STATIC-JPEG_
 ||https://yimg.com/cv/ae/tw/bwchou/728x210.
@@ -4786,6 +4786,8 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://baidu.com/forum/pic/item/c2cec3fdfc039245b36885579094a4c27c1e258c.jpg
+||https://duboku.tv/static/images/yabo.gif
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -6495,6 +6497,7 @@
 ||http://hngezj.com^
 ||http://hngzsb.com^
 ||http://hnhycp.com^
+||http://hnnuange.com^
 ||http://hntymg.com^
 ||http://hnyiche3.com^
 ||http://hnyny.com^
@@ -6632,6 +6635,7 @@
 ||http://jinfu.love/maizhan/
 ||http://jinglongtang.cn^
 ||http://jinshasi.cn^
+||http://jinshenglong.cn^
 ||http://jinxiuzhilv.com^
 ||http://jisucn.com^$third-party
 ||http://jiudianhudong.com^$third-party
@@ -7248,6 +7252,7 @@
 ||http://ssjy168.com^
 ||http://ssmuse1314.cn^
 ||http://sspsky.com^$third-party
+||http://ssroa.cc^
 ||http://staqnet.com^
 ||http://star8.net^$third-party
 ||http://static-cn.plista.com^
@@ -9662,7 +9667,6 @@
 ||http://duba.com/static/*/images/*.swf
 ||http://duba.com/static/images/public/20181110/14661d41048e09e2d523dd2e5f0c6310.png
 ||http://duba.com/wangmeng/
-||http://duboku.net/static/images/336.png
 ||http://dufile.com/jsa/
 ||http://duote.com/duoteimg/dtnew_recom_img/duoteself/
 ||http://duouoo.com/vss/right-ssd.js
@@ -12324,6 +12328,7 @@
 ||http://yigujin.cn/wp-content/themes/Three/js/yierlin
 ||http://yiichina.com/images/yisu-
 ||http://yikeyz.com/pm.js
+||http://yilongrom.com/file/app_
 ||http://yimg.com/bf/homerun/ysm_
 ||http://yimg.com/cv/ae/default/*_STATIC-JPEG_
 ||http://yimg.com/cv/ae/tw/bwchou/728x210.
@@ -12570,6 +12575,8 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://baidu.com/forum/pic/item/c2cec3fdfc039245b36885579094a4c27c1e258c.jpg
+||http://duboku.tv/static/images/yabo.gif
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a25.com|xin99r3.com|xin99r4.com
 ||http://sinaimg.cn^$domain=99a25.com|xin99r3.com|xin99r4.com
@@ -13383,8 +13390,6 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://cifree.xyz^
-||http://aliyunh.xyz^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13612,6 +13617,7 @@
 ||http://aligiao.info^
 ||http://alitx963.com^
 ||http://aliyoo999.com^
+||http://aliyunh.xyz^
 ||http://aliyuni.xyz^
 ||http://allluck.cn^
 ||http://aly766.com^
@@ -13774,6 +13780,7 @@
 ||http://chinawms.cn^
 ||http://chrommotor.com^
 ||http://chuzrra.cn^
+||http://cifree.xyz^
 ||http://cike666.com^
 ||http://city009.com^
 ||http://cityb.xyz^
@@ -14258,7 +14265,9 @@
 ||http://jingdayiyuan.com^
 ||http://jingoulong.cn^
 ||http://jingxiangyalvji.cn^
+||http://jinliaoyang.com^
 ||http://jinlubaojie.cn^
+||http://jinrianshan.com^
 ||http://jinrichaoyang.com^
 ||http://jinrungroup.cn^
 ||http://jinxinyuan.cn^
@@ -21102,16 +21111,16 @@ https://hpjav.tv##body > div[style^="position: fixed;"]
 https://verystream.com#@#.adsbox
 https://googleads.g.doubleclick.net###mys-wrapper
 https://xhtml?%22+$script,third-party
-https://52biquge.com##[onclick*="app"]
-https://52biquge.com##a[href^="http://html.350.com/"]
-https://biqubao.com##div[style="width:976px;"]
-https://bixia.org##dd[style*="bottom:"]
 https://bxwx666.org###addiv3
 https://duanwenxue.com##.qgzdwx
-https://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
-https://jx.la##[onclick*="apk"]
-https://piaotian5.com##script + div[style="padding:15px;"]
 https://xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
+https://jx.la##[onclick*="apk"]
+https://52biquge.com##[onclick*="app"]
+https://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
+https://52biquge.com##a[href^="http://html.350.com/"]
+https://bixia.org##dd[style*="bottom:"]
+https://biqubao.com##div[style="width:976px;"]
+https://piaotian5.com##script + div[style="padding:15px;"]
 https://onemanhua.com##.mn-thumb:nth-child(n+2)
 https://onemanhua.com##[id*="ScriptRoot"]
 https://getrelax.cc,sexylove.club##.loaded-popup-wrapper
@@ -27179,16 +27188,16 @@ http://hpjav.tv##body > div[style^="position: fixed;"]
 http://verystream.com#@#.adsbox
 http://googleads.g.doubleclick.net###mys-wrapper
 http://xhtml?%22+$script,third-party
-http://52biquge.com##[onclick*="app"]
-http://52biquge.com##a[href^="http://html.350.com/"]
-http://biqubao.com##div[style="width:976px;"]
-http://bixia.org##dd[style*="bottom:"]
 http://bxwx666.org###addiv3
 http://duanwenxue.com##.qgzdwx
-http://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
-http://jx.la##[onclick*="apk"]
-http://piaotian5.com##script + div[style="padding:15px;"]
 http://xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
+http://jx.la##[onclick*="apk"]
+http://52biquge.com##[onclick*="app"]
+http://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
+http://52biquge.com##a[href^="http://html.350.com/"]
+http://bixia.org##dd[style*="bottom:"]
+http://biqubao.com##div[style="width:976px;"]
+http://piaotian5.com##script + div[style="padding:15px;"]
 http://onemanhua.com##.mn-thumb:nth-child(n+2)
 http://onemanhua.com##[id*="ScriptRoot"]
 http://getrelax.cc,sexylove.club##.loaded-popup-wrapper
