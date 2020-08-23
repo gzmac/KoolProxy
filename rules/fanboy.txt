@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1xgNwlTf2sm8H4gZhveaxg
-! Version: 202008212351
+! Checksum: nk9ooxu74tWjRK66FmbUWQ
+! Version: 202008222351
 ! Title: Fanboy's Annoyance List
-! Last modified: 21 Aug 2020 23:51 UTC
+! Last modified: 22 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -402,6 +402,7 @@
 ||https://sendtonews.com/player/sidebar.php?$third-party
 ||https://bildirnet.com^$third-party
 ||https://braze.com^$third-party
+||https://cappushino.com^$third-party
 ||https://centrnotify.com^$third-party
 ||https://checkpost.club^$third-party
 ||https://conforama-push.com^$third-party
@@ -1318,6 +1319,7 @@
 ||https://plug.it^*/cmp.min.js
 ||https://rcsobjects.it/rcs_cpmt/
 ||https://spesasicura.com/Scripts/cookie.js
+||https://stbm.it/utility-fe/prod/general/network.common.v2.js
 ||https://4hifi.pl/scripts/jquery.cookie.js
 ||https://animesub.info/skrypty/pierdolecookie.js
 ||https://cmp.computerworld.pl^$script
@@ -1738,6 +1740,7 @@
 ||http://sendtonews.com/player/sidebar.php?$third-party
 ||http://bildirnet.com^$third-party
 ||http://braze.com^$third-party
+||http://cappushino.com^$third-party
 ||http://centrnotify.com^$third-party
 ||http://checkpost.club^$third-party
 ||http://conforama-push.com^$third-party
@@ -2718,6 +2721,7 @@
 ||http://privacyportal.fatergroup.com^
 ||http://rcsobjects.it/rcs_cpmt/
 ||http://spesasicura.com/Scripts/cookie.js
+||http://stbm.it/utility-fe/prod/general/network.common.v2.js
 ||http://4hifi.pl/scripts/jquery.cookie.js
 ||http://animesub.info/skrypty/pierdolecookie.js
 ||http://cmp.computerworld.pl^$script
@@ -6009,6 +6013,7 @@ https://firecold.com##table[style="margin: 30px 0 0 0"]
 https://briefing.com##table[style="vertical-align: top; text-align: left;\a \9             background-color: White; width: 100%; padding: 10px;"]
 https://osnews.com##table[width="285"]
 https://finestdaily.com##table[width="642"]
+https://youtube.com##.ytd-primetime-promo-renderer
 https://e-day.ro,mtlblog.com###CoverPop-cover
 https://news.yahoo.com###Daily-Ticket-newsletter-promo-8U
 https://nextshark.com###FbridgeSGWidget
@@ -10140,6 +10145,7 @@ https://agi.it##.banner-register
 https://agendadigitale.eu,corrierecomunicazioni.it,economyup.it,insuranceup.it##.bottom-bar__up
 https://guardaserie.watch##.bottom-button-top
 https://engage.it##.box-engage-mag
+https://red-live.it##.box-sponsor
 https://infobuildenergia.it##.box_dem
 https://wuerth.it##.btn-scroll-top
 https://liquiriziacalabrese.it##.btn-top
@@ -10157,6 +10163,7 @@ https://tomshw.it##.content-related
 https://corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it##.control_top
 https://e-coop.it##.coop-goToTop
 https://dday.it##.corriere-header
+https://mowmag.com##.crm-card-next
 https://sapere.it##.dbdslim
 https://donnamoderna.com##.donnam-footer-newsletter
 https://webnews.it##.email
@@ -10850,7 +10857,7 @@ https://interno.gov.it###block-menu-menu-segui-su
 https://leggo.it###box-social
 https://salute.gov.it###boxCondivisioneVoto
 https://mediaset.it###boxOptions
-https://comune.torino.it###condividi
+https://comune.torino.it,dueruote.it###condividi
 https://ilmeteo.it###condividi_news
 https://italiafruit.net###ctl00_ContentPlaceHolder1_UpdatePanel2
 https://gds.it###data[style="overflow:hidden; height: 246px; margin:10px 0px;"]
@@ -10866,6 +10873,7 @@ https://gelatipepino.it###popupalert
 https://meltybuzz.it###reactionsBox
 https://casertanews.it###script-bannOverLayer
 https://repubblica.it###segno-fb
+https://dueruote.it###segui
 https://comune.cagliari.it###segui_hp
 https://termometropolitico.it###seguici
 https://gazzetta.it###share
@@ -10899,6 +10907,7 @@ https://gamershqitalia.it##.bottoniera-social
 https://comingsoon.it##.box-tags
 https://ansa.it##.bt-suggest
 https://fantagazzetta.com##.btn-sm
+https://giornaledibrescia.it##.btn-toolbar
 https://money.it##.btnYou
 https://cirio.it##.cirioYou
 https://tio.ch##.companyPagesBox
@@ -10910,6 +10919,7 @@ https://repubblica.it##.detail-social
 https://donnamoderna.com##.donnam-footer-social
 https://mediaset.it##.dsoc
 https://frasicelebri.it##.email
+https://quattroruote.it##.extra_info_social
 https://madeinbz.info##.fa-facebook
 https://madeinbz.info##.fa-twitter
 https://agenziacasaclima.it,ilfoglio.it,startromagna.it,teleticino.ch,tuttomercatoweb.com,webnews.it##.facebook
@@ -10921,6 +10931,7 @@ https://theitaliantimes.it##.fco2b
 https://agcom.it##.feedback-social
 https://theitaliantimes.it##.finfo3
 https://rivistailmulino.it##.float-container
+https://virgilio.it##.foglia__social
 https://ilfattoquotidiano.it,silicon.it##.follow
 https://corriere.it##.follow-content
 https://r101.it##.followR101
@@ -16487,6 +16498,7 @@ http://firecold.com##table[style="margin: 30px 0 0 0"]
 http://briefing.com##table[style="vertical-align: top; text-align: left;\a \9             background-color: White; width: 100%; padding: 10px;"]
 http://osnews.com##table[width="285"]
 http://finestdaily.com##table[width="642"]
+http://youtube.com##.ytd-primetime-promo-renderer
 http://e-day.ro,mtlblog.com###CoverPop-cover
 http://news.yahoo.com###Daily-Ticket-newsletter-promo-8U
 http://nextshark.com###FbridgeSGWidget
@@ -20619,6 +20631,7 @@ http://agi.it##.banner-register
 http://agendadigitale.eu,corrierecomunicazioni.it,economyup.it,insuranceup.it##.bottom-bar__up
 http://guardaserie.watch##.bottom-button-top
 http://engage.it##.box-engage-mag
+http://red-live.it##.box-sponsor
 http://infobuildenergia.it##.box_dem
 http://wuerth.it##.btn-scroll-top
 http://liquiriziacalabrese.it##.btn-top
@@ -20636,6 +20649,7 @@ http://tomshw.it##.content-related
 http://corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it##.control_top
 http://e-coop.it##.coop-goToTop
 http://dday.it##.corriere-header
+http://mowmag.com##.crm-card-next
 http://sapere.it##.dbdslim
 http://donnamoderna.com##.donnam-footer-newsletter
 http://webnews.it##.email
@@ -21329,7 +21343,7 @@ http://interno.gov.it###block-menu-menu-segui-su
 http://leggo.it###box-social
 http://salute.gov.it###boxCondivisioneVoto
 http://mediaset.it###boxOptions
-http://comune.torino.it###condividi
+http://comune.torino.it,dueruote.it###condividi
 http://ilmeteo.it###condividi_news
 http://italiafruit.net###ctl00_ContentPlaceHolder1_UpdatePanel2
 http://gds.it###data[style="overflow:hidden; height: 246px; margin:10px 0px;"]
@@ -21345,6 +21359,7 @@ http://gelatipepino.it###popupalert
 http://meltybuzz.it###reactionsBox
 http://casertanews.it###script-bannOverLayer
 http://repubblica.it###segno-fb
+http://dueruote.it###segui
 http://comune.cagliari.it###segui_hp
 http://termometropolitico.it###seguici
 http://gazzetta.it###share
@@ -21378,6 +21393,7 @@ http://gamershqitalia.it##.bottoniera-social
 http://comingsoon.it##.box-tags
 http://ansa.it##.bt-suggest
 http://fantagazzetta.com##.btn-sm
+http://giornaledibrescia.it##.btn-toolbar
 http://money.it##.btnYou
 http://cirio.it##.cirioYou
 http://tio.ch##.companyPagesBox
@@ -21389,6 +21405,7 @@ http://repubblica.it##.detail-social
 http://donnamoderna.com##.donnam-footer-social
 http://mediaset.it##.dsoc
 http://frasicelebri.it##.email
+http://quattroruote.it##.extra_info_social
 http://madeinbz.info##.fa-facebook
 http://madeinbz.info##.fa-twitter
 http://agenziacasaclima.it,ilfoglio.it,startromagna.it,teleticino.ch,tuttomercatoweb.com,webnews.it##.facebook
@@ -21400,6 +21417,7 @@ http://theitaliantimes.it##.fco2b
 http://agcom.it##.feedback-social
 http://theitaliantimes.it##.finfo3
 http://rivistailmulino.it##.float-container
+http://virgilio.it##.foglia__social
 http://ilfattoquotidiano.it,silicon.it##.follow
 http://corriere.it##.follow-content
 http://r101.it##.followR101
