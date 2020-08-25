@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wletTYbloQnNjayr6VCP7w
-! Version: 202008232351
+! Checksum: kjeFc6v8GugyErFmCmLodQ
+! Version: 202008242351
 ! Title: Fanboy's Annoyance List
-! Last modified: 23 Aug 2020 23:51 UTC
+! Last modified: 24 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -8849,7 +8849,7 @@ https://kabeleins.de,prosieben.de,prosiebenmaxx.de,ran.de,sat1.de,sixx.de##[name
 https://autobild.de,ndtv.com##a[href^="https://plus.google.com/share?url="]
 https://jman.tv###ActionBar
 https://sausageandciderfestival.co.uk###CC_Bar
-https://ambulance-photos.com,bus-and-coach-photos.com,campervan-photos.com,classic-and-vintage-cars.com,construction-and-excavation.com,dream-car-photos.com,fire-engine-photos.com,forklift-photos.com,hotrods-customcars.com,military-vehicle-photos.com,motorcycles-motorbikes.com,oilrig-photos.com,planesandchoppers.com,racing-car-photos.com,shipsandharbours.com,taxi-photos.com,traction-engines.net,tractor-photos.com,train-photos.com,transport-models.com,truck-photos.net,vehicle-livery.net,yourboatphotos.com###CQ
+https://ambulance-photos.com,bus-and-coach-photos.com,classic-and-vintage-cars.com,construction-and-excavation.com,dream-car-photos.com,fire-engine-photos.com,forklift-photos.com,hotrods-customcars.com,military-vehicle-photos.com,motorcycles-motorbikes.com,oilrig-photos.com,planesandchoppers.com,racing-car-photos.com,shipsandharbours.com,taxi-photos.com,traction-engines.net,tractor-photos.com,train-photos.com,transport-models.com,truck-photos.net,vehicle-livery.net,yourboatphotos.com###CQ
 https://nymity.com###CookieAcceptSubLayout1_cookiesmessageshown
 https://aberdeenplumberservices.co.uk,firstcallmotorbreakdown.co.uk,pattheduck.com###FISLCC
 https://megabus.com###GB_overlay
@@ -10884,6 +10884,7 @@ https://goodmorningnews.it###short-url
 https://deejay.it###slider
 https://autobelle.it,bancadipiacenza.it,canavesenews.it,creditocooperativo.it,fotografidigitali.it,gianlucadimarzio.com,ilsecoloxix.it,lavoro.gov.it,meteogiornale.it,meteovista.it,optimagazine.com,optimaitalia.com,radioitalia.it,rasom.it,salute.gov.it,superwheels.net,unibo.it,virginactive.it###social
 https://radioetv.it###social_presence
+https://biografieonline.it###ss-floating-bar
 https://grom.it###top-info
 https://bastabugie.it###twitter
 https://bancadipiacenza.it###vimeo
@@ -10892,6 +10893,7 @@ https://centrometeoitaliano.it###widgetSeguici
 https://aboutamazon.it##.ActionBar
 https://evomagazine.it,rai.it##.Facebook
 https://rai.it##.Invia
+https://leganerd.com##.LNPocket
 https://rai.tv##.Mail
 https://rai.tv##.Opzioni
 https://focusjunior.it##.SATover
@@ -12932,7 +12934,7 @@ https://sdcard.org#@#.socialarea
 https://0calc.es,0calc.fr,0calc.in,0calc.ru,0rechner.de,nu.nl,web2.0calc.com#@#.socialbar
 https://vaganovaacademy.ru,wuala.com#@#.socialbox
 https://wuala.com#@#.socialboxp
-https://jobs.jnj.com,jobs.kroger.com,realogy.com#@#.socialbutton
+https://esselungajob.it,jobs.jnj.com,jobs.kroger.com,realogy.com#@#.socialbutton
 https://clientsfromhell.net#@#.socialbuttons
 https://gamepedia.com#@#.sociallink
 https://heise.de,megabus.com,thenextweb.com#@#.socialmedia
@@ -13097,7 +13099,6 @@ https://bing.com,czuczu.pl,supertennis.tv#@#.cc-container
 https://morningstar.ca#@#.cc_container
 https://onet.pl#@#.cmp-app_gdpr
 https://consent.yahoo.com,lawrievetgroup.co.uk,oath.com#@#.consent-container
-https://lahey.org#@#.consent-dialog
 https://consent.yahoo.com,lawrievetgroup.co.uk,payments.amazon.ca,payments.amazon.co.jp,payments.amazon.co.uk,payments.amazon.com,payments.amazon.com.au,payments.amazon.com.br,payments.amazon.de,payments.amazon.es,payments.amazon.fr,payments.amazon.in,payments.amazon.it,simplii.com#@#.consent-wrapper
 https://boursorama.com,nuxeo.com#@#.cookie-banner
 https://janrain.com,moemax.de,rituals.com,xxxlshop.de#@#.cookie-bar
@@ -13182,6 +13183,7 @@ https://apkpure.com#@#.cp-banner
 https://bccnapoli.it#@#.cp-overlay
 https://e-dym.pl#@#.cp-popup
 https://porndig.com,thagson.com#@#.disclaimer_wrapper
+https://acloudguru.com#@#.elementor-popup-modal.dialog-widget
 https://etonline.com,popsugar.co.uk#@#.evidon-banner
 https://nytimes.com#@#.expanded.gdpr
 https://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@#.gdpr-agree
@@ -19339,7 +19341,7 @@ http://kabeleins.de,prosieben.de,prosiebenmaxx.de,ran.de,sat1.de,sixx.de##[name=
 http://autobild.de,ndtv.com##a[href^="https://plus.google.com/share?url="]
 http://jman.tv###ActionBar
 http://sausageandciderfestival.co.uk###CC_Bar
-http://ambulance-photos.com,bus-and-coach-photos.com,campervan-photos.com,classic-and-vintage-cars.com,construction-and-excavation.com,dream-car-photos.com,fire-engine-photos.com,forklift-photos.com,hotrods-customcars.com,military-vehicle-photos.com,motorcycles-motorbikes.com,oilrig-photos.com,planesandchoppers.com,racing-car-photos.com,shipsandharbours.com,taxi-photos.com,traction-engines.net,tractor-photos.com,train-photos.com,transport-models.com,truck-photos.net,vehicle-livery.net,yourboatphotos.com###CQ
+http://ambulance-photos.com,bus-and-coach-photos.com,classic-and-vintage-cars.com,construction-and-excavation.com,dream-car-photos.com,fire-engine-photos.com,forklift-photos.com,hotrods-customcars.com,military-vehicle-photos.com,motorcycles-motorbikes.com,oilrig-photos.com,planesandchoppers.com,racing-car-photos.com,shipsandharbours.com,taxi-photos.com,traction-engines.net,tractor-photos.com,train-photos.com,transport-models.com,truck-photos.net,vehicle-livery.net,yourboatphotos.com###CQ
 http://nymity.com###CookieAcceptSubLayout1_cookiesmessageshown
 http://aberdeenplumberservices.co.uk,firstcallmotorbreakdown.co.uk,pattheduck.com###FISLCC
 http://megabus.com###GB_overlay
@@ -21374,6 +21376,7 @@ http://goodmorningnews.it###short-url
 http://deejay.it###slider
 http://autobelle.it,bancadipiacenza.it,canavesenews.it,creditocooperativo.it,fotografidigitali.it,gianlucadimarzio.com,ilsecoloxix.it,lavoro.gov.it,meteogiornale.it,meteovista.it,optimagazine.com,optimaitalia.com,radioitalia.it,rasom.it,salute.gov.it,superwheels.net,unibo.it,virginactive.it###social
 http://radioetv.it###social_presence
+http://biografieonline.it###ss-floating-bar
 http://grom.it###top-info
 http://bastabugie.it###twitter
 http://bancadipiacenza.it###vimeo
@@ -21382,6 +21385,7 @@ http://centrometeoitaliano.it###widgetSeguici
 http://aboutamazon.it##.ActionBar
 http://evomagazine.it,rai.it##.Facebook
 http://rai.it##.Invia
+http://leganerd.com##.LNPocket
 http://rai.tv##.Mail
 http://rai.tv##.Opzioni
 http://focusjunior.it##.SATover
@@ -23423,7 +23427,7 @@ http://sdcard.org#@#.socialarea
 http://0calc.es,0calc.fr,0calc.in,0calc.ru,0rechner.de,nu.nl,web2.0calc.com#@#.socialbar
 http://vaganovaacademy.ru,wuala.com#@#.socialbox
 http://wuala.com#@#.socialboxp
-http://jobs.jnj.com,jobs.kroger.com,realogy.com#@#.socialbutton
+http://esselungajob.it,jobs.jnj.com,jobs.kroger.com,realogy.com#@#.socialbutton
 http://clientsfromhell.net#@#.socialbuttons
 http://gamepedia.com#@#.sociallink
 http://heise.de,megabus.com,thenextweb.com#@#.socialmedia
@@ -23588,7 +23592,6 @@ http://bing.com,czuczu.pl,supertennis.tv#@#.cc-container
 http://morningstar.ca#@#.cc_container
 http://onet.pl#@#.cmp-app_gdpr
 http://consent.yahoo.com,lawrievetgroup.co.uk,oath.com#@#.consent-container
-http://lahey.org#@#.consent-dialog
 http://consent.yahoo.com,lawrievetgroup.co.uk,payments.amazon.ca,payments.amazon.co.jp,payments.amazon.co.uk,payments.amazon.com,payments.amazon.com.au,payments.amazon.com.br,payments.amazon.de,payments.amazon.es,payments.amazon.fr,payments.amazon.in,payments.amazon.it,simplii.com#@#.consent-wrapper
 http://boursorama.com,nuxeo.com#@#.cookie-banner
 http://janrain.com,moemax.de,rituals.com,xxxlshop.de#@#.cookie-bar
@@ -23673,6 +23676,7 @@ http://apkpure.com#@#.cp-banner
 http://bccnapoli.it#@#.cp-overlay
 http://e-dym.pl#@#.cp-popup
 http://porndig.com,thagson.com#@#.disclaimer_wrapper
+http://acloudguru.com#@#.elementor-popup-modal.dialog-widget
 http://etonline.com,popsugar.co.uk#@#.evidon-banner
 http://nytimes.com#@#.expanded.gdpr
 http://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@#.gdpr-agree

@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: S9n7u1rQ8zed4R+OlnEGcg
-! Version: 202008240013
+! Checksum: PIZsqOadfowcCP8EbpgqGw
+! Version: 202008250013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4211,8 +4211,6 @@
 ||https://v2rayssr.com/wp-content/plugins/eazy-
 ||https://v4.cc/m/common.js
 ||https://v4dwkcv.com/html/click/
-||https://vali*.cibntv.net^*.mp4?$media
-||https://vali*.cibntv.net^*.mp4?$media,rewrite=abp-resource:blank-mp3
 ||https://vansky.com/agdg/homegg/
 ||https://vansky.com/agdg/infoRight/
 ||https://vansky.com/agdg/middle/
@@ -4591,7 +4589,6 @@
 ||https://yoka.com/s?z=
 ||https://yongjiuzy.cc/yongjiu.gif
 ||https://yorkbbs.ca/yorkads/
-||https://you85.com/cy2/
 ||https://youaima.com/zz/
 ||https://youivr.com/image/*-960x80
 ||https://youquba.net/js/
@@ -4791,6 +4788,8 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://you85.net/ck2/
+||https://gaoqing.la/wp-content/uploads/*/GOOVIS.gif
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -5432,6 +5431,7 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://msspgw.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
 ||http://008844.cc^
@@ -5980,7 +5980,7 @@
 ||http://battmd168a2.xyz^
 ||http://bbdsdy.com^
 ||http://bccyyc.com^
-||http://bd1.it028.net.cn^
+||http://it028.net.cn^
 ||http://bd1.ningboseo0574.com^
 ||http://bdpuaw.com^
 ||http://bdtongfei.cn^
@@ -12373,7 +12373,6 @@
 ||http://yoka.com/s?z=
 ||http://yongjiuzy.cc/yongjiu.gif
 ||http://yorkbbs.ca/yorkads/
-||http://you85.com/cy2/
 ||http://youaima.com/zz/
 ||http://youivr.com/image/*-960x80
 ||http://youquba.net/js/
@@ -12585,6 +12584,8 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://you85.net/ck2/
+||http://gaoqing.la/wp-content/uploads/*/GOOVIS.gif
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a25.com|xin99r3.com|xin99r4.com
 ||http://sinaimg.cn^$domain=99a25.com|xin99r3.com|xin99r4.com
@@ -13398,6 +13399,14 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://ykpbgqc.top^
+||http://slshiye.cn^
+||http://longtan.in^
+||http://gktwhpd.cn^
+||http://wabizc.cn^
+||http://ljggc.com^
+||http://51wxyx.cn^
+||http://duluoweiyu.com^
 ||http://jsvv587.com^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
@@ -15985,6 +15994,8 @@
 ||http://stadig.ifeng.com^
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
+https://you85.net###diy2
+https://hcbbs.com###portal_block_2652
 https://szxx.com.cn###A0
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
@@ -16426,7 +16437,7 @@ https://360doc.com###divaboveReflectionAd2
 https://360doc.com###divunderZcommondAd
 https://360doc.com###divyoulikead
 https://im286.net###diy110
-https://cbber.com,you85.com###diy2
+https://cbber.com###diy2
 https://chiphell.com###diy2 + div
 https://gpshk.cc,oneplusbbs.com,wstx.com,xiaot.com###diy4
 https://2fzb.com###diy5
@@ -20796,7 +20807,6 @@ https://16sucai.com,bbxxbbs.net##table[width="960"]
 https://esnai.com##table[width="960"] > tbody > tr > td[height="90"]
 https://fpdisplay.com##table[width="960"][height="110"]
 https://gpcxw.com##table[width="960"][height="90"]
-https://you85.cn##table[width="980"]
 https://yxfdc.com##table[width="980"] > tbody > tr > td[height="70"]
 https://zuanke8.com##tbody[id^="normalthread_"] + tbody > tr > td[colspan="5"]
 https://51credit.com,ck101.com,hkepc.com##tbody[id^="normalthread_"] + tbody:not([id])
@@ -22063,6 +22073,8 @@ https://weibo.com###v6_pl_rightmod_helpfav
 https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
+http://you85.net###diy2
+http://hcbbs.com###portal_block_2652
 http://szxx.com.cn###A0
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
@@ -22504,7 +22516,7 @@ http://360doc.com###divaboveReflectionAd2
 http://360doc.com###divunderZcommondAd
 http://360doc.com###divyoulikead
 http://im286.net###diy110
-http://cbber.com,you85.com###diy2
+http://cbber.com###diy2
 http://chiphell.com###diy2 + div
 http://gpshk.cc,oneplusbbs.com,wstx.com,xiaot.com###diy4
 http://2fzb.com###diy5
@@ -26874,7 +26886,6 @@ http://16sucai.com,bbxxbbs.net##table[width="960"]
 http://esnai.com##table[width="960"] > tbody > tr > td[height="90"]
 http://fpdisplay.com##table[width="960"][height="110"]
 http://gpcxw.com##table[width="960"][height="90"]
-http://you85.cn##table[width="980"]
 http://yxfdc.com##table[width="980"] > tbody > tr > td[height="70"]
 http://zuanke8.com##tbody[id^="normalthread_"] + tbody > tr > td[colspan="5"]
 http://51credit.com,ck101.com,hkepc.com##tbody[id^="normalthread_"] + tbody:not([id])
