@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kjeFc6v8GugyErFmCmLodQ
-! Version: 202008242351
+! Checksum: wTeFs59joNyzqCy6jLAvjQ
+! Version: 202008252351
 ! Title: Fanboy's Annoyance List
-! Last modified: 24 Aug 2020 23:51 UTC
+! Last modified: 25 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -361,6 +361,7 @@
 ||https://widget.breakingburner.com^$third-party
 ||https://widget.clipix.com^$third-party
 ||https://widget.crowdignite.com^$third-party
+||https://widget.pico.tools^$third-party
 ||https://widget.trustpilot.com^$third-party
 ||https://widget.zoorate.com^$third-party
 ||https://widgets.dzone.com^$third-party
@@ -1698,6 +1699,7 @@
 ||http://widget.breakingburner.com^$third-party
 ||http://widget.clipix.com^$third-party
 ||http://widget.crowdignite.com^$third-party
+||http://widget.pico.tools^$third-party
 ||http://widget.trustpilot.com^$third-party
 ||http://widget.zoorate.com^$third-party
 ||http://widgets.dzone.com^$third-party
@@ -6545,7 +6547,7 @@ https://haymarketbooks.org##.footer--subscribe
 https://mediamatters.org##.footer--upper
 https://wccftech.com##.footer-4
 https://leisurewheels.co.za##.footer-column-4
-https://thefederalist.com##.footer-email
+https://howtogeek.com,thefederalist.com##.footer-email
 https://techjunkie.com##.footer-form
 https://ajc.com,daytondailynews.com##.footer-heading__email-heading
 https://sweepstakesfanatics.com##.footer-optin
@@ -7305,6 +7307,7 @@ https://indianexpress.com##.app-btn
 https://sportskeeda.com##.app-download-modal
 https://9gag.com##.download-app-container
 https://9gag.com##.get-the-app-banner
+https://independent.co.uk##.inline-prompt
 https://sportskeeda.com##.sidebar-app-download
 https://imgur.com,sowetanlive.co.za##.smartbanner
 https://schufa.de###AC_layout
@@ -8361,6 +8364,7 @@ https://2tout2rien.fr,lordofthelasersword.com,newsledge.com,popmythology.com,the
 https://2tout2rien.fr,lordofthelasersword.com,newsledge.com,popmythology.com,thekitchenmagpie.com,visionguinee.info##.spu-box
 https://thestack.com##.spu-float-left
 https://virgin.com##.ss-cnnct
+https://eteknix.com##.ss-ic
 https://olympicchannel.com##.ssba
 https://cryptonews.com##.ssk
 https://mp3.com##.ssk-sm
@@ -10154,6 +10158,7 @@ https://wuerth.it##.btn-scroll-top
 https://liquiriziacalabrese.it##.btn-top
 https://pagamentidigitali.it##.btn_iscriviti
 https://lillapois.com##.btt-button
+https://funweek.it##.c-header__top-bar
 https://lastampa.it##.call-iscrizione
 https://bmw.it,calendario-365.it,cdt.ch,consumer.bz.it,dmail.it,epochtimes.it,filmatipornohd.com,kellergrigliati.it,maximitalia.it,mdspa.it,mondoconv.it,paginesi.it,ridble.com,saras.it,vinusta.com,vog.it##.cd-top
 https://sportitaliabet.it##.cg-top-arrow
@@ -10202,6 +10207,7 @@ https://linkiesta.it##.lkPopover
 https://gigapc.it##.modezuparrow
 https://avvenire.it##.moveToTop
 https://spaziogames.it##.nav-reveal
+https://notizie-inter.it##.navArticleItem
 https://everyeye.it##.nav_articoli
 https://ilsitodellozoo.com##.navbar-alt
 https://laleggepertutti.it##.news-letter
@@ -10990,8 +10996,10 @@ https://lescienze.it,unica.it##.seguici
 https://askanews.it##.seguici_footer
 https://chiesi.com##.seguicisu
 https://superguidatv.it##.sgtv_divRowContent_messenger_subscribe
-https://alfredopedulla.com,amica.it,areanapoli.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,deejay.it,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,intesasanpaolo.com,isaechia.it,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,listadimaio.com,mediagol.it,megasesso.com,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,trend-online.com,tuttobolognaweb.it,violanews.com##.share
+https://alfredopedulla.com,amica.it,areanapoli.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,deejay.it,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,funweek.it,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,intesasanpaolo.com,isaechia.it,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,listadimaio.com,mediagol.it,megasesso.com,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,trend-online.com,tuttobolognaweb.it,violanews.com##.share
+https://ilmeteo.net##.shared
 https://mediaset.it,meteo.it##.shr
+https://ilmeteo.net##.siguenos-reducido
 https://assopoker.com##.singlemeta
 https://finanzaonline.com,teleborsa.it,tempostretto.it##.soc
 https://quickparking.it##.soc-icon-container
@@ -12463,6 +12471,7 @@ https://uservoice.com#@##uservoice-feedback-tab
 https://cnn.com#@#.OUTBRAIN
 https://hackmd.io,japantimes.co.jp#@#.back-to-top
 https://cyber-tank.org,cyber-tank.ru,forum.qscservice.com,forums.mozillazine.org,kvraudio.com,minetest.net#@#.back2top
+https://hepsiburada.com#@#.backToTopVisible
 https://gamingheads.com,thefirefly.com#@#.block-subscribe
 https://novojornal.co.ao#@#.box-newsletter
 https://azcentral.com#@#.close-wrap > .close-overlay
@@ -17036,7 +17045,7 @@ http://haymarketbooks.org##.footer--subscribe
 http://mediamatters.org##.footer--upper
 http://wccftech.com##.footer-4
 http://leisurewheels.co.za##.footer-column-4
-http://thefederalist.com##.footer-email
+http://howtogeek.com,thefederalist.com##.footer-email
 http://techjunkie.com##.footer-form
 http://ajc.com,daytondailynews.com##.footer-heading__email-heading
 http://sweepstakesfanatics.com##.footer-optin
@@ -17796,6 +17805,7 @@ http://indianexpress.com##.app-btn
 http://sportskeeda.com##.app-download-modal
 http://9gag.com##.download-app-container
 http://9gag.com##.get-the-app-banner
+http://independent.co.uk##.inline-prompt
 http://sportskeeda.com##.sidebar-app-download
 http://imgur.com,sowetanlive.co.za##.smartbanner
 http://schufa.de###AC_layout
@@ -18852,6 +18862,7 @@ http://2tout2rien.fr,lordofthelasersword.com,newsledge.com,popmythology.com,thek
 http://2tout2rien.fr,lordofthelasersword.com,newsledge.com,popmythology.com,thekitchenmagpie.com,visionguinee.info##.spu-box
 http://thestack.com##.spu-float-left
 http://virgin.com##.ss-cnnct
+http://eteknix.com##.ss-ic
 http://olympicchannel.com##.ssba
 http://cryptonews.com##.ssk
 http://mp3.com##.ssk-sm
@@ -20646,6 +20657,7 @@ http://wuerth.it##.btn-scroll-top
 http://liquiriziacalabrese.it##.btn-top
 http://pagamentidigitali.it##.btn_iscriviti
 http://lillapois.com##.btt-button
+http://funweek.it##.c-header__top-bar
 http://lastampa.it##.call-iscrizione
 http://bmw.it,calendario-365.it,cdt.ch,consumer.bz.it,dmail.it,epochtimes.it,filmatipornohd.com,kellergrigliati.it,maximitalia.it,mdspa.it,mondoconv.it,paginesi.it,ridble.com,saras.it,vinusta.com,vog.it##.cd-top
 http://sportitaliabet.it##.cg-top-arrow
@@ -20694,6 +20706,7 @@ http://linkiesta.it##.lkPopover
 http://gigapc.it##.modezuparrow
 http://avvenire.it##.moveToTop
 http://spaziogames.it##.nav-reveal
+http://notizie-inter.it##.navArticleItem
 http://everyeye.it##.nav_articoli
 http://ilsitodellozoo.com##.navbar-alt
 http://laleggepertutti.it##.news-letter
@@ -21482,8 +21495,10 @@ http://lescienze.it,unica.it##.seguici
 http://askanews.it##.seguici_footer
 http://chiesi.com##.seguicisu
 http://superguidatv.it##.sgtv_divRowContent_messenger_subscribe
-http://alfredopedulla.com,amica.it,areanapoli.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,deejay.it,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,intesasanpaolo.com,isaechia.it,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,listadimaio.com,mediagol.it,megasesso.com,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,trend-online.com,tuttobolognaweb.it,violanews.com##.share
+http://alfredopedulla.com,amica.it,areanapoli.it,autoline-eu.it,basketinside.com,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,deejay.it,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,funweek.it,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,intesasanpaolo.com,isaechia.it,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,listadimaio.com,mediagol.it,megasesso.com,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tenniscircus.com,tivusat.tv,toronews.net,trend-online.com,tuttobolognaweb.it,violanews.com##.share
+http://ilmeteo.net##.shared
 http://mediaset.it,meteo.it##.shr
+http://ilmeteo.net##.siguenos-reducido
 http://assopoker.com##.singlemeta
 http://finanzaonline.com,teleborsa.it,tempostretto.it##.soc
 http://quickparking.it##.soc-icon-container
@@ -22956,6 +22971,7 @@ http://uservoice.com#@##uservoice-feedback-tab
 http://cnn.com#@#.OUTBRAIN
 http://hackmd.io,japantimes.co.jp#@#.back-to-top
 http://cyber-tank.org,cyber-tank.ru,forum.qscservice.com,forums.mozillazine.org,kvraudio.com,minetest.net#@#.back2top
+http://hepsiburada.com#@#.backToTopVisible
 http://gamingheads.com,thefirefly.com#@#.block-subscribe
 http://novojornal.co.ao#@#.box-newsletter
 http://azcentral.com#@#.close-wrap > .close-overlay
