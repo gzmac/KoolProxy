@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: gG7xhnvyMCqrBOfWqFz/7Q
-! Version: 202008270013
+! Checksum: mu2ST0zAVVtsuHLLcqbYuQ
+! Version: 202008280023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -2032,7 +2032,6 @@
 ||https://cpnn.com.cn/cpnn2015g/neiyegg.gif
 ||https://cpnn.com.cn/cpnn_images/diangong.gif
 ||https://cpplay.com/inc/
-||https://cq.cm/temp/201
 ||https://cqtnfs.com/maizhan/js/age.js
 ||https://cqvip.com/viewserver/ViewAD
 ||https://cr173.com/js/
@@ -5436,6 +5435,7 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://xwdsp.com^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -7018,6 +7018,7 @@
 ||http://omztf.cn^
 ||http://onetad.com^$third-party
 ||http://onewhee.com^$third-party
+||http://oneyearonechange.com^
 ||http://onsnv.com^
 ||http://open8.cn^$third-party
 ||http://openxt.cn^
@@ -9498,7 +9499,6 @@
 ||http://cpnn.com.cn/cpnn2015g/neiyegg.gif
 ||http://cpnn.com.cn/cpnn_images/diangong.gif
 ||http://cpplay.com/inc/
-||http://cq.cm/temp/201
 ||http://cqtnfs.com/maizhan/js/age.js
 ||http://cqvip.com/viewserver/ViewAD
 ||http://cr173.com/js/
@@ -13412,7 +13412,6 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://aliyunj.xyz^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13645,6 +13644,7 @@
 ||http://aliyoo999.com^
 ||http://aliyunh.xyz^
 ||http://aliyuni.xyz^
+||http://aliyunj.xyz^
 ||http://allluck.cn^
 ||http://aly766.com^
 ||http://anmeilai.net^
@@ -13707,6 +13707,7 @@
 ||http://bhyddc.com^
 ||http://bianxianwu.com^
 ||http://bibi91.com^
+||http://bigcood.xyz^
 ||http://biluzhang.cn^
 ||http://bingdiantao.com^
 ||http://biquge.info^*.js?
@@ -14937,6 +14938,7 @@
 ||http://tukexiu.com^
 ||http://tuoxintrade.cn^
 ||http://twodogegg.cn^
+||http://txn5n0.cn^
 ||http://txsadql.cn^
 ||http://txshuku.net/js/
 ||http://txstatic.cn^
@@ -15075,6 +15077,7 @@
 ||http://xamiqi.top^
 ||http://xatczs.cn^
 ||http://xavingtsun.com^
+||http://xb011x.cn^
 ||http://xb29h.cn^
 ||http://xbiqugecc.com/bcc/
 ||http://xbzpppr.cn^
@@ -17035,7 +17038,6 @@ https://atyun.com###r_banner > ul > li > a[href^="http"]:not([href*="atyun."])
 https://163.com###r_mkaolaadv
 https://appinn.com###ranshownow
 https://game2.cn###rb
-https://cqsq.com###read_0 + a[target="_blank"]
 https://tiboo.cn###read_hd1
 https://chinaqking.com###readerServiceDIV
 https://pujia8.com,sdgundam.cn###recommend
@@ -18749,12 +18751,11 @@ https://1fzw.com##.index_ad_top_wz
 https://mitbbs.ca,mitbbs.com##.index_add
 https://76xh.com##.index_advertising
 https://76xh.com##.index_advertising02
-https://cqsq.com,xz.ccoo.cn##.index_banner
+https://xz.ccoo.cn##.index_banner
 https://shfq.com##.index_banner_ad
 https://juxia.com##.index_bttg
 https://hgitv.com##.index_gg
 https://hgitv.com##.index_gg01
-https://cqsq.com##.index_main_gg
 https://hgitv.com##.index_main_top_zhong_02
 https://hqdoor.com##.index_newad
 https://jianshen114.com##.index_temp
@@ -19052,7 +19053,6 @@ https://90oo.com##.mtswp_scbar_ad
 https://stockstar.com##.much_ad
 https://techug.com##.mug
 https://pixiv.net##.multi-ads-area
-https://cqsq.com##.mumucms_index_tlad
 https://china.com##.mxm
 https://cngold.com.cn##.myGuangGao
 https://cnblogs.com##.my_money
@@ -20132,6 +20132,7 @@ https://5dm.tv##a[href*="suo.im"]
 https://mtrend.cn##a[href*="taomoubao.com"]
 https://jinti.com##a[href*="tempurchina.com"]
 https://58.com##a[href*="to8to.com"]
+https://comicat.org##A[href*="tyrantdb.com"]
 https://1090ys1.com,kisssub.org,wnacg.com,wnacg.org##a[href*="tyrantdb.com"]
 https://boke112.com##a[href*="url.cn"]
 https://enjoymore.fun##a[href*="urlto.pw"]
@@ -21150,16 +21151,16 @@ https://hpjav.tv##body > div[style^="position: fixed;"]
 https://verystream.com#@#.adsbox
 https://googleads.g.doubleclick.net###mys-wrapper
 https://xhtml?%22+$script,third-party
-https://52biquge.com##[onclick*="app"]
-https://52biquge.com##a[href^="http://html.350.com/"]
-https://biqubao.com##div[style="width:976px;"]
-https://bixia.org##dd[style*="bottom:"]
 https://bxwx666.org###addiv3
 https://duanwenxue.com##.qgzdwx
-https://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
-https://jx.la##[onclick*="apk"]
-https://piaotian5.com##script + div[style="padding:15px;"]
 https://xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
+https://jx.la##[onclick*="apk"]
+https://52biquge.com##[onclick*="app"]
+https://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
+https://52biquge.com##a[href^="http://html.350.com/"]
+https://bixia.org##dd[style*="bottom:"]
+https://biqubao.com##div[style="width:976px;"]
+https://piaotian5.com##script + div[style="padding:15px;"]
 https://onemanhua.com##.mn-thumb:nth-child(n+2)
 https://onemanhua.com##[id*="ScriptRoot"]
 https://getrelax.cc,sexylove.club##.loaded-popup-wrapper
@@ -23113,7 +23114,6 @@ http://atyun.com###r_banner > ul > li > a[href^="http"]:not([href*="atyun."])
 http://163.com###r_mkaolaadv
 http://appinn.com###ranshownow
 http://game2.cn###rb
-http://cqsq.com###read_0 + a[target="_blank"]
 http://tiboo.cn###read_hd1
 http://chinaqking.com###readerServiceDIV
 http://pujia8.com,sdgundam.cn###recommend
@@ -24827,12 +24827,11 @@ http://1fzw.com##.index_ad_top_wz
 http://mitbbs.ca,mitbbs.com##.index_add
 http://76xh.com##.index_advertising
 http://76xh.com##.index_advertising02
-http://cqsq.com,xz.ccoo.cn##.index_banner
+http://xz.ccoo.cn##.index_banner
 http://shfq.com##.index_banner_ad
 http://juxia.com##.index_bttg
 http://hgitv.com##.index_gg
 http://hgitv.com##.index_gg01
-http://cqsq.com##.index_main_gg
 http://hgitv.com##.index_main_top_zhong_02
 http://hqdoor.com##.index_newad
 http://jianshen114.com##.index_temp
@@ -25130,7 +25129,6 @@ http://90oo.com##.mtswp_scbar_ad
 http://stockstar.com##.much_ad
 http://techug.com##.mug
 http://pixiv.net##.multi-ads-area
-http://cqsq.com##.mumucms_index_tlad
 http://china.com##.mxm
 http://cngold.com.cn##.myGuangGao
 http://cnblogs.com##.my_money
@@ -26210,6 +26208,7 @@ http://5dm.tv##a[href*="suo.im"]
 http://mtrend.cn##a[href*="taomoubao.com"]
 http://jinti.com##a[href*="tempurchina.com"]
 http://58.com##a[href*="to8to.com"]
+http://comicat.org##A[href*="tyrantdb.com"]
 http://1090ys1.com,kisssub.org,wnacg.com,wnacg.org##a[href*="tyrantdb.com"]
 http://boke112.com##a[href*="url.cn"]
 http://enjoymore.fun##a[href*="urlto.pw"]
@@ -27228,16 +27227,16 @@ http://hpjav.tv##body > div[style^="position: fixed;"]
 http://verystream.com#@#.adsbox
 http://googleads.g.doubleclick.net###mys-wrapper
 http://xhtml?%22+$script,third-party
-http://52biquge.com##[onclick*="app"]
-http://52biquge.com##a[href^="http://html.350.com/"]
-http://biqubao.com##div[style="width:976px;"]
-http://bixia.org##dd[style*="bottom:"]
 http://bxwx666.org###addiv3
 http://duanwenxue.com##.qgzdwx
-http://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
-http://jx.la##[onclick*="apk"]
-http://piaotian5.com##script + div[style="padding:15px;"]
 http://xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
+http://jx.la##[onclick*="apk"]
+http://52biquge.com##[onclick*="app"]
+http://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
+http://52biquge.com##a[href^="http://html.350.com/"]
+http://bixia.org##dd[style*="bottom:"]
+http://biqubao.com##div[style="width:976px;"]
+http://piaotian5.com##script + div[style="padding:15px;"]
 http://onemanhua.com##.mn-thumb:nth-child(n+2)
 http://onemanhua.com##[id*="ScriptRoot"]
 http://getrelax.cc,sexylove.club##.loaded-popup-wrapper

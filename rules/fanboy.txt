@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: b25W3CCweV3WVLTrEalC8Q
-! Version: 202008262351
+! Checksum: GXgic3N5uLnSgTWYq1OGoQ
+! Version: 202008272351
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Aug 2020 23:51 UTC
+! Last modified: 27 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10065,6 +10065,7 @@ https://italiafruit.net###ctl00_imgIscrizione
 https://entertainmentillustrated.it,primaonline.it,stradeeautostrade.it,youtrend.it###custom_html-2
 https://entertainmentillustrated.it###custom_html-5
 https://digitaleterrestrefacile.it###custom_html-9
+https://euractiv.it###ea-alert-menu
 https://rockit.it###fangate-container
 https://eprice.it###fastRegBottom
 https://bastabugie.it###feed
@@ -10111,6 +10112,7 @@ https://uniroma1.it###sdb-wrapper
 https://tuttoandroid.net###sh_local
 https://virgilio.it###shr_box
 https://3bmeteo.com###sidebar-video-fixed
+https://money.it###signup-form
 https://qualescegliere.it###slideUpForm
 https://romaest.cc,zipnews.it###slide_top
 https://orizzontescuola.it###slidebox
@@ -10176,6 +10178,7 @@ https://sapere.it##.dbdslim
 https://donnamoderna.com##.donnam-footer-newsletter
 https://webnews.it##.email
 https://eprice.it##.ep_GoTop
+https://equos.it##.equos-home-in-evidenza-newsletter-subscribe
 https://policymakermag.it,startmag.it##.essb-subscribe-form
 https://pambianconews.com,tecnoandroid.it##.essb_mailform
 https://corriere.it,proiezionidiborsa.it##.fancybox-overlay
@@ -10187,6 +10190,7 @@ https://forbes.it##.forbes-newsletter
 https://forbes.it##.forbes-newsletter-invite
 https://hwupgrade.it##.form-offerte
 https://my-personaltrainer.it##.frecciabg
+https://euractiv.it##.gform_widget
 https://corriere.it##.glightbox-container
 https://monovolume.cc##.go-up
 https://comune.milano.it,meetingrimini.org,radionorba.it##.gotop
@@ -10217,6 +10221,7 @@ https://starbene.it##.nlslim
 https://systems.bz##.on-top
 https://blauerusa.com##.onTop
 https://ricoh.it##.page-link-top
+https://nonsprecare.it##.partnerheader
 https://everyeye.it##.playert
 https://enzopennetta.it##.popmake
 https://astrooroscopo.it##.popup
@@ -10927,6 +10932,8 @@ https://everyeye.it##.cont_reply > .link-post
 https://playstationitalianleague.com##.context-content-community-links
 https://insideover.com##.d-sm-block
 https://repubblica.it##.detail-social
+https://donnamoderna.com##.dm20-footer-social-link
+https://donnamoderna.com##.dm20-lory-share-panel
 https://donnamoderna.com##.donnam-footer-social
 https://mediaset.it##.dsoc
 https://frasicelebri.it##.email
@@ -10986,6 +10993,8 @@ https://rockol.it##.menu__facebook
 https://andreagaleazzi.com##.mercatino-toggle
 https://ansa.it##.new-toolbar-menu
 https://ansa.it##.news-social
+https://optimagazine.com##.ocial
+https://optimagazine.com##.ocialWhite
 https://corriere.it##.player-email-ctn
 https://lintellettualedissidente.it##.post-actions
 https://raisport.rai.it##.prefooter
@@ -11976,7 +11985,7 @@ https://blogfree.net,forumfree.it##.jnote
 https://hertz247.it##.lbContainer
 https://hertzrent2buy.it##.lb_overlay
 https://hilti.it##.m-smartbar-container
-https://insideevs.it##.m1-footer-message
+https://insideevs.it,omnifurgone.it,omnimoto.it##.m1-footer-message
 https://fashionunited.it##.mdc-snackbar__surface
 https://ari.it##.message
 https://alfasigma.com,elevensports.it##.modal-backdrop
@@ -13103,6 +13112,8 @@ https://franziskaner-weissbier.de#@#.accept-cookies
 https://imvu.com#@#.accept-cookies:not(html)
 https://live.nettavisen.no#@#.active > div
 https://patient.info#@#.alert--cookie
+https://rainews.it#@#.as-oil-content-overlay
+https://rainews.it#@#.as-oil[data-qa="oil-Layer"]
 https://openfiber.it,supertennis.tv#@#.cc-banner
 https://bing.com,czuczu.pl,supertennis.tv#@#.cc-container
 https://morningstar.ca#@#.cc_container
@@ -13215,7 +13226,7 @@ https://bosch-mobility-solutions.com#@#.m-cookie
 https://bosch-mobility-solutions.com#@#.m-cookie-intro
 https://makelaarsland.nl#@#.m-cookie-notice
 https://theverge.com#@#.m-privacy-consent
-https://brsspa.it,burberry.com,gct.com,herbritts.com,oattravel.com,pentestpartners.com,piaggiogroup.com#@#.mod_cookies
+https://brsspa.it,burberry.com,canadaswonderland.com,gct.com,herbritts.com,oattravel.com,pentestpartners.com,piaggiogroup.com#@#.mod_cookies
 https://elring.ae,elring.cn,elring.com,elring.com.tr,elring.de,elring.fr,elring.it,elring.pl,elring.pt,elring.ru,multimediago.pl,ticket.io#@#.modal-cookie
 https://betway.it#@#.module-cookie
 https://ramics-conference.org#@#.nf-form-content
@@ -20564,6 +20575,7 @@ http://italiafruit.net###ctl00_imgIscrizione
 http://entertainmentillustrated.it,primaonline.it,stradeeautostrade.it,youtrend.it###custom_html-2
 http://entertainmentillustrated.it###custom_html-5
 http://digitaleterrestrefacile.it###custom_html-9
+http://euractiv.it###ea-alert-menu
 http://rockit.it###fangate-container
 http://eprice.it###fastRegBottom
 http://bastabugie.it###feed
@@ -20610,6 +20622,7 @@ http://uniroma1.it###sdb-wrapper
 http://tuttoandroid.net###sh_local
 http://virgilio.it###shr_box
 http://3bmeteo.com###sidebar-video-fixed
+http://money.it###signup-form
 http://qualescegliere.it###slideUpForm
 http://romaest.cc,zipnews.it###slide_top
 http://orizzontescuola.it###slidebox
@@ -20675,6 +20688,7 @@ http://sapere.it##.dbdslim
 http://donnamoderna.com##.donnam-footer-newsletter
 http://webnews.it##.email
 http://eprice.it##.ep_GoTop
+http://equos.it##.equos-home-in-evidenza-newsletter-subscribe
 http://policymakermag.it,startmag.it##.essb-subscribe-form
 http://pambianconews.com,tecnoandroid.it##.essb_mailform
 http://corriere.it,proiezionidiborsa.it##.fancybox-overlay
@@ -20686,6 +20700,7 @@ http://forbes.it##.forbes-newsletter
 http://forbes.it##.forbes-newsletter-invite
 http://hwupgrade.it##.form-offerte
 http://my-personaltrainer.it##.frecciabg
+http://euractiv.it##.gform_widget
 http://corriere.it##.glightbox-container
 http://monovolume.cc##.go-up
 http://comune.milano.it,meetingrimini.org,radionorba.it##.gotop
@@ -20716,6 +20731,7 @@ http://starbene.it##.nlslim
 http://systems.bz##.on-top
 http://blauerusa.com##.onTop
 http://ricoh.it##.page-link-top
+http://nonsprecare.it##.partnerheader
 http://everyeye.it##.playert
 http://enzopennetta.it##.popmake
 http://astrooroscopo.it##.popup
@@ -21426,6 +21442,8 @@ http://everyeye.it##.cont_reply > .link-post
 http://playstationitalianleague.com##.context-content-community-links
 http://insideover.com##.d-sm-block
 http://repubblica.it##.detail-social
+http://donnamoderna.com##.dm20-footer-social-link
+http://donnamoderna.com##.dm20-lory-share-panel
 http://donnamoderna.com##.donnam-footer-social
 http://mediaset.it##.dsoc
 http://frasicelebri.it##.email
@@ -21485,6 +21503,8 @@ http://rockol.it##.menu__facebook
 http://andreagaleazzi.com##.mercatino-toggle
 http://ansa.it##.new-toolbar-menu
 http://ansa.it##.news-social
+http://optimagazine.com##.ocial
+http://optimagazine.com##.ocialWhite
 http://corriere.it##.player-email-ctn
 http://lintellettualedissidente.it##.post-actions
 http://raisport.rai.it##.prefooter
@@ -22476,7 +22496,7 @@ http://blogfree.net,forumfree.it##.jnote
 http://hertz247.it##.lbContainer
 http://hertzrent2buy.it##.lb_overlay
 http://hilti.it##.m-smartbar-container
-http://insideevs.it##.m1-footer-message
+http://insideevs.it,omnifurgone.it,omnimoto.it##.m1-footer-message
 http://fashionunited.it##.mdc-snackbar__surface
 http://ari.it##.message
 http://alfasigma.com,elevensports.it##.modal-backdrop
@@ -23603,6 +23623,8 @@ http://franziskaner-weissbier.de#@#.accept-cookies
 http://imvu.com#@#.accept-cookies:not(html)
 http://live.nettavisen.no#@#.active > div
 http://patient.info#@#.alert--cookie
+http://rainews.it#@#.as-oil-content-overlay
+http://rainews.it#@#.as-oil[data-qa="oil-Layer"]
 http://openfiber.it,supertennis.tv#@#.cc-banner
 http://bing.com,czuczu.pl,supertennis.tv#@#.cc-container
 http://morningstar.ca#@#.cc_container
@@ -23715,7 +23737,7 @@ http://bosch-mobility-solutions.com#@#.m-cookie
 http://bosch-mobility-solutions.com#@#.m-cookie-intro
 http://makelaarsland.nl#@#.m-cookie-notice
 http://theverge.com#@#.m-privacy-consent
-http://brsspa.it,burberry.com,gct.com,herbritts.com,oattravel.com,pentestpartners.com,piaggiogroup.com#@#.mod_cookies
+http://brsspa.it,burberry.com,canadaswonderland.com,gct.com,herbritts.com,oattravel.com,pentestpartners.com,piaggiogroup.com#@#.mod_cookies
 http://elring.ae,elring.cn,elring.com,elring.com.tr,elring.de,elring.fr,elring.it,elring.pl,elring.pt,elring.ru,multimediago.pl,ticket.io#@#.modal-cookie
 http://betway.it#@#.module-cookie
 http://ramics-conference.org#@#.nf-form-content
