@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GXgic3N5uLnSgTWYq1OGoQ
-! Version: 202008272351
+! Checksum: 7mzuhBr7CGtxsVjMTR0Inw
+! Version: 202008282351
 ! Title: Fanboy's Annoyance List
-! Last modified: 27 Aug 2020 23:51 UTC
+! Last modified: 28 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -9340,6 +9340,7 @@ https://office.com##.headPopup
 https://veeam.com##.header-component__messages-overlay
 https://igvault.com##.header-perm
 https://hivehome.com##.header-stacked-message
+https://start.fyi##.headnote
 https://bing.com##.hpn_top_container
 https://devhut.net##.ht-notification-section
 https://huawei.com##.huawei-bootom-cookie
@@ -10649,7 +10650,7 @@ https://playmassive.de,playnation.de##.sn
 https://heise.de##.soc-pos
 https://focus.de##.socBm
 https://focus.de##.socInfo
-https://az.com.na,businessinsider.de,europages.de,infosat.de,kabeleins.de,klassikradio.de,n24.de,omdb.org,peugeot.de,prosieben.de,ran.de,sat1.de,sixx.de,the-voice-of-germany.de,therese-moelk.at,top.de,tt.com##.social
+https://az.com.na,businessinsider.de,europages.de,fc-suedtirol.com,infosat.de,kabeleins.de,klassikradio.de,n24.de,omdb.org,peugeot.de,prosieben.de,ran.de,sat1.de,sixx.de,the-voice-of-germany.de,therese-moelk.at,top.de,tt.com##.social
 https://futurezone.at##.social > li > a > img
 https://marcopolo.de##.socialWeb
 https://schwaebische.de##.social_communities
@@ -13073,6 +13074,7 @@ https://gberardi.com#@##cookie_message
 https://postnl.be#@##cookiebar-container
 https://hbogo.hu#@##cookiebox
 https://www.free.fr#@##cookieconsent
+https://gocomics.com#@##cookieconsent-container
 https://gruenderservice.at#@##cookiehint
 https://porno720.pl,tvporno.pl#@##cookieinfo
 https://qastack.fr#@##cookies-accept
@@ -19850,6 +19852,7 @@ http://office.com##.headPopup
 http://veeam.com##.header-component__messages-overlay
 http://igvault.com##.header-perm
 http://hivehome.com##.header-stacked-message
+http://start.fyi##.headnote
 http://bing.com##.hpn_top_container
 http://devhut.net##.ht-notification-section
 http://huawei.com##.huawei-bootom-cookie
@@ -21159,7 +21162,7 @@ http://playmassive.de,playnation.de##.sn
 http://heise.de##.soc-pos
 http://focus.de##.socBm
 http://focus.de##.socInfo
-http://az.com.na,businessinsider.de,europages.de,infosat.de,kabeleins.de,klassikradio.de,n24.de,omdb.org,peugeot.de,prosieben.de,ran.de,sat1.de,sixx.de,the-voice-of-germany.de,therese-moelk.at,top.de,tt.com##.social
+http://az.com.na,businessinsider.de,europages.de,fc-suedtirol.com,infosat.de,kabeleins.de,klassikradio.de,n24.de,omdb.org,peugeot.de,prosieben.de,ran.de,sat1.de,sixx.de,the-voice-of-germany.de,therese-moelk.at,top.de,tt.com##.social
 http://futurezone.at##.social > li > a > img
 http://marcopolo.de##.socialWeb
 http://schwaebische.de##.social_communities
@@ -23584,6 +23587,7 @@ http://gberardi.com#@##cookie_message
 http://postnl.be#@##cookiebar-container
 http://hbogo.hu#@##cookiebox
 http://www.free.fr#@##cookieconsent
+http://gocomics.com#@##cookieconsent-container
 http://gruenderservice.at#@##cookiehint
 http://porno720.pl,tvporno.pl#@##cookieinfo
 http://qastack.fr#@##cookies-accept
