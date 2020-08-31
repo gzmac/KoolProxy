@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pn2PO1mryQUGw6qUAMXRYg
-! Version: 202008292351
+! Checksum: L7/Epdcjg4kCHF42NzWJBg
+! Version: 202008302351
 ! Title: Fanboy's Annoyance List
-! Last modified: 29 Aug 2020 23:51 UTC
+! Last modified: 30 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -798,7 +798,6 @@
 ||https://onetag.mgr.consensu.org^$third-party
 ||https://onetrust.com^$third-party
 ||https://onetrust.mgr.consensu.org^$third-party
-||https://privacy-center.org^$third-party
 ||https://privacy.clion.agency^$third-party
 ||https://privacymanager.io^$third-party
 ||https://publy.net^$third-party
@@ -2152,7 +2151,6 @@
 ||http://onetrust.com^$third-party
 ||http://onetrust.mgr.consensu.org^$third-party
 ||http://optanon.blob.core.windows.net^
-||http://privacy-center.org^$third-party
 ||http://privacy.clion.agency^$third-party
 ||http://privacy.purch.com^
 ||http://privacymanager.io^$third-party
@@ -8014,7 +8012,7 @@ https://cgtn.com##.header-follow
 https://opposingviews.com##.header-icons
 https://nova-magazine.net##.header-info-text
 https://shelovesporn.com,themarshallproject.org##.header-link
-https://aljazeera.com,bostonmagazine.com,calvertjournal.com,cloth5.com,gaystarnews.com,hothardware.com,livingly.com,lonny.com,lovenature.com,musicfeeds.com.au,sneakernews.com,sourcefed.com,stylebistro.com,thedailybeast.com,thinkprogress.org,transfermarkt.co.uk,transfermarkt.com,wowhead.com,zimbio.com##.header-social
+https://aljazeera.com,bostonmagazine.com,calvertjournal.com,cloth5.com,gaystarnews.com,hothardware.com,livingly.com,lonny.com,lovenature.com,malwaretips.com,musicfeeds.com.au,sneakernews.com,sourcefed.com,stylebistro.com,thedailybeast.com,thinkprogress.org,transfermarkt.co.uk,transfermarkt.com,wowhead.com,zimbio.com##.header-social
 https://visual.ly##.headerCallToActionContainer
 https://kgmi.com##.headericons
 https://healthyplace.com##.healthyplace-on-facebook
@@ -10892,6 +10890,7 @@ https://repubblica.it###segno-fb
 https://dueruote.it###segui
 https://comune.cagliari.it###segui_hp
 https://termometropolitico.it###seguici
+https://wikihow.it###sf
 https://gazzetta.it###share
 https://goodmorningnews.it###short-url
 https://deejay.it###slider
@@ -18527,7 +18526,7 @@ http://cgtn.com##.header-follow
 http://opposingviews.com##.header-icons
 http://nova-magazine.net##.header-info-text
 http://shelovesporn.com,themarshallproject.org##.header-link
-http://aljazeera.com,bostonmagazine.com,calvertjournal.com,cloth5.com,gaystarnews.com,hothardware.com,livingly.com,lonny.com,lovenature.com,musicfeeds.com.au,sneakernews.com,sourcefed.com,stylebistro.com,thedailybeast.com,thinkprogress.org,transfermarkt.co.uk,transfermarkt.com,wowhead.com,zimbio.com##.header-social
+http://aljazeera.com,bostonmagazine.com,calvertjournal.com,cloth5.com,gaystarnews.com,hothardware.com,livingly.com,lonny.com,lovenature.com,malwaretips.com,musicfeeds.com.au,sneakernews.com,sourcefed.com,stylebistro.com,thedailybeast.com,thinkprogress.org,transfermarkt.co.uk,transfermarkt.com,wowhead.com,zimbio.com##.header-social
 http://visual.ly##.headerCallToActionContainer
 http://kgmi.com##.headericons
 http://healthyplace.com##.healthyplace-on-facebook
@@ -21406,6 +21405,7 @@ http://repubblica.it###segno-fb
 http://dueruote.it###segui
 http://comune.cagliari.it###segui_hp
 http://termometropolitico.it###seguici
+http://wikihow.it###sf
 http://gazzetta.it###share
 http://goodmorningnews.it###short-url
 http://deejay.it###slider

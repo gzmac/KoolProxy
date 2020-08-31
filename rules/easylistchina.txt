@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 3Z7l+OQtnuOFxrJmr5Zlyg
-! Version: 202008300003
+! Checksum: sqjFezn8ncG9NI1e8zjR+A
+! Version: 202008310003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -5442,6 +5442,8 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://d8ekco.com^
+||http://shuake.ink^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -19599,7 +19601,8 @@ https://3g.cn##.statistic[href^="https://jumpluna.58.com/"]
 https://tvsou.com##.story_ad_android
 https://tvsou.com##.story_ad_content_footer
 https://tvsou.com##.story_ad_ios
-https://yahoo.com##.stream-items[data-wf-beacons]
+https://yahoo.com#?#.stream-items:-abp-has(> div > div > span:-abp-contains(即日熱搜))
+https://yahoo.com#?#.stream-items[data-wf-beacons]
 https://sonimei.cn##.style01
 https://sonimei.cn##.style03
 https://guofs.com##.style2
@@ -25680,7 +25683,8 @@ http://3g.cn##.statistic[href^="https://jumpluna.58.com/"]
 http://tvsou.com##.story_ad_android
 http://tvsou.com##.story_ad_content_footer
 http://tvsou.com##.story_ad_ios
-http://yahoo.com##.stream-items[data-wf-beacons]
+http://yahoo.com#?#.stream-items:-abp-has(> div > div > span:-abp-contains(即日熱搜))
+http://yahoo.com#?#.stream-items[data-wf-beacons]
 http://sonimei.cn##.style01
 http://sonimei.cn##.style03
 http://guofs.com##.style2
