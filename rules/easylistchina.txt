@@ -1,8 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: sqjFezn8ncG9NI1e8zjR+A
-! Version: 202008310003
+! Checksum: T8RizSe2lZSy6ZLdSujcTw
+! Version: 202009010023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
+||https://naifei.shop^$third-party
 ||https://012.tw^$third-party
 ||https://033.com^$third-party
 ||https://0591101.com^$third-party
@@ -4798,6 +4799,8 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://51pantu.com/pic/1598717206949.gif
+||https://pipix.cc/gg.gif
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -5442,6 +5445,7 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://naifei.shop^$third-party
 ||http://d8ekco.com^
 ||http://shuake.ink^
 ||http://00-gov.cn^
@@ -12612,6 +12616,8 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://51pantu.com/pic/1598717206949.gif
+||http://pipix.cc/gg.gif
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a25.com|xin99r3.com|xin99r4.com
 ||http://sinaimg.cn^$domain=99a25.com|xin99r3.com|xin99r4.com
@@ -13427,6 +13433,7 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://f1t5pb.cn^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -21253,6 +21260,7 @@ https://zol.com.cn##span[class^="dxlt-down"]
 https://zol.com.cn##span[class^="jisu-down"]
 https://coolpc.com.tw#@##mycookie
 https://dota2.com.cn#@##bdshare
+https://diaoge.cn#@#.social-top
 https://eastday.com#@##leftShare
 https://gfan.com,gfan.net.cn#@##shareBox
 https://sogou.com#@##shareContent
@@ -27335,6 +27343,7 @@ http://zol.com.cn##span[class^="dxlt-down"]
 http://zol.com.cn##span[class^="jisu-down"]
 http://coolpc.com.tw#@##mycookie
 http://dota2.com.cn#@##bdshare
+http://diaoge.cn#@#.social-top
 http://eastday.com#@##leftShare
 http://gfan.com,gfan.net.cn#@##shareBox
 http://sogou.com#@##shareContent

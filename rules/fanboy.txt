@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: L7/Epdcjg4kCHF42NzWJBg
-! Version: 202008302351
+! Checksum: G96uH0/qv7+6swQhcFLBnw
+! Version: 202008312351
 ! Title: Fanboy's Annoyance List
-! Last modified: 30 Aug 2020 23:51 UTC
+! Last modified: 31 Aug 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10052,7 +10052,7 @@ https://automoto.it,moto.it###arrow-back-top
 https://norbaonline.it###back
 https://ssangyong-auto.it###back_top
 https://telefonino.net###backbutton
-https://grandangoloagrigento.it,itacanotizie.it,qds.it,tempostretto.it,vistosulweb.com###blogup
+https://grandangoloagrigento.it,ilfattonisseno.it,itacanotizie.it,qds.it,tempostretto.it,vistosulweb.com###blogup
 https://erboristeriamagentina.it###blultpdfbanner
 https://virgilio.it###bottom_chat
 https://centrometeoitaliano.it###box-banner-messaggero
@@ -10249,6 +10249,7 @@ https://obi-italia.it##.to-top-nav
 https://anothersound.it##.to_top
 https://mimanchitu.it##.toast
 https://abitare-in-altoadige.it,armietiro.it,automobilismo.it,borse.it,ciclismo.it,corrieredellosport.it,cyclistmagazine.it,evomagazine.it,guidafisco.it,kimbo.it,lavalsabbina.it,menshealth.it,motociclismo.it,runnersworld.it,senoecoseno.it,tuttosport.com,velaemotore.it##.top
+https://neveitalia.it##.top-bar
 https://media-mormoni.it##.top-button-container
 https://altadefinizione.ml,cartoonmemories.netsons.org,filmstreamingaltadefinizione.it,guardaserie.site,ilgeniodellostreaming.eu,informazionefiscale.it,streaminghd.online,vedohd.net##.top-page
 https://davinotti.com##.top-scroll
@@ -11942,6 +11943,7 @@ https://meyer.it###zf--alerts-panel
 https://intrage.it##.BoxPrivacy
 https://rivistastudio.com##.SCK_Banner
 https://abruzzo24ore.tv,capoluogo.com,economia24ore.it,fosse-biologiche.it,gossip24ore.it,il24ore.it,ilmeteo24ore.it,occhioallook.it,recensioni.tv,tuttosport24ore.it##._CL_main
+https://arbitrobancariofinanziario.it##.abf-no-cookie::after
 https://agenziagiovani.it,assocarta.it,cassoni-usati.it,farmenspa.it,salvaunbambino.it##.activebar-container
 https://cafassoefigli.it,essofuelfinder.it,faperme.it,pagellapolitica.it,playinfinity.it,saperesalute.it,siemens.it,trivago.it,tufanogomme.com,uabstyle.it,voglioviverecosi.com##.alert
 https://intimerie.com##.alert-info
@@ -12004,6 +12006,7 @@ https://edilvetta.it,naegele.it##.privacy
 https://smtvsanmarino.sm##.privacy-top
 https://italradio.org##.privacyStatement
 https://prelex.it##.rstboxes
+https://juzaphoto.com##.s_bluebox
 https://ogrtorino.it##.sc-dxgOiQ
 https://larrysmith.it##.scroll-banner
 https://teleradiopadrepio.it##.spu-bg
@@ -12508,7 +12511,7 @@ https://google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,go
 https://scribol.com#@#.scribol
 https://advids.co,cbdoilreview.org,fashiola.fr,galerieslafayette.com,mortgageguy.com.au,paperless-insurance.com,thepage.com.ua,thepage.ua#@#.scroll-to-top:not(body)
 https://channelnewsasia.com,dreamhost.com,kitacon.org,lampade.it,polskikoszyk.pl,posti.fi,redislabs.com#@#.scroll-top:not(body):not(html)
-https://aklinizikesfedin.com,channelnewsasia.com,ew.com,indiatimes.com,letyshops.com,msn.com,people.com,southernliving.com,steptohealth.com,tele2.ru,wiemy.to#@#.scroll-up:not(body):not(html)
+https://aklinizikesfedin.com,bancobpm.it,channelnewsasia.com,ew.com,indiatimes.com,letyshops.com,msn.com,people.com,southernliving.com,steptohealth.com,tele2.ru,wiemy.to#@#.scroll-up:not(body):not(html)
 https://krasnodar.ru#@#.scrollTop
 https://hyperoptic.com,playtech.co.nz,porozmawiajmyoit.pl,scan.co.uk#@#.scroll_top:not(body):not(html)
 https://ltn.com.tw,theuptake.org#@#.scrolltop:not(body):not(html)
@@ -20567,7 +20570,7 @@ http://automoto.it,moto.it###arrow-back-top
 http://norbaonline.it###back
 http://ssangyong-auto.it###back_top
 http://telefonino.net###backbutton
-http://grandangoloagrigento.it,itacanotizie.it,qds.it,tempostretto.it,vistosulweb.com###blogup
+http://grandangoloagrigento.it,ilfattonisseno.it,itacanotizie.it,qds.it,tempostretto.it,vistosulweb.com###blogup
 http://erboristeriamagentina.it###blultpdfbanner
 http://virgilio.it###bottom_chat
 http://centrometeoitaliano.it###box-banner-messaggero
@@ -20764,6 +20767,7 @@ http://obi-italia.it##.to-top-nav
 http://anothersound.it##.to_top
 http://mimanchitu.it##.toast
 http://abitare-in-altoadige.it,armietiro.it,automobilismo.it,borse.it,ciclismo.it,corrieredellosport.it,cyclistmagazine.it,evomagazine.it,guidafisco.it,kimbo.it,lavalsabbina.it,menshealth.it,motociclismo.it,runnersworld.it,senoecoseno.it,tuttosport.com,velaemotore.it##.top
+http://neveitalia.it##.top-bar
 http://media-mormoni.it##.top-button-container
 http://altadefinizione.ml,cartoonmemories.netsons.org,filmstreamingaltadefinizione.it,guardaserie.site,ilgeniodellostreaming.eu,informazionefiscale.it,streaminghd.online,vedohd.net##.top-page
 http://davinotti.com##.top-scroll
@@ -22458,6 +22462,7 @@ http://meyer.it###zf--alerts-panel
 http://intrage.it##.BoxPrivacy
 http://rivistastudio.com##.SCK_Banner
 http://abruzzo24ore.tv,capoluogo.com,economia24ore.it,fosse-biologiche.it,gossip24ore.it,il24ore.it,ilmeteo24ore.it,occhioallook.it,recensioni.tv,tuttosport24ore.it##._CL_main
+http://arbitrobancariofinanziario.it##.abf-no-cookie::after
 http://agenziagiovani.it,assocarta.it,cassoni-usati.it,farmenspa.it,salvaunbambino.it##.activebar-container
 http://cafassoefigli.it,essofuelfinder.it,faperme.it,pagellapolitica.it,playinfinity.it,saperesalute.it,siemens.it,trivago.it,tufanogomme.com,uabstyle.it,voglioviverecosi.com##.alert
 http://intimerie.com##.alert-info
@@ -22520,6 +22525,7 @@ http://edilvetta.it,naegele.it##.privacy
 http://smtvsanmarino.sm##.privacy-top
 http://italradio.org##.privacyStatement
 http://prelex.it##.rstboxes
+http://juzaphoto.com##.s_bluebox
 http://ogrtorino.it##.sc-dxgOiQ
 http://larrysmith.it##.scroll-banner
 http://teleradiopadrepio.it##.spu-bg
@@ -23024,7 +23030,7 @@ http://google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,goo
 http://scribol.com#@#.scribol
 http://advids.co,cbdoilreview.org,fashiola.fr,galerieslafayette.com,mortgageguy.com.au,paperless-insurance.com,thepage.com.ua,thepage.ua#@#.scroll-to-top:not(body)
 http://channelnewsasia.com,dreamhost.com,kitacon.org,lampade.it,polskikoszyk.pl,posti.fi,redislabs.com#@#.scroll-top:not(body):not(html)
-http://aklinizikesfedin.com,channelnewsasia.com,ew.com,indiatimes.com,letyshops.com,msn.com,people.com,southernliving.com,steptohealth.com,tele2.ru,wiemy.to#@#.scroll-up:not(body):not(html)
+http://aklinizikesfedin.com,bancobpm.it,channelnewsasia.com,ew.com,indiatimes.com,letyshops.com,msn.com,people.com,southernliving.com,steptohealth.com,tele2.ru,wiemy.to#@#.scroll-up:not(body):not(html)
 http://krasnodar.ru#@#.scrollTop
 http://hyperoptic.com,playtech.co.nz,porozmawiajmyoit.pl,scan.co.uk#@#.scroll_top:not(body):not(html)
 http://ltn.com.tw,theuptake.org#@#.scrolltop:not(body):not(html)
