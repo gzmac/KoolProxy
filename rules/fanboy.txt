@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: G96uH0/qv7+6swQhcFLBnw
-! Version: 202008312351
+! Checksum: m0LaH/n2LXFXGelBv+6zew
+! Version: 202009012351
 ! Title: Fanboy's Annoyance List
-! Last modified: 31 Aug 2020 23:51 UTC
+! Last modified: 01 Sep 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -3541,6 +3541,7 @@ https://neowin.net###like-this
 https://sing365.com###like_this
 https://babble.com###likebox
 https://bloggeek.me###likes
+https://irccloud.com###limits > a
 https://arstechnica.com###links-bar
 https://ugo.com###liveintent_app_iframe
 https://allrecipes.com###lobsterbar
@@ -10122,7 +10123,7 @@ https://centrometeolombardo.com###spot_popup
 https://arch.bz.it###srollTop
 https://fides.org###subcribe-nl
 https://fm-world.it###subscribe-form
-https://lavocedeltrentino.it###subscription-form
+https://bitcity.it,lavocedeltrentino.it###subscription-form
 https://tp24.it###templatemo_container_barra
 https://ultimouomo.com###text-2
 https://emmepress.com###text-9
@@ -10243,6 +10244,7 @@ https://ilfattoquotidiano.it##.side-arrow
 https://tavoloeditoriradio.it##.sm-up-container
 https://calciomercato.com,sky.it##.smartbanner
 https://ilglobo.com.au,ilpost.it,lafiamma.com.au##.subscribe
+https://2night.it##.subscribe-article
 https://milanodabere.it##.subscribeDataTable
 https://la7.it##.tgla7-condividi
 https://obi-italia.it##.to-top-nav
@@ -11881,6 +11883,7 @@ https://ilgiornale.it,prezzoforte.it,virgilio.it###bottombar
 https://lacnews24.it###box1
 https://bancacrs.it###boxes
 https://proversi.it###c-agree
+https://ladistanza.it###cMessage
 https://cassaforense.it,cfnews.it###cassaforense-cookies
 https://centrometeolombardo.com###cc_div
 https://ecodallecitta.it###contenuto_consenso
@@ -14058,6 +14061,7 @@ http://neowin.net###like-this
 http://sing365.com###like_this
 http://babble.com###likebox
 http://bloggeek.me###likes
+http://irccloud.com###limits > a
 http://arstechnica.com###links-bar
 http://ugo.com###liveintent_app_iframe
 http://allrecipes.com###lobsterbar
@@ -20640,7 +20644,7 @@ http://centrometeolombardo.com###spot_popup
 http://arch.bz.it###srollTop
 http://fides.org###subcribe-nl
 http://fm-world.it###subscribe-form
-http://lavocedeltrentino.it###subscription-form
+http://bitcity.it,lavocedeltrentino.it###subscription-form
 http://tp24.it###templatemo_container_barra
 http://ultimouomo.com###text-2
 http://emmepress.com###text-9
@@ -20761,6 +20765,7 @@ http://ilfattoquotidiano.it##.side-arrow
 http://tavoloeditoriradio.it##.sm-up-container
 http://calciomercato.com,sky.it##.smartbanner
 http://ilglobo.com.au,ilpost.it,lafiamma.com.au##.subscribe
+http://2night.it##.subscribe-article
 http://milanodabere.it##.subscribeDataTable
 http://la7.it##.tgla7-condividi
 http://obi-italia.it##.to-top-nav
@@ -22400,6 +22405,7 @@ http://ilgiornale.it,prezzoforte.it,virgilio.it###bottombar
 http://lacnews24.it###box1
 http://bancacrs.it###boxes
 http://proversi.it###c-agree
+http://ladistanza.it###cMessage
 http://cassaforense.it,cfnews.it###cassaforense-cookies
 http://centrometeolombardo.com###cc_div
 http://ecodallecitta.it###contenuto_consenso
