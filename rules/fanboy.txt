@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: m0LaH/n2LXFXGelBv+6zew
-! Version: 202009012351
+! Checksum: ps7RVsfHYdQ3v1ME6KB3fg
+! Version: 202009022351
 ! Title: Fanboy's Annoyance List
-! Last modified: 01 Sep 2020 23:51 UTC
+! Last modified: 02 Sep 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -798,6 +798,7 @@
 ||https://onetag.mgr.consensu.org^$third-party
 ||https://onetrust.com^$third-party
 ||https://onetrust.mgr.consensu.org^$third-party
+||https://privacy-center.org^$third-party
 ||https://privacy.clion.agency^$third-party
 ||https://privacymanager.io^$third-party
 ||https://publy.net^$third-party
@@ -936,6 +937,7 @@
 ||https://womenonwheels.co.za^*/subscribe-
 ||https://wp.com^*/Subscribe-
 ||https://zerohedge.com^*/zh_email.
+||https://browser-brave.com/style/page-to-top.png
 ||https://cdprojektred.com^*/top.png
 ||https://chugai-pharm.co.jp^*/pagetop.
 ||https://cloudfront.net^*/nav-top.
@@ -1267,6 +1269,9 @@
 ||https://ilmeteo.it^*/BOX%20COMPLETO.
 ||https://ilquotidianodellazio.it/img/mi-piace-
 ||https://lasiciliaweb.it^*/mipiace.gif
+||https://lavoripubblici.it/images/img-facebook-
+||https://lavoripubblici.it/images/img-linkedin-
+||https://lavoripubblici.it/images/img-twitter-
 ||https://mondomobileweb.it^*/mondomobiletelegram.
 ||https://napolimagazine.com^*/iconefooter/
 ||https://napolimagazine.com^*/iconetop/
@@ -2151,6 +2156,7 @@
 ||http://onetrust.com^$third-party
 ||http://onetrust.mgr.consensu.org^$third-party
 ||http://optanon.blob.core.windows.net^
+||http://privacy-center.org^$third-party
 ||http://privacy.clion.agency^$third-party
 ||http://privacy.purch.com^
 ||http://privacymanager.io^$third-party
@@ -2297,6 +2303,7 @@
 ||http://womenonwheels.co.za^*/subscribe-
 ||http://wp.com^*/Subscribe-$domain=noqreport.com
 ||http://zerohedge.com^*/zh_email.
+||http://browser-brave.com/style/page-to-top.png
 ||http://cdprojektred.com^*/top.png
 ||http://chugai-pharm.co.jp^*/pagetop.
 ||http://cloudfront.net^*/nav-top.$domain=bdnews24.com
@@ -2657,6 +2664,9 @@
 ||http://ilmeteo.it^*/BOX%20COMPLETO.
 ||http://ilquotidianodellazio.it/img/mi-piace-
 ||http://lasiciliaweb.it^*/mipiace.gif
+||http://lavoripubblici.it/images/img-facebook-
+||http://lavoripubblici.it/images/img-linkedin-
+||http://lavoripubblici.it/images/img-twitter-
 ||http://mondomobileweb.it^*/mondomobiletelegram.
 ||http://napolimagazine.com^*/iconefooter/
 ||http://napolimagazine.com^*/iconetop/
@@ -2906,6 +2916,7 @@ https://azcentral.com###azcAnywhereWrap
 https://azcentral.com###azcanywhere
 https://newyorker.com###b-modal-overlay
 https://bing.com###b_notificationContainer_bop
+https://bing.com###b_pole
 https://upi.com###b_tbr
 https://upi.com###b_tbr_c
 https://newser.com###backToGrid
@@ -10036,6 +10047,7 @@ https://desh.co.in##.newsLetter
 https://sangbadpratidin.in,vtvgujarati.com##.newsletter
 https://lantidiplomatico.it###BoxGri
 https://focusjunior.it###FJToTop
+https://eunews.it###FRed_Arrow
 https://chcflorence.it,hiexpressbolognafiera.it,higenova.it,himilangaribaldi.com,hiturin.it,hizara.it,hotelcontinentalvenice.com###GOZERO
 https://dailybest.it###G_info
 https://blitzquotidiano.it,ilpost.it,ladyblitz.it###IAS_container
@@ -10061,6 +10073,7 @@ https://paginegialle.it###btt
 https://money.it###button
 https://starq8.it###button-top
 https://tods.com###container-overlay-fast-registration
+https://ilmetapontino.it###content-dock
 https://corriere.it###corriere-exit-page-container
 https://italiafruit.net###ctl00_imgIscrizione
 https://entertainmentillustrated.it,primaonline.it,stradeeautostrade.it,youtrend.it###custom_html-2
@@ -10109,6 +10122,7 @@ https://dottori.it,ildubbio.news###scroll_top
 https://vloungebeach.tv###scroll_up
 https://mobimart.it###scrollblock
 https://chiesi.com###scrolltab
+https://centrosuono.com###scrolltop
 https://uniroma1.it###sdb-wrapper
 https://tuttoandroid.net###sh_local
 https://virgilio.it###shr_box
@@ -10226,6 +10240,7 @@ https://nonsprecare.it##.partnerheader
 https://everyeye.it##.playert
 https://enzopennetta.it##.popmake
 https://astrooroscopo.it##.popup
+https://eunews.it##.popuparticoli
 https://tvprato.it##.quinews-header
 https://storicang.it##.recibe
 https://giornalettismo.com##.related-article
@@ -11888,7 +11903,7 @@ https://cassaforense.it,cfnews.it###cassaforense-cookies
 https://centrometeolombardo.com###cc_div
 https://ecodallecitta.it###contenuto_consenso
 https://spesasicura.com###cook
-https://aeo.it,bookingaltoadige.com,chiesi.com,citroen-club.it,confidisystema.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miamerano.it,mymercato.it,primocanale.it,sace.it,spesati.it,tecnocasa.it,wd40.it###cookie
+https://aeo.it,bookingaltoadige.com,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miamerano.it,mymercato.it,primocanale.it,sace.it,spesati.it,tecnocasa.it,wd40.it###cookie
 https://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,supermercato24.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 https://majani.it###cs-banner
 https://netflixlovers.it###cs_container
@@ -13425,6 +13440,7 @@ http://azcentral.com###azcAnywhereWrap
 http://azcentral.com###azcanywhere
 http://newyorker.com###b-modal-overlay
 http://bing.com###b_notificationContainer_bop
+http://bing.com###b_pole
 http://upi.com###b_tbr
 http://upi.com###b_tbr_c
 http://newser.com###backToGrid
@@ -20557,6 +20573,7 @@ http://desh.co.in##.newsLetter
 http://sangbadpratidin.in,vtvgujarati.com##.newsletter
 http://lantidiplomatico.it###BoxGri
 http://focusjunior.it###FJToTop
+http://eunews.it###FRed_Arrow
 http://chcflorence.it,hiexpressbolognafiera.it,higenova.it,himilangaribaldi.com,hiturin.it,hizara.it,hotelcontinentalvenice.com###GOZERO
 http://dailybest.it###G_info
 http://blitzquotidiano.it,ilpost.it,ladyblitz.it###IAS_container
@@ -20582,6 +20599,7 @@ http://paginegialle.it###btt
 http://money.it###button
 http://starq8.it###button-top
 http://tods.com###container-overlay-fast-registration
+http://ilmetapontino.it###content-dock
 http://corriere.it###corriere-exit-page-container
 http://italiafruit.net###ctl00_imgIscrizione
 http://entertainmentillustrated.it,primaonline.it,stradeeautostrade.it,youtrend.it###custom_html-2
@@ -20630,6 +20648,7 @@ http://dottori.it,ildubbio.news###scroll_top
 http://vloungebeach.tv###scroll_up
 http://mobimart.it###scrollblock
 http://chiesi.com###scrolltab
+http://centrosuono.com###scrolltop
 http://uniroma1.it###sdb-wrapper
 http://tuttoandroid.net###sh_local
 http://virgilio.it###shr_box
@@ -20747,6 +20766,7 @@ http://nonsprecare.it##.partnerheader
 http://everyeye.it##.playert
 http://enzopennetta.it##.popmake
 http://astrooroscopo.it##.popup
+http://eunews.it##.popuparticoli
 http://tvprato.it##.quinews-header
 http://storicang.it##.recibe
 http://giornalettismo.com##.related-article
@@ -22410,7 +22430,7 @@ http://cassaforense.it,cfnews.it###cassaforense-cookies
 http://centrometeolombardo.com###cc_div
 http://ecodallecitta.it###contenuto_consenso
 http://spesasicura.com###cook
-http://aeo.it,bookingaltoadige.com,chiesi.com,citroen-club.it,confidisystema.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miamerano.it,mymercato.it,primocanale.it,sace.it,spesati.it,tecnocasa.it,wd40.it###cookie
+http://aeo.it,bookingaltoadige.com,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miamerano.it,mymercato.it,primocanale.it,sace.it,spesati.it,tecnocasa.it,wd40.it###cookie
 http://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,supermercato24.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 http://majani.it###cs-banner
 http://netflixlovers.it###cs_container
