@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ps7RVsfHYdQ3v1ME6KB3fg
-! Version: 202009022351
+! Checksum: S2eBofimZs8zT/iNMe9Aag
+! Version: 202009032351
 ! Title: Fanboy's Annoyance List
-! Last modified: 02 Sep 2020 23:51 UTC
+! Last modified: 03 Sep 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7055,6 +7055,7 @@ https://dailydot.com##footer
 https://breakingnews.ie##form[name="mc-embedded-subscribe-form"]
 https://newyorker.com##iframe[src^="/wp-content/assets/static/dfp/"]
 https://medicinenet.com##iframe[width="170"]
+https://indiatoday.in##p > .lazyloaded
 https://rightwingwatch.org#.footer-sidebar__widgets
 https://abovetopsecret.com###RSS
 https://thetech.com###rss
@@ -8937,6 +8938,7 @@ https://qz.com###chyron
 https://hofner.com###ck-overlay
 https://cbfhydraulic.com,marasrl.it###ckInfo
 https://wowza.com###ck_pu
+https://newindianexpress.com###ckgre
 https://panoramicearth.com###cklbox
 https://askthepsych.com###cks
 https://desktopwallpapers4.me,ouchpress.com###clayer
@@ -9134,6 +9136,7 @@ https://sonic.com###snc-data-disclosure
 https://wasserklinik.com###snppopup-welcome
 https://hotukdeals.com###softMessages-list
 https://eumostwanted.eu###sortingPreference
+https://amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.es,amazon.fr,amazon.in,amazon.it###sp-cc
 https://openweather.co.uk###stick-footer-panel
 https://ffonts.net,whatfontis.com###sticky-popup
 https://firefoxosdevices.org###storage-notice
@@ -12765,6 +12768,7 @@ https://sap.com#@#.j-social-actions
 https://sap.com#@#.j-social-button
 https://kickstarter.com,tradingview.com#@#.js-follow-user
 https://cgtn.com,nbcnews.com,playosmo.com,trello.com,vimeo.com#@#.js-share
+https://lenta.ru#@#.js-topic__socials
 https://alternativeto.net#@#.like-box
 https://darudar.org,fimfiction.net,modworkshop.net,nasaspaceflight.com#@#.like_button
 https://deezer.com#@#.link-social
@@ -12992,7 +12996,7 @@ https://stumbleupon.com#@#.stumble-button
 https://fewo-direkt.de,nvidia.pl#@#.subscribe-container
 https://nvidia.pl#@#.subscribe-text
 https://first-class-and-more.de,geekgamer.tv#@#.subscribe-widget
-https://greenlemon.me,mozvr.com#@#.tag-social
+https://greenlemon.me,mozvr.com,sheensay.ru#@#.tag-social
 https://flightradar24.com#@#.twitter-feed
 https://bme.jhu.edu,e-biznes.pl#@#.twitter-follow-button
 https://youtube.com#@#.twitter-icon
@@ -17580,6 +17584,7 @@ http://dailydot.com##footer
 http://breakingnews.ie##form[name="mc-embedded-subscribe-form"]
 http://newyorker.com##iframe[src^="/wp-content/assets/static/dfp/"]
 http://medicinenet.com##iframe[width="170"]
+http://indiatoday.in##p > .lazyloaded
 http://rightwingwatch.org#.footer-sidebar__widgets
 http://abovetopsecret.com###RSS
 http://thetech.com###rss
@@ -19463,6 +19468,7 @@ http://qz.com###chyron
 http://hofner.com###ck-overlay
 http://cbfhydraulic.com,marasrl.it###ckInfo
 http://wowza.com###ck_pu
+http://newindianexpress.com###ckgre
 http://panoramicearth.com###cklbox
 http://askthepsych.com###cks
 http://desktopwallpapers4.me,ouchpress.com###clayer
@@ -19660,6 +19666,7 @@ http://sonic.com###snc-data-disclosure
 http://wasserklinik.com###snppopup-welcome
 http://hotukdeals.com###softMessages-list
 http://eumostwanted.eu###sortingPreference
+http://amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.es,amazon.fr,amazon.in,amazon.it###sp-cc
 http://openweather.co.uk###stick-footer-panel
 http://ffonts.net,whatfontis.com###sticky-popup
 http://firefoxosdevices.org###storage-notice
@@ -23292,6 +23299,7 @@ http://sap.com#@#.j-social-actions
 http://sap.com#@#.j-social-button
 http://kickstarter.com,tradingview.com#@#.js-follow-user
 http://cgtn.com,nbcnews.com,playosmo.com,trello.com,vimeo.com#@#.js-share
+http://lenta.ru#@#.js-topic__socials
 http://alternativeto.net#@#.like-box
 http://darudar.org,fimfiction.net,modworkshop.net,nasaspaceflight.com#@#.like_button
 http://deezer.com#@#.link-social
@@ -23519,7 +23527,7 @@ http://stumbleupon.com#@#.stumble-button
 http://fewo-direkt.de,nvidia.pl#@#.subscribe-container
 http://nvidia.pl#@#.subscribe-text
 http://first-class-and-more.de,geekgamer.tv#@#.subscribe-widget
-http://greenlemon.me,mozvr.com#@#.tag-social
+http://greenlemon.me,mozvr.com,sheensay.ru#@#.tag-social
 http://flightradar24.com#@#.twitter-feed
 http://bme.jhu.edu,e-biznes.pl#@#.twitter-follow-button
 http://youtube.com#@#.twitter-icon
