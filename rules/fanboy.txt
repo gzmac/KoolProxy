@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XWhdDjgRvdRVlETOsHBIHQ
-! Version: 202009050051
+! Checksum: B5fw5nVAhIWEjBqr8kjorQ
+! Version: 202009052351
 ! Title: Fanboy's Annoyance List
-! Last modified: 05 Sep 2020 00:51 UTC
+! Last modified: 05 Sep 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12941,6 +12941,7 @@ https://cosmo.ru,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.
 https://golem.de#@#.social-sidebar
 https://domain.com.au#@#.social-stick
 https://tv-kino.net#@#.social-tab
+https://hdfcbank.com#@#.social-title
 https://golem.de#@#.social-tools
 https://gamesrepublic.com#@#.social-top
 https://gallerix.asia,gallerix.org#@#.social-tumblr
@@ -23473,6 +23474,7 @@ http://cosmo.ru,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.f
 http://golem.de#@#.social-sidebar
 http://domain.com.au#@#.social-stick
 http://tv-kino.net#@#.social-tab
+http://hdfcbank.com#@#.social-title
 http://golem.de#@#.social-tools
 http://gamesrepublic.com#@#.social-top
 http://gallerix.asia,gallerix.org#@#.social-tumblr
