@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 8TKAB2HxlOEmdQKyjADhBg
-! Version: 202009070023
+! Checksum: fJGWeTzxUFaquFTiG5z/dA
+! Version: 202009080023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -5698,6 +5698,7 @@
 ||http://56yk.com^$third-party
 ||http://57union.com^
 ||http://58.215.179.159^
+||http://58xiangka.com^
 ||http://592man.com^
 ||http://593pi.cn^
 ||http://59519.com^$third-party
@@ -6013,6 +6014,7 @@
 ||http://bianxianmao.com^$third-party
 ||http://biaoshipai.net^
 ||http://biddingx.com^$third-party
+||http://bihaipack.com^
 ||http://billionfocus.com^
 ||http://bingyinq.com^
 ||http://biochempop.com^
@@ -7258,6 +7260,7 @@
 ||http://sjy-stone.com.cn^
 ||http://sm077.com^
 ||http://smallmovieapp.com^
+||http://smallvideoapp.com^
 ||http://smartfarming.cn^
 ||http://smf82.cn^
 ||http://smitionsory.co^
@@ -13749,6 +13752,7 @@
 ||http://bhyddc.com^
 ||http://bianxianwu.com^
 ||http://bibi91.com^
+||http://bigcoob.xyz^
 ||http://bigcooc.xyz^
 ||http://bigcood.xyz^
 ||http://biluzhang.cn^
@@ -19050,6 +19054,7 @@ https://expreview.com##.mamaBox
 https://baidu.com##.manual-spread
 https://zhainanba.org##.marauto > p[style="text-align: left;"]
 https://fun48.com##.margin-big-bottom
+https://wa59.com##.marginrl
 https://fx110.com##.matrix-banner
 https://oschina.net##.mayun-jj
 https://itavcn.com##.mb_right > .mt8:nth-child(3)
@@ -19622,6 +19627,7 @@ https://xitongtiandi.net##.speed
 https://downbank.cn##.speed-downlist
 https://geekpark.net##.sponsor
 https://sogou.com,soso.com##.sponsored
+https://tophub.today##.sponsors
 https://so.com##.spread
 https://baidu.com##.spread-wrap
 https://2345.com##.spreadHotWords
@@ -20177,6 +20183,7 @@ https://r3sub.com##a[href*="bit.ly"]
 https://qixin.com##a[href*="cc.co/"]
 https://cnbeta.com,itboth.com,itkeyword.com,ruyo.net##a[href*="cloud.tencent."]
 https://zhaozhaoqu.com##a[href*="czvv.com"]
+https://comicat.org,kisssub.org##a[href*="db."]
 https://china.com.cn##a[href*="dwz.cn"]
 https://jiyingw.net##a[href*="fulibus.me"]
 https://tiexue.net##a[href*="game.tiexue."]
@@ -20195,7 +20202,7 @@ https://5dm.tv##a[href*="suo.im"]
 https://mtrend.cn##a[href*="taomoubao.com"]
 https://jinti.com##a[href*="tempurchina.com"]
 https://58.com##a[href*="to8to.com"]
-https://1090ys1.com,comicat.org,kisssub.org,wnacg.com,wnacg.org##a[href*="tyrantdb.com"]
+https://1090ys1.com,wnacg.com,wnacg.org##a[href*="tyrantdb.com"]
 https://boke112.com##a[href*="url.cn"]
 https://enjoymore.fun##a[href*="urlto.pw"]
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##a[href*="www.clinique."]
@@ -21217,16 +21224,16 @@ https://hpjav.tv##body > div[style^="position: fixed;"]
 https://verystream.com#@#.adsbox
 https://googleads.g.doubleclick.net###mys-wrapper
 https://xhtml?%22+$script,third-party
+https://52biquge.com##[onclick*="app"]
+https://52biquge.com##a[href^="http://html.350.com/"]
+https://biqubao.com##div[style="width:976px;"]
+https://bixia.org##dd[style*="bottom:"]
 https://bxwx666.org###addiv3
 https://duanwenxue.com##.qgzdwx
-https://xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
-https://jx.la##[onclick*="apk"]
-https://52biquge.com##[onclick*="app"]
 https://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
-https://52biquge.com##a[href^="http://html.350.com/"]
-https://bixia.org##dd[style*="bottom:"]
-https://biqubao.com##div[style="width:976px;"]
+https://jx.la##[onclick*="apk"]
 https://piaotian5.com##script + div[style="padding:15px;"]
+https://xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 https://onemanhua.com##.mn-thumb:nth-child(n+2)
 https://onemanhua.com##[id*="ScriptRoot"]
 https://getrelax.cc,sexylove.club##.loaded-popup-wrapper
@@ -25133,6 +25140,7 @@ http://expreview.com##.mamaBox
 http://baidu.com##.manual-spread
 http://zhainanba.org##.marauto > p[style="text-align: left;"]
 http://fun48.com##.margin-big-bottom
+http://wa59.com##.marginrl
 http://fx110.com##.matrix-banner
 http://oschina.net##.mayun-jj
 http://itavcn.com##.mb_right > .mt8:nth-child(3)
@@ -25705,6 +25713,7 @@ http://xitongtiandi.net##.speed
 http://downbank.cn##.speed-downlist
 http://geekpark.net##.sponsor
 http://sogou.com,soso.com##.sponsored
+http://tophub.today##.sponsors
 http://so.com##.spread
 http://baidu.com##.spread-wrap
 http://2345.com##.spreadHotWords
@@ -26260,6 +26269,7 @@ http://r3sub.com##a[href*="bit.ly"]
 http://qixin.com##a[href*="cc.co/"]
 http://cnbeta.com,itboth.com,itkeyword.com,ruyo.net##a[href*="cloud.tencent."]
 http://zhaozhaoqu.com##a[href*="czvv.com"]
+http://comicat.org,kisssub.org##a[href*="db."]
 http://china.com.cn##a[href*="dwz.cn"]
 http://jiyingw.net##a[href*="fulibus.me"]
 http://tiexue.net##a[href*="game.tiexue."]
@@ -26278,7 +26288,7 @@ http://5dm.tv##a[href*="suo.im"]
 http://mtrend.cn##a[href*="taomoubao.com"]
 http://jinti.com##a[href*="tempurchina.com"]
 http://58.com##a[href*="to8to.com"]
-http://1090ys1.com,comicat.org,kisssub.org,wnacg.com,wnacg.org##a[href*="tyrantdb.com"]
+http://1090ys1.com,wnacg.com,wnacg.org##a[href*="tyrantdb.com"]
 http://boke112.com##a[href*="url.cn"]
 http://enjoymore.fun##a[href*="urlto.pw"]
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##a[href*="www.clinique."]
@@ -27300,16 +27310,16 @@ http://hpjav.tv##body > div[style^="position: fixed;"]
 http://verystream.com#@#.adsbox
 http://googleads.g.doubleclick.net###mys-wrapper
 http://xhtml?%22+$script,third-party
+http://52biquge.com##[onclick*="app"]
+http://52biquge.com##a[href^="http://html.350.com/"]
+http://biqubao.com##div[style="width:976px;"]
+http://bixia.org##dd[style*="bottom:"]
 http://bxwx666.org###addiv3
 http://duanwenxue.com##.qgzdwx
-http://xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
-http://jx.la##[onclick*="apk"]
-http://52biquge.com##[onclick*="app"]
 http://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
-http://52biquge.com##a[href^="http://html.350.com/"]
-http://bixia.org##dd[style*="bottom:"]
-http://biqubao.com##div[style="width:976px;"]
+http://jx.la##[onclick*="apk"]
 http://piaotian5.com##script + div[style="padding:15px;"]
+http://xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 http://onemanhua.com##.mn-thumb:nth-child(n+2)
 http://onemanhua.com##[id*="ScriptRoot"]
 http://getrelax.cc,sexylove.club##.loaded-popup-wrapper
