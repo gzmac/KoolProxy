@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5QACVgMHDCoxqxkZMq8lBA
-! Version: 202009072351
+! Checksum: pjEBxlHk7eBnb4rO4OPXeg
+! Version: 202009082351
 ! Title: Fanboy's Annoyance List
-! Last modified: 07 Sep 2020 23:51 UTC
+! Last modified: 08 Sep 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6650,6 +6650,7 @@ https://gamespot.com##.js-nlsub
 https://highya.com##.js-swimingBlock-stoper
 https://avclub.com,deadspin.com,gizmodo.com,jalopnik.com,kotaku.com,lifehacker.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_modal_exit_intent
 https://itweb.co.za##.justify-center.full-width
+https://komando.com##.k3-prefs-center-modal-background
 https://countrylife.co.uk##.keystone-newsletter-class
 https://cointelegraph.com##.l-footer__col_subscription
 https://legit.ng##.l-header__subscribe
@@ -10300,7 +10301,7 @@ https://tv-tokyo.co.jp###bangumi_page_top
 https://jti.co.jp###footer-pagetop
 https://meiji.com###ftr-pagetop
 https://suumo.jp###js-pageTop
-https://biglobe.ne.jp,keisei.co.jp,sumitclub.jp###page-top
+https://280blocker.net,biglobe.ne.jp,keisei.co.jp,sumitclub.jp###page-top
 https://tabelog.com###page-up
 https://girlsheaven-job.net,gnavi.co.jp,harpersbazaar.jp,news24.jp###pageTop
 https://yahoo.co.jp###pageTopButton
@@ -12492,7 +12493,7 @@ https://dnevnik.bg#@##newsletterBar
 https://cnn.com#@##outbrain_widget_0
 https://mozilla.org,thunderbird.net,usps.com#@##privacy-policy
 https://onecallinsurance.co.uk#@##scroll-to-top
-https://aval.ua,finanzen100.de#@##scroll-top
+https://aval.ua,finanzen100.de,hostiq.ua#@##scroll-top
 https://catchconnect.com.au#@##scrollTop
 https://catchconnect.com.au,hotel.de#@##scrollTop:not(body):not(html)
 https://thehunt.com#@##signup-popup
@@ -17183,6 +17184,7 @@ http://gamespot.com##.js-nlsub
 http://highya.com##.js-swimingBlock-stoper
 http://avclub.com,deadspin.com,gizmodo.com,jalopnik.com,kotaku.com,lifehacker.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_modal_exit_intent
 http://itweb.co.za##.justify-center.full-width
+http://komando.com##.k3-prefs-center-modal-background
 http://countrylife.co.uk##.keystone-newsletter-class
 http://cointelegraph.com##.l-footer__col_subscription
 http://legit.ng##.l-header__subscribe
@@ -20834,7 +20836,7 @@ http://tv-tokyo.co.jp###bangumi_page_top
 http://jti.co.jp###footer-pagetop
 http://meiji.com###ftr-pagetop
 http://suumo.jp###js-pageTop
-http://biglobe.ne.jp,keisei.co.jp,sumitclub.jp###page-top
+http://280blocker.net,biglobe.ne.jp,keisei.co.jp,sumitclub.jp###page-top
 http://tabelog.com###page-up
 http://girlsheaven-job.net,gnavi.co.jp,harpersbazaar.jp,news24.jp###pageTop
 http://yahoo.co.jp###pageTopButton
@@ -23027,7 +23029,7 @@ http://dnevnik.bg#@##newsletterBar
 http://cnn.com#@##outbrain_widget_0
 http://mozilla.org,thunderbird.net,usps.com#@##privacy-policy
 http://onecallinsurance.co.uk#@##scroll-to-top
-http://aval.ua,finanzen100.de#@##scroll-top
+http://aval.ua,finanzen100.de,hostiq.ua#@##scroll-top
 http://catchconnect.com.au#@##scrollTop
 http://catchconnect.com.au,hotel.de#@##scrollTop:not(body):not(html)
 http://thehunt.com#@##signup-popup
