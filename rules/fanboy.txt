@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pjEBxlHk7eBnb4rO4OPXeg
-! Version: 202009082351
+! Checksum: NyKyMui0PoeQprtVm4Ga1Q
+! Version: 202009092351
 ! Title: Fanboy's Annoyance List
-! Last modified: 08 Sep 2020 23:51 UTC
+! Last modified: 09 Sep 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -40,7 +40,6 @@
 ||https://api.traq.li^$third-party
 ||https://app.e2ma.net^$third-party
 ||https://appboy.eu^$third-party
-||https://apture.com^$script,third-party
 ||https://assets.simplifydigital.co.uk^$third-party
 ||https://asterilivestream.com^$third-party
 ||https://ayc0zsm69431gfebd.xyz^$third-party
@@ -1128,6 +1127,7 @@
 ||https://linker.hr^$third-party
 ||https://inn.co.il/push.js
 ||https://24o.it^*/ias/
+||https://adessoin.tv/grafica/frecciaTop.png
 ||https://blitzquotidiano.it^*/IAS_
 ||https://blitzquotidiano.it^*/System24_
 ||https://booster3d.com^$third-party
@@ -1374,7 +1374,6 @@
 ||http://api.traq.li^$third-party
 ||http://app.e2ma.net^$third-party
 ||http://appboy.eu^$third-party
-||http://apture.com^$script,third-party
 ||http://assets.simplifydigital.co.uk^$third-party
 ||http://asterilivestream.com^$third-party
 ||http://ayc0zsm69431gfebd.xyz^$third-party
@@ -2519,6 +2518,7 @@
 ||http://sendinblue.com^$domain=voetbal24.be
 ||http://inn.co.il/push.js
 ||http://24o.it^*/ias/
+||http://adessoin.tv/grafica/frecciaTop.png
 ||http://blitzquotidiano.it^*/IAS_
 ||http://blitzquotidiano.it^*/System24_
 ||http://booster3d.com^$third-party
@@ -9124,6 +9124,7 @@ https://wrigleys.co.uk###rpcm
 https://tenuser.com###rsp
 https://sanitas.com###sanitasCookieAlert
 https://people.cn###shengmingTip
+https://convertlive.com###sid-container
 https://investing.com###sideNotificationZone
 https://centurion-magazine.com###simple-notification
 https://isa.org###simplemodal-container
@@ -10129,7 +10130,7 @@ https://mobimart.it###scrollblock
 https://chiesi.com###scrolltab
 https://centrosuono.com###scrolltop
 https://uniroma1.it###sdb-wrapper
-https://tuttoandroid.net###sh_local
+https://laleggepertutti.it,tuttoandroid.net###sh_local
 https://virgilio.it###shr_box
 https://3bmeteo.com###sidebar-video-fixed
 https://money.it###signup-form
@@ -10143,6 +10144,7 @@ https://arch.bz.it###srollTop
 https://fides.org###subcribe-nl
 https://fm-world.it###subscribe-form
 https://bitcity.it,lavocedeltrentino.it###subscription-form
+https://adessoin.tv###tasto_top
 https://tp24.it###templatemo_container_barra
 https://ultimouomo.com###text-2
 https://emmepress.com###text-9
@@ -11020,6 +11022,7 @@ https://optimagazine.com##.ocial
 https://optimagazine.com##.ocialWhite
 https://corriere.it##.player-email-ctn
 https://lintellettualedissidente.it##.post-actions
+https://lifegate.it##.post__trends
 https://raisport.rai.it##.prefooter
 https://assopoker.com##.rating-count
 https://mediaset.it##.s_box
@@ -11564,6 +11567,8 @@ https://ashtangayogaantibes.com###shBackground
 https://selexion.be###splash_footer
 https://mailorama.fr###toast-container
 https://commentseruiner.com###uec_wrap
+https://frontpopulaire.fr##.Modal-inner-wrapper
+https://frontpopulaire.fr##.Modal-wrapper
 https://drweb.fr##.SHOWIT-msg_showed
 https://acall.fr,domaine-errekalde.fr,sophrologierelaxation.fr##._2fUqY
 https://camara.net##.activebar-container
@@ -12493,7 +12498,7 @@ https://dnevnik.bg#@##newsletterBar
 https://cnn.com#@##outbrain_widget_0
 https://mozilla.org,thunderbird.net,usps.com#@##privacy-policy
 https://onecallinsurance.co.uk#@##scroll-to-top
-https://aval.ua,finanzen100.de,hostiq.ua#@##scroll-top
+https://aval.ua,finanzen100.de,hostiq.ua#@##scroll-top:not(body)
 https://catchconnect.com.au#@##scrollTop
 https://catchconnect.com.au,hotel.de#@##scrollTop:not(body):not(html)
 https://thehunt.com#@##signup-popup
@@ -12945,7 +12950,7 @@ https://domain.com.au#@#.social-stick
 https://tv-kino.net#@#.social-tab
 https://hdfcbank.com#@#.social-title
 https://golem.de#@#.social-tools
-https://gamesrepublic.com#@#.social-top
+https://gamesrepublic.com,gopojie.net#@#.social-top
 https://gallerix.asia,gallerix.org#@#.social-tumblr
 https://4players.de,chrisblattman.com,deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-twitter
 https://medialeaks.ru#@#.social-widgets
@@ -19659,6 +19664,7 @@ http://wrigleys.co.uk###rpcm
 http://tenuser.com###rsp
 http://sanitas.com###sanitasCookieAlert
 http://people.cn###shengmingTip
+http://convertlive.com###sid-container
 http://investing.com###sideNotificationZone
 http://centurion-magazine.com###simple-notification
 http://isa.org###simplemodal-container
@@ -20664,7 +20670,7 @@ http://mobimart.it###scrollblock
 http://chiesi.com###scrolltab
 http://centrosuono.com###scrolltop
 http://uniroma1.it###sdb-wrapper
-http://tuttoandroid.net###sh_local
+http://laleggepertutti.it,tuttoandroid.net###sh_local
 http://virgilio.it###shr_box
 http://3bmeteo.com###sidebar-video-fixed
 http://money.it###signup-form
@@ -20678,6 +20684,7 @@ http://arch.bz.it###srollTop
 http://fides.org###subcribe-nl
 http://fm-world.it###subscribe-form
 http://bitcity.it,lavocedeltrentino.it###subscription-form
+http://adessoin.tv###tasto_top
 http://tp24.it###templatemo_container_barra
 http://ultimouomo.com###text-2
 http://emmepress.com###text-9
@@ -21555,6 +21562,7 @@ http://optimagazine.com##.ocial
 http://optimagazine.com##.ocialWhite
 http://corriere.it##.player-email-ctn
 http://lintellettualedissidente.it##.post-actions
+http://lifegate.it##.post__trends
 http://raisport.rai.it##.prefooter
 http://assopoker.com##.rating-count
 http://mediaset.it##.s_box
@@ -22100,6 +22108,8 @@ http://ashtangayogaantibes.com###shBackground
 http://selexion.be###splash_footer
 http://mailorama.fr###toast-container
 http://commentseruiner.com###uec_wrap
+http://frontpopulaire.fr##.Modal-inner-wrapper
+http://frontpopulaire.fr##.Modal-wrapper
 http://drweb.fr##.SHOWIT-msg_showed
 http://acall.fr,domaine-errekalde.fr,sophrologierelaxation.fr##._2fUqY
 http://camara.net##.activebar-container
@@ -23029,7 +23039,7 @@ http://dnevnik.bg#@##newsletterBar
 http://cnn.com#@##outbrain_widget_0
 http://mozilla.org,thunderbird.net,usps.com#@##privacy-policy
 http://onecallinsurance.co.uk#@##scroll-to-top
-http://aval.ua,finanzen100.de,hostiq.ua#@##scroll-top
+http://aval.ua,finanzen100.de,hostiq.ua#@##scroll-top:not(body)
 http://catchconnect.com.au#@##scrollTop
 http://catchconnect.com.au,hotel.de#@##scrollTop:not(body):not(html)
 http://thehunt.com#@##signup-popup
@@ -23481,7 +23491,7 @@ http://domain.com.au#@#.social-stick
 http://tv-kino.net#@#.social-tab
 http://hdfcbank.com#@#.social-title
 http://golem.de#@#.social-tools
-http://gamesrepublic.com#@#.social-top
+http://gamesrepublic.com,gopojie.net#@#.social-top
 http://gallerix.asia,gallerix.org#@#.social-tumblr
 http://4players.de,chrisblattman.com,deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-twitter
 http://medialeaks.ru#@#.social-widgets
