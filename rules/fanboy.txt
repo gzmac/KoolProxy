@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NyKyMui0PoeQprtVm4Ga1Q
-! Version: 202009092351
+! Checksum: 9E6VIUpwtoMTcpWB2VKK8g
+! Version: 202009102351
 ! Title: Fanboy's Annoyance List
-! Last modified: 09 Sep 2020 23:51 UTC
+! Last modified: 10 Sep 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12903,7 +12903,6 @@ https://gry-online.pl#@#.social-16
 https://tvp.info#@#.social-article
 https://dallascowboys.com,golem.de,patriots.com,prk24.pl,top.de#@#.social-bar
 https://funnyordie.com#@#.social-bar-container
-https://wat.tv#@#.social-block
 https://adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,galaxydata.ru,ivid.it,onovini.com,rta24.eu,saydigi-tech.com,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
 https://bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 https://buzzerie.com,gog.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
@@ -12970,7 +12969,7 @@ https://gorod.mos.ru#@#.social__facebook
 https://gorod.mos.ru#@#.social__twitter
 https://iq-student-accommodation.com#@#.social_bar
 https://zik.ua#@#.social_block
-https://charaktery.eu,habr.com,hintaopas.fi,moikrug.ru,pinterest.com,pricespy.co.nz,pricespy.co.uk,pricespy.ie,prisjakt.nu,wat.tv#@#.social_buttons
+https://charaktery.eu,habr.com,hintaopas.fi,moikrug.ru,pinterest.com,pricespy.co.nz,pricespy.co.uk,pricespy.ie,prisjakt.nu#@#.social_buttons
 https://academia.edu,wsqn.pl#@#.social_container
 https://ourweigh.in#@#.social_facebook
 https://kuriertczewski.pl#@#.social_header
@@ -23444,7 +23443,6 @@ http://gry-online.pl#@#.social-16
 http://tvp.info#@#.social-article
 http://dallascowboys.com,golem.de,patriots.com,prk24.pl,top.de#@#.social-bar
 http://funnyordie.com#@#.social-bar-container
-http://wat.tv#@#.social-block
 http://adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,galaxydata.ru,ivid.it,onovini.com,rta24.eu,saydigi-tech.com,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
 http://bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 http://buzzerie.com,gog.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
@@ -23511,7 +23509,7 @@ http://gorod.mos.ru#@#.social__facebook
 http://gorod.mos.ru#@#.social__twitter
 http://iq-student-accommodation.com#@#.social_bar
 http://zik.ua#@#.social_block
-http://charaktery.eu,habr.com,hintaopas.fi,moikrug.ru,pinterest.com,pricespy.co.nz,pricespy.co.uk,pricespy.ie,prisjakt.nu,wat.tv#@#.social_buttons
+http://charaktery.eu,habr.com,hintaopas.fi,moikrug.ru,pinterest.com,pricespy.co.nz,pricespy.co.uk,pricespy.ie,prisjakt.nu#@#.social_buttons
 http://academia.edu,wsqn.pl#@#.social_container
 http://ourweigh.in#@#.social_facebook
 http://kuriertczewski.pl#@#.social_header
