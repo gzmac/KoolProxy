@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9E6VIUpwtoMTcpWB2VKK8g
-! Version: 202009102351
+! Checksum: rOT+LaAhGUrGwb67ln06ew
+! Version: 202009112351
 ! Title: Fanboy's Annoyance List
-! Last modified: 10 Sep 2020 23:51 UTC
+! Last modified: 11 Sep 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10071,13 +10071,14 @@ https://automoto.it,moto.it###arrow-back-top
 https://norbaonline.it###back
 https://ssangyong-auto.it###back_top
 https://telefonino.net###backbutton
-https://grandangoloagrigento.it,ilfattonisseno.it,itacanotizie.it,qds.it,tempostretto.it,vistosulweb.com###blogup
+https://grandangoloagrigento.it,ilfattonisseno.it,itacanotizie.it,marsalace.it,qds.it,tempostretto.it,vistosulweb.com###blogup
 https://erboristeriamagentina.it###blultpdfbanner
 https://virgilio.it###bottom_chat
 https://centrometeoitaliano.it###box-banner-messaggero
 https://paginegialle.it###btt
 https://money.it###button
 https://starq8.it###button-top
+https://liberogioco.it###cg-top-button
 https://tods.com###container-overlay-fast-registration
 https://ilmetapontino.it###content-dock
 https://corriere.it###corriere-exit-page-container
@@ -20610,13 +20611,14 @@ http://automoto.it,moto.it###arrow-back-top
 http://norbaonline.it###back
 http://ssangyong-auto.it###back_top
 http://telefonino.net###backbutton
-http://grandangoloagrigento.it,ilfattonisseno.it,itacanotizie.it,qds.it,tempostretto.it,vistosulweb.com###blogup
+http://grandangoloagrigento.it,ilfattonisseno.it,itacanotizie.it,marsalace.it,qds.it,tempostretto.it,vistosulweb.com###blogup
 http://erboristeriamagentina.it###blultpdfbanner
 http://virgilio.it###bottom_chat
 http://centrometeoitaliano.it###box-banner-messaggero
 http://paginegialle.it###btt
 http://money.it###button
 http://starq8.it###button-top
+http://liberogioco.it###cg-top-button
 http://tods.com###container-overlay-fast-registration
 http://ilmetapontino.it###content-dock
 http://corriere.it###corriere-exit-page-container

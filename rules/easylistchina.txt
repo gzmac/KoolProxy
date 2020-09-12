@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: VeTPK9TNryrJfew1RSxw7w
-! Version: 202009110023
+! Checksum: vE1YdrctPwZo/lVY9gsx8A
+! Version: 202009120023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4804,6 +4804,9 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://922tp.com/wp-content/uploads/*0x
+||https://zn46.com/images/*0x
+||https://af29.com/banner/
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -12639,6 +12642,9 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://922tp.com/wp-content/uploads/*0x
+||http://zn46.com/images/*0x
+||http://af29.com/banner/
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a25.com|xin99r3.com|xin99r4.com
 ||http://sinaimg.cn^$domain=99a25.com|xin99r3.com|xin99r4.com
@@ -15241,6 +15247,7 @@
 ||http://xztms.com^
 ||http://y12f.com^
 ||http://y1wm9.cn^
+||http://y7wr7.cn^
 ||http://yaba.org.cn^
 ||http://yajiuwz.xyz^
 ||http://yanbenji.cn^
@@ -17206,7 +17213,6 @@ https://2345.com###sideCat
 https://hao.360.com###sidebar
 https://5izyw.com###sidebar > .box-b img
 https://iyejie.com###sidebar > .widget:first-child
-https://oneinstack.com###sidebar > .widget:last-child
 https://ainuody.com###sidebar > .widget:nth-child(-n+6)
 https://cmsky.com###sidebar > .wow > .widget:first-child
 https://tl95.vip###sidebar > .wow:first-child > .widget:first-child
@@ -19578,6 +19584,7 @@ https://cjn.cn##.sidebar
 https://qiuquan.cc##.sidebar .aligncenter
 https://zol.com.cn##.sidebar > .n1-pad-entrance-wrap
 https://pupudy.com##.sidebar > .widget-textasst:nth-child(n+3)
+https://oneinstack.com##.sidebar > .widget:last-child
 https://wn789.com##.sidebar > .widget:not(:first-child):not(.widget_ui_posts)
 https://teddysun.com##.sidebar > .widget:nth-child(2)
 https://teddysun.com##.sidebar > .widget:nth-child(3)
@@ -21248,16 +21255,17 @@ https://hpjav.tv##body > div[style^="position: fixed;"]
 https://verystream.com#@#.adsbox
 https://googleads.g.doubleclick.net###mys-wrapper
 https://xhtml?%22+$script,third-party
-https://52biquge.com##[onclick*="app"]
-https://52biquge.com##a[href^="http://html.350.com/"]
-https://biqubao.com##div[style="width:976px;"]
-https://bixia.org##dd[style*="bottom:"]
 https://bxwx666.org###addiv3
+https://bxwx666.org###bdstatic
 https://duanwenxue.com##.qgzdwx
-https://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
-https://jx.la##[onclick*="apk"]
-https://piaotian5.com##script + div[style="padding:15px;"]
 https://xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
+https://jx.la##[onclick*="apk"]
+https://52biquge.com##[onclick*="app"]
+https://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
+https://52biquge.com##a[href^="http://html.350.com/"]
+https://bixia.org##dd[style*="bottom:"]
+https://biqubao.com##div[style="width:976px;"]
+https://piaotian5.com##script + div[style="padding:15px;"]
 https://onemanhua.com##.mn-thumb:nth-child(n+2)
 https://onemanhua.com##[id*="ScriptRoot"]
 https://getrelax.cc,sexylove.club##.loaded-popup-wrapper
@@ -23298,7 +23306,6 @@ http://2345.com###sideCat
 http://hao.360.com###sidebar
 http://5izyw.com###sidebar > .box-b img
 http://iyejie.com###sidebar > .widget:first-child
-http://oneinstack.com###sidebar > .widget:last-child
 http://ainuody.com###sidebar > .widget:nth-child(-n+6)
 http://cmsky.com###sidebar > .wow > .widget:first-child
 http://tl95.vip###sidebar > .wow:first-child > .widget:first-child
@@ -25670,6 +25677,7 @@ http://cjn.cn##.sidebar
 http://qiuquan.cc##.sidebar .aligncenter
 http://zol.com.cn##.sidebar > .n1-pad-entrance-wrap
 http://pupudy.com##.sidebar > .widget-textasst:nth-child(n+3)
+http://oneinstack.com##.sidebar > .widget:last-child
 http://wn789.com##.sidebar > .widget:not(:first-child):not(.widget_ui_posts)
 http://teddysun.com##.sidebar > .widget:nth-child(2)
 http://teddysun.com##.sidebar > .widget:nth-child(3)
@@ -27340,16 +27348,17 @@ http://hpjav.tv##body > div[style^="position: fixed;"]
 http://verystream.com#@#.adsbox
 http://googleads.g.doubleclick.net###mys-wrapper
 http://xhtml?%22+$script,third-party
-http://52biquge.com##[onclick*="app"]
-http://52biquge.com##a[href^="http://html.350.com/"]
-http://biqubao.com##div[style="width:976px;"]
-http://bixia.org##dd[style*="bottom:"]
 http://bxwx666.org###addiv3
+http://bxwx666.org###bdstatic
 http://duanwenxue.com##.qgzdwx
-http://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
-http://jx.la##[onclick*="apk"]
-http://piaotian5.com##script + div[style="padding:15px;"]
 http://xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
+http://jx.la##[onclick*="apk"]
+http://52biquge.com##[onclick*="app"]
+http://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
+http://52biquge.com##a[href^="http://html.350.com/"]
+http://bixia.org##dd[style*="bottom:"]
+http://biqubao.com##div[style="width:976px;"]
+http://piaotian5.com##script + div[style="padding:15px;"]
 http://onemanhua.com##.mn-thumb:nth-child(n+2)
 http://onemanhua.com##[id*="ScriptRoot"]
 http://getrelax.cc,sexylove.club##.loaded-popup-wrapper
