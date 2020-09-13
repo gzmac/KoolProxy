@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rOT+LaAhGUrGwb67ln06ew
-! Version: 202009112351
+! Checksum: zVmCUBy8ZqGQrtQTnsVJOQ
+! Version: 202009122351
 ! Title: Fanboy's Annoyance List
-! Last modified: 11 Sep 2020 23:51 UTC
+! Last modified: 12 Sep 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -9190,10 +9190,10 @@ https://fashionmodeldirectory.com##.PrivacyNotice
 https://accobrands.com##.Promotional-corner
 https://huawei.com##.ReadPolicy
 https://drweb.com##.SHOWIT-msg_showed
-https://hotcleaner.com##.Sm
 https://cnn.com##.TermsOfService__component
 https://mtn.co.za##.Toast
 https://6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##.Tooltip
+https://hotcleaner.com##.XNKr
 https://hiberworld.com##._1u7AkTjy
 https://tunnelmb.net##._23LkM
 https://911tabs.com##._29v-t
@@ -19730,10 +19730,10 @@ http://fashionmodeldirectory.com##.PrivacyNotice
 http://accobrands.com##.Promotional-corner
 http://huawei.com##.ReadPolicy
 http://drweb.com##.SHOWIT-msg_showed
-http://hotcleaner.com##.Sm
 http://cnn.com##.TermsOfService__component
 http://mtn.co.za##.Toast
 http://6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##.Tooltip
+http://hotcleaner.com##.XNKr
 http://hiberworld.com##._1u7AkTjy
 http://tunnelmb.net##._23LkM
 http://911tabs.com##._29v-t
