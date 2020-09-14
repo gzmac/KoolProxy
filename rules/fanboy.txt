@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zVmCUBy8ZqGQrtQTnsVJOQ
-! Version: 202009122351
+! Checksum: CBlCajbG8Py2PoHa/CV05Q
+! Version: 202009132351
 ! Title: Fanboy's Annoyance List
-! Last modified: 12 Sep 2020 23:51 UTC
+! Last modified: 13 Sep 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1012,6 +1012,7 @@
 ||https://cloudfront.net/linkedin/
 ||https://cloudfront.net/twitter/
 ||https://cnet.com/rest/v1.0/tweets/
+||https://crowdin.com/images/soc-btns/
 ||https://csgoreportbot.net/jquery.fancybox.min.js
 ||https://dailykostv.com/digg.html
 ||https://di.fm/_papi/v1/di/timed_alerts$xmlhttprequest
@@ -2382,6 +2383,7 @@
 ||http://cloudfront.net/linkedin/
 ||http://cloudfront.net/twitter/
 ||http://cnet.com/rest/v1.0/tweets/
+||http://crowdin.com/images/soc-btns/
 ||http://csgoreportbot.net/jquery.fancybox.min.js
 ||http://dailykostv.com/digg.html
 ||http://deusm.com/informationweek/editor-*.png$domain=informationweek.com
@@ -3342,7 +3344,6 @@ https://democracynow.org###follow_dn
 https://cracked.com###follow_me
 https://nationalgeographic.com###follow_ng
 https://wikihow.com###follow_table
-https://collegehumor.com###followch
 https://nokia.co.in###follownokia-tk
 https://nokia.co.in###follownokia-tktop
 https://thelocal.se###followswedenfixed
@@ -4402,7 +4403,7 @@ https://mywot.com##.app-stripe
 https://discountsstory.com##.app_banner_right
 https://mirror.co.uk,walesonline.co.uk##.app_container
 https://huffingtonpost.com##.apps-feeds
-https://collegehumor.com,dorkly.com,goal.com##.arrow
+https://dorkly.com,goal.com##.arrow
 https://mobiletoday.co.uk##.arrow-container
 https://rollingstone.com##.arrow-container-vert
 https://talkingpointsmemo.com##.arrows-container
@@ -5661,7 +5662,6 @@ https://sandiegouniontribune.com##.sr-outer
 https://skysports.com##.ss-art-tools
 https://goodthingsguy.com##.ss-pu-container
 https://wsj.com##.stList-media
-https://collegehumor.com##.stalk
 https://newsweek.com##.stay-connected
 https://trafficestimate.com##.stay-connected-wrapper
 https://now.msn.com##.stb2-tbl
@@ -6177,6 +6177,7 @@ https://thewirecutter.com###js-toaster-container
 https://judicialwatch.org###jwHeaderSignup
 https://kiplinger.com###kip-login
 https://kiplinger.com###kip-today-signup
+https://livemint.com###lastAd
 https://tfln.co###leadgen
 https://broadcastingcable.com###login_subscribe
 https://entrepreneur.com###magazine-promo
@@ -6309,6 +6310,7 @@ https://moneysavingmom.com,unz.com###subscribeform
 https://bizjournals.com###subscriber
 https://forexpeacearmy.com,musictimes.com###subscription
 https://ecnmag.com###subscription-newsletter-mainContent
+https://livemint.com###subscriptionBox
 https://autointhenews.com###subscriptions
 https://yourtango.com###tango-newsletter-form
 https://techonomy.com###tcnmy-newsletter-modal
@@ -6530,6 +6532,7 @@ https://wttw.com##.enews-banner
 https://nzgeo.com##.enews-container
 https://engadget.com##.engadget-callout-module
 https://sassyhongkong.com,sassymanila.com##.entry-subscribe
+https://livemint.com##.epaperCard
 https://londonreal.tv##.episode-overlay
 https://americanlookout.com##.essbasc-popup
 https://economist.com##.exit-pop
@@ -8681,7 +8684,6 @@ https://ijr.com##.bg-facebook-blue
 https://ijr.com##.bg-twitter-blue
 https://newsy.com##.big-share-buttons
 https://huffingtonpost.co.uk,huffingtonpost.com##.bn-social-list
-https://collegehumor.com##.btn-share
 https://ranker.com##.button__share
 https://citylab.com##.c-share
 https://lcpdfr.com##.cShareLink
@@ -9266,6 +9268,7 @@ https://currencyrate.today##.cc-alert
 https://viralnova.com##.cc-banner
 https://wallpapershome.com##.cc-dialog
 https://drakecircus.com##.ccc-widget
+https://hannity.com##.ccpa
 https://orcadian.co.uk##.cd-container
 https://wunderground.com##.cdk-overlay-container
 https://kbs.co.kr##.chrome_pick
@@ -9428,6 +9431,7 @@ https://airnewzealand.eu,arlingtoncemetery.mil,arthrex.com,axminster.co.uk,daf.b
 https://myanimelist.net##.modal-container
 https://myanimelist.net##.modal-content
 https://environmental-finance.com##.modal-dialog
+https://oranum.com##.modal-inner
 https://usnews.com##.modal-window
 https://motorsport.com##.ms-footer-messages
 https://motorsport.com##.ms-header-messages
@@ -10084,7 +10088,7 @@ https://ilmetapontino.it###content-dock
 https://corriere.it###corriere-exit-page-container
 https://italiafruit.net###ctl00_imgIscrizione
 https://entertainmentillustrated.it,primaonline.it,stradeeautostrade.it,youtrend.it###custom_html-2
-https://entertainmentillustrated.it###custom_html-5
+https://entertainmentillustrated.it,fleetmagazine.com###custom_html-5
 https://digitaleterrestrefacile.it###custom_html-9
 https://euractiv.it###ea-alert-menu
 https://rockit.it###fangate-container
@@ -10286,7 +10290,7 @@ https://mader.bz.it##.top_trigger
 https://peugeot.it##.toplink
 https://ilvibonese.it##.torna_su
 https://americantourister.it##.ui-widget-overlay
-https://lospecialista.tv##.widget_mailpoet_form
+https://lifestyleblog.it,lospecialista.tv##.widget_mailpoet_form
 https://lospecialista.tv##.widget_specialert
 https://secoloditalia.it##.widget_wpmailup_widget
 https://vitatrentina.it##.wpdiscuz-front-actions
@@ -11052,6 +11056,7 @@ https://alfredopedulla.com##.tw-banner
 https://agenziacasaclima.it,ilfoglio.it,teleticino.ch,tuttomercatoweb.com,webnews.it##.twitter
 https://mymovies.it##.vota-pul-consiglio
 https://agenziacasaclima.it##.youtube
+https://lifestyleblog.it##.zox-foot-right-wrap
 https://ilsole24ore.com##[data-type="fb"]
 https://ilsole24ore.com##[data-type="in"]
 https://ilsole24ore.com##[data-type="tw"]
@@ -11915,7 +11920,7 @@ https://cassaforense.it,cfnews.it###cassaforense-cookies
 https://centrometeolombardo.com###cc_div
 https://ecodallecitta.it###contenuto_consenso
 https://spesasicura.com###cook
-https://aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miamerano.it,mymercato.it,primocanale.it,sace.it,spesati.it,tecnocasa.it,wd40.it###cookie
+https://aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miamerano.it,mymercato.it,primocanale.it,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
 https://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,supermercato24.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 https://majani.it###cs-banner
 https://netflixlovers.it###cs_container
@@ -13881,7 +13886,6 @@ http://democracynow.org###follow_dn
 http://cracked.com###follow_me
 http://nationalgeographic.com###follow_ng
 http://wikihow.com###follow_table
-http://collegehumor.com###followch
 http://nokia.co.in###follownokia-tk
 http://nokia.co.in###follownokia-tktop
 http://thelocal.se###followswedenfixed
@@ -14941,7 +14945,7 @@ http://mywot.com##.app-stripe
 http://discountsstory.com##.app_banner_right
 http://mirror.co.uk,walesonline.co.uk##.app_container
 http://huffingtonpost.com##.apps-feeds
-http://collegehumor.com,dorkly.com,goal.com##.arrow
+http://dorkly.com,goal.com##.arrow
 http://mobiletoday.co.uk##.arrow-container
 http://rollingstone.com##.arrow-container-vert
 http://talkingpointsmemo.com##.arrows-container
@@ -16200,7 +16204,6 @@ http://sandiegouniontribune.com##.sr-outer
 http://skysports.com##.ss-art-tools
 http://goodthingsguy.com##.ss-pu-container
 http://wsj.com##.stList-media
-http://collegehumor.com##.stalk
 http://newsweek.com##.stay-connected
 http://trafficestimate.com##.stay-connected-wrapper
 http://now.msn.com##.stb2-tbl
@@ -16716,6 +16719,7 @@ http://thewirecutter.com###js-toaster-container
 http://judicialwatch.org###jwHeaderSignup
 http://kiplinger.com###kip-login
 http://kiplinger.com###kip-today-signup
+http://livemint.com###lastAd
 http://tfln.co###leadgen
 http://broadcastingcable.com###login_subscribe
 http://entrepreneur.com###magazine-promo
@@ -16848,6 +16852,7 @@ http://moneysavingmom.com,unz.com###subscribeform
 http://bizjournals.com###subscriber
 http://forexpeacearmy.com,musictimes.com###subscription
 http://ecnmag.com###subscription-newsletter-mainContent
+http://livemint.com###subscriptionBox
 http://autointhenews.com###subscriptions
 http://yourtango.com###tango-newsletter-form
 http://techonomy.com###tcnmy-newsletter-modal
@@ -17069,6 +17074,7 @@ http://wttw.com##.enews-banner
 http://nzgeo.com##.enews-container
 http://engadget.com##.engadget-callout-module
 http://sassyhongkong.com,sassymanila.com##.entry-subscribe
+http://livemint.com##.epaperCard
 http://londonreal.tv##.episode-overlay
 http://americanlookout.com##.essbasc-popup
 http://economist.com##.exit-pop
@@ -19221,7 +19227,6 @@ http://ijr.com##.bg-facebook-blue
 http://ijr.com##.bg-twitter-blue
 http://newsy.com##.big-share-buttons
 http://huffingtonpost.co.uk,huffingtonpost.com##.bn-social-list
-http://collegehumor.com##.btn-share
 http://ranker.com##.button__share
 http://citylab.com##.c-share
 http://lcpdfr.com##.cShareLink
@@ -19806,6 +19811,7 @@ http://currencyrate.today##.cc-alert
 http://viralnova.com##.cc-banner
 http://wallpapershome.com##.cc-dialog
 http://drakecircus.com##.ccc-widget
+http://hannity.com##.ccpa
 http://orcadian.co.uk##.cd-container
 http://wunderground.com##.cdk-overlay-container
 http://kbs.co.kr##.chrome_pick
@@ -19968,6 +19974,7 @@ http://airnewzealand.eu,arlingtoncemetery.mil,arthrex.com,axminster.co.uk,daf.be
 http://myanimelist.net##.modal-container
 http://myanimelist.net##.modal-content
 http://environmental-finance.com##.modal-dialog
+http://oranum.com##.modal-inner
 http://usnews.com##.modal-window
 http://motorsport.com##.ms-footer-messages
 http://motorsport.com##.ms-header-messages
@@ -20624,7 +20631,7 @@ http://ilmetapontino.it###content-dock
 http://corriere.it###corriere-exit-page-container
 http://italiafruit.net###ctl00_imgIscrizione
 http://entertainmentillustrated.it,primaonline.it,stradeeautostrade.it,youtrend.it###custom_html-2
-http://entertainmentillustrated.it###custom_html-5
+http://entertainmentillustrated.it,fleetmagazine.com###custom_html-5
 http://digitaleterrestrefacile.it###custom_html-9
 http://euractiv.it###ea-alert-menu
 http://rockit.it###fangate-container
@@ -20826,7 +20833,7 @@ http://mader.bz.it##.top_trigger
 http://peugeot.it##.toplink
 http://ilvibonese.it##.torna_su
 http://americantourister.it##.ui-widget-overlay
-http://lospecialista.tv##.widget_mailpoet_form
+http://lifestyleblog.it,lospecialista.tv##.widget_mailpoet_form
 http://lospecialista.tv##.widget_specialert
 http://secoloditalia.it##.widget_wpmailup_widget
 http://vitatrentina.it##.wpdiscuz-front-actions
@@ -21592,6 +21599,7 @@ http://alfredopedulla.com##.tw-banner
 http://agenziacasaclima.it,ilfoglio.it,teleticino.ch,tuttomercatoweb.com,webnews.it##.twitter
 http://mymovies.it##.vota-pul-consiglio
 http://agenziacasaclima.it##.youtube
+http://lifestyleblog.it##.zox-foot-right-wrap
 http://ilsole24ore.com##[data-type="fb"]
 http://ilsole24ore.com##[data-type="in"]
 http://ilsole24ore.com##[data-type="tw"]
@@ -22456,7 +22464,7 @@ http://cassaforense.it,cfnews.it###cassaforense-cookies
 http://centrometeolombardo.com###cc_div
 http://ecodallecitta.it###contenuto_consenso
 http://spesasicura.com###cook
-http://aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miamerano.it,mymercato.it,primocanale.it,sace.it,spesati.it,tecnocasa.it,wd40.it###cookie
+http://aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miamerano.it,mymercato.it,primocanale.it,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
 http://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,supermercato24.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 http://majani.it###cs-banner
 http://netflixlovers.it###cs_container

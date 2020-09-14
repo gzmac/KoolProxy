@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: m1agBs7z3ilWSsUWJ7AiUQ
-! Version: 202009130023
+! Checksum: 8P2L+eTHMTRbAQvSPXVuxQ
+! Version: 202009140023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -3679,7 +3679,6 @@
 ||https://rainpat.com/Scripts/jquery.SuperSlide.
 ||https://rar8.net/htmljs/
 ||https://ratedxbiz.com/d/
-||https://rayfile.com/media/img/rili_
 ||https://rdance.cn/g-
 ||https://rdance.cn/o/a-
 ||https://rdance.cn/o/g-
@@ -3734,7 +3733,7 @@
 ||https://ruian.com/img/2016/a1-6-1.gif
 ||https://ruian.com/img/y13/
 ||https://ruishungp.com/assetscms2019/js/get_content.js
-||https://ruiwen.com/js/a/p.js
+||https://ruiwen.com/js/p.js
 ||https://runmang.vip/img/
 ||https://runoob.com/images/re/
 ||https://runsky.com/bbsadv-
@@ -11413,7 +11412,6 @@
 ||http://rakuya.com.tw/position?*&adTagFlag=
 ||http://rar8.net/htmljs/
 ||http://ratedxbiz.com/d/
-||http://rayfile.com/media/img/rili_
 ||http://rdance.cn/g-
 ||http://rdance.cn/o/a-
 ||http://rdance.cn/o/g-
@@ -11473,7 +11471,7 @@
 ||http://ruian.com/img/2016/a1-6-1.gif
 ||http://ruian.com/img/y13/
 ||http://ruishungp.com/assetscms2019/js/get_content.js
-||http://ruiwen.com/js/a/p.js
+||http://ruiwen.com/js/p.js
 ||http://runmang.vip/img/
 ||http://runoob.com/images/re/
 ||http://runsky.com/bbsadv-
