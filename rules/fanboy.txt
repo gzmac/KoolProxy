@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CBlCajbG8Py2PoHa/CV05Q
-! Version: 202009132351
+! Checksum: yKmMeZr2sVCY61WpphSjug
+! Version: 202009142351
 ! Title: Fanboy's Annoyance List
-! Last modified: 13 Sep 2020 23:51 UTC
+! Last modified: 14 Sep 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -389,6 +389,7 @@
 ||https://zotabox.com^*/widgets.js$third-party
 ||https://appspot.com/sounds/chatmsg.mp3
 ||https://helpscout.net/static/ui-sounds/$media
+||https://livechatinc.com/widget/static/media/
 ||https://taboola.com^$third-party
 ||https://taboolasyndication.com^$third-party
 ||https://amplify.outbrain.com^$third-party
@@ -1733,6 +1734,7 @@
 ||http://zotabox.com^*/widgets.js$third-party
 ||http://appspot.com/sounds/chatmsg.mp3
 ||http://helpscout.net/static/ui-sounds/$media
+||http://livechatinc.com/widget/static/media/
 ||http://taboola.com^$third-party
 ||http://taboolasyndication.com^$third-party
 ||http://amplify.outbrain.com^$third-party
@@ -7045,6 +7047,7 @@ https://euronews.com##div[class^="mailmunch-"]
 https://thewirecutter.com##div[class^="newsletter_banner"]
 https://livemint.com##div[class^="newslettersub"]
 https://bloombergquint.com##div[class^="subscription-"]
+https://engadget.com##div[data-component="NewsletterCard"]
 https://fastcompany.com##div[id$="newsletter"]
 https://dailycaller.com##div[id^="dc_morning_email"]
 https://thenation.com##div[id^="inline_cta_"]
@@ -8298,6 +8301,7 @@ https://nationalpost.com##.shr
 https://reference.com##.shths
 https://yahoo.com##.side-buttons
 https://cri.cn##.sideAlsoFind
+https://michaelmedved.com##.side_col_follow_box
 https://blog.bitly.com##.sidebar > .widget:first-child
 https://topgear.com.ph##.sidebar-connect
 https://hypervocal.com##.sidebar-left-article
@@ -9012,6 +9016,7 @@ https://play.google.com###gb > div[style*="background-color"]
 https://gdata-software.com,gdatasoftware.com###gd-cookiebar
 https://lloyd.com###globalerror
 https://draeger.com###globalnotification
+https://timefmtoronto.com###guacBg2
 https://mercateo.com###header-popup-info
 https://wattsindustries.com###header1_overlay2
 https://eutelsat.com###header_higher
@@ -9684,6 +9689,7 @@ https://weatherbug.com##notification-footer
 https://satispay.com##p[class^="cookie-banner"]
 https://opentip.kaspersky.com##section[data-t="cks-dsc"] > div > div
 https://truecaller.com##span > .max-w-md.shadow-lg
+https://web.dev##web-snackbar
 https://play.google.com##.gb_g:has-text(cookie)
 https://istockphoto.com#?#.warning:-abp-has([data-cookie-type])
 https://play.google.com#?#.gb_g:-abp-contains(cookie)
@@ -17587,6 +17593,7 @@ http://euronews.com##div[class^="mailmunch-"]
 http://thewirecutter.com##div[class^="newsletter_banner"]
 http://livemint.com##div[class^="newslettersub"]
 http://bloombergquint.com##div[class^="subscription-"]
+http://engadget.com##div[data-component="NewsletterCard"]
 http://fastcompany.com##div[id$="newsletter"]
 http://dailycaller.com##div[id^="dc_morning_email"]
 http://thenation.com##div[id^="inline_cta_"]
@@ -18840,6 +18847,7 @@ http://nationalpost.com##.shr
 http://reference.com##.shths
 http://yahoo.com##.side-buttons
 http://cri.cn##.sideAlsoFind
+http://michaelmedved.com##.side_col_follow_box
 http://blog.bitly.com##.sidebar > .widget:first-child
 http://topgear.com.ph##.sidebar-connect
 http://hypervocal.com##.sidebar-left-article
@@ -19555,6 +19563,7 @@ http://play.google.com###gb > div[style*="background-color"]
 http://gdata-software.com,gdatasoftware.com###gd-cookiebar
 http://lloyd.com###globalerror
 http://draeger.com###globalnotification
+http://timefmtoronto.com###guacBg2
 http://mercateo.com###header-popup-info
 http://wattsindustries.com###header1_overlay2
 http://eutelsat.com###header_higher
@@ -20227,6 +20236,7 @@ http://weatherbug.com##notification-footer
 http://satispay.com##p[class^="cookie-banner"]
 http://opentip.kaspersky.com##section[data-t="cks-dsc"] > div > div
 http://truecaller.com##span > .max-w-md.shadow-lg
+http://web.dev##web-snackbar
 http://play.google.com##.gb_g:has-text(cookie)
 http://istockphoto.com#?#.warning:-abp-has([data-cookie-type])
 http://play.google.com#?#.gb_g:-abp-contains(cookie)

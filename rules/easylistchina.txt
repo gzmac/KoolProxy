@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 8P2L+eTHMTRbAQvSPXVuxQ
-! Version: 202009140023
+! Checksum: 5FVJxmqBHRD0K1kGEAjXVw
+! Version: 202009150023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -2612,6 +2612,7 @@
 ||https://hongyingbbs.com/img/top.js
 ||https://hongyingbbs.com/jj/
 ||https://hoopchina.com.cn/common/lazyLoadAd.js
+||https://hoopchina.com.cn/gamecenter/side-stg.js
 ||https://hoopchina.com.cn/static/www/*340-230.
 ||https://hoopchina.com.cn/static/www/*340x230.
 ||https://hoopchina.com.cn/topn
@@ -3509,8 +3510,6 @@
 ||https://pharmnet.com.cn/js/float_div.js
 ||https://phbkm.com/js/
 ||https://php1.cn/uploads/huayun.jpg
-||https://php100.com//wp-content/themes/xiu/1200-120.jpg
-||https://php100.com/wp-content/uploads/2019/05/apkbus.jpg
 ||https://phpernote.com/ali
 ||https://phpstudyimg.com/all/renrenxiaxuan980.gif
 ||https://pianba.tv/api/*.js
@@ -4805,6 +4804,7 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://fpbsnc.com/Runtime/js/psData.js
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -10214,6 +10214,7 @@
 ||http://hongyingbbs.com/img/top.js
 ||http://hongyingbbs.com/jj/
 ||http://hoopchina.com.cn/common/lazyLoadAd.js
+||http://hoopchina.com.cn/gamecenter/side-stg.js
 ||http://hoopchina.com.cn/static/www/*340-230.
 ||http://hoopchina.com.cn/static/www/*340x230.
 ||http://hoopchina.com.cn/topn
@@ -11216,8 +11217,6 @@
 ||http://pharmnet.com.cn/js/float_div.js
 ||http://phbkm.com/js/
 ||http://php1.cn/uploads/huayun.jpg
-||http://php100.com//wp-content/themes/xiu/1200-120.jpg
-||http://php100.com/wp-content/uploads/2019/05/apkbus.jpg
 ||http://phpad.cqnews.net^
 ||http://phpernote.com/ali
 ||http://phpstudyimg.com/all/renrenxiaxuan980.gif
@@ -12643,6 +12642,7 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://fpbsnc.com/Runtime/js/psData.js
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a25.com|xin99r3.com|xin99r4.com
 ||http://sinaimg.cn^$domain=99a25.com|xin99r3.com|xin99r4.com
@@ -13460,6 +13460,7 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://hongwenge.com^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13747,6 +13748,7 @@
 ||http://bbbr8.com^
 ||http://bbbx.xyz^
 ||http://bbeyay41026.cn^
+||http://bbtys.net^
 ||http://bbvdd.com^
 ||http://bchur.com^
 ||http://bcunr.com^
@@ -14557,6 +14559,7 @@
 ||http://mdsfzh.cn^
 ||http://me0715.top^
 ||http://medprofile.cn^
+||http://mei181.com^
 ||http://meizhuli365.cn^
 ||http://mendoc.cn^
 ||http://mengpr.com^
@@ -14696,6 +14699,7 @@
 ||http://panwenjun.top^
 ||http://paochala.net^
 ||http://pbvxtgn.cn^
+||http://pcouis.cn^
 ||http://pd3a.cn^
 ||http://pdfbs.com^
 ||http://pdkuai.com^
@@ -15053,6 +15057,7 @@
 ||http://uo12.com^
 ||http://uqpfh.cn^
 ||http://urlet.cn^
+||http://uuboos.com^
 ||http://uunewcar.com^
 ||http://uuopp.com^
 ||http://uvmqpum.cn^
@@ -15330,6 +15335,7 @@
 ||http://yueyelive.com^
 ||http://yueyuelao.cn^
 ||http://yujianai520.com^
+||http://yun-pdm2000.cn^
 ||http://yunanfuwuqi.com^
 ||http://yunl1.com^
 ||http://yuxiny.com^
@@ -16113,8 +16119,7 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://sohu.com##A[href*="_Click_Flow_recommend_"]
-https://libaclub.com##.merchant-link
+https://maxthon.cn###festival-bottom-wrapper
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -18929,6 +18934,7 @@ https://hk.yahoo.com##.js-stream-content[style="background-color:#fafaff;"]
 https://360kan.com##.js-welcome
 https://ifeng.com##.js_url[href^="http://dol.deliver."]
 https://mvcat.com##.jsalert
+https://24k99.com##.jy_24k99_suspended_ad
 https://fx168.com##.jy_fx168_gjs_content_Right_advise
 https://fx168.com##.jy_ny2018_content_LeftAd
 https://isiyuan.net##.ke-zeroborder
@@ -19095,6 +19101,7 @@ https://douguo.com##.mbs
 https://2345.com##.mco-ex-ndxh
 https://zhaiiker.com##.media-content[style*="0x"]
 https://cnool.net##.meilai_box
+https://libaclub.com##.merchant-link
 https://cnbeta.com##.meta > .fr
 https://cangku.in,galacg.me,llss.li,usnewsexpress.com##.metaslider
 https://so.com##.mh-sad
@@ -19234,7 +19241,7 @@ https://yes-news.com##.notification
 https://haoxxoo.com##.nrad1
 https://haoxxoo.com##.nrad2
 https://newsmth.net##.ns-ad
-https://fx168.com##.ny2018_txtLink
+https://24k99.com,fx168.com##.ny2018_txtLink
 https://szhk.com##.ny_ad1
 https://wallstreetcn.com##.omg-container
 https://10jqka.com.cn,hepan.com##.onead
@@ -20061,7 +20068,7 @@ https://geilwx.com##.yueduads
 https://xiadele.com##.yun-advertisement
 https://cnlmjx.com##.yw_ad
 https://eastday.com##.yxxf-warpper
-https://fx168.com##.yy_guangao
+https://24k99.com,fx168.com##.yy_guangao
 https://ifeng.com##.yy_right_bottom
 https://ali213.net##.zadmainholder
 https://qixingquan.com##.zdm
@@ -20207,6 +20214,7 @@ https://dzbhdm.com##a[href*="/xzgg/"]
 https://tingvoa.com##a[href*="?adid="]
 https://ruanyifeng.com##a[href*="?utm_source="]
 https://dilidili.wang##a[href*="Game"]
+https://sohu.com##a[href*="_Click_Flow_recommend_"]
 https://eworldship.com##a[href*="ad_click&"]
 https://xitek.com##a[href*="adclick"] + .info
 https://guilinlife.com##a[href*="adclicks&"]
@@ -22209,8 +22217,7 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://sohu.com##A[href*="_Click_Flow_recommend_"]
-http://libaclub.com##.merchant-link
+http://maxthon.cn###festival-bottom-wrapper
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -25025,6 +25032,7 @@ http://hk.yahoo.com##.js-stream-content[style="background-color:#fafaff;"]
 http://360kan.com##.js-welcome
 http://ifeng.com##.js_url[href^="http://dol.deliver."]
 http://mvcat.com##.jsalert
+http://24k99.com##.jy_24k99_suspended_ad
 http://fx168.com##.jy_fx168_gjs_content_Right_advise
 http://fx168.com##.jy_ny2018_content_LeftAd
 http://isiyuan.net##.ke-zeroborder
@@ -25191,6 +25199,7 @@ http://douguo.com##.mbs
 http://2345.com##.mco-ex-ndxh
 http://zhaiiker.com##.media-content[style*="0x"]
 http://cnool.net##.meilai_box
+http://libaclub.com##.merchant-link
 http://cnbeta.com##.meta > .fr
 http://cangku.in,galacg.me,llss.li,usnewsexpress.com##.metaslider
 http://so.com##.mh-sad
@@ -25330,7 +25339,7 @@ http://yes-news.com##.notification
 http://haoxxoo.com##.nrad1
 http://haoxxoo.com##.nrad2
 http://newsmth.net##.ns-ad
-http://fx168.com##.ny2018_txtLink
+http://24k99.com,fx168.com##.ny2018_txtLink
 http://szhk.com##.ny_ad1
 http://wallstreetcn.com##.omg-container
 http://10jqka.com.cn,hepan.com##.onead
@@ -26157,7 +26166,7 @@ http://geilwx.com##.yueduads
 http://xiadele.com##.yun-advertisement
 http://cnlmjx.com##.yw_ad
 http://eastday.com##.yxxf-warpper
-http://fx168.com##.yy_guangao
+http://24k99.com,fx168.com##.yy_guangao
 http://ifeng.com##.yy_right_bottom
 http://ali213.net##.zadmainholder
 http://qixingquan.com##.zdm
@@ -26303,6 +26312,7 @@ http://dzbhdm.com##a[href*="/xzgg/"]
 http://tingvoa.com##a[href*="?adid="]
 http://ruanyifeng.com##a[href*="?utm_source="]
 http://dilidili.wang##a[href*="Game"]
+http://sohu.com##a[href*="_Click_Flow_recommend_"]
 http://eworldship.com##a[href*="ad_click&"]
 http://xitek.com##a[href*="adclick"] + .info
 http://guilinlife.com##a[href*="adclicks&"]
