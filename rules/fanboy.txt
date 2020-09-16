@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yKmMeZr2sVCY61WpphSjug
-! Version: 202009142351
+! Checksum: 5bsTC6d1UEu3xuRaTHkX4A
+! Version: 202009152351
 ! Title: Fanboy's Annoyance List
-! Last modified: 14 Sep 2020 23:51 UTC
+! Last modified: 15 Sep 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10081,6 +10081,7 @@ https://automoto.it,moto.it###arrow-back-top
 https://norbaonline.it###back
 https://ssangyong-auto.it###back_top
 https://telefonino.net###backbutton
+https://bastardidentro.it###blocco_top_sec
 https://grandangoloagrigento.it,ilfattonisseno.it,itacanotizie.it,marsalace.it,qds.it,tempostretto.it,vistosulweb.com###blogup
 https://erboristeriamagentina.it###blultpdfbanner
 https://virgilio.it###bottom_chat
@@ -20628,6 +20629,7 @@ http://automoto.it,moto.it###arrow-back-top
 http://norbaonline.it###back
 http://ssangyong-auto.it###back_top
 http://telefonino.net###backbutton
+http://bastardidentro.it###blocco_top_sec
 http://grandangoloagrigento.it,ilfattonisseno.it,itacanotizie.it,marsalace.it,qds.it,tempostretto.it,vistosulweb.com###blogup
 http://erboristeriamagentina.it###blultpdfbanner
 http://virgilio.it###bottom_chat
