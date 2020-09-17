@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5bsTC6d1UEu3xuRaTHkX4A
-! Version: 202009152351
+! Checksum: btko+iXRw2PT44F3sbAZsg
+! Version: 202009162351
 ! Title: Fanboy's Annoyance List
-! Last modified: 15 Sep 2020 23:51 UTC
+! Last modified: 16 Sep 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -22,6 +22,7 @@
 ||https://abchukuk.com/abc.html
 ||https://accengage.net^$third-party
 ||https://actionbutton.co^$third-party
+||https://activehosted.com^$third-party
 ||https://addinto.com^$third-party
 ||https://adobe-campaign.com^$third-party
 ||https://advantagemedia.com^$third-party
@@ -1358,6 +1359,7 @@
 ||http://abchukuk.com/abc.html
 ||http://accengage.net^$third-party
 ||http://actionbutton.co^$third-party
+||http://activehosted.com^$third-party
 ||http://addinto.com^$third-party
 ||http://adobe-campaign.com^$third-party
 ||http://advantagemedia.com^$third-party
@@ -10125,7 +10127,7 @@ https://eprice.it###moveUp
 https://gazzetta.it###multifunctionBar-container
 https://callipo.com###nav_up
 https://sacecomponents.com###neko-to-top
-https://gamblingitalia.com,lacnews24.it,lintellettualedissidente.it,misya.info,radiospeaker.it,rivistastudio.com,silhouettedonna.it,termometropolitico.it,terranuova.it,valgardena.it###newsletter
+https://gamblingitalia.com,lacnews24.it,lintellettualedissidente.it,misya.info,radiospeaker.it,rivistastudio.com,silhouettedonna.it,sscnapoli.it,termometropolitico.it,terranuova.it,valgardena.it###newsletter
 https://distribuzionemoderna.info###nsl
 https://lasicilia.it###overbox_ticker_newsstand
 https://it.hisamitsu###pageTop
@@ -10296,6 +10298,7 @@ https://lagazzettadelmezzogiorno.it##.top_header_sali_footer
 https://mader.bz.it##.top_trigger
 https://peugeot.it##.toplink
 https://ilvibonese.it##.torna_su
+https://travelnostop.com##.toup
 https://americantourister.it##.ui-widget-overlay
 https://lifestyleblog.it,lospecialista.tv##.widget_mailpoet_form
 https://lospecialista.tv##.widget_specialert
@@ -11050,7 +11053,7 @@ https://ilmeteo.net##.siguenos-reducido
 https://assopoker.com##.singlemeta
 https://finanzaonline.com,teleborsa.it,tempostretto.it##.soc
 https://quickparking.it##.soc-icon-container
-https://affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,deabyday.tv,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,giornaledibrescia.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
+https://affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,creditosportivo.it,deabyday.tv,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,giornaledibrescia.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
 https://davinotti.com##.social__variant
 https://investireoggi.it##.social_menu
 https://gametimers.it,ilsicilia.it,kontrokultura.it,topicnews.it##.ss-ic
@@ -13236,6 +13239,7 @@ https://postnl.nl,vandebron.nl#@#.cookiebar-container
 https://postnl.nl#@#.cookiebar-message
 https://cnvinternationaal.nl#@#.cookiebar:not(body):not(html)
 https://hardware.info#@#.cookiecontainer
+https://siemens-home.bsh-group.com#@#.cookielaw-setcookiepolicy-form
 https://mymuesli.com,zoom.earth#@#.cookies-consent
 https://amarujala.com#@#.cookies-container
 https://bankmillennium.pl#@#.cookies-info
@@ -13272,6 +13276,7 @@ https://capstan.fr#@#.js-cookie-container
 https://bd-advocaten.nl#@#.js-cookie-container:not(body):not(html)
 https://saxion.edu,unileverfoodsolutions.com.br,unileverfoodsolutions.com.tr,unileverfoodsolutions.it#@#.js-cookie-wall
 https://mymuesli.com#@#.js-cookies-consent
+https://siemens-home.bsh-group.com#@#.js-setcookiepolicy
 https://bosch-mobility-solutions.com#@#.m-cookie
 https://bosch-mobility-solutions.com#@#.m-cookie-intro
 https://makelaarsland.nl#@#.m-cookie-notice
@@ -13282,7 +13287,7 @@ https://betway.it#@#.module-cookie
 https://ramics-conference.org#@#.nf-form-content
 https://aklagare.se,boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz,pokemon.com,shopstyle.com,thenextweb.com#@#.no-cookies
 https://nzpost.co.nz##.notification.cookies:not(body):not(html)
-https://bosch-home.com#@#.o-cookielaw
+https://bosch-home.com,siemens-home.bsh-group.com#@#.o-cookielaw
 https://api.newsguardtech.com,rockpapershotgun.com#@#.optanon-alert-box-wrapper
 https://pieseauto.ro#@#.page-cookies
 https://spotify.com#@#.privacy-modal
@@ -20673,7 +20678,7 @@ http://eprice.it###moveUp
 http://gazzetta.it###multifunctionBar-container
 http://callipo.com###nav_up
 http://sacecomponents.com###neko-to-top
-http://gamblingitalia.com,lacnews24.it,lintellettualedissidente.it,misya.info,radiospeaker.it,rivistastudio.com,silhouettedonna.it,termometropolitico.it,terranuova.it,valgardena.it###newsletter
+http://gamblingitalia.com,lacnews24.it,lintellettualedissidente.it,misya.info,radiospeaker.it,rivistastudio.com,silhouettedonna.it,sscnapoli.it,termometropolitico.it,terranuova.it,valgardena.it###newsletter
 http://distribuzionemoderna.info###nsl
 http://lasicilia.it###overbox_ticker_newsstand
 http://it.hisamitsu###pageTop
@@ -20844,6 +20849,7 @@ http://lagazzettadelmezzogiorno.it##.top_header_sali_footer
 http://mader.bz.it##.top_trigger
 http://peugeot.it##.toplink
 http://ilvibonese.it##.torna_su
+http://travelnostop.com##.toup
 http://americantourister.it##.ui-widget-overlay
 http://lifestyleblog.it,lospecialista.tv##.widget_mailpoet_form
 http://lospecialista.tv##.widget_specialert
@@ -21598,7 +21604,7 @@ http://ilmeteo.net##.siguenos-reducido
 http://assopoker.com##.singlemeta
 http://finanzaonline.com,teleborsa.it,tempostretto.it##.soc
 http://quickparking.it##.soc-icon-container
-http://affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,deabyday.tv,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,giornaledibrescia.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
+http://affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,creditosportivo.it,deabyday.tv,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,giornaledibrescia.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
 http://davinotti.com##.social__variant
 http://investireoggi.it##.social_menu
 http://gametimers.it,ilsicilia.it,kontrokultura.it,topicnews.it##.ss-ic
@@ -23785,6 +23791,7 @@ http://postnl.nl,vandebron.nl#@#.cookiebar-container
 http://postnl.nl#@#.cookiebar-message
 http://cnvinternationaal.nl#@#.cookiebar:not(body):not(html)
 http://hardware.info#@#.cookiecontainer
+http://siemens-home.bsh-group.com#@#.cookielaw-setcookiepolicy-form
 http://mymuesli.com,zoom.earth#@#.cookies-consent
 http://amarujala.com#@#.cookies-container
 http://bankmillennium.pl#@#.cookies-info
@@ -23821,6 +23828,7 @@ http://capstan.fr#@#.js-cookie-container
 http://bd-advocaten.nl#@#.js-cookie-container:not(body):not(html)
 http://saxion.edu,unileverfoodsolutions.com.br,unileverfoodsolutions.com.tr,unileverfoodsolutions.it#@#.js-cookie-wall
 http://mymuesli.com#@#.js-cookies-consent
+http://siemens-home.bsh-group.com#@#.js-setcookiepolicy
 http://bosch-mobility-solutions.com#@#.m-cookie
 http://bosch-mobility-solutions.com#@#.m-cookie-intro
 http://makelaarsland.nl#@#.m-cookie-notice
@@ -23831,7 +23839,7 @@ http://betway.it#@#.module-cookie
 http://ramics-conference.org#@#.nf-form-content
 http://aklagare.se,boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz,pokemon.com,shopstyle.com,thenextweb.com#@#.no-cookies
 http://nzpost.co.nz##.notification.cookies:not(body):not(html)
-http://bosch-home.com#@#.o-cookielaw
+http://bosch-home.com,siemens-home.bsh-group.com#@#.o-cookielaw
 http://api.newsguardtech.com,rockpapershotgun.com#@#.optanon-alert-box-wrapper
 http://pieseauto.ro#@#.page-cookies
 http://spotify.com#@#.privacy-modal
