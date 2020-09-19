@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: btko+iXRw2PT44F3sbAZsg
-! Version: 202009162351
+! Checksum: zeqaAyURAu5k13ABoeoqyA
+! Version: 202009182351
 ! Title: Fanboy's Annoyance List
-! Last modified: 16 Sep 2020 23:51 UTC
+! Last modified: 18 Sep 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6796,6 +6796,7 @@ https://playboy.com##.pb-newsletter
 https://dcalert.com##.pk-subscribe-container
 https://dcalert.com##.pk-subscribe-data
 https://slate.com##.plus-promo
+https://pinknews.co.uk##.pn-ad-desktop_article_sidebar_before
 https://thefader.com##.popular_posts
 https://pbs.org##.popup
 https://politize.com.br##.popup-content
@@ -6904,6 +6905,7 @@ https://good.is##.sitewide-alert
 https://salemreporter.com##.skybox-trial
 https://genuine-people.com,shopstyle.com##.slide-up-banner
 https://revntv.com##.slideOutTab
+https://interestingengineering.com##.slim-subscription
 https://deathandtaxesmag.com,spin.com,stereogum.com,vibe.com##.sm-widget-campaign-monitor
 https://stereogum.com##.sm-widget-sailthru
 https://swarajyamag.com##.smag-subscription-wrapper
@@ -8184,6 +8186,7 @@ https://chess.com##.navigation-footer-platforms-component
 https://thebugle.co.za##.network-btn
 https://supergreenme.com##.network_icon
 https://bitrebels.com##.network_links
+https://interestingengineering.com##.news-icon
 https://nowness.com##.nn-join-us__col
 https://lgbtqnation.com##.noicon
 https://nationalpost.com##.npFindOnFacebookContainer
@@ -9727,6 +9730,7 @@ https://valentins.de###arrow-up
 https://nzz.ch###articleMore
 https://testberichte.de###bck-t-tp
 https://unsertirol24.com###beginn-arrow
+https://oeffnungszeitenbuch.de###btnUpMb
 https://androidnext.de###c4a_box
 https://hartziv.org###cr_embeded_form
 https://reifenpresse.de###custom_html-2
@@ -9810,6 +9814,7 @@ https://franceantilles.fr###bloc_rebond
 https://habitatpresto.com###block-news
 https://e-leclerc.com###bt_demo
 https://lepratiquedugabon.com###btn-top
+https://horairesdouverture24.fr###btnUpMb
 https://francetvsport.fr,pourquoidocteur.fr###cboxOverlay
 https://centerblog.net###centerbl
 https://marmottons.net###ck
@@ -10088,6 +10093,7 @@ https://grandangoloagrigento.it,ilfattonisseno.it,itacanotizie.it,marsalace.it,q
 https://erboristeriamagentina.it###blultpdfbanner
 https://virgilio.it###bottom_chat
 https://centrometeoitaliano.it###box-banner-messaggero
+https://oraridiapertura24.it###btnUpMb
 https://paginegialle.it###btt
 https://money.it###button
 https://starq8.it###button-top
@@ -10251,6 +10257,7 @@ https://notizie-inter.it##.navArticleItem
 https://everyeye.it##.nav_articoli
 https://ilsitodellozoo.com##.navbar-alt
 https://laleggepertutti.it##.news-letter
+https://leggioggi.it##.newsButton
 https://01net.it,advisoronline.it,aeroporto.net,astrooroscopo.it,basketinside.com,carpicalcionews.it,chiesadimilano.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,giornaledibrescia.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,lanazione.it,leitgamhof.com,lescienze.it,linkiesta.it,lintellettualedissidente.it,lvh.it,mediagol.it,meteolive.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,theitaliantimes.it,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
 https://ravennanotizie.it##.newsletter-section
 https://starbene.it##.nlslim
@@ -11037,6 +11044,7 @@ https://optimagazine.com##.ocial
 https://optimagazine.com##.ocialWhite
 https://corriere.it##.player-email-ctn
 https://lintellettualedissidente.it##.post-actions
+https://montagna.tv##.post-footer-on-bottom
 https://lifegate.it##.post__trends
 https://raisport.rai.it##.prefooter
 https://assopoker.com##.rating-count
@@ -11289,6 +11297,7 @@ https://haberinadresi.com,minika.com.tr##.sosyal
 https://diyanet.tv##.sosyal-alt-ust
 https://trt.net.tr##.twitter
 https://herder.de###BottomNotification
+https://oeffnungszeitenbuch.de###CCcont
 https://e-formel.de###CKC
 https://singles-in-stuttgart.de,wander-community.de###DC
 https://vdk.de###DSE
@@ -11539,6 +11548,7 @@ https://oebv.net##form > div
 https://kalenderpedia.de##p
 https://fc-hansa.de##p[style="display: block; margin: 0px; padding: 10px 30px 10px 10px; color: rgb(255, 255, 255); font-size: 13px; line-height: 1.5;"]
 https://hl-live.de##table[width="1000"]
+https://horairesdouverture24.fr###CCcont
 https://red-by-sfr.fr,sfr.fr###CkC
 https://vrin.fr###Disclaimer
 https://grandeavenue.fr###FixedBannerClientDiv
@@ -11908,6 +11918,7 @@ https://visir.is##.bottom-disclaimer
 https://dinamalar.com##.quickslide
 https://jiosaavn.com##.site-message-container
 https://volaparkingorio.it###AeroparkVerona_cookie_advice
+https://oraridiapertura24.it###CCcont
 https://controcampus.it###Controcampus_cookie_advice
 https://vistaprint.it###MarketingText
 https://ludomedia.it###UIAvvisiUtente
@@ -17346,6 +17357,7 @@ http://playboy.com##.pb-newsletter
 http://dcalert.com##.pk-subscribe-container
 http://dcalert.com##.pk-subscribe-data
 http://slate.com##.plus-promo
+http://pinknews.co.uk##.pn-ad-desktop_article_sidebar_before
 http://thefader.com##.popular_posts
 http://pbs.org##.popup
 http://politize.com.br##.popup-content
@@ -17454,6 +17466,7 @@ http://good.is##.sitewide-alert
 http://salemreporter.com##.skybox-trial
 http://genuine-people.com,shopstyle.com##.slide-up-banner
 http://revntv.com##.slideOutTab
+http://interestingengineering.com##.slim-subscription
 http://deathandtaxesmag.com,spin.com,stereogum.com,vibe.com##.sm-widget-campaign-monitor
 http://stereogum.com##.sm-widget-sailthru
 http://swarajyamag.com##.smag-subscription-wrapper
@@ -18734,6 +18747,7 @@ http://chess.com##.navigation-footer-platforms-component
 http://thebugle.co.za##.network-btn
 http://supergreenme.com##.network_icon
 http://bitrebels.com##.network_links
+http://interestingengineering.com##.news-icon
 http://nowness.com##.nn-join-us__col
 http://lgbtqnation.com##.noicon
 http://nationalpost.com##.npFindOnFacebookContainer
@@ -20278,6 +20292,7 @@ http://valentins.de###arrow-up
 http://nzz.ch###articleMore
 http://testberichte.de###bck-t-tp
 http://unsertirol24.com###beginn-arrow
+http://oeffnungszeitenbuch.de###btnUpMb
 http://androidnext.de###c4a_box
 http://hartziv.org###cr_embeded_form
 http://reifenpresse.de###custom_html-2
@@ -20361,6 +20376,7 @@ http://franceantilles.fr###bloc_rebond
 http://habitatpresto.com###block-news
 http://e-leclerc.com###bt_demo
 http://lepratiquedugabon.com###btn-top
+http://horairesdouverture24.fr###btnUpMb
 http://francetvsport.fr,pourquoidocteur.fr###cboxOverlay
 http://centerblog.net###centerbl
 http://marmottons.net###ck
@@ -20639,6 +20655,7 @@ http://grandangoloagrigento.it,ilfattonisseno.it,itacanotizie.it,marsalace.it,qd
 http://erboristeriamagentina.it###blultpdfbanner
 http://virgilio.it###bottom_chat
 http://centrometeoitaliano.it###box-banner-messaggero
+http://oraridiapertura24.it###btnUpMb
 http://paginegialle.it###btt
 http://money.it###button
 http://starq8.it###button-top
@@ -20802,6 +20819,7 @@ http://notizie-inter.it##.navArticleItem
 http://everyeye.it##.nav_articoli
 http://ilsitodellozoo.com##.navbar-alt
 http://laleggepertutti.it##.news-letter
+http://leggioggi.it##.newsButton
 http://01net.it,advisoronline.it,aeroporto.net,astrooroscopo.it,basketinside.com,carpicalcionews.it,chiesadimilano.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,giornaledibrescia.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,lanazione.it,leitgamhof.com,lescienze.it,linkiesta.it,lintellettualedissidente.it,lvh.it,mediagol.it,meteolive.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,theitaliantimes.it,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
 http://ravennanotizie.it##.newsletter-section
 http://starbene.it##.nlslim
@@ -21588,6 +21606,7 @@ http://optimagazine.com##.ocial
 http://optimagazine.com##.ocialWhite
 http://corriere.it##.player-email-ctn
 http://lintellettualedissidente.it##.post-actions
+http://montagna.tv##.post-footer-on-bottom
 http://lifegate.it##.post__trends
 http://raisport.rai.it##.prefooter
 http://assopoker.com##.rating-count
@@ -21841,6 +21860,7 @@ http://haberinadresi.com,minika.com.tr##.sosyal
 http://diyanet.tv##.sosyal-alt-ust
 http://trt.net.tr##.twitter
 http://herder.de###BottomNotification
+http://oeffnungszeitenbuch.de###CCcont
 http://e-formel.de###CKC
 http://singles-in-stuttgart.de,wander-community.de###DC
 http://vdk.de###DSE
@@ -22091,6 +22111,7 @@ http://oebv.net##form > div
 http://kalenderpedia.de##p
 http://fc-hansa.de##p[style="display: block; margin: 0px; padding: 10px 30px 10px 10px; color: rgb(255, 255, 255); font-size: 13px; line-height: 1.5;"]
 http://hl-live.de##table[width="1000"]
+http://horairesdouverture24.fr###CCcont
 http://red-by-sfr.fr,sfr.fr###CkC
 http://vrin.fr###Disclaimer
 http://grandeavenue.fr###FixedBannerClientDiv
@@ -22460,6 +22481,7 @@ http://visir.is##.bottom-disclaimer
 http://dinamalar.com##.quickslide
 http://jiosaavn.com##.site-message-container
 http://volaparkingorio.it###AeroparkVerona_cookie_advice
+http://oraridiapertura24.it###CCcont
 http://controcampus.it###Controcampus_cookie_advice
 http://vistaprint.it###MarketingText
 http://ludomedia.it###UIAvvisiUtente
