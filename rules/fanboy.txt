@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zeqaAyURAu5k13ABoeoqyA
-! Version: 202009182351
+! Checksum: eVskJ8NGNUNlTcWHhvLquQ
+! Version: 202009192351
 ! Title: Fanboy's Annoyance List
-! Last modified: 18 Sep 2020 23:51 UTC
+! Last modified: 19 Sep 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -524,6 +524,7 @@
 ||https://provesrc.com^$third-party
 ||https://psh.one^$third-party
 ||https://push-ad.com^$third-party
+||https://push-free.com^$third-party
 ||https://push-house.net^$third-party
 ||https://pushalert.co^$third-party
 ||https://pushbird.com^$third-party
@@ -1873,6 +1874,7 @@
 ||http://provesrc.com^$third-party
 ||http://psh.one^$third-party
 ||http://push-ad.com^$third-party
+||http://push-free.com^$third-party
 ||http://push-house.net^$third-party
 ||http://pushalert.co^$third-party
 ||http://pushbird.com^$third-party
@@ -6206,7 +6208,7 @@ https://linux.com###modalContent
 https://psycom.net###modalpop
 https://maketecheasier.com###mte_optin
 https://popsugar.com###must-have-badge
-https://martechadvisor.com,worldcrunch.com###myModal
+https://conversationalist.org,martechadvisor.com,worldcrunch.com###myModal
 https://insideclimatenews.org###news-signup
 https://epicurious.com###newsLetter
 https://irishtimes.com###newsdigest-widget
@@ -9778,6 +9780,7 @@ https://kicker.de##.kick__scroll-top-ic
 https://ifun.de,iphone-ticker.de##.mail
 https://weltwoche.ch##.navInner.fixed
 https://diepresse.com,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,silicon.de##.newsletter
+https://geo.de##.nlAnmeldg
 https://therese-moelk.at##.pageup
 https://matratzen.info##.postNavigation
 https://rnd-news.de##.rss
@@ -10196,6 +10199,7 @@ https://agi.it##.banner-register
 https://agendadigitale.eu,corrierecomunicazioni.it,economyup.it,insuranceup.it##.bottom-bar__up
 https://guardaserie.watch##.bottom-button-top
 https://engage.it##.box-engage-mag
+https://beverfood.com##.box-iscrizione
 https://red-live.it##.box-sponsor
 https://infobuildenergia.it##.box_dem
 https://wuerth.it##.btn-scroll-top
@@ -10703,6 +10707,7 @@ https://marcopolo.de##.socialWeb
 https://schwaebische.de##.social_communities
 https://delivering-tomorrow.de##.some-links
 https://playnation.de##.sos
+https://geo.de##.soucials
 https://spiegel.de##.spHeaderFollow
 https://netzwelt.de##.stcl
 https://autoscout24.ch##.tab-actions
@@ -11353,7 +11358,7 @@ https://gorreri.de###loggedbar
 https://literaturuebersetzer.de###mCCForm
 https://emax-haustechnik.de###mediameetsFacebookPixel--notification
 https://funpot.net###message
-https://winfuture.de###message_id
+https://winfuture.de,winfuture.mobi###message_id
 https://blauarbeit.de###messages-container
 https://meinvorsorgemanagement.de###mhp-cl
 https://wabeco-remscheid.de###myModal
@@ -16767,7 +16772,7 @@ http://linux.com###modalContent
 http://psycom.net###modalpop
 http://maketecheasier.com###mte_optin
 http://popsugar.com###must-have-badge
-http://martechadvisor.com,worldcrunch.com###myModal
+http://conversationalist.org,martechadvisor.com,worldcrunch.com###myModal
 http://insideclimatenews.org###news-signup
 http://epicurious.com###newsLetter
 http://irishtimes.com###newsdigest-widget
@@ -20340,6 +20345,7 @@ http://kicker.de##.kick__scroll-top-ic
 http://ifun.de,iphone-ticker.de##.mail
 http://weltwoche.ch##.navInner.fixed
 http://diepresse.com,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,silicon.de##.newsletter
+http://geo.de##.nlAnmeldg
 http://therese-moelk.at##.pageup
 http://matratzen.info##.postNavigation
 http://rnd-news.de##.rss
@@ -20758,6 +20764,7 @@ http://agi.it##.banner-register
 http://agendadigitale.eu,corrierecomunicazioni.it,economyup.it,insuranceup.it##.bottom-bar__up
 http://guardaserie.watch##.bottom-button-top
 http://engage.it##.box-engage-mag
+http://beverfood.com##.box-iscrizione
 http://red-live.it##.box-sponsor
 http://infobuildenergia.it##.box_dem
 http://wuerth.it##.btn-scroll-top
@@ -21265,6 +21272,7 @@ http://marcopolo.de##.socialWeb
 http://schwaebische.de##.social_communities
 http://delivering-tomorrow.de##.some-links
 http://playnation.de##.sos
+http://geo.de##.soucials
 http://spiegel.de##.spHeaderFollow
 http://netzwelt.de##.stcl
 http://autoscout24.ch##.tab-actions
@@ -21916,7 +21924,7 @@ http://gorreri.de###loggedbar
 http://literaturuebersetzer.de###mCCForm
 http://emax-haustechnik.de###mediameetsFacebookPixel--notification
 http://funpot.net###message
-http://winfuture.de###message_id
+http://winfuture.de,winfuture.mobi###message_id
 http://blauarbeit.de###messages-container
 http://meinvorsorgemanagement.de###mhp-cl
 http://wabeco-remscheid.de###myModal
