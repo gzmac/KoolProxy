@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: y9azj7OMLpqUEyjsBiKU2A
-! Version: 202009202351
+! Checksum: pNnBkk2m1JfX0A4xahVu9A
+! Version: 202009212351
 ! Title: Fanboy's Annoyance List
-! Last modified: 20 Sep 2020 23:51 UTC
+! Last modified: 21 Sep 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1109,6 +1109,7 @@
 ||https://parliamentlive.tv/cookie/
 ||https://propcom.co.uk/cookie/
 ||https://purevpn.com/loadGdprView
+||https://vandalism-sounds.com^*/notices.min.js
 ||https://windguru.cz/forms/consent.php
 ||https://yimg.com^*/guce.js
 ||https://thscore.co^*/backTop.
@@ -2499,6 +2500,7 @@
 ||http://propcom.co.uk/cookie/
 ||http://purevpn.com/loadGdprView
 ||http://sp.knowyourmeme.com^
+||http://vandalism-sounds.com^*/notices.min.js
 ||http://windguru.cz/forms/consent.php
 ||http://yimg.com^*/guce.js
 ||http://push.cnnindonesia.com^
@@ -6108,6 +6110,7 @@ https://charlotteobserver.com###daily-modal
 https://democracynow.org###daily_digest_modal
 https://thestar.com.my###dailyalertbox
 https://dailycaller.com###dc-quiz-wrapper
+https://tasteofhome.com###desktop-nav-banner
 https://newser.com###divNewserInYourInbox
 https://dallasnews.com###dmnLightboxCenter
 https://washingtonexaminer.com###dy_Article_Newsletter_Signups
@@ -10250,6 +10253,7 @@ https://astrooroscopo.it##.in
 https://condominio.com,libero.it,mondomobileweb.it##.ir-arriba
 https://bastabugie.it##.iscrizione
 https://sky.it##.j-navTop
+https://juventus.com##.jcom-c-promo-newsletter
 https://penskeautomotive.it##.js-scroll-to
 https://ytong.it##.link-to-top
 https://linkiesta.it##.lkPopover
@@ -12050,7 +12054,8 @@ https://hilti.it##.m-smartbar-container
 https://insideevs.it,omnifurgone.it,omnimoto.it##.m1-footer-message
 https://fashionunited.it##.mdc-snackbar__surface
 https://ari.it##.message
-https://alfasigma.com,elevensports.it##.modal-backdrop
+https://monzacalcio.com##.modal
+https://alfasigma.com,elevensports.it,monzacalcio.com##.modal-backdrop
 https://informazione.it##.modal-body
 https://telethon.it##.modalMessage
 https://initalia.it##.notice-wrap
@@ -12957,7 +12962,7 @@ https://paperblog.com,paperblog.fr#@#.social-inline
 https://swiatebookow.pl#@#.social-label
 https://4pda.ru,asos.com,metservice.com#@#.social-link
 https://airbnb.cat,airbnb.com,airbnb.de,autokult.pl,dcz.gov.ua,deathfromabove1979.com,fotoblogia.pl,komorkomania.pl,newonce.radio,redhat.com,squarespace.com,time.com#@#.social-links
-https://wykop.pl#@#.social-list
+https://rusalka-market.ru,wykop.pl#@#.social-list
 https://coeffee.com,flipboard.com,getyounity.com,howdoyou.do#@#.social-login
 https://ethias.be,technorati.com#@#.social-media
 https://f-secure.com,howtogeek.com#@#.social-media-buttons
@@ -13269,7 +13274,7 @@ https://fd.nl,gezondheidsplein.nl,intersport.dk,intersport.es,intersport.nl,tcro
 https://samsung.com,xlbygg.se#@#.cookiewarning
 https://xlbygg.se#@#.cookiewarning:not(body):not(html)
 https://apkpure.com#@#.cp-banner
-https://bccnapoli.it,thetechsutra.com#@#.cp-overlay
+https://bccnapoli.it,spalferrara.it,thetechsutra.com#@#.cp-overlay
 https://e-dym.pl#@#.cp-popup
 https://porndig.com,thagson.com#@#.disclaimer_wrapper
 https://acloudguru.com#@#.elementor-popup-modal.dialog-widget
@@ -16672,6 +16677,7 @@ http://charlotteobserver.com###daily-modal
 http://democracynow.org###daily_digest_modal
 http://thestar.com.my###dailyalertbox
 http://dailycaller.com###dc-quiz-wrapper
+http://tasteofhome.com###desktop-nav-banner
 http://newser.com###divNewserInYourInbox
 http://dallasnews.com###dmnLightboxCenter
 http://washingtonexaminer.com###dy_Article_Newsletter_Signups
@@ -20815,6 +20821,7 @@ http://astrooroscopo.it##.in
 http://condominio.com,libero.it,mondomobileweb.it##.ir-arriba
 http://bastabugie.it##.iscrizione
 http://sky.it##.j-navTop
+http://juventus.com##.jcom-c-promo-newsletter
 http://penskeautomotive.it##.js-scroll-to
 http://ytong.it##.link-to-top
 http://linkiesta.it##.lkPopover
@@ -22616,7 +22623,8 @@ http://hilti.it##.m-smartbar-container
 http://insideevs.it,omnifurgone.it,omnimoto.it##.m1-footer-message
 http://fashionunited.it##.mdc-snackbar__surface
 http://ari.it##.message
-http://alfasigma.com,elevensports.it##.modal-backdrop
+http://monzacalcio.com##.modal
+http://alfasigma.com,elevensports.it,monzacalcio.com##.modal-backdrop
 http://informazione.it##.modal-body
 http://telethon.it##.modalMessage
 http://initalia.it##.notice-wrap
@@ -23523,7 +23531,7 @@ http://paperblog.com,paperblog.fr#@#.social-inline
 http://swiatebookow.pl#@#.social-label
 http://4pda.ru,asos.com,metservice.com#@#.social-link
 http://airbnb.cat,airbnb.com,airbnb.de,autokult.pl,dcz.gov.ua,deathfromabove1979.com,fotoblogia.pl,komorkomania.pl,newonce.radio,redhat.com,squarespace.com,time.com#@#.social-links
-http://wykop.pl#@#.social-list
+http://rusalka-market.ru,wykop.pl#@#.social-list
 http://coeffee.com,flipboard.com,getyounity.com,howdoyou.do#@#.social-login
 http://ethias.be,technorati.com#@#.social-media
 http://f-secure.com,howtogeek.com#@#.social-media-buttons
@@ -23835,7 +23843,7 @@ http://fd.nl,gezondheidsplein.nl,intersport.dk,intersport.es,intersport.nl,tcroo
 http://samsung.com,xlbygg.se#@#.cookiewarning
 http://xlbygg.se#@#.cookiewarning:not(body):not(html)
 http://apkpure.com#@#.cp-banner
-http://bccnapoli.it,thetechsutra.com#@#.cp-overlay
+http://bccnapoli.it,spalferrara.it,thetechsutra.com#@#.cp-overlay
 http://e-dym.pl#@#.cp-popup
 http://porndig.com,thagson.com#@#.disclaimer_wrapper
 http://acloudguru.com#@#.elementor-popup-modal.dialog-widget
