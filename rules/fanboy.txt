@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: N1cFaWg5hUxHUCu6/f0wGQ
-! Version: 202009222351
+! Checksum: qB8TL3TxmuP1D1oPdvp+oA
+! Version: 202009232351
 ! Title: Fanboy's Annoyance List
-! Last modified: 22 Sep 2020 23:51 UTC
+! Last modified: 23 Sep 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7599,7 +7599,7 @@ https://inspire52.com###scrolltriggered
 https://youtube.com###secondary-links
 https://applebees.com###section_community
 https://sciencedaily.com###seealso
-https://40tech.com,amandapeyton.com,blockr.io,blogsdna.com,bulawayo24.com,businessinsider.com,crikey.com.au,dailymotion.com,designtaxi.com,firstsrowsports.eu,fwix.com,geek.com,geekosystem.com,gossipcop.com,hellomagazine.com,hqbabes.com,hqsluts.com,html5test.com,imm.io,indiegogo.com,madthumbs.com,mcdonalds.com,mediaite.com,medicaldaily.com,midwestsportsfans.com,monstercockland.com,mtvmusic.com,notepad-plus-plus.org,people-press.org,plosone.org,redpepperland.com,scitechdaily.com,seriouseats.com,sputniknews.com,stabmag.com,tcmag.com,technewsworld.com,techvert.com,themoviedb.org,thethirdpole.net,tnp.no,torrentfreak.com,tvnz.co.nz,usgs.gov,voltairenet.org,washingtonpost.com,whatbrowser.org,wolframalpha.com,wwitv.com,xxxymovies.com###share
+https://40tech.com,amandapeyton.com,blockr.io,blogsdna.com,bulawayo24.com,businessinsider.com,crikey.com.au,dailymotion.com,designtaxi.com,firstsrowsports.eu,fwix.com,geek.com,gossipcop.com,hellomagazine.com,hqbabes.com,hqsluts.com,html5test.com,imm.io,indiegogo.com,madthumbs.com,mcdonalds.com,mediaite.com,medicaldaily.com,midwestsportsfans.com,monstercockland.com,mtvmusic.com,notepad-plus-plus.org,people-press.org,plosone.org,redpepperland.com,scitechdaily.com,seriouseats.com,sputniknews.com,stabmag.com,tcmag.com,technewsworld.com,techvert.com,themoviedb.org,thethirdpole.net,tnp.no,torrentfreak.com,tvnz.co.nz,usgs.gov,voltairenet.org,washingtonpost.com,whatbrowser.org,wolframalpha.com,wwitv.com,xxxymovies.com###share
 https://ew.com###share-article
 https://pornhub.com###sharePlaylist
 https://biorxiv.org###shareit
@@ -7639,7 +7639,7 @@ https://prlog.org###smx
 https://prlog.org###smx2
 https://worldreview.info###sn
 https://play-asia.com###soc
-https://amartus.com,amazinglytimedphotos.com,androidzoom.com,ask.com,barneys.com,beefjack.com,bitcoinblackfriday.com,bubblews.com,businessinsider.com,businessinsider.com.au,chnetwork.org,classicreload.com,cmt.com,cnalicense.org,consumerist.com,distance-calculator.co.uk,dogandponyshowwebsite.com,donnahay.com.au,ekathimerini.com,electrictoolbox.com,g2a.com,gamingonlinux.com,gamrreview.com,geekosystem.com,giantfreakinrobot.com,gizmodo.com.au,globes.co.il,goutsa.com,haydenplanetarium.org,hccs.edu,highlandcapital.com,hollywire.com,hostcabi.net,hotscripts.com,humorhub.org,humourtube.org,imgur.com,ini.tv,inkscape.org,joburg.org.za,justrewards.co.za,kinguin.net,kotaku.com.au,latimes.com,lawyersweekly.com.au,legitreviews.com,lifehacker.com.au,mail.opera.com,makeuseof.com,mayoclinic.com,meteoblue.com,meteovista.co.uk,meteovista.com,mtv.com,musicfeeds.com.au,namecheap.com,nzmusicmonth.co.nz,onlineeducation.net,openculture.com,penny-arcade.com,phoronix.com,pixiq.com,play-asia.com,presidenthotel.co.za,producersguild.org,radiovaticana.va,ratemyprofessors.com,ryot.org,sfchamber.com,skift.com,smhlmao.com,stileproject.com,stoppress.co.nz,swapit.co.uk,systemrequirementslab.com,talkingpointsmemo.com,tesco.com,the-diplomat.com,theedge.co.nz,theepochtimes.com,theparisreview.org,thepiratebay.org,theroar.com.au,ucl.ac.uk,vimeopro.com,virginactive.co.uk,virginactive.co.za,washingtonblade.com,waterfoxproject.org,wbs-law.de,webglearth.com,whatpeoplesayonline.com,whimn.com.au,whtop.com,wired.com,xda-developers.com###social
+https://amartus.com,amazinglytimedphotos.com,androidzoom.com,ask.com,barneys.com,beefjack.com,bitcoinblackfriday.com,bubblews.com,businessinsider.com,businessinsider.com.au,chnetwork.org,classicreload.com,cmt.com,cnalicense.org,consumerist.com,distance-calculator.co.uk,dogandponyshowwebsite.com,donnahay.com.au,ekathimerini.com,electrictoolbox.com,g2a.com,gamingonlinux.com,gamrreview.com,giantfreakinrobot.com,gizmodo.com.au,globes.co.il,goutsa.com,haydenplanetarium.org,hccs.edu,highlandcapital.com,hollywire.com,hostcabi.net,hotscripts.com,humorhub.org,humourtube.org,imgur.com,ini.tv,inkscape.org,joburg.org.za,justrewards.co.za,kinguin.net,kotaku.com.au,latimes.com,lawyersweekly.com.au,legitreviews.com,lifehacker.com.au,mail.opera.com,makeuseof.com,mayoclinic.com,meteoblue.com,meteovista.co.uk,meteovista.com,mtv.com,musicfeeds.com.au,namecheap.com,nzmusicmonth.co.nz,onlineeducation.net,openculture.com,penny-arcade.com,phoronix.com,pixiq.com,play-asia.com,presidenthotel.co.za,producersguild.org,radiovaticana.va,ratemyprofessors.com,ryot.org,sfchamber.com,skift.com,smhlmao.com,stileproject.com,stoppress.co.nz,swapit.co.uk,systemrequirementslab.com,talkingpointsmemo.com,tesco.com,the-diplomat.com,theedge.co.nz,theepochtimes.com,theparisreview.org,thepiratebay.org,theroar.com.au,ucl.ac.uk,vimeopro.com,virginactive.co.uk,virginactive.co.za,washingtonblade.com,waterfoxproject.org,wbs-law.de,webglearth.com,whatpeoplesayonline.com,whimn.com.au,whtop.com,wired.com,xda-developers.com###social
 https://christianpost.com###social-apps
 https://animenewsnetwork.com###social-bookmarks
 https://cafemom.com###social-comment
@@ -10138,7 +10138,7 @@ https://eprice.it###moveUp
 https://gazzetta.it###multifunctionBar-container
 https://callipo.com###nav_up
 https://sacecomponents.com###neko-to-top
-https://gamblingitalia.com,lacnews24.it,lintellettualedissidente.it,misya.info,radiospeaker.it,rivistastudio.com,silhouettedonna.it,sscnapoli.it,termometropolitico.it,terranuova.it,valgardena.it###newsletter
+https://gamblingitalia.com,lacnews24.it,lintellettualedissidente.it,misya.info,radiospeaker.it,rivistastudio.com,silhouettedonna.it,soldioggi.it,sscnapoli.it,termometropolitico.it,terranuova.it,valgardena.it###newsletter
 https://distribuzionemoderna.info###nsl
 https://lasicilia.it###overbox_ticker_newsstand
 https://it.hisamitsu###pageTop
@@ -11950,7 +11950,7 @@ https://centrometeolombardo.com###cc_div
 https://ecodallecitta.it###contenuto_consenso
 https://spesasicura.com###cook
 https://aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miamerano.it,mymercato.it,pallacanestrovarese.it,primocanale.it,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
-https://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,supermercato24.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
+https://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 https://majani.it###cs-banner
 https://netflixlovers.it###cs_container
 https://staffettaonline.com###ctl00_CtrlLogAbbonato1_cookiealert
@@ -12945,7 +12945,7 @@ https://buzzerie.com,gog.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
 https://chess.com#@#.social-btns
 https://4shared.com,disqus.com,fastcompany.com,golem.de,nu.nl#@#.social-button
 https://adevarul.ro,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,bilingua.io,cheezburger.com,musixmatch.com,nu.nl,ozy.com,tipranks.com#@#.social-buttons
-https://pioneer-iot.com,workroom-myata.ru#@#.social-circle
+https://pioneer-iot.com,velox.net.ua,workroom-myata.ru#@#.social-circle
 https://cheezburger.com,epicgames.com,gofugyourself.com#@#.social-container
 https://golem.de#@#.social-counter
 https://4players.de,chrisblattman.com,deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-facebook
@@ -13194,6 +13194,7 @@ https://onet.pl#@#.cmp-app_gdpr
 https://consent.yahoo.com,lawrievetgroup.co.uk,oath.com#@#.consent-container
 https://consent.yahoo.com,lawrievetgroup.co.uk,payments.amazon.ca,payments.amazon.co.jp,payments.amazon.co.uk,payments.amazon.com,payments.amazon.com.au,payments.amazon.com.br,payments.amazon.de,payments.amazon.es,payments.amazon.fr,payments.amazon.in,payments.amazon.it,simplii.com#@#.consent-wrapper
 https://boursorama.com,nuxeo.com#@#.cookie-banner
+https://monese.com#@#.cookie-banner:not(body):not(html)
 https://janrain.com,moemax.de,rituals.com,xxxlshop.de#@#.cookie-bar
 https://stabila.com#@#.cookie-bar-visible
 https://rituals.com#@#.cookie-bar-wrapper
@@ -13331,7 +13332,7 @@ https://openfiber.it#@#[aria-label="cookieconsent"]
 https://atutszkola.pl,meethue.com,mydziewczyny.pl,philips-hue.com,philips.ae,philips.am,philips.at,philips.az,philips.be,philips.bg,philips.by,philips.ca,philips.ch,philips.cl,philips.co.id,philips.co.il,philips.co.in,philips.co.jp,philips.co.ke,philips.co.kr,philips.co.nz,philips.co.th,philips.co.uk,philips.co.za,philips.com,philips.com.ar,philips.com.au,philips.com.bh,philips.com.br,philips.com.cn,philips.com.co,philips.com.eg,philips.com.ge,philips.com.gh,philips.com.hk,philips.com.kw,philips.com.lb,philips.com.mx,philips.com.my,philips.com.om,philips.com.pe,philips.com.ph,philips.com.pk,philips.com.qa,philips.com.sg,philips.com.tr,philips.com.tw,philips.com.uy,philips.com.vn,philips.cz,philips.de,philips.dk,philips.ee,philips.es,philips.fi,philips.fr,philips.gr,philips.hr,philips.hu,philips.ie,philips.iq,philips.it,philips.jo,philips.kz,philips.lt,philips.lv,philips.ma,philips.ng,philips.nl,philips.no,philips.pl,philips.pt,philips.ro,philips.rs,philips.ru,philips.sa,philips.se,philips.si,philips.sk,philips.ua,philips.uz#@#[data-cookie-id]
 https://mymuesli.com#@#cookies_consent
 https://litebit.eu#@#div[class*="CookieConsent"]
-https://ee.co.uk#@#div[class^="cookie-banner"]
+https://ee.co.uk,monese.com#@#div[class^="cookie-banner"]
 https://dovoba.de#@#div[class^="cookie-consent_"]
 https://birramenabrea.com,cnwl.nhs.uk,marketerplus.pl,myspeed.pl#@#div[data-cookie]
 https://timeout.com#@#div[data-module="cookie_banner"]
@@ -18166,7 +18167,7 @@ http://inspire52.com###scrolltriggered
 http://youtube.com###secondary-links
 http://applebees.com###section_community
 http://sciencedaily.com###seealso
-http://40tech.com,amandapeyton.com,blockr.io,blogsdna.com,bulawayo24.com,businessinsider.com,crikey.com.au,dailymotion.com,designtaxi.com,firstsrowsports.eu,fwix.com,geek.com,geekosystem.com,gossipcop.com,hellomagazine.com,hqbabes.com,hqsluts.com,html5test.com,imm.io,indiegogo.com,madthumbs.com,mcdonalds.com,mediaite.com,medicaldaily.com,midwestsportsfans.com,monstercockland.com,mtvmusic.com,notepad-plus-plus.org,people-press.org,plosone.org,redpepperland.com,scitechdaily.com,seriouseats.com,sputniknews.com,stabmag.com,tcmag.com,technewsworld.com,techvert.com,themoviedb.org,thethirdpole.net,tnp.no,torrentfreak.com,tvnz.co.nz,usgs.gov,voltairenet.org,washingtonpost.com,whatbrowser.org,wolframalpha.com,wwitv.com,xxxymovies.com###share
+http://40tech.com,amandapeyton.com,blockr.io,blogsdna.com,bulawayo24.com,businessinsider.com,crikey.com.au,dailymotion.com,designtaxi.com,firstsrowsports.eu,fwix.com,geek.com,gossipcop.com,hellomagazine.com,hqbabes.com,hqsluts.com,html5test.com,imm.io,indiegogo.com,madthumbs.com,mcdonalds.com,mediaite.com,medicaldaily.com,midwestsportsfans.com,monstercockland.com,mtvmusic.com,notepad-plus-plus.org,people-press.org,plosone.org,redpepperland.com,scitechdaily.com,seriouseats.com,sputniknews.com,stabmag.com,tcmag.com,technewsworld.com,techvert.com,themoviedb.org,thethirdpole.net,tnp.no,torrentfreak.com,tvnz.co.nz,usgs.gov,voltairenet.org,washingtonpost.com,whatbrowser.org,wolframalpha.com,wwitv.com,xxxymovies.com###share
 http://ew.com###share-article
 http://pornhub.com###sharePlaylist
 http://biorxiv.org###shareit
@@ -18206,7 +18207,7 @@ http://prlog.org###smx
 http://prlog.org###smx2
 http://worldreview.info###sn
 http://play-asia.com###soc
-http://amartus.com,amazinglytimedphotos.com,androidzoom.com,ask.com,barneys.com,beefjack.com,bitcoinblackfriday.com,bubblews.com,businessinsider.com,businessinsider.com.au,chnetwork.org,classicreload.com,cmt.com,cnalicense.org,consumerist.com,distance-calculator.co.uk,dogandponyshowwebsite.com,donnahay.com.au,ekathimerini.com,electrictoolbox.com,g2a.com,gamingonlinux.com,gamrreview.com,geekosystem.com,giantfreakinrobot.com,gizmodo.com.au,globes.co.il,goutsa.com,haydenplanetarium.org,hccs.edu,highlandcapital.com,hollywire.com,hostcabi.net,hotscripts.com,humorhub.org,humourtube.org,imgur.com,ini.tv,inkscape.org,joburg.org.za,justrewards.co.za,kinguin.net,kotaku.com.au,latimes.com,lawyersweekly.com.au,legitreviews.com,lifehacker.com.au,mail.opera.com,makeuseof.com,mayoclinic.com,meteoblue.com,meteovista.co.uk,meteovista.com,mtv.com,musicfeeds.com.au,namecheap.com,nzmusicmonth.co.nz,onlineeducation.net,openculture.com,penny-arcade.com,phoronix.com,pixiq.com,play-asia.com,presidenthotel.co.za,producersguild.org,radiovaticana.va,ratemyprofessors.com,ryot.org,sfchamber.com,skift.com,smhlmao.com,stileproject.com,stoppress.co.nz,swapit.co.uk,systemrequirementslab.com,talkingpointsmemo.com,tesco.com,the-diplomat.com,theedge.co.nz,theepochtimes.com,theparisreview.org,thepiratebay.org,theroar.com.au,ucl.ac.uk,vimeopro.com,virginactive.co.uk,virginactive.co.za,washingtonblade.com,waterfoxproject.org,wbs-law.de,webglearth.com,whatpeoplesayonline.com,whimn.com.au,whtop.com,wired.com,xda-developers.com###social
+http://amartus.com,amazinglytimedphotos.com,androidzoom.com,ask.com,barneys.com,beefjack.com,bitcoinblackfriday.com,bubblews.com,businessinsider.com,businessinsider.com.au,chnetwork.org,classicreload.com,cmt.com,cnalicense.org,consumerist.com,distance-calculator.co.uk,dogandponyshowwebsite.com,donnahay.com.au,ekathimerini.com,electrictoolbox.com,g2a.com,gamingonlinux.com,gamrreview.com,giantfreakinrobot.com,gizmodo.com.au,globes.co.il,goutsa.com,haydenplanetarium.org,hccs.edu,highlandcapital.com,hollywire.com,hostcabi.net,hotscripts.com,humorhub.org,humourtube.org,imgur.com,ini.tv,inkscape.org,joburg.org.za,justrewards.co.za,kinguin.net,kotaku.com.au,latimes.com,lawyersweekly.com.au,legitreviews.com,lifehacker.com.au,mail.opera.com,makeuseof.com,mayoclinic.com,meteoblue.com,meteovista.co.uk,meteovista.com,mtv.com,musicfeeds.com.au,namecheap.com,nzmusicmonth.co.nz,onlineeducation.net,openculture.com,penny-arcade.com,phoronix.com,pixiq.com,play-asia.com,presidenthotel.co.za,producersguild.org,radiovaticana.va,ratemyprofessors.com,ryot.org,sfchamber.com,skift.com,smhlmao.com,stileproject.com,stoppress.co.nz,swapit.co.uk,systemrequirementslab.com,talkingpointsmemo.com,tesco.com,the-diplomat.com,theedge.co.nz,theepochtimes.com,theparisreview.org,thepiratebay.org,theroar.com.au,ucl.ac.uk,vimeopro.com,virginactive.co.uk,virginactive.co.za,washingtonblade.com,waterfoxproject.org,wbs-law.de,webglearth.com,whatpeoplesayonline.com,whimn.com.au,whtop.com,wired.com,xda-developers.com###social
 http://christianpost.com###social-apps
 http://animenewsnetwork.com###social-bookmarks
 http://cafemom.com###social-comment
@@ -20706,7 +20707,7 @@ http://eprice.it###moveUp
 http://gazzetta.it###multifunctionBar-container
 http://callipo.com###nav_up
 http://sacecomponents.com###neko-to-top
-http://gamblingitalia.com,lacnews24.it,lintellettualedissidente.it,misya.info,radiospeaker.it,rivistastudio.com,silhouettedonna.it,sscnapoli.it,termometropolitico.it,terranuova.it,valgardena.it###newsletter
+http://gamblingitalia.com,lacnews24.it,lintellettualedissidente.it,misya.info,radiospeaker.it,rivistastudio.com,silhouettedonna.it,soldioggi.it,sscnapoli.it,termometropolitico.it,terranuova.it,valgardena.it###newsletter
 http://distribuzionemoderna.info###nsl
 http://lasicilia.it###overbox_ticker_newsstand
 http://it.hisamitsu###pageTop
@@ -22519,7 +22520,7 @@ http://centrometeolombardo.com###cc_div
 http://ecodallecitta.it###contenuto_consenso
 http://spesasicura.com###cook
 http://aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miamerano.it,mymercato.it,pallacanestrovarese.it,primocanale.it,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
-http://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,supermercato24.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
+http://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 http://majani.it###cs-banner
 http://netflixlovers.it###cs_container
 http://staffettaonline.com###ctl00_CtrlLogAbbonato1_cookiealert
@@ -23514,7 +23515,7 @@ http://buzzerie.com,gog.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
 http://chess.com#@#.social-btns
 http://4shared.com,disqus.com,fastcompany.com,golem.de,nu.nl#@#.social-button
 http://adevarul.ro,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,bilingua.io,cheezburger.com,musixmatch.com,nu.nl,ozy.com,tipranks.com#@#.social-buttons
-http://pioneer-iot.com,workroom-myata.ru#@#.social-circle
+http://pioneer-iot.com,velox.net.ua,workroom-myata.ru#@#.social-circle
 http://cheezburger.com,epicgames.com,gofugyourself.com#@#.social-container
 http://golem.de#@#.social-counter
 http://4players.de,chrisblattman.com,deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-facebook
@@ -23763,6 +23764,7 @@ http://onet.pl#@#.cmp-app_gdpr
 http://consent.yahoo.com,lawrievetgroup.co.uk,oath.com#@#.consent-container
 http://consent.yahoo.com,lawrievetgroup.co.uk,payments.amazon.ca,payments.amazon.co.jp,payments.amazon.co.uk,payments.amazon.com,payments.amazon.com.au,payments.amazon.com.br,payments.amazon.de,payments.amazon.es,payments.amazon.fr,payments.amazon.in,payments.amazon.it,simplii.com#@#.consent-wrapper
 http://boursorama.com,nuxeo.com#@#.cookie-banner
+http://monese.com#@#.cookie-banner:not(body):not(html)
 http://janrain.com,moemax.de,rituals.com,xxxlshop.de#@#.cookie-bar
 http://stabila.com#@#.cookie-bar-visible
 http://rituals.com#@#.cookie-bar-wrapper
@@ -23900,7 +23902,7 @@ http://openfiber.it#@#[aria-label="cookieconsent"]
 http://atutszkola.pl,meethue.com,mydziewczyny.pl,philips-hue.com,philips.ae,philips.am,philips.at,philips.az,philips.be,philips.bg,philips.by,philips.ca,philips.ch,philips.cl,philips.co.id,philips.co.il,philips.co.in,philips.co.jp,philips.co.ke,philips.co.kr,philips.co.nz,philips.co.th,philips.co.uk,philips.co.za,philips.com,philips.com.ar,philips.com.au,philips.com.bh,philips.com.br,philips.com.cn,philips.com.co,philips.com.eg,philips.com.ge,philips.com.gh,philips.com.hk,philips.com.kw,philips.com.lb,philips.com.mx,philips.com.my,philips.com.om,philips.com.pe,philips.com.ph,philips.com.pk,philips.com.qa,philips.com.sg,philips.com.tr,philips.com.tw,philips.com.uy,philips.com.vn,philips.cz,philips.de,philips.dk,philips.ee,philips.es,philips.fi,philips.fr,philips.gr,philips.hr,philips.hu,philips.ie,philips.iq,philips.it,philips.jo,philips.kz,philips.lt,philips.lv,philips.ma,philips.ng,philips.nl,philips.no,philips.pl,philips.pt,philips.ro,philips.rs,philips.ru,philips.sa,philips.se,philips.si,philips.sk,philips.ua,philips.uz#@#[data-cookie-id]
 http://mymuesli.com#@#cookies_consent
 http://litebit.eu#@#div[class*="CookieConsent"]
-http://ee.co.uk#@#div[class^="cookie-banner"]
+http://ee.co.uk,monese.com#@#div[class^="cookie-banner"]
 http://dovoba.de#@#div[class^="cookie-consent_"]
 http://birramenabrea.com,cnwl.nhs.uk,marketerplus.pl,myspeed.pl#@#div[data-cookie]
 http://timeout.com#@#div[data-module="cookie_banner"]
