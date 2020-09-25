@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: mTUmP12l5KitYrYIbz7DDw
-! Version: 202009240023
+! Checksum: 0ikrhI8PDrYdkzJ8gNELaw
+! Version: 202009250023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -3169,6 +3169,7 @@
 ||https://lsforum.net/cam2/*.gif
 ||https://lsforum.net/yahooad/
 ||https://lsjxs2.xyz/js/html
+||https://ltbyw.top/data/images/*.gif
 ||https://ltn.com.tw/js/ad_door.js
 ||https://lu228.com/ajs/
 ||https://luanren.com/images/*.swf
@@ -3816,7 +3817,7 @@
 ||https://shihuo.cn/alibtn_
 ||https://shimo.im^*/ads?
 ||https://shoudian.org/diantong/laoma
-||https://shouji.com.cn/static/v2/images/sj_banner_
+||https://shouji.com.cn/static/v1/js/appinfo.js
 ||https://shouyoutv.com/assets/api/web/v4/js/global_head.js
 ||https://showhaotu.
 ||https://shufazidian.com/float/yanue.
@@ -4800,6 +4801,7 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://laowang81.com/getfuolist
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -10845,6 +10847,7 @@
 ||http://lsforum.net/cam2/*.gif
 ||http://lsforum.net/yahooad/
 ||http://lsjxs2.xyz/js/html
+||http://ltbyw.top/data/images/*.gif
 ||http://ltn.com.tw/js/ad_door.js
 ||http://lu228.com/ajs/
 ||http://luanren.com/images/*.swf
@@ -11566,7 +11569,7 @@
 ||http://shihuo.cn/alibtn_
 ||http://shimo.im^*/ads?
 ||http://shoudian.org/diantong/laoma
-||http://shouji.com.cn/static/v2/images/sj_banner_
+||http://shouji.com.cn/static/v1/js/appinfo.js
 ||http://shouyoutv.com/assets/api/web/v4/js/global_head.js
 ||http://showhaotu.$domain=18board.com|18p2p.com
 ||http://shspdt.com^$domain=11papapa.com
@@ -12642,6 +12645,7 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://laowang81.com/getfuolist
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a25.com|xin99r3.com|xin99r4.com
 ||http://sinaimg.cn^$domain=99a25.com|xin99r3.com|xin99r4.com
@@ -14624,6 +14628,7 @@
 ||http://mzclass.club^
 ||http://nabeghlavi.com.cn^
 ||http://nainaimi.top^
+||http://najingyi.cn^
 ||http://nanjinglongyu.com^
 ||http://nanyangqiaoxiang.cn^
 ||http://nashlin.top^
@@ -14718,6 +14723,7 @@
 ||http://pd3a.cn^
 ||http://pdfbs.com^
 ||http://pdkuai.com^
+||http://peatoc.cn^
 ||http://pentaxaws.cn^
 ||http://petsfairy.com^
 ||http://petsheying.com^
@@ -15038,6 +15044,7 @@
 ||http://ts2a1s.com^
 ||http://tsgyg.cn^
 ||http://tsrc8.com^
+||http://ttbc33.com^
 ||http://ttzw.tv/tz/h.js
 ||http://ttzw.tv/tz/true.js
 ||http://tuadong.com^
@@ -15134,6 +15141,7 @@
 ||http://weikefanli.com^
 ||http://weimeicar.cn^
 ||http://weixinhuoyuan.com^
+||http://weiyajz.cn^
 ||http://weiziqiang.top^
 ||http://welted.cn^
 ||http://wenbangsh.com.cn^
@@ -16142,8 +16150,6 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://downza.cn##.down_soft_bottom
-https://downza.cn##.gaosu
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -16361,7 +16367,6 @@ https://js0573.com###adv1
 https://js0573.com###adv2
 https://wenku8.net###adv300
 https://firefoxchina.cn###advBlock
-https://shurua.com###advbox
 https://kjsv.com###advertisingMap
 https://104.com.tw###aidma-job
 https://104.com.tw###aidma_128
@@ -18223,7 +18228,6 @@ https://tieba.baidu.com##.client_ad_banner
 https://tieba.baidu.com##.client_ad_topBanner
 https://tieba.baidu.com##.client_ad_topBanner + .statistics_img_view + li[class]
 https://tieba.baidu.com##.client_ad_topBanner_all
-https://hboav.com##.close_box
 https://hboav.com##.close_box0
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.close_btn[src*="/adsense/"] + div:last-child
 https://jokerlu.com##.closebox
@@ -18408,6 +18412,7 @@ https://yesky.com##.down_referer
 https://yesky.com##.down_referer + .bottom
 https://yesky.com##.down_referrer
 https://dayanzai.me##.down_show_intro_first_box
+https://downza.cn##.down_soft_bottom
 https://downza.cn##.down_top
 https://18183.com##.down_url
 https://greenxiazai.com##.downbtn > a:last-child
@@ -18601,7 +18606,7 @@ https://sina.com.cn##.gamead1
 https://timeon.cn##.gameads
 https://qidian.com##.games-op-wrap
 https://acc39.com##.gao-bg
-https://3987.com,onlinedown.net,win7w.com##.gaosu
+https://3987.com,downza.cn,onlinedown.net,win7w.com##.gaosu
 https://onlinedown.net##.gaosu + #down_url
 https://3h3.com##.gaosu_down_div
 https://so.com##.garllery_ad
@@ -19091,6 +19096,7 @@ https://163disk.com##.mads
 https://hupu.com##.maibghref
 https://th7.cn##.main > .mb5
 https://firefox.com.cn,firefoxchina.cn##.main-huo
+https://sanv.org##.main-nav
 https://firefox.com.cn,firefoxchina.cn##.main-promote-sites
 https://firefoxchina.cn##.main-promote-tmall
 https://news.hf365.com##.main-r > div:first-child
@@ -19290,6 +19296,7 @@ https://appledaily.com.tw##.owl-lazy[tcode^="AD:"]
 https://sgcn.com##.oyad2.cl
 https://opticsky.cn##.p83_gridC > .cc
 https://25xz.com##.p_ads
+https://sanv.org##.p_left
 https://actoys.net##.p_new_ad
 https://sina.cn##.p_newsmore
 https://actoys.net##.p_top_ad
@@ -19367,7 +19374,6 @@ https://tgfcer.com##.portalbox
 https://netbardh.com##.pos-navbar-ad
 https://vmovier.com##.post-ad-bottom
 https://hao.su##.post-content > div[class^="a"]
-https://sanv.org##.post-left
 https://vmovier.com##.post-right-item + a[target="_blank"]
 https://tepintehui.com##.post-wrap + div[style="margin:10px 0px 30px 0px;text-align:center;"]
 https://163.com##.post_adtop_main
@@ -21101,7 +21107,6 @@ https://money18.on.cc#@#.ads-bg
 https://gsxt.gov.cn#@#.ads-right
 https://159i.com,techroomage.com,zhaopin.com#@#.adsBox
 https://1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
-https://1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#div > .adsbygoogle
 https://gdmm.com,gkstk.com,youquba.net#@#.adtop
 https://bdp.cn#@#.adv-list
 https://anjia365.com#@#.adv_bg
@@ -21142,6 +21147,7 @@ https://zdface.com#@#.top-ad
 https://andylain.com,bee.coupons,blogspot.com,blogspot.hk,blogspot.jp,blogspot.tw,comic.tw,jasonblog.tw#@#.vertical-ads
 https://i-cable.com#@#.video_ad
 https://bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
+https://1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#div > .adsbygoogle
 https://brandsales.58.com#@#div[id^="ad_"]
 https://gohome.com.hk#@#div[id^="div-gpt-ad"]
 https://17ce.com###kr_wrap
@@ -21415,6 +21421,8 @@ https://ali213.net#@#.subscribe-container
 https://5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
+https://sogou.com##.aside-qcode
+https://sogou.com##.trans-side-banner
 https://gas.goodlife.tw###widgets
 https://mati.hk##.banner_middle
 https://720yun.com##DIV[class^="Ads_ads_"]
@@ -22249,8 +22257,6 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://downza.cn##.down_soft_bottom
-http://downza.cn##.gaosu
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -22468,7 +22474,6 @@ http://js0573.com###adv1
 http://js0573.com###adv2
 http://wenku8.net###adv300
 http://firefoxchina.cn###advBlock
-http://shurua.com###advbox
 http://kjsv.com###advertisingMap
 http://104.com.tw###aidma-job
 http://104.com.tw###aidma_128
@@ -24330,7 +24335,6 @@ http://tieba.baidu.com##.client_ad_banner
 http://tieba.baidu.com##.client_ad_topBanner
 http://tieba.baidu.com##.client_ad_topBanner + .statistics_img_view + li[class]
 http://tieba.baidu.com##.client_ad_topBanner_all
-http://hboav.com##.close_box
 http://hboav.com##.close_box0
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.close_btn[src*="/adsense/"] + div:last-child
 http://jokerlu.com##.closebox
@@ -24515,6 +24519,7 @@ http://yesky.com##.down_referer
 http://yesky.com##.down_referer + .bottom
 http://yesky.com##.down_referrer
 http://dayanzai.me##.down_show_intro_first_box
+http://downza.cn##.down_soft_bottom
 http://downza.cn##.down_top
 http://18183.com##.down_url
 http://greenxiazai.com##.downbtn > a:last-child
@@ -24708,7 +24713,7 @@ http://sina.com.cn##.gamead1
 http://timeon.cn##.gameads
 http://qidian.com##.games-op-wrap
 http://acc39.com##.gao-bg
-http://3987.com,onlinedown.net,win7w.com##.gaosu
+http://3987.com,downza.cn,onlinedown.net,win7w.com##.gaosu
 http://onlinedown.net##.gaosu + #down_url
 http://3h3.com##.gaosu_down_div
 http://so.com##.garllery_ad
@@ -25198,6 +25203,7 @@ http://163disk.com##.mads
 http://hupu.com##.maibghref
 http://th7.cn##.main > .mb5
 http://firefox.com.cn,firefoxchina.cn##.main-huo
+http://sanv.org##.main-nav
 http://firefox.com.cn,firefoxchina.cn##.main-promote-sites
 http://firefoxchina.cn##.main-promote-tmall
 http://news.hf365.com##.main-r > div:first-child
@@ -25397,6 +25403,7 @@ http://appledaily.com.tw##.owl-lazy[tcode^="AD:"]
 http://sgcn.com##.oyad2.cl
 http://opticsky.cn##.p83_gridC > .cc
 http://25xz.com##.p_ads
+http://sanv.org##.p_left
 http://actoys.net##.p_new_ad
 http://sina.cn##.p_newsmore
 http://actoys.net##.p_top_ad
@@ -25474,7 +25481,6 @@ http://tgfcer.com##.portalbox
 http://netbardh.com##.pos-navbar-ad
 http://vmovier.com##.post-ad-bottom
 http://hao.su##.post-content > div[class^="a"]
-http://sanv.org##.post-left
 http://vmovier.com##.post-right-item + a[target="_blank"]
 http://tepintehui.com##.post-wrap + div[style="margin:10px 0px 30px 0px;text-align:center;"]
 http://163.com##.post_adtop_main
@@ -27208,7 +27214,6 @@ http://money18.on.cc#@#.ads-bg
 http://gsxt.gov.cn#@#.ads-right
 http://159i.com,techroomage.com,zhaopin.com#@#.adsBox
 http://1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
-http://1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#div > .adsbygoogle
 http://gdmm.com,gkstk.com,youquba.net#@#.adtop
 http://bdp.cn#@#.adv-list
 http://anjia365.com#@#.adv_bg
@@ -27249,6 +27254,7 @@ http://zdface.com#@#.top-ad
 http://andylain.com,bee.coupons,blogspot.com,blogspot.hk,blogspot.jp,blogspot.tw,comic.tw,jasonblog.tw#@#.vertical-ads
 http://i-cable.com#@#.video_ad
 http://bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
+http://1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#div > .adsbygoogle
 http://brandsales.58.com#@#div[id^="ad_"]
 http://gohome.com.hk#@#div[id^="div-gpt-ad"]
 http://17ce.com###kr_wrap
@@ -27522,6 +27528,8 @@ http://ali213.net#@#.subscribe-container
 http://5dm.tv#@#.tm-share-this
 http://laohu8.com#@#.tweet-article
 http://fqsousou.com,kengso.com#@#.user-share
+http://sogou.com##.aside-qcode
+http://sogou.com##.trans-side-banner
 http://gas.goodlife.tw###widgets
 http://mati.hk##.banner_middle
 http://720yun.com##DIV[class^="Ads_ads_"]
