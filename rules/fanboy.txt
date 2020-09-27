@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8y7+Qo94h0gwiRnsRdZq3A
-! Version: 202009252351
+! Checksum: h2RgYtpEDqRvF85Kordgxw
+! Version: 202009262351
 ! Title: Fanboy's Annoyance List
-! Last modified: 25 Sep 2020 23:51 UTC
+! Last modified: 26 Sep 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6123,6 +6123,7 @@ https://jewishpress.com###ema_signup_form
 https://priceonomics.com###email-island
 https://thehackernews.com###email-outer
 https://gearjunkie.com###email-pop
+https://thebridgehead.ca###email-posts-to-subscribers-2
 https://cityam.com###email-rotator-wrapper
 https://dictionary.com###email-signup
 https://sa-news.com,warmvanillasugar.com###email-subscribers-2
@@ -6943,6 +6944,7 @@ https://todayonline.com##.subscribe-content
 https://nutritioninsight.com##.subscribe-div
 https://afp.com,albawaba.com,gulfnews.com##.subscribe-footer
 https://financialbuzz.com,maclife.com,segmentnext.com##.subscribe-form
+https://lifesitenews.com##.subscribe-form-ctr
 https://thefinancialbrand.com##.subscribe-free
 https://afamilyfeast.com##.subscribe-full
 https://rt.com##.subscribe-layout
@@ -12562,6 +12564,8 @@ https://toutelanutrition.com#@#.footer-newsletter
 https://designdevostransports.fr#@#.gform_widget
 https://ixbt.com#@#.glyphicon-arrow-up
 https://stackcommerce.com#@#.grecaptcha-badge
+https://attentionactivist.com#@#.newsletter-block
+https://attentionactivist.com#@#.newsletter-form
 https://foreignaffairs.com,novojornal.co.ao,upim.com#@#.newsletter-modal
 https://billabong.com,strikerconcepts.com,tactxflashlights.com,urbanedcsupply.com#@#.newsletter-popup
 https://bidorbuy.co.za#@#.newsletterContainer
@@ -16694,6 +16698,7 @@ http://jewishpress.com###ema_signup_form
 http://priceonomics.com###email-island
 http://thehackernews.com###email-outer
 http://gearjunkie.com###email-pop
+http://thebridgehead.ca###email-posts-to-subscribers-2
 http://cityam.com###email-rotator-wrapper
 http://dictionary.com###email-signup
 http://sa-news.com,warmvanillasugar.com###email-subscribers-2
@@ -17514,6 +17519,7 @@ http://todayonline.com##.subscribe-content
 http://nutritioninsight.com##.subscribe-div
 http://afp.com,albawaba.com,gulfnews.com##.subscribe-footer
 http://financialbuzz.com,maclife.com,segmentnext.com##.subscribe-form
+http://lifesitenews.com##.subscribe-form-ctr
 http://thefinancialbrand.com##.subscribe-free
 http://afamilyfeast.com##.subscribe-full
 http://rt.com##.subscribe-layout
@@ -23135,6 +23141,8 @@ http://toutelanutrition.com#@#.footer-newsletter
 http://designdevostransports.fr#@#.gform_widget
 http://ixbt.com#@#.glyphicon-arrow-up
 http://stackcommerce.com#@#.grecaptcha-badge
+http://attentionactivist.com#@#.newsletter-block
+http://attentionactivist.com#@#.newsletter-form
 http://foreignaffairs.com,novojornal.co.ao,upim.com#@#.newsletter-modal
 http://billabong.com,strikerconcepts.com,tactxflashlights.com,urbanedcsupply.com#@#.newsletter-popup
 http://bidorbuy.co.za#@#.newsletterContainer
