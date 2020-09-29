@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: JJw5y5l+7qn9daJdmOvZew
-! Version: 202009272351
+! Checksum: 0ERJrbRnkgfr+E7DFig6Gw
+! Version: 202009282351
 ! Title: Fanboy's Annoyance List
-! Last modified: 27 Sep 2020 23:51 UTC
+! Last modified: 28 Sep 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12849,7 +12849,7 @@ https://llbean.com#@#.pinit-overlay
 https://pinterest.com#@#.pinit_btn
 https://hemmings.com,hollywoodreporter.com#@#.pinterest-button
 https://pinterest.com#@#.pinterest-share-button
-https://pinterest.com#@#.pinterest-wrapper
+https://interior.ru,pinterest.com#@#.pinterest-wrapper
 https://needlenthread.com#@#.pinterest1
 https://pinterest.com#@#.pinterestComponentShare
 https://marieclaire.ru#@#.pinterestShare
@@ -13126,6 +13126,7 @@ https://roussillhotel.com#@##cookie-banner
 https://dm-drogeriemarkt.it#@##cookie-bar
 https://travelchannel.co.uk#@##cookie-body
 https://biotechusa.hu,hscollective.org,litebit.eu#@##cookie-consent
+https://analog.com#@##cookie-consent-container
 https://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@##cookie-container
 https://skuola.net#@##cookie-dialog
 https://calciomercato.napoli.it,clever-zoeger.de,ddz24.eu,theorie-musik.de,wiadomosci-lodz.pl#@##cookie-law-info-bar
@@ -23426,7 +23427,7 @@ http://llbean.com#@#.pinit-overlay
 http://pinterest.com#@#.pinit_btn
 http://hemmings.com,hollywoodreporter.com#@#.pinterest-button
 http://pinterest.com#@#.pinterest-share-button
-http://pinterest.com#@#.pinterest-wrapper
+http://interior.ru,pinterest.com#@#.pinterest-wrapper
 http://needlenthread.com#@#.pinterest1
 http://pinterest.com#@#.pinterestComponentShare
 http://marieclaire.ru#@#.pinterestShare
@@ -23703,6 +23704,7 @@ http://roussillhotel.com#@##cookie-banner
 http://dm-drogeriemarkt.it#@##cookie-bar
 http://travelchannel.co.uk#@##cookie-body
 http://biotechusa.hu,hscollective.org,litebit.eu#@##cookie-consent
+http://analog.com#@##cookie-consent-container
 http://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@##cookie-container
 http://skuola.net#@##cookie-dialog
 http://calciomercato.napoli.it,clever-zoeger.de,ddz24.eu,theorie-musik.de,wiadomosci-lodz.pl#@##cookie-law-info-bar
