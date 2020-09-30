@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0ERJrbRnkgfr+E7DFig6Gw
-! Version: 202009282351
+! Checksum: G2tqtHbwoGaJzKuAzC72CA
+! Version: 202009292351
 ! Title: Fanboy's Annoyance List
-! Last modified: 28 Sep 2020 23:51 UTC
+! Last modified: 29 Sep 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1330,6 +1330,7 @@
 ||https://rcsobjects.it/rcs_cpmt/
 ||https://spesasicura.com/Scripts/cookie.js
 ||https://stbm.it/utility-fe/prod/general/network.common.v2.js
+||https://triboo.direct/cookie_triboodirect/
 ||https://velvetgossip.it^*/gdprvelvet.js
 ||https://4hifi.pl/scripts/jquery.cookie.js
 ||https://animesub.info/skrypty/pierdolecookie.js
@@ -2743,6 +2744,7 @@
 ||http://rcsobjects.it/rcs_cpmt/
 ||http://spesasicura.com/Scripts/cookie.js
 ||http://stbm.it/utility-fe/prod/general/network.common.v2.js
+||http://triboo.direct/cookie_triboodirect/
 ||http://velvetgossip.it^*/gdprvelvet.js
 ||http://4hifi.pl/scripts/jquery.cookie.js
 ||http://animesub.info/skrypty/pierdolecookie.js
@@ -11983,6 +11985,7 @@ https://make-it-in-germany.it###nagscreen
 https://demaiogroup.it###normativa
 https://alberidinataleartificiale.it,euronics.it###note
 https://alfasigma.com###noticeModal
+https://skipli.net###notification-1
 https://bestflyparkingorio.it###oriobigpark_cookie_advice
 https://lainox.it###overlay_form
 https://pusc.it###pixelfabrica-cs-banner
@@ -22561,6 +22564,7 @@ http://make-it-in-germany.it###nagscreen
 http://demaiogroup.it###normativa
 http://alberidinataleartificiale.it,euronics.it###note
 http://alfasigma.com###noticeModal
+http://skipli.net###notification-1
 http://bestflyparkingorio.it###oriobigpark_cookie_advice
 http://lainox.it###overlay_form
 http://pusc.it###pixelfabrica-cs-banner
