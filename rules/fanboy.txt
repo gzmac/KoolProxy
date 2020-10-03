@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mQjJHZmoCs3mxMcrL2j3Ww
-! Version: 202010012351
+! Checksum: d2Hcaz3Q4zSJGoyNV4d+8g
+! Version: 202010022351
 ! Title: Fanboy's Annoyance List
-! Last modified: 01 Oct 2020 23:51 UTC
+! Last modified: 02 Oct 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1173,6 +1173,7 @@
 ||https://player.pulsemediatv.com^$third-party
 ||https://player.streamshow.it^$third-party
 ||https://publy.com^$third-party
+||https://retewebitalia.net/banner/$third-party
 ||https://reviews.shoppydoo.it^$third-party
 ||https://sapere.it^*_slimheader.
 ||https://secoloditalia.it^*/notify.
@@ -2572,6 +2573,7 @@
 ||http://player.pulsemediatv.com^$third-party,domain=~bwin.tv
 ||http://player.streamshow.it^$third-party
 ||http://publy.com^$third-party
+||http://retewebitalia.net/banner/$third-party
 ||http://reviews.shoppydoo.it^$third-party
 ||http://sapere.it^*_slimheader.
 ||http://secoloditalia.it^*/notify.
@@ -8076,6 +8078,7 @@ https://japantimes.co.jp##.icon-printer
 https://goutsa.com##.icon1
 https://goutsa.com##.icon2
 https://lindeus.com##.iconButtonBig
+https://msn.com##.iconListVertical-DS-unknown1-1
 https://businessinsider.com,clearspring.co.uk,imgur.com,liliputing.com,photofunia.com,thehackernews.com,toyokeizai.net##.icons
 https://rocketleague.com##.icons-list
 https://clearspring.co.uk##.icons-top
@@ -9281,6 +9284,7 @@ https://elitedaily.com##.bp
 https://brainandlife.org##.breaking-container
 https://handy-games.com##.bugme
 https://jobs.ch,jobup.ch##.c-alert
+https://skygroup.sky##.c-banner-shadow
 https://rebirth-hannover.de,werum.com##.c-callout
 https://index.co##.c-consent-manager
 https://ii.co.uk##.c01194
@@ -11977,6 +11981,7 @@ https://lostrillone.tv###informativa
 https://musicworks.it###infromativap
 https://vmmotori.it###ll_banner
 https://programmitv.it###mag
+https://giuntiscuola.it###mandatoryMessageContainer
 https://marbaro.it###marbaro_cookielaw_banner
 https://iit.it###messageContainer
 https://molgroupitaly.it###mgit_notification
@@ -18654,6 +18659,7 @@ http://japantimes.co.jp##.icon-printer
 http://goutsa.com##.icon1
 http://goutsa.com##.icon2
 http://lindeus.com##.iconButtonBig
+http://msn.com##.iconListVertical-DS-unknown1-1
 http://businessinsider.com,clearspring.co.uk,imgur.com,liliputing.com,photofunia.com,thehackernews.com,toyokeizai.net##.icons
 http://rocketleague.com##.icons-list
 http://clearspring.co.uk##.icons-top
@@ -19860,6 +19866,7 @@ http://elitedaily.com##.bp
 http://brainandlife.org##.breaking-container
 http://handy-games.com##.bugme
 http://jobs.ch,jobup.ch##.c-alert
+http://skygroup.sky##.c-banner-shadow
 http://rebirth-hannover.de,werum.com##.c-callout
 http://index.co##.c-consent-manager
 http://ii.co.uk##.c01194
@@ -22557,6 +22564,7 @@ http://lostrillone.tv###informativa
 http://musicworks.it###infromativap
 http://vmmotori.it###ll_banner
 http://programmitv.it###mag
+http://giuntiscuola.it###mandatoryMessageContainer
 http://marbaro.it###marbaro_cookielaw_banner
 http://iit.it###messageContainer
 http://molgroupitaly.it###mgit_notification
