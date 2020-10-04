@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: d2Hcaz3Q4zSJGoyNV4d+8g
-! Version: 202010022351
+! Checksum: bFKQBKCMzVOzu22y4YVIQw
+! Version: 202010032351
 ! Title: Fanboy's Annoyance List
-! Last modified: 02 Oct 2020 23:51 UTC
+! Last modified: 03 Oct 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -819,6 +819,7 @@
 ||https://tarteaucitron.ml^$third-party
 ||https://thirdfloor.it^$third-party
 ||https://thisisdone.com/gdpr/$third-party
+||https://truendo.com^$third-party
 ||https://trustarc.com^$third-party
 ||https://uniconsent.mgr.consensu.org^$third-party
 ||https://usercentrics.eu^$third-party
@@ -2186,6 +2187,7 @@
 ||http://tarteaucitron.ml^$third-party
 ||http://thirdfloor.it^$third-party
 ||http://thisisdone.com/gdpr/$third-party
+||http://truendo.com^$third-party
 ||http://trustarc.com^$third-party
 ||http://uniconsent.mgr.consensu.org^$third-party
 ||http://usercentrics.eu^$third-party
@@ -8972,6 +8974,7 @@ https://askthepsych.com###cks
 https://desktopwallpapers4.me,ouchpress.com###clayer
 https://tvguide.co.uk###cmpbox
 https://crash.net,nationwideinternational.com,thederbyshire.co.uk###cn
+https://cnbc.com###cnbcgdpr
 https://dnaindia.com,india.com###co-container
 https://gpuopen.com###colophon
 https://evaair.com,play.tv###colorbox
@@ -19554,6 +19557,7 @@ http://askthepsych.com###cks
 http://desktopwallpapers4.me,ouchpress.com###clayer
 http://tvguide.co.uk###cmpbox
 http://crash.net,nationwideinternational.com,thederbyshire.co.uk###cn
+http://cnbc.com###cnbcgdpr
 http://dnaindia.com,india.com###co-container
 http://gpuopen.com###colophon
 http://evaair.com,play.tv###colorbox
