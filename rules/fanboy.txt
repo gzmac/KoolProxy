@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nLnVGao1pq1txTHoNJJhjQ
-! Version: 202010042351
+! Checksum: 6vkfqtOnhiH4bB2XniYe7g
+! Version: 202010052351
 ! Title: Fanboy's Annoyance List
-! Last modified: 04 Oct 2020 23:51 UTC
+! Last modified: 05 Oct 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -540,10 +540,12 @@
 ||https://shroughtened.com^$third-party
 ||https://sm-epsilon.com^$third-party
 ||https://snd.tc^$third-party
+||https://truenat.bid^$third-party
 ||https://truepush.com^$third-party
 ||https://urbanairship.com^$third-party
 ||https://viapush.com^$third-party
 ||https://webpu.sh^$third-party
+||https://wnpbdan.bid^$third-party
 ||https://wonderpush.com^$third-party
 ||https://wwclicknews.club^$third-party
 ||https://wwclicktm.club^$third-party
@@ -1895,10 +1897,12 @@
 ||http://shroughtened.com^$third-party
 ||http://sm-epsilon.com^$third-party
 ||http://snd.tc^$third-party
+||http://truenat.bid^$third-party
 ||http://truepush.com^$third-party
 ||http://urbanairship.com^$third-party
 ||http://viapush.com^$third-party
 ||http://webpu.sh^$third-party
+||http://wnpbdan.bid^$third-party
 ||http://wonderpush.com^$third-party
 ||http://wwclicknews.club^$third-party
 ||http://wwclicktm.club^$third-party
@@ -9345,6 +9349,7 @@ https://refinitiv.com##.dismissible-banner
 https://bbc.com##.domestic-header-wrapper
 https://mla.org##.donate-banner
 https://vesselfinder.com##.downfooter
+https://buffcoach.net##.dsgvowpplugin-globaloptin
 https://msnbc.com##.dy_full_width_notifications_container
 https://egym.com##.egym-prompt
 https://voat.co##.eppnotice
@@ -13119,7 +13124,7 @@ https://digg.com#@#div[id^="digg-widget-"]
 https://intersport.dk,intersport.es,intersport.nl#@##CookiePopup
 https://sportdiver.com#@##CybotCookiebotDialog
 https://online.no,telenor.no#@##__tealiumGDPRcpPrefs
-https://online.no,telenor.no#@##__tealiumGDPRecModal
+https://mediamarkt.de,online.no,saturn.de,telenor.no#@##__tealiumGDPRecModal
 https://popsugar.co.uk#@##_evidon-background
 https://popsugar.co.uk#@##_evidon-barrier-wrapper
 https://etonline.com,popsugar.co.uk,popsugar.com,popsugar.com.au#@##_evidon_banner
@@ -19928,6 +19933,7 @@ http://refinitiv.com##.dismissible-banner
 http://bbc.com##.domestic-header-wrapper
 http://mla.org##.donate-banner
 http://vesselfinder.com##.downfooter
+http://buffcoach.net##.dsgvowpplugin-globaloptin
 http://msnbc.com##.dy_full_width_notifications_container
 http://egym.com##.egym-prompt
 http://voat.co##.eppnotice
@@ -23703,7 +23709,7 @@ http://digg.com#@#div[id^="digg-widget-"]
 http://intersport.dk,intersport.es,intersport.nl#@##CookiePopup
 http://sportdiver.com#@##CybotCookiebotDialog
 http://online.no,telenor.no#@##__tealiumGDPRcpPrefs
-http://online.no,telenor.no#@##__tealiumGDPRecModal
+http://mediamarkt.de,online.no,saturn.de,telenor.no#@##__tealiumGDPRecModal
 http://popsugar.co.uk#@##_evidon-background
 http://popsugar.co.uk#@##_evidon-barrier-wrapper
 http://etonline.com,popsugar.co.uk,popsugar.com,popsugar.com.au#@##_evidon_banner
