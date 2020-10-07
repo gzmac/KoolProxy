@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6vkfqtOnhiH4bB2XniYe7g
-! Version: 202010052351
+! Checksum: Xcl2l/4nwbEK17leJlp5PQ
+! Version: 202010062351
 ! Title: Fanboy's Annoyance List
-! Last modified: 05 Oct 2020 23:51 UTC
+! Last modified: 06 Oct 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10311,8 +10311,9 @@ https://assologico.it##.scrollbutton
 https://ilsole24ore.com##.scta
 https://biografieonline.it##.section-footer-nl
 https://nazarenogabrielli.it##.shopress_scroll
+https://astrospace.it##.sib_signup_box_inside_2
 https://ilfattoquotidiano.it##.side-arrow
-https://motori.net,tavoloeditoriradio.it##.sm-up-container
+https://motori.net,siciliaoggi.com,siciliapress.it,tavoloeditoriradio.it##.sm-up-container
 https://calciomercato.com,sky.it##.smartbanner
 https://ilglobo.com.au,ilpost.it,lafiamma.com.au##.subscribe
 https://2night.it##.subscribe-article
@@ -10336,7 +10337,7 @@ https://travelnostop.com##.toup
 https://americantourister.it##.ui-widget-overlay
 https://lifestyleblog.it,lospecialista.tv##.widget_mailpoet_form
 https://lospecialista.tv##.widget_specialert
-https://secoloditalia.it##.widget_wpmailup_widget
+https://melarossa.it,secoloditalia.it##.widget_wpmailup_widget
 https://vitatrentina.it##.wpdiscuz-front-actions
 https://inpharmamag.it##.wptbbarheaddiv
 https://corriere.it##a[href*="/newsletter"]
@@ -11092,6 +11093,7 @@ https://quickparking.it##.soc-icon-container
 https://affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,creditosportivo.it,deabyday.tv,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,giornaledibrescia.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
 https://davinotti.com##.social__variant
 https://investireoggi.it##.social_menu
+https://salepepe.it##.sp2015-footer-social
 https://gametimers.it,ilsicilia.it,kontrokultura.it,topicnews.it##.ss-ic
 https://tuttomercatoweb.com##.telegram
 https://agensir.it##.temporary-skin-adv
@@ -11660,6 +11662,7 @@ https://leclercdrive.fr##.pWCTD609_BandeauCookies
 https://monavislerendgratuit.com##.policy
 https://symfrance.com##.policy-window
 https://nh-hotels.fr##.politicaRewards
+https://mabanque.bnpparibas##.popin-cache
 https://mesampoulesgratuites.fr##.popup
 https://huffingtonpost.fr##.popup-overlay
 https://directours.com,explicite.info##.privacy
@@ -12965,7 +12968,7 @@ https://dallascowboys.com,golem.de,patriots.com,prk24.pl,top.de#@#.social-bar
 https://funnyordie.com#@#.social-bar-container
 https://adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,galaxydata.ru,ivid.it,onovini.com,rta24.eu,saydigi-tech.com,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
 https://bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
-https://buzzerie.com,gog.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
+https://buzzerie.com,gog.com,hackerrank.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
 https://chess.com#@#.social-btns
 https://4shared.com,disqus.com,fastcompany.com,golem.de,nu.nl#@#.social-button
 https://adevarul.ro,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,bilingua.io,cheezburger.com,musixmatch.com,nu.nl,ozy.com,tipranks.com#@#.social-buttons
@@ -20895,8 +20898,9 @@ http://assologico.it##.scrollbutton
 http://ilsole24ore.com##.scta
 http://biografieonline.it##.section-footer-nl
 http://nazarenogabrielli.it##.shopress_scroll
+http://astrospace.it##.sib_signup_box_inside_2
 http://ilfattoquotidiano.it##.side-arrow
-http://motori.net,tavoloeditoriradio.it##.sm-up-container
+http://motori.net,siciliaoggi.com,siciliapress.it,tavoloeditoriradio.it##.sm-up-container
 http://calciomercato.com,sky.it##.smartbanner
 http://ilglobo.com.au,ilpost.it,lafiamma.com.au##.subscribe
 http://2night.it##.subscribe-article
@@ -20920,7 +20924,7 @@ http://travelnostop.com##.toup
 http://americantourister.it##.ui-widget-overlay
 http://lifestyleblog.it,lospecialista.tv##.widget_mailpoet_form
 http://lospecialista.tv##.widget_specialert
-http://secoloditalia.it##.widget_wpmailup_widget
+http://melarossa.it,secoloditalia.it##.widget_wpmailup_widget
 http://vitatrentina.it##.wpdiscuz-front-actions
 http://inpharmamag.it##.wptbbarheaddiv
 http://corriere.it##a[href*="/newsletter"]
@@ -21676,6 +21680,7 @@ http://quickparking.it##.soc-icon-container
 http://affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,creditosportivo.it,deabyday.tv,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,giornaledibrescia.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
 http://davinotti.com##.social__variant
 http://investireoggi.it##.social_menu
+http://salepepe.it##.sp2015-footer-social
 http://gametimers.it,ilsicilia.it,kontrokultura.it,topicnews.it##.ss-ic
 http://tuttomercatoweb.com##.telegram
 http://agensir.it##.temporary-skin-adv
@@ -22245,6 +22250,7 @@ http://leclercdrive.fr##.pWCTD609_BandeauCookies
 http://monavislerendgratuit.com##.policy
 http://symfrance.com##.policy-window
 http://nh-hotels.fr##.politicaRewards
+http://mabanque.bnpparibas##.popin-cache
 http://mesampoulesgratuites.fr##.popup
 http://huffingtonpost.fr##.popup-overlay
 http://directours.com,explicite.info##.privacy
@@ -23550,7 +23556,7 @@ http://dallascowboys.com,golem.de,patriots.com,prk24.pl,top.de#@#.social-bar
 http://funnyordie.com#@#.social-bar-container
 http://adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,galaxydata.ru,ivid.it,onovini.com,rta24.eu,saydigi-tech.com,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
 http://bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
-http://buzzerie.com,gog.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
+http://buzzerie.com,gog.com,hackerrank.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
 http://chess.com#@#.social-btns
 http://4shared.com,disqus.com,fastcompany.com,golem.de,nu.nl#@#.social-button
 http://adevarul.ro,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,bilingua.io,cheezburger.com,musixmatch.com,nu.nl,ozy.com,tipranks.com#@#.social-buttons
