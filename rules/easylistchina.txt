@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: xhAcpy22jYU9Q7Q8L7ERrw
-! Version: 202010090023
+! Checksum: MsHVj8gbM7j8EH3gY1+kUQ
+! Version: 202010100023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4008,7 +4008,6 @@
 ||https://szkaidi.cn/statics/g
 ||https://sznews.com/*.files/$image,object
 ||https://sznews.com/s?z=
-||https://szonline.net/zhongyuan
 ||https://szyepu8.com/data/AADDimg/
 ||https://szyhqj.com/js/
 ||https://t.cn/RkHfjHk|
@@ -4798,6 +4797,9 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://szonline.net/static/js/ads.js
+||https://zdcj.net/html/weibo
+||https://zlyk.com/dp.js
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -5448,6 +5450,8 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://tencent.xn--io0a7i^
+||http://shoukuoedu.com^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -11793,7 +11797,6 @@
 ||http://szkaidi.cn/statics/g
 ||http://sznews.com/*.files/$image,object
 ||http://sznews.com/s?z=
-||http://szonline.net/zhongyuan
 ||http://szyepu8.com/data/AADDimg/
 ||http://szyhqj.com/js/
 ||http://t.cn/RkHfjHk|
@@ -12658,6 +12661,10 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://szonline.net/static/js/ads.js
+||http://c.mipcdn.com^$domain=manhuabei.com
+||http://zdcj.net/html/weibo
+||http://zlyk.com/dp.js
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a68.com|99re.com
 ||http://sinaimg.cn^$domain=99a68.com|99re.com
@@ -12671,6 +12678,7 @@
 ||http://avgle.topgirlsdating.com^$domain=avgle.com
 ||http://jads.co^$domain=avgle.com
 ||http://olmsoneenh.info^$domain=avgle.com
+||http://ent1.qunchua.cn^
 ||http://003store.com^
 ||http://0512s.com^$third-party
 ||http://1.01fy.cn^
@@ -13487,6 +13495,8 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://4kfv18.cn^
+||http://jiangboshidai.com^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -18754,8 +18764,6 @@ https://cnlinfo.net##.guanggao-right
 https://hkwb.net##.guanggao2
 https://tukergo.com##.guanggaoBox
 https://gasaq.com##.guanggao_ime_big
-https://shm.com.cn##.guanggaowei2
-https://shm.com.cn##.guanggaowei3
 https://downhot.com##.guans
 https://guokr.com##.guokr-layer-beforelogin
 https://eweiqi.com##.guoqing
@@ -20673,7 +20681,6 @@ https://ali213.net##div[id^="ali-ad-js-"]
 https://jdbbs.com##div[id^="archy_ad"]
 https://qbiao.com##div[id^="aup"]
 https://qianzhan.com##div[id^="baidu_ad_"]
-https://shm.com.cn##div[id^="baidu_clb_slot_"]
 https://ncnews.com.cn##div[id^="ban"]
 https://recruit.com.hk##div[id^="banner"]
 https://2345.com##div[id^="bd-search-ad"]
@@ -20961,7 +20968,7 @@ https://xingkbjm.com##script + div + .excerpt
 https://xingkbjm.com##script + div + .excerpt + .excerpt
 https://wnacg.com,wnacg.org##script + div > a > img
 https://kanxigua.com##script + div > a:first-child:last-child
-https://hboav.com##script + div[class="cc5278_banner_ad"]
+https://hboav.com##style + script + div[class="cc5278_banner_ad"]
 https://jianshu.com##section[aria-label="jianshu-ad"]
 https://tukergo.com##section[class^="ch"]
 https://vs.cm##section[id^="ad_"]
@@ -24857,8 +24864,6 @@ http://cnlinfo.net##.guanggao-right
 http://hkwb.net##.guanggao2
 http://tukergo.com##.guanggaoBox
 http://gasaq.com##.guanggao_ime_big
-http://shm.com.cn##.guanggaowei2
-http://shm.com.cn##.guanggaowei3
 http://downhot.com##.guans
 http://guokr.com##.guokr-layer-beforelogin
 http://eweiqi.com##.guoqing
@@ -26776,7 +26781,6 @@ http://ali213.net##div[id^="ali-ad-js-"]
 http://jdbbs.com##div[id^="archy_ad"]
 http://qbiao.com##div[id^="aup"]
 http://qianzhan.com##div[id^="baidu_ad_"]
-http://shm.com.cn##div[id^="baidu_clb_slot_"]
 http://ncnews.com.cn##div[id^="ban"]
 http://recruit.com.hk##div[id^="banner"]
 http://2345.com##div[id^="bd-search-ad"]
@@ -27064,7 +27068,7 @@ http://xingkbjm.com##script + div + .excerpt
 http://xingkbjm.com##script + div + .excerpt + .excerpt
 http://wnacg.com,wnacg.org##script + div > a > img
 http://kanxigua.com##script + div > a:first-child:last-child
-http://hboav.com##script + div[class="cc5278_banner_ad"]
+http://hboav.com##style + script + div[class="cc5278_banner_ad"]
 http://jianshu.com##section[aria-label="jianshu-ad"]
 http://tukergo.com##section[class^="ch"]
 http://vs.cm##section[id^="ad_"]

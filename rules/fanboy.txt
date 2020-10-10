@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DJwimTd9M98ffSXPPiqzkg
-! Version: 202010082351
+! Checksum: ixrsKT9AdlIIKDtrC6+HlA
+! Version: 202010092351
 ! Title: Fanboy's Annoyance List
-! Last modified: 08 Oct 2020 23:51 UTC
+! Last modified: 09 Oct 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1173,7 +1173,6 @@
 ||https://nexilia.it^*/feed.bundle.js
 ||https://pagamentidigitali.it^*/newsletter.jpg
 ||https://player.pulsemediatv.com^$third-party
-||https://player.streamshow.it^$third-party
 ||https://publy.com^$third-party
 ||https://retewebitalia.net/banner/$third-party
 ||https://reviews.shoppydoo.it^$third-party
@@ -2575,7 +2574,6 @@
 ||http://notifiche.secoloditalia.it^
 ||http://pagamentidigitali.it^*/newsletter.jpg
 ||http://player.pulsemediatv.com^$third-party,domain=~bwin.tv
-||http://player.streamshow.it^$third-party,domain=~telepavia.tv
 ||http://publy.com^$third-party
 ||http://retewebitalia.net/banner/$third-party
 ||http://reviews.shoppydoo.it^$third-party
@@ -10998,7 +10996,7 @@ https://gamershqitalia.it##.bottoniera-social
 https://comingsoon.it##.box-tags
 https://ansa.it##.bt-suggest
 https://fantagazzetta.com##.btn-sm
-https://giornaledibrescia.it##.btn-toolbar
+https://giornaledibrescia.it,teletutto.it##.btn-toolbar
 https://money.it##.btnYou
 https://cirio.it##.cirioYou
 https://tio.ch##.companyPagesBox
@@ -21589,7 +21587,7 @@ http://gamershqitalia.it##.bottoniera-social
 http://comingsoon.it##.box-tags
 http://ansa.it##.bt-suggest
 http://fantagazzetta.com##.btn-sm
-http://giornaledibrescia.it##.btn-toolbar
+http://giornaledibrescia.it,teletutto.it##.btn-toolbar
 http://money.it##.btnYou
 http://cirio.it##.cirioYou
 http://tio.ch##.companyPagesBox
