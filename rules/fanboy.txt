@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4S6gxbXkQEbWJJvj7mwGxA
-! Version: 202010112351
+! Checksum: ND0Q2v+hApbGdLn/hzdiow
+! Version: 202010122351
 ! Title: Fanboy's Annoyance List
-! Last modified: 11 Oct 2020 23:51 UTC
+! Last modified: 12 Oct 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -886,6 +886,7 @@
 ||https://wp.com/wp-content/mu-plugins/post-flair/
 ||https://wp.com^*/linkwidgets/slingshot_
 ||https://wufoo.com/embed/$subdocument,third-party
+||https://afrik21.africa^*/news.png
 ||https://aish.com^*-Subscribe-
 ||https://aish.com^*/Newsletter-
 ||https://amazonaws.com^*/subscription/
@@ -2255,6 +2256,7 @@
 ||http://wp.com/wp-content/mu-plugins/post-flair/
 ||http://wp.com^*/linkwidgets/slingshot_
 ||http://wufoo.com/embed/$subdocument,third-party,domain=heavy.com
+||http://afrik21.africa^*/news.png
 ||http://aish.com^*-Subscribe-
 ||http://aish.com^*/Newsletter-
 ||http://amazonaws.com^*/subscription/
@@ -3789,6 +3791,7 @@ https://slate.com###policy_announcement
 https://macys.com###pollingWidget
 https://gamecodeur.fr###pop-last-user-glob
 https://thenextweb.com###pop-up
+https://dmv-practice-test.com###pop-up-show
 https://techpresident.com###pop1
 https://break.com###popInModule-sigma
 https://oilprice.com###popSlider
@@ -5953,6 +5956,7 @@ https://translate.google.co.nz,translate.google.co.uk,translate.google.com,trans
 https://google.com##button[id^="gbpwm_"]
 https://bloombergquint.com##div[class^="more-on-this-topic"]
 https://brighthub.com##div[data-bhtrackregion="Subscribe"]
+https://mail.zoho.com##div[data-id="zm-notifications-popover"]
 https://forbes.com##div[data-tracking-link-name="articleLink_ContribBylineFollow"]
 https://finance.yahoo.com##div[id$="PremiumPromoFooter"]
 https://quora.com##div[id$="modal_signup_wrapper"]
@@ -6369,6 +6373,7 @@ https://crosscut.com###widget-2
 https://voiceofsandiego.org##.-subscribe
 https://gatesnotes.com##.ALS_Holder
 https://naturalnews.com##.Action-Subscribe-Container
+https://newshub.co.nz##.ArticleAttribution
 https://sitepoint.com##.ArticleHead_supplemental
 https://counterpunch.org##.Campaign__innerWrapper
 https://talkingpointsmemo.com##.Daybreaker
@@ -7248,7 +7253,6 @@ https://grundig.com##.site-footer__up
 https://bay.com.mt,tennesseestar.com,themichiganstar.com,theminnesotasun.com,theohiostar.com##.sm-up-container
 https://worldstream.nl##.sticky-content
 https://brecorder.com##.subhtop
-https://galicianfilmforum.gal,openid.net##.tc-btt-wrapper
 https://tudorwatch.com##.tdr-footer__block-c
 https://abc.net.au,bostonherald.com,chron.com,dailysignal.com,foxnews.com,freeviewnz.tv,germany.travel,haier.com,indianewsmax.com,sampsonhart.com,seattlepi.com,sfgate.com,sivtimes.com,strategic-culture.org,taipeitimes.com,thefappening.wiki,timesunion.com,visitnsw.com##.top
 https://wbal.com##.top-link
@@ -10226,7 +10230,7 @@ https://pagamentidigitali.it##.btn_iscriviti
 https://lillapois.com##.btt-button
 https://funweek.it##.c-header__top-bar
 https://lastampa.it##.call-iscrizione
-https://bmw.it,calendario-365.it,cdt.ch,consumer.bz.it,dmail.it,epochtimes.it,filmatipornohd.com,kellergrigliati.it,maximitalia.it,mdspa.it,mondoconv.it,paginesi.it,ridble.com,saras.it,vinusta.com,vog.it##.cd-top
+https://bmw.it,calendario-365.it,cdt.ch,consumer.bz.it,dmail.it,epochtimes.it,filmatipornohd.com,kellergrigliati.it,maximitalia.it,mdspa.it,mondoconv.it,paginesi.it,ridble.com,saras.it,valdelsa.net,vinusta.com,vog.it##.cd-top
 https://sportitaliabet.it##.cg-top-arrow
 https://primaonline.it##.col-nl
 https://lastampa.it##.conferma_reg_nl
@@ -12063,6 +12067,7 @@ https://primigi.it##.fancybox-overlay
 https://loccioni.com##.fascia
 https://e-weber.it##.flash-info
 https://genny.com##.genny-footer-cookie-notification
+https://italradio.org##.gpdr
 https://agristorecosenza.it,shopforshop.it##.header-notice
 https://centauria.it##.header-welcome
 https://lavorar.it##.headerline2
@@ -12093,6 +12098,7 @@ https://nh-hotels.it##.politicaRewards
 https://edilvetta.it,naegele.it##.privacy
 https://smtvsanmarino.sm##.privacy-top
 https://italradio.org##.privacyStatement
+https://peer.tv##.rain1-cp-container
 https://prelex.it##.rstboxes
 https://juzaphoto.com##.s_bluebox
 https://ogrtorino.it##.sc-dxgOiQ
@@ -12811,9 +12817,10 @@ https://ulrichesch.de#@#.headersocial
 https://oneplus.net#@#.ico-facebook
 https://wpolityce.pl#@#.icon-facebook-official
 https://lockerdome.com#@#.icon-facebook2
-https://eskimi.com,secure.allocine.fr#@#.icon-fb
+https://eskimi.com,myanimelist.net,secure.allocine.fr#@#.icon-fb
 https://flattr.com#@#.icon-flickr
 https://battle.net,chess.com,imgur.com,login.alibaba.com#@#.icon-google
+https://myanimelist.net#@#.icon-gp
 https://flattr.com,gleam.io#@#.icon-instagram
 https://fora.ie,login.alibaba.com#@#.icon-linkedin
 https://rottentomatoes.com#@#.icon-rss
@@ -12823,6 +12830,7 @@ https://carsguide.com.au#@#.icon-social-facebook
 https://carsguide.com.au#@#.icon-social-linkedin
 https://flattr.com,gleam.io#@#.icon-soundcloud
 https://hacpai.com#@#.icon-telegram
+https://myanimelist.net#@#.icon-tw
 https://aitnews.com,comicbook.com,fastcompany.com,flattr.com,gleam.io,imgur.com,lockerdome.com,login.alibaba.com,squidoo.com#@#.icon-twitter
 https://cc.cc#@#.icon-twitter-sign
 https://flattr.com#@#.icon-vimeo
@@ -13217,7 +13225,7 @@ https://rainews.it#@#.as-oil-content-overlay
 https://rainews.it#@#.as-oil[data-qa="oil-Layer"]
 https://openfiber.it,supertennis.tv#@#.cc-banner
 https://bing.com,czuczu.pl,supertennis.tv#@#.cc-container
-https://morningstar.ca#@#.cc_container
+https://morningstar.ca,tangerine.ca#@#.cc_container
 https://onet.pl#@#.cmp-app_gdpr
 https://consent.yahoo.com,lawrievetgroup.co.uk,oath.com#@#.consent-container
 https://consent.yahoo.com,lawrievetgroup.co.uk,payments.amazon.ca,payments.amazon.co.jp,payments.amazon.co.uk,payments.amazon.com,payments.amazon.com.au,payments.amazon.com.br,payments.amazon.de,payments.amazon.es,payments.amazon.fr,payments.amazon.in,payments.amazon.it,simplii.com#@#.consent-wrapper
@@ -14379,6 +14387,7 @@ http://slate.com###policy_announcement
 http://macys.com###pollingWidget
 http://gamecodeur.fr###pop-last-user-glob
 http://thenextweb.com###pop-up
+http://dmv-practice-test.com###pop-up-show
 http://techpresident.com###pop1
 http://break.com###popInModule-sigma
 http://oilprice.com###popSlider
@@ -16543,6 +16552,7 @@ http://translate.google.co.nz,translate.google.co.uk,translate.google.com,transl
 http://google.com##button[id^="gbpwm_"]
 http://bloombergquint.com##div[class^="more-on-this-topic"]
 http://brighthub.com##div[data-bhtrackregion="Subscribe"]
+http://mail.zoho.com##div[data-id="zm-notifications-popover"]
 http://forbes.com##div[data-tracking-link-name="articleLink_ContribBylineFollow"]
 http://finance.yahoo.com##div[id$="PremiumPromoFooter"]
 http://quora.com##div[id$="modal_signup_wrapper"]
@@ -16959,6 +16969,7 @@ http://crosscut.com###widget-2
 http://voiceofsandiego.org##.-subscribe
 http://gatesnotes.com##.ALS_Holder
 http://naturalnews.com##.Action-Subscribe-Container
+http://newshub.co.nz##.ArticleAttribution
 http://sitepoint.com##.ArticleHead_supplemental
 http://counterpunch.org##.Campaign__innerWrapper
 http://talkingpointsmemo.com##.Daybreaker
@@ -17838,7 +17849,6 @@ http://grundig.com##.site-footer__up
 http://bay.com.mt,tennesseestar.com,themichiganstar.com,theminnesotasun.com,theohiostar.com##.sm-up-container
 http://worldstream.nl##.sticky-content
 http://brecorder.com##.subhtop
-http://galicianfilmforum.gal,openid.net##.tc-btt-wrapper
 http://tudorwatch.com##.tdr-footer__block-c
 http://abc.net.au,bostonherald.com,chron.com,dailysignal.com,foxnews.com,freeviewnz.tv,germany.travel,haier.com,indianewsmax.com,sampsonhart.com,seattlepi.com,sfgate.com,sivtimes.com,strategic-culture.org,taipeitimes.com,thefappening.wiki,timesunion.com,visitnsw.com##.top
 http://wbal.com##.top-link
@@ -20817,7 +20827,7 @@ http://pagamentidigitali.it##.btn_iscriviti
 http://lillapois.com##.btt-button
 http://funweek.it##.c-header__top-bar
 http://lastampa.it##.call-iscrizione
-http://bmw.it,calendario-365.it,cdt.ch,consumer.bz.it,dmail.it,epochtimes.it,filmatipornohd.com,kellergrigliati.it,maximitalia.it,mdspa.it,mondoconv.it,paginesi.it,ridble.com,saras.it,vinusta.com,vog.it##.cd-top
+http://bmw.it,calendario-365.it,cdt.ch,consumer.bz.it,dmail.it,epochtimes.it,filmatipornohd.com,kellergrigliati.it,maximitalia.it,mdspa.it,mondoconv.it,paginesi.it,ridble.com,saras.it,valdelsa.net,vinusta.com,vog.it##.cd-top
 http://sportitaliabet.it##.cg-top-arrow
 http://primaonline.it##.col-nl
 http://lastampa.it##.conferma_reg_nl
@@ -22655,6 +22665,7 @@ http://primigi.it##.fancybox-overlay
 http://loccioni.com##.fascia
 http://e-weber.it##.flash-info
 http://genny.com##.genny-footer-cookie-notification
+http://italradio.org##.gpdr
 http://agristorecosenza.it,shopforshop.it##.header-notice
 http://centauria.it##.header-welcome
 http://lavorar.it##.headerline2
@@ -22685,6 +22696,7 @@ http://nh-hotels.it##.politicaRewards
 http://edilvetta.it,naegele.it##.privacy
 http://smtvsanmarino.sm##.privacy-top
 http://italradio.org##.privacyStatement
+http://peer.tv##.rain1-cp-container
 http://prelex.it##.rstboxes
 http://juzaphoto.com##.s_bluebox
 http://ogrtorino.it##.sc-dxgOiQ
@@ -23403,9 +23415,10 @@ http://ulrichesch.de#@#.headersocial
 http://oneplus.net#@#.ico-facebook
 http://wpolityce.pl#@#.icon-facebook-official
 http://lockerdome.com#@#.icon-facebook2
-http://eskimi.com,secure.allocine.fr#@#.icon-fb
+http://eskimi.com,myanimelist.net,secure.allocine.fr#@#.icon-fb
 http://flattr.com#@#.icon-flickr
 http://battle.net,chess.com,imgur.com,login.alibaba.com#@#.icon-google
+http://myanimelist.net#@#.icon-gp
 http://flattr.com,gleam.io#@#.icon-instagram
 http://fora.ie,login.alibaba.com#@#.icon-linkedin
 http://rottentomatoes.com#@#.icon-rss
@@ -23415,6 +23428,7 @@ http://carsguide.com.au#@#.icon-social-facebook
 http://carsguide.com.au#@#.icon-social-linkedin
 http://flattr.com,gleam.io#@#.icon-soundcloud
 http://hacpai.com#@#.icon-telegram
+http://myanimelist.net#@#.icon-tw
 http://aitnews.com,comicbook.com,fastcompany.com,flattr.com,gleam.io,imgur.com,lockerdome.com,login.alibaba.com,squidoo.com#@#.icon-twitter
 http://cc.cc#@#.icon-twitter-sign
 http://flattr.com#@#.icon-vimeo
@@ -23809,7 +23823,7 @@ http://rainews.it#@#.as-oil-content-overlay
 http://rainews.it#@#.as-oil[data-qa="oil-Layer"]
 http://openfiber.it,supertennis.tv#@#.cc-banner
 http://bing.com,czuczu.pl,supertennis.tv#@#.cc-container
-http://morningstar.ca#@#.cc_container
+http://morningstar.ca,tangerine.ca#@#.cc_container
 http://onet.pl#@#.cmp-app_gdpr
 http://consent.yahoo.com,lawrievetgroup.co.uk,oath.com#@#.consent-container
 http://consent.yahoo.com,lawrievetgroup.co.uk,payments.amazon.ca,payments.amazon.co.jp,payments.amazon.co.uk,payments.amazon.com,payments.amazon.com.au,payments.amazon.com.br,payments.amazon.de,payments.amazon.es,payments.amazon.fr,payments.amazon.in,payments.amazon.it,simplii.com#@#.consent-wrapper
