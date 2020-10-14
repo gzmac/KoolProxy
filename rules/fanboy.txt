@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ND0Q2v+hApbGdLn/hzdiow
-! Version: 202010122351
+! Checksum: CjbBoz831n0u87MlhQULAw
+! Version: 202010132351
 ! Title: Fanboy's Annoyance List
-! Last modified: 12 Oct 2020 23:51 UTC
+! Last modified: 13 Oct 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10547,6 +10547,7 @@ https://kommersant.ru##.up_button
 https://echo.msk.ru##.up_link
 https://itc.ua##.verticalPageNav
 https://avtoradio.ru##div[id^="unit_"]
+https://glas-javnosti.rs##.fa-feed
 https://diariolibre.com###bannerRight4
 https://eleconomista.es###barra-nav
 https://telesurtv.net###bulletin
@@ -13246,6 +13247,7 @@ https://bokadirekt.se,danbolig.dk,hongkong.fi,rusta.com,xmradio.nl#@#.cookie-con
 https://danbolig.dk,skuola.net#@#.cookie-dialog
 https://ikks.com#@#.cookie-footer
 https://puzzels.ad.nl,puzzels.bd.nl,puzzels.bndestem.nl,puzzels.destentor.nl,puzzels.ed.nl,puzzels.gelderlander.nl,puzzels.parool.nl,puzzels.pzc.nl,puzzels.trouw.nl,puzzels.tubantia.nl,puzzels.volkskrant.nl#@#.cookie-header
+https://medizinfuchs.at,medizinfuchs.de#@#.cookie-hint
 https://adequate.pl,bakken.nl,totalizator.pl#@#.cookie-info
 https://mediamarkt.de,mediamarkt.nl,saturn.de#@#.cookie-info-modal
 https://ferratum.pl,greenflag.com#@#.cookie-message
@@ -21144,6 +21146,7 @@ http://kommersant.ru##.up_button
 http://echo.msk.ru##.up_link
 http://itc.ua##.verticalPageNav
 http://avtoradio.ru##div[id^="unit_"]
+http://glas-javnosti.rs##.fa-feed
 http://diariolibre.com###bannerRight4
 http://eleconomista.es###barra-nav
 http://telesurtv.net###bulletin
@@ -23844,6 +23847,7 @@ http://bokadirekt.se,danbolig.dk,hongkong.fi,rusta.com,xmradio.nl#@#.cookie-cont
 http://danbolig.dk,skuola.net#@#.cookie-dialog
 http://ikks.com#@#.cookie-footer
 http://puzzels.ad.nl,puzzels.bd.nl,puzzels.bndestem.nl,puzzels.destentor.nl,puzzels.ed.nl,puzzels.gelderlander.nl,puzzels.parool.nl,puzzels.pzc.nl,puzzels.trouw.nl,puzzels.tubantia.nl,puzzels.volkskrant.nl#@#.cookie-header
+http://medizinfuchs.at,medizinfuchs.de#@#.cookie-hint
 http://adequate.pl,bakken.nl,totalizator.pl#@#.cookie-info
 http://mediamarkt.de,mediamarkt.nl,saturn.de#@#.cookie-info-modal
 http://ferratum.pl,greenflag.com#@#.cookie-message
