@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CjbBoz831n0u87MlhQULAw
-! Version: 202010132351
+! Checksum: HCXHwkw8bxiOF4q/lx5wJw
+! Version: 202010142351
 ! Title: Fanboy's Annoyance List
-! Last modified: 13 Oct 2020 23:51 UTC
+! Last modified: 14 Oct 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -276,7 +276,6 @@
 ||https://royapp.com^$third-party
 ||https://rsspump.com^$third-party
 ||https://s3.amazonaws.com/scripts.hellobar.com/$third-party
-||https://saambaa.com^$third-party
 ||https://sail-horizon.com/scout/$third-party
 ||https://sail-horizon.com^$third-party
 ||https://sail-personalize.com^$third-party
@@ -1628,7 +1627,6 @@
 ||http://royapp.com^$third-party
 ||http://rsspump.com^$third-party
 ||http://s3.amazonaws.com/scripts.hellobar.com/$third-party
-||http://saambaa.com^$third-party
 ||http://sail-horizon.com/scout/$third-party
 ||http://sail-horizon.com^$third-party
 ||http://sail-personalize.com^$third-party
@@ -4345,6 +4343,7 @@ https://juxtapoz.com##.NewFollowBox
 https://myegy.cc##.NotifyProposal
 https://priceme.co.nz##.PrettyBreadCrumbRightDiv
 https://diffchecker.com##.ReactModalPortal
+https://app.slack.com##.ReactModal__Overlay
 https://inc.com##.SectionUpDown
 https://m.reddit.com##.SmartBannerContainer
 https://imgur.com##.SnowFlakesBg
@@ -11980,6 +11979,7 @@ https://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chat
 https://majani.it###cs-banner
 https://netflixlovers.it###cs_container
 https://staffettaonline.com###ctl00_CtrlLogAbbonato1_cookiealert
+https://sardegna1.tv###dcb-black-screen
 https://ilfruttarolo.it###decretopr
 https://inartek.it###discl
 https://nau.it###disclaimer
@@ -12549,7 +12549,7 @@ https://autotrader.com,brydge.com,liputan6.com#@##back-to-top
 https://engie.fr,gaz-tarif-reglemente.fr,nasa.gov#@##backToTop
 https://rmf24.pl#@##backTop
 https://nasa.gov#@##backtoTop
-https://megalight18.net,stp-shop.ru#@##backtop
+https://megalight18.net,mk-78.ru,stp-shop.ru#@##backtop
 https://gcnlive.com,nasa.gov#@##backtotop
 https://patch.com#@##email-modal-wrapper
 https://hearthis.at#@##email-overlay
@@ -14943,6 +14943,7 @@ http://juxtapoz.com##.NewFollowBox
 http://myegy.cc##.NotifyProposal
 http://priceme.co.nz##.PrettyBreadCrumbRightDiv
 http://diffchecker.com##.ReactModalPortal
+http://app.slack.com##.ReactModal__Overlay
 http://inc.com##.SectionUpDown
 http://m.reddit.com##.SmartBannerContainer
 http://imgur.com##.SnowFlakesBg
@@ -22580,6 +22581,7 @@ http://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chate
 http://majani.it###cs-banner
 http://netflixlovers.it###cs_container
 http://staffettaonline.com###ctl00_CtrlLogAbbonato1_cookiealert
+http://sardegna1.tv###dcb-black-screen
 http://ilfruttarolo.it###decretopr
 http://inartek.it###discl
 http://nau.it###disclaimer
@@ -23149,7 +23151,7 @@ http://autotrader.com,brydge.com,liputan6.com#@##back-to-top
 http://engie.fr,gaz-tarif-reglemente.fr,nasa.gov#@##backToTop
 http://rmf24.pl#@##backTop
 http://nasa.gov#@##backtoTop
-http://megalight18.net,stp-shop.ru#@##backtop
+http://megalight18.net,mk-78.ru,stp-shop.ru#@##backtop
 http://gcnlive.com,nasa.gov#@##backtotop
 http://patch.com#@##email-modal-wrapper
 http://hearthis.at#@##email-overlay
