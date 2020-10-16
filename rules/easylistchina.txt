@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: He/BZQF0wOwKFFNEmsLxqg
-! Version: 202010150023
+! Checksum: OqFA/NVPVMZZB/UvhqDISA
+! Version: 202010160033
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -2792,6 +2792,7 @@
 ||https://ip138.com/idc/
 ||https://ipeen.com.tw/js/frame/ad-actions.js
 ||https://ipeen.com.tw/photo/ad/
+||https://ipip.net/loveapp/ipip/tools/theme/partner/
 ||https://iporn.world/attachment/ad/
 ||https://iptv444.com/ad-
 ||https://iqilu.com/getZone.php
@@ -4886,6 +4887,7 @@
 ||https://aitxt.com/bot-
 ||https://aitxt.com/js/ai.js
 ||https://aitxt.com/m_float.js
+||https://alicdn.com/imgextra/*_!!1091819078.
 ||https://alicdn.com/imgextra/*_!!823262290.
 ||https://biquge.info^*.js?
 ||https://biqugeso.com^*html$script
@@ -5440,6 +5442,7 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://zf678.com^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -10458,6 +10461,7 @@
 ||http://ip138.com/idc/
 ||http://ipeen.com.tw/js/frame/ad-actions.js
 ||http://ipeen.com.tw/photo/ad/
+||http://ipip.net/loveapp/ipip/tools/theme/partner/
 ||http://iporn.world/attachment/ad/
 ||http://iptv444.com/ad-
 ||http://iqilu.com/getZone.php
@@ -13487,6 +13491,7 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://guvdfs.cn^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13521,6 +13526,7 @@
 ||http://0923csfsteibv12.xyz^
 ||http://0928vld.xyz^
 ||http://0fwg.cn^
+||http://1005fdh.xyz^
 ||http://104610.com^
 ||http://1115potmgabfvixqwi.top^
 ||http://114com.cc^
@@ -13727,6 +13733,7 @@
 ||http://alibdl.xyz^
 ||http://alibdm.xyz^
 ||http://alibdn.xyz^
+||http://alicdn.com/imgextra/*_!!1091819078.
 ||http://alicdn.com/imgextra/*_!!823262290.
 ||http://alicdn.com^$domain=aikanshu8.com|lawen44.net
 ||http://aligiao.info^
@@ -13755,6 +13762,7 @@
 ||http://askspsl.cn^
 ||http://autobedo.com.cn^
 ||http://autodaluosiji.com^
+||http://av8.cm^
 ||http://avsmt.cn^
 ||http://awqsaged.cn^
 ||http://awtks.com^
@@ -14046,6 +14054,7 @@
 ||http://du9zgx.cn^
 ||http://duanwenxue.com/functions/
 ||http://duluoweiyu.com^
+||http://dvzk66.cn^
 ||http://dxcssc.cn^
 ||http://dxmci.com^
 ||http://dybz6.net/js/html
@@ -14246,6 +14255,7 @@
 ||http://hajuwang.cn^
 ||http://hanmiyong.com^
 ||http://hanqingstudio.com^
+||http://hanzhixin.cn^
 ||http://haomaojin.com^
 ||http://haoxianyangrouye.com^
 ||http://haoxinq.top^
@@ -14651,6 +14661,7 @@
 ||http://mouaa.com^
 ||http://movii-loft.cn^
 ||http://moxiaoyang.top^
+||http://mozqca.cn^
 ||http://mqgpo.com^
 ||http://mrycwz.com^
 ||http://msdfd.cn^
@@ -15196,6 +15207,7 @@
 ||http://wenbangsh.com.cn^
 ||http://wenzhougy.cn^
 ||http://wervp.com^
+||http://wfslj.cn^
 ||http://wfxoi.xyz^
 ||http://wfyqc.com^
 ||http://wgaoe.com^
@@ -16202,7 +16214,6 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://jdbbs.com###portal_block_2826
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -17189,6 +17200,7 @@ https://x3cn.com###portal_block_12045
 https://ichunqiu.com###portal_block_157
 https://macfans.org###portal_block_180
 https://hcbbs.com###portal_block_2652
+https://jdbbs.com###portal_block_2826
 https://fuyang.net###portal_block_474
 https://fuyang.net###portal_block_502
 https://zhaiiker.com###post-single + .pd10.mar10-t.box
@@ -17882,6 +17894,7 @@ https://chinamedevice.cn##.ads_img
 https://chinamedevice.cn##.ads_img1
 https://xianliao.me##.ads_popup_small_ads_container
 https://netflav.com##.ads_video_overlay_mobile
+https://wmzhe.com##.ads_wmzhe_software_bannerRight
 https://199it.com,softwarebrother.com,wholehk.com##.adsbygoogle
 https://m.kuaidi100.com##.adsbygoogle + a
 https://chtoen.com##.adsbygoogle:not([data-ad-slot="9717665976"])
@@ -20869,7 +20882,7 @@ https://bbs.my0511.com##embed[width="970"][height="70"]
 https://engadget.com#?#.Py\(40px\):-abp-has(> article > .D\(f\) > .Pos\(r\)[data-ylk*=":AD;"])
 https://guilinlife.com#?#li:-abp-has(> div > .content-other > .content-type:-abp-contains(广告))
 https://cnbeta.com##h2 > a[href^="https://active.greatroma.com"]
-https://hboav.com#?#script + div:-abp-has(>div>.cc5278_banner_ad_cb)
+https://hboav.com#?#style + script + div:-abp-has(>div>.cc5278_banner_ad_cb)
 https://ifeng.com#?#.box_list:-abp-has(.tuig)
 https://ifeng.com#?#div[class^="titleImg-"]:-abp-has(span[class^="source-"]:-abp-contains(推广))
 https://sina.cn##iframe[id^="sinaadtk_"]
@@ -21053,6 +21066,7 @@ https://yahoo.com#?#.stream-items:-abp-has(> div > div > span:-abp-contains(即�
 https://yahoo.com#?#.stream-items[data-wf-beacons]
 https://yahoo.com#?#div[class^="Pos(a) H"]:-abp-has(> a[class^="LineClamp"][href^="https://b.gemini."])
 https://zhangxinxu.com#?#.top_da_out
+https://on.cc#@##CONTENTAD
 https://the-sun.on.cc#@##ContentAd1
 https://hubei.gov.cn#@##ad-side
 https://abbao.cn#@##adContent
@@ -21180,7 +21194,6 @@ https://fjsen.com,nuomi.com#@#.right-ad
 https://perfectmatch.tw#@#.right_ad
 https://360zbz.com#@#.rightad
 https://zdface.com#@#.top-ad
-https://on.cc#@##CONTENTAD
 https://andylain.com,bee.coupons,blogspot.com,blogspot.hk,blogspot.jp,blogspot.tw,comic.tw,jasonblog.tw#@#.vertical-ads
 https://i-cable.com#@#.video_ad
 https://bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
@@ -21452,7 +21465,6 @@ https://businessreview.global,zhihuishu.com#@#.sharing
 https://icourse163.org#@#.sns-link
 https://laosiji.com#@#.sns-wrapper
 https://mrbird.cc#@#.social-icons
-https://diaoge.cn,iqshv.com,tiaomaren.com,wangdalao.com,wc1234.cn,ygodl.com#@#.social-top
 https://cowtransfer.com#@#.socialButton
 https://storm.mg#@#.social_btn
 https://ali213.net#@#.subscribe-container
@@ -22295,7 +22307,6 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://jdbbs.com###portal_block_2826
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -23282,6 +23293,7 @@ http://x3cn.com###portal_block_12045
 http://ichunqiu.com###portal_block_157
 http://macfans.org###portal_block_180
 http://hcbbs.com###portal_block_2652
+http://jdbbs.com###portal_block_2826
 http://fuyang.net###portal_block_474
 http://fuyang.net###portal_block_502
 http://zhaiiker.com###post-single + .pd10.mar10-t.box
@@ -23975,6 +23987,7 @@ http://chinamedevice.cn##.ads_img
 http://chinamedevice.cn##.ads_img1
 http://xianliao.me##.ads_popup_small_ads_container
 http://netflav.com##.ads_video_overlay_mobile
+http://wmzhe.com##.ads_wmzhe_software_bannerRight
 http://199it.com,softwarebrother.com,wholehk.com##.adsbygoogle
 http://m.kuaidi100.com##.adsbygoogle + a
 http://chtoen.com##.adsbygoogle:not([data-ad-slot="9717665976"])
@@ -26962,7 +26975,7 @@ http://bbs.my0511.com##embed[width="970"][height="70"]
 http://engadget.com#?#.Py\(40px\):-abp-has(> article > .D\(f\) > .Pos\(r\)[data-ylk*=":AD;"])
 http://guilinlife.com#?#li:-abp-has(> div > .content-other > .content-type:-abp-contains(广告))
 http://cnbeta.com##h2 > a[href^="https://active.greatroma.com"]
-http://hboav.com#?#script + div:-abp-has(>div>.cc5278_banner_ad_cb)
+http://hboav.com#?#style + script + div:-abp-has(>div>.cc5278_banner_ad_cb)
 http://ifeng.com#?#.box_list:-abp-has(.tuig)
 http://ifeng.com#?#div[class^="titleImg-"]:-abp-has(span[class^="source-"]:-abp-contains(推广))
 http://sina.cn##iframe[id^="sinaadtk_"]
@@ -27146,6 +27159,7 @@ http://yahoo.com#?#.stream-items:-abp-has(> div > div > span:-abp-contains(即�
 http://yahoo.com#?#.stream-items[data-wf-beacons]
 http://yahoo.com#?#div[class^="Pos(a) H"]:-abp-has(> a[class^="LineClamp"][href^="https://b.gemini."])
 http://zhangxinxu.com#?#.top_da_out
+http://on.cc#@##CONTENTAD
 http://the-sun.on.cc#@##ContentAd1
 http://hubei.gov.cn#@##ad-side
 http://abbao.cn#@##adContent
@@ -27273,7 +27287,6 @@ http://fjsen.com,nuomi.com#@#.right-ad
 http://perfectmatch.tw#@#.right_ad
 http://360zbz.com#@#.rightad
 http://zdface.com#@#.top-ad
-http://on.cc#@##CONTENTAD
 http://andylain.com,bee.coupons,blogspot.com,blogspot.hk,blogspot.jp,blogspot.tw,comic.tw,jasonblog.tw#@#.vertical-ads
 http://i-cable.com#@#.video_ad
 http://bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
@@ -27545,7 +27558,6 @@ http://businessreview.global,zhihuishu.com#@#.sharing
 http://icourse163.org#@#.sns-link
 http://laosiji.com#@#.sns-wrapper
 http://mrbird.cc#@#.social-icons
-http://diaoge.cn,iqshv.com,tiaomaren.com,wangdalao.com,wc1234.cn,ygodl.com#@#.social-top
 http://cowtransfer.com#@#.socialButton
 http://storm.mg#@#.social_btn
 http://ali213.net#@#.subscribe-container
