@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1EwbTyQhqxRTFf8dawC5Pw
-! Version: 202010152351
+! Checksum: aYPkf7oVfLs+V1wqiBZxWg
+! Version: 202010162351
 ! Title: Fanboy's Annoyance List
-! Last modified: 15 Oct 2020 23:51 UTC
+! Last modified: 16 Oct 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -777,6 +777,7 @@
 ||https://cookiebot.com^$third-party
 ||https://cookiechoices.org^$third-party
 ||https://cookieconsent.silktide.com^$third-party
+||https://cookiehub.net^$third-party
 ||https://cookieinformation.com/*/*.js
 ||https://cookieinformation.com^$subdocument,third-party
 ||https://cookieinfoscript.com^$third-party
@@ -2141,6 +2142,7 @@
 ||http://cookiebot.com^$third-party
 ||http://cookiechoices.org^$third-party
 ||http://cookieconsent.silktide.com^$third-party
+||http://cookiehub.net^$third-party
 ||http://cookieinformation.com/*/*.js
 ||http://cookieinformation.com^$subdocument,third-party
 ||http://cookieinfoscript.com^$third-party
@@ -7973,6 +7975,7 @@ https://alarabiya.net,amd.com,batman-news.com,bbcamerica.com,bgr.com,californias
 https://aikenstandard.com##.follow-aiken-standard
 https://aol.com##.follow-aol
 https://breakingnews.ie##.follow-bn
+https://ein-herz-fuer-kinder.de##.follow-container
 https://indiancountrytodaymedianetwork.com##.follow-home
 https://talabat.com##.follow-i
 https://radio.com##.follow-link--facebook
@@ -9665,6 +9668,7 @@ https://ethereumprice.org##.zxc-msg
 https://theaustralian.com.au##CAAS-MESSAGE-PANEL
 https://santatracker.google.com##SANTA-NOTICE
 https://trustnet.com##USER-TYPE-POPUP
+https://vivid.money##[class^="cookieNotification_"]
 https://shutterstock.com##[data-automation="Eu_banner_container"]
 https://iubenda.com##a[style="padding-top: 10px; display: block;"]
 https://shab.ch##agb-bar
@@ -11980,6 +11984,7 @@ https://ecodallecitta.it###contenuto_consenso
 https://spesasicura.com###cook
 https://aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mymercato.it,pallacanestrovarese.it,primocanale.it,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
 https://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
+https://telea1.it###cooky_content
 https://majani.it###cs-banner
 https://netflixlovers.it###cs_container
 https://staffettaonline.com###ctl00_CtrlLogAbbonato1_cookiealert
@@ -18577,6 +18582,7 @@ http://alarabiya.net,amd.com,batman-news.com,bbcamerica.com,bgr.com,californiasu
 http://aikenstandard.com##.follow-aiken-standard
 http://aol.com##.follow-aol
 http://breakingnews.ie##.follow-bn
+http://ein-herz-fuer-kinder.de##.follow-container
 http://indiancountrytodaymedianetwork.com##.follow-home
 http://talabat.com##.follow-i
 http://radio.com##.follow-link--facebook
@@ -20270,6 +20276,7 @@ http://ethereumprice.org##.zxc-msg
 http://theaustralian.com.au##CAAS-MESSAGE-PANEL
 http://santatracker.google.com##SANTA-NOTICE
 http://trustnet.com##USER-TYPE-POPUP
+http://vivid.money##[class^="cookieNotification_"]
 http://shutterstock.com##[data-automation="Eu_banner_container"]
 http://iubenda.com##a[style="padding-top: 10px; display: block;"]
 http://shab.ch##agb-bar
@@ -22586,6 +22593,7 @@ http://ecodallecitta.it###contenuto_consenso
 http://spesasicura.com###cook
 http://aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mymercato.it,pallacanestrovarese.it,primocanale.it,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
 http://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
+http://telea1.it###cooky_content
 http://majani.it###cs-banner
 http://netflixlovers.it###cs_container
 http://staffettaonline.com###ctl00_CtrlLogAbbonato1_cookiealert
