@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: aYPkf7oVfLs+V1wqiBZxWg
-! Version: 202010162351
+! Checksum: a1vPaRO49mxld5bylPNq5Q
+! Version: 202010172351
 ! Title: Fanboy's Annoyance List
-! Last modified: 16 Oct 2020 23:51 UTC
+! Last modified: 17 Oct 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -869,6 +869,7 @@
 ||https://planelogger.com^*/avitop6.
 ||https://realstylenetwork.com/celebrities/*&action=inc_popup
 ||https://redbunker.net/images/redb/redyeni.gif
+||https://routercheck.com/supportstatic/images/support/common/banner-web.gif
 ||https://rudaw.net/images/icsubscribe.
 ||https://sabcnews.com^*-iabsa-
 ||https://scmp.com/misc/abacus_
@@ -2239,6 +2240,7 @@
 ||http://planelogger.com^*/avitop6.
 ||http://realstylenetwork.com/celebrities/*&action=inc_popup
 ||http://redbunker.net/images/redb/redyeni.gif
+||http://routercheck.com/supportstatic/images/support/common/banner-web.gif
 ||http://rudaw.net/images/icsubscribe.
 ||http://sabcnews.com^*-iabsa-
 ||http://scmp.com/misc/abacus_
@@ -6212,7 +6214,7 @@ https://newscientist.com###marketingtertiary
 https://gearbest.com###mask
 https://rapidtvnews.com###masthead
 https://bcheights.com,cargofacts.com,cnn.com,dailyhive.com,etv.co.za,evonomics.com,fn.com,gimmesomeoven.com,kveller.com,lawandcrime.com,longreads.com,mtlblog.com,narrative.ly,nation.co.ke,nesthq.com,psychcentral.com,psypost.org,reductress.com,reliefweb.int,runthetrap.com,spectrumlocalnews.com,tennesseestar.com,themichiganstar.com,theminnesotasun.com,theohiostar.com,thewirecutter.com,wweek.com###mc-embedded-subscribe-form
-https://99fm.com.na,activistmommy.com,ahtribune.com,androidauthority.com,apriorit.com,artafricamagazine.org,bcheights.com,bhekisisa.org,bitguru.co.uk,biznews.com,blog.cloudflare.com,breakingisraelnews.com,breakingnews.ie,californiasunday.com,capitolhillseattle.com,caribjournal.com,chinafile.com,churchmilitant.com,circuitdigest.com,cjr.org,cointelegraph.com,current.org,dailyfreepress.com,dailytimes.com.pk,dailytrust.com.ng,exstreamist.com,fusion.net,gaystarnews.com,ghafla.com,groovekorea.com,howlermagazine.com,ikeahackers.net,indiaclimatedialogue.net,iphoneincanada.ca,jewishinsider.com,justrunlah.com,majorgeeks.com,maoritelevision.com,monetarywatch.com,national-justice.com,nbc.na,newsthump.com,newtimes.co.rw,newzimbabwe.com,nextbigfuture.com,nodez.co,nyc.gov,politifact.com,premiumtimesng.com,propublica.org,providr.com,punchng.com,rawstory.com,registerguard.com,rightwingtribune.com,rnw.org,russia-insider.com,sciencealert.com,sciencebulletin.org,seattletimes.com,secretflying.com,spokesman.com,sporttechie.com,stellar.ie,swissinfo.ch,techjuice.pk,technobuffalo.com,thegrayzone.com,theloadout.com,thenewsflasher.com,thequint.com,thestar.com.my,thestranger.com,theyeshivaworld.com,trancentral.tv,truthuncensored.net,wayfm.com,worldreligionnews.com,wttw.com###mc_embed_signup
+https://99fm.com.na,activistmommy.com,ahtribune.com,androidauthority.com,apriorit.com,artafricamagazine.org,bcheights.com,bhekisisa.org,bitguru.co.uk,biznews.com,blog.cloudflare.com,breakingisraelnews.com,breakingnews.ie,californiasunday.com,capitolhillseattle.com,caribjournal.com,chinafile.com,churchmilitant.com,circuitdigest.com,cjr.org,cointelegraph.com,current.org,dailyfreepress.com,dailytimes.com.pk,dailytrust.com.ng,exstreamist.com,fusion.net,gaystarnews.com,ghafla.com,groovekorea.com,howlermagazine.com,ikeahackers.net,indiaclimatedialogue.net,iowapublicradio.org,iphoneincanada.ca,jewishinsider.com,justrunlah.com,majorgeeks.com,maoritelevision.com,monetarywatch.com,national-justice.com,nbc.na,newsthump.com,newtimes.co.rw,newzimbabwe.com,nextbigfuture.com,nodez.co,nyc.gov,politifact.com,premiumtimesng.com,propublica.org,providr.com,punchng.com,rawstory.com,registerguard.com,rightwingtribune.com,rnw.org,russia-insider.com,sciencealert.com,sciencebulletin.org,seattletimes.com,secretflying.com,spokesman.com,sporttechie.com,stellar.ie,swissinfo.ch,techjuice.pk,technobuffalo.com,thegrayzone.com,theloadout.com,thenewsflasher.com,thequint.com,thestar.com.my,thestranger.com,theyeshivaworld.com,trancentral.tv,truthuncensored.net,wayfm.com,worldreligionnews.com,wttw.com###mc_embed_signup
 https://activistmommy.com###mc_embed_signup-footer
 https://moneyweb.co.za###mc_embed_signup1
 https://priceonomics.com###mc_embed_signup_nojs
@@ -7731,8 +7733,7 @@ https://onlineshoes.com###youtubeLink
 https://oneindia.com###youtube_promo
 https://opposingviews.com###yt
 https://petri.com,voiceofsandiego.org##.-social
-https://aboutamazon.co.uk,aboutamazon.com,latimes.com,sandiegouniontribune.com##.ActionBar
-https://washingtonexaminer.com,weeklystandard.com,wgbh.org##.ArticlePage-actions
+https://aboutamazon.co.uk,aboutamazon.com,iowapublicradio.org,latimes.com,sandiegouniontribune.com,washingtonexaminer.com,weeklystandard.com,wgbh.org##.ActionBar
 https://yahoo.com##.Btn-t
 https://comicbookmovie.com##.CBMFollow
 https://alwaght.com##.FollowLinks
@@ -8398,6 +8399,7 @@ https://signiform.com##.social_nav
 https://myfitnesspal.com##.social_profile
 https://forbes.com,impactloud.com,technobuffalo.com,thehindu.com,thenextweb.com##.socialize
 https://bidorbuy.co.za##.socialnetwork
+https://tecmint.com##.socialprofiles
 https://thevine.com.au##.socialreader
 https://guernicamag.com##.socio3
 https://libdems.org.uk##.socnet
@@ -10187,6 +10189,7 @@ https://money.it###signup-form
 https://qualescegliere.it###slideUpForm
 https://romaest.cc,zipnews.it###slide_top
 https://orizzontescuola.it###slidebox
+https://orizzontescuola.it###slidingblock
 https://dirittierisposte.it###slimheader
 https://amazon.it###smart-app-banner
 https://centrometeolombardo.com###spot_popup
@@ -10293,6 +10296,7 @@ https://laleggepertutti.it##.news-letter
 https://leggioggi.it##.newsButton
 https://01net.it,advisoronline.it,aeroporto.net,astrooroscopo.it,basketinside.com,bintmusic.it,carpicalcionews.it,chiesadimilano.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,giornaledibrescia.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,lanazione.it,legab.it,leitgamhof.com,lescienze.it,linkiesta.it,lintellettualedissidente.it,lvh.it,mediagol.it,meteolive.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,theitaliantimes.it,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
 https://ravennanotizie.it##.newsletter-section
+https://orizzontescuola.it##.nl-block
 https://starbene.it##.nlslim
 https://systems.bz##.on-top
 https://blauerusa.com##.onTop
@@ -13339,7 +13343,7 @@ https://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfran
 https://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@#.gdpr-panel
 https://totalcasino.pl#@#.gdpr-popup
 https://wufoo.com#@#.gdpr-prompt
-https://coastalliving.com,commercialtrucktrader.com,cookinglight.com,essence.com,ew.com,fortune.com,gct.com,golf.com,health.com,hellogiggles.com,instyle.com,metallica.com,mirjan24.pl,my.games,nytimes.com,people.com,realsimple.com,si.com,southernliving.com,time.com,travelandleisure.com#@#.gdpr:not(body):not(html)
+https://booking.pobeda.aero,coastalliving.com,commercialtrucktrader.com,cookinglight.com,essence.com,ew.com,fortune.com,gct.com,golf.com,health.com,hellogiggles.com,instyle.com,metallica.com,mirjan24.pl,my.games,nytimes.com,people.com,realsimple.com,si.com,southernliving.com,time.com,travelandleisure.com#@#.gdpr:not(body):not(html)
 https://suzuki.co.nz#@#.js-cookie
 https://geleidehond.nl#@#.js-cookie-alert
 https://hildesheimer-allgemeine.de#@#.js-cookie-consent
@@ -16819,7 +16823,7 @@ http://newscientist.com###marketingtertiary
 http://gearbest.com###mask
 http://rapidtvnews.com###masthead
 http://bcheights.com,cargofacts.com,cnn.com,dailyhive.com,etv.co.za,evonomics.com,fn.com,gimmesomeoven.com,kveller.com,lawandcrime.com,longreads.com,mtlblog.com,narrative.ly,nation.co.ke,nesthq.com,psychcentral.com,psypost.org,reductress.com,reliefweb.int,runthetrap.com,spectrumlocalnews.com,tennesseestar.com,themichiganstar.com,theminnesotasun.com,theohiostar.com,thewirecutter.com,wweek.com###mc-embedded-subscribe-form
-http://99fm.com.na,activistmommy.com,ahtribune.com,androidauthority.com,apriorit.com,artafricamagazine.org,bcheights.com,bhekisisa.org,bitguru.co.uk,biznews.com,blog.cloudflare.com,breakingisraelnews.com,breakingnews.ie,californiasunday.com,capitolhillseattle.com,caribjournal.com,chinafile.com,churchmilitant.com,circuitdigest.com,cjr.org,cointelegraph.com,current.org,dailyfreepress.com,dailytimes.com.pk,dailytrust.com.ng,exstreamist.com,fusion.net,gaystarnews.com,ghafla.com,groovekorea.com,howlermagazine.com,ikeahackers.net,indiaclimatedialogue.net,iphoneincanada.ca,jewishinsider.com,justrunlah.com,majorgeeks.com,maoritelevision.com,monetarywatch.com,national-justice.com,nbc.na,newsthump.com,newtimes.co.rw,newzimbabwe.com,nextbigfuture.com,nodez.co,nyc.gov,politifact.com,premiumtimesng.com,propublica.org,providr.com,punchng.com,rawstory.com,registerguard.com,rightwingtribune.com,rnw.org,russia-insider.com,sciencealert.com,sciencebulletin.org,seattletimes.com,secretflying.com,spokesman.com,sporttechie.com,stellar.ie,swissinfo.ch,techjuice.pk,technobuffalo.com,thegrayzone.com,theloadout.com,thenewsflasher.com,thequint.com,thestar.com.my,thestranger.com,theyeshivaworld.com,trancentral.tv,truthuncensored.net,wayfm.com,worldreligionnews.com,wttw.com###mc_embed_signup
+http://99fm.com.na,activistmommy.com,ahtribune.com,androidauthority.com,apriorit.com,artafricamagazine.org,bcheights.com,bhekisisa.org,bitguru.co.uk,biznews.com,blog.cloudflare.com,breakingisraelnews.com,breakingnews.ie,californiasunday.com,capitolhillseattle.com,caribjournal.com,chinafile.com,churchmilitant.com,circuitdigest.com,cjr.org,cointelegraph.com,current.org,dailyfreepress.com,dailytimes.com.pk,dailytrust.com.ng,exstreamist.com,fusion.net,gaystarnews.com,ghafla.com,groovekorea.com,howlermagazine.com,ikeahackers.net,indiaclimatedialogue.net,iowapublicradio.org,iphoneincanada.ca,jewishinsider.com,justrunlah.com,majorgeeks.com,maoritelevision.com,monetarywatch.com,national-justice.com,nbc.na,newsthump.com,newtimes.co.rw,newzimbabwe.com,nextbigfuture.com,nodez.co,nyc.gov,politifact.com,premiumtimesng.com,propublica.org,providr.com,punchng.com,rawstory.com,registerguard.com,rightwingtribune.com,rnw.org,russia-insider.com,sciencealert.com,sciencebulletin.org,seattletimes.com,secretflying.com,spokesman.com,sporttechie.com,stellar.ie,swissinfo.ch,techjuice.pk,technobuffalo.com,thegrayzone.com,theloadout.com,thenewsflasher.com,thequint.com,thestar.com.my,thestranger.com,theyeshivaworld.com,trancentral.tv,truthuncensored.net,wayfm.com,worldreligionnews.com,wttw.com###mc_embed_signup
 http://activistmommy.com###mc_embed_signup-footer
 http://moneyweb.co.za###mc_embed_signup1
 http://priceonomics.com###mc_embed_signup_nojs
@@ -18338,8 +18342,7 @@ http://onlineshoes.com###youtubeLink
 http://oneindia.com###youtube_promo
 http://opposingviews.com###yt
 http://petri.com,voiceofsandiego.org##.-social
-http://aboutamazon.co.uk,aboutamazon.com,latimes.com,sandiegouniontribune.com##.ActionBar
-http://washingtonexaminer.com,weeklystandard.com,wgbh.org##.ArticlePage-actions
+http://aboutamazon.co.uk,aboutamazon.com,iowapublicradio.org,latimes.com,sandiegouniontribune.com,washingtonexaminer.com,weeklystandard.com,wgbh.org##.ActionBar
 http://yahoo.com##.Btn-t
 http://comicbookmovie.com##.CBMFollow
 http://alwaght.com##.FollowLinks
@@ -19005,6 +19008,7 @@ http://signiform.com##.social_nav
 http://myfitnesspal.com##.social_profile
 http://forbes.com,impactloud.com,technobuffalo.com,thehindu.com,thenextweb.com##.socialize
 http://bidorbuy.co.za##.socialnetwork
+http://tecmint.com##.socialprofiles
 http://thevine.com.au##.socialreader
 http://guernicamag.com##.socio3
 http://libdems.org.uk##.socnet
@@ -20795,6 +20799,7 @@ http://money.it###signup-form
 http://qualescegliere.it###slideUpForm
 http://romaest.cc,zipnews.it###slide_top
 http://orizzontescuola.it###slidebox
+http://orizzontescuola.it###slidingblock
 http://dirittierisposte.it###slimheader
 http://amazon.it###smart-app-banner
 http://centrometeolombardo.com###spot_popup
@@ -20901,6 +20906,7 @@ http://laleggepertutti.it##.news-letter
 http://leggioggi.it##.newsButton
 http://01net.it,advisoronline.it,aeroporto.net,astrooroscopo.it,basketinside.com,bintmusic.it,carpicalcionews.it,chiesadimilano.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,giornaledibrescia.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,lanazione.it,legab.it,leitgamhof.com,lescienze.it,linkiesta.it,lintellettualedissidente.it,lvh.it,mediagol.it,meteolive.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,theitaliantimes.it,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
 http://ravennanotizie.it##.newsletter-section
+http://orizzontescuola.it##.nl-block
 http://starbene.it##.nlslim
 http://systems.bz##.on-top
 http://blauerusa.com##.onTop
@@ -23948,7 +23954,7 @@ http://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfranc
 http://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@#.gdpr-panel
 http://totalcasino.pl#@#.gdpr-popup
 http://wufoo.com#@#.gdpr-prompt
-http://coastalliving.com,commercialtrucktrader.com,cookinglight.com,essence.com,ew.com,fortune.com,gct.com,golf.com,health.com,hellogiggles.com,instyle.com,metallica.com,mirjan24.pl,my.games,nytimes.com,people.com,realsimple.com,si.com,southernliving.com,time.com,travelandleisure.com#@#.gdpr:not(body):not(html)
+http://booking.pobeda.aero,coastalliving.com,commercialtrucktrader.com,cookinglight.com,essence.com,ew.com,fortune.com,gct.com,golf.com,health.com,hellogiggles.com,instyle.com,metallica.com,mirjan24.pl,my.games,nytimes.com,people.com,realsimple.com,si.com,southernliving.com,time.com,travelandleisure.com#@#.gdpr:not(body):not(html)
 http://suzuki.co.nz#@#.js-cookie
 http://geleidehond.nl#@#.js-cookie-alert
 http://hildesheimer-allgemeine.de#@#.js-cookie-consent
