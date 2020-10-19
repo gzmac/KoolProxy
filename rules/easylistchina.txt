@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: eRS0Pr+i7GhBjtKOeTRvGg
-! Version: 202010180033
+! Checksum: t3XcogY+YunLCeUVIWTBCQ
+! Version: 202010190032
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -3645,6 +3645,7 @@
 ||https://qiyun.org/images/js/*.htm
 ||https://qiyuzy.com/static/js/publicad.js
 ||https://qk6.org/file/script/
+||https://qksapp.net/gif/
 ||https://qmwxb.com/skins/2/images/qp001.gif
 ||https://qncye.com/ads/
 ||https://qnsb.com/news/index.php?m=poster&
@@ -4793,7 +4794,6 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
-||https://qksapp.net/gif/
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -10636,6 +10636,7 @@
 ||http://jsdelivr.net/gh/fzdm/st*/js/fzwap-
 ||http://jstucdn.com/g3/
 ||http://jswz8.com/images/
+||http://jsyefc.com^
 ||http://juejin.im/v3/web/wbbr/
 ||http://juji.tv/Runtime/js/
 ||http://jupi.cc^*.gif
@@ -11408,6 +11409,7 @@
 ||http://qiyun.org/images/js/*.htm
 ||http://qiyuzy.com/static/js/publicad.js
 ||http://qk6.org/file/script/
+||http://qksapp.net/gif/
 ||http://qmwxb.com/skins/2/images/qp001.gif
 ||http://qncye.com/ads/
 ||http://qnsb.com/news/index.php?m=poster&
@@ -11678,6 +11680,7 @@
 ||http://sobaidupan.com/top_txtad.asp
 ||http://sobaigu.com/images/server_tourist.jpg
 ||http://sobt8.org/Public/static/js/common.js
+||http://sodhef.com^
 ||http://sodu2020.com/js/ppc.js
 ||http://soduso.com/js/4
 ||http://soduso.com/js/sat.js
@@ -12666,9 +12669,6 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
-||http://qksapp.net/gif/
-||http://jsyefc.com^
-||http://sodhef.com^
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a68.com|99re.com
 ||http://sinaimg.cn^$domain=99a68.com|99re.com
@@ -17694,6 +17694,7 @@ https://yaolan.com##.abstract_ad
 https://2345.com##.act-market
 https://2345.com,hao774.com##.act-search-tab
 https://2345.com##.act-yguang
+https://teachinghand.com##.actions__wrapper
 https://rising.cn##.activity-ad
 https://hao.rising.cn##.activity-gt
 https://zuimeia.com##.activity-poster:not([href*="zuimeia."])
@@ -19444,7 +19445,6 @@ https://netbardh.com##.pos-navbar-ad
 https://vmovier.com##.post-ad-bottom
 https://hao.su##.post-content > div[class^="a"]
 https://vmovier.com##.post-right-item + a[target="_blank"]
-https://tepintehui.com##.post-wrap + div[style="margin:10px 0px 30px 0px;text-align:center;"]
 https://163.com##.post_adtop_main
 https://gamme.com.tw##.post_adwrpt
 https://tieba.baidu.com##.post_client_down
@@ -19671,7 +19671,6 @@ https://rs05.com##.side-bar-first
 https://uc123.com##.side-hot
 https://wallstreetcn.com##.side-money
 https://firefox.com.cn,firefoxchina.cn##.side-notice
-https://tepintehui.com##.side-pmt
 https://firefoxchina.cn##.side-promote
 https://firefoxchina.cn##.side-recommend
 https://smzdm.com##.side-stuff
@@ -21075,6 +21074,7 @@ https://cartomad.com,cartoonmad.com##tr:nth-child(n+5) > td > table[width="732"]
 https://sogou.com##ul[class^="atAd"]
 https://zdfans.com##ul[id^="gaosuxiazai"]
 https://firefoxchina.cn##ul[track-key="adv_links"]
+https://toolfk.com##wavy + p[style="float: left;"]
 https://weibo.com#?#.card-content > ul > li:-abp-has(> p > .icon-txt-recommend)
 https://weibo.com#?#tr:-abp-has(> .td-03 > .icon-txt-recommend)
 https://x3cn.com#?#.commonDiv:-abp-has(.ad)
@@ -23787,6 +23787,7 @@ http://yaolan.com##.abstract_ad
 http://2345.com##.act-market
 http://2345.com,hao774.com##.act-search-tab
 http://2345.com##.act-yguang
+http://teachinghand.com##.actions__wrapper
 http://rising.cn##.activity-ad
 http://hao.rising.cn##.activity-gt
 http://zuimeia.com##.activity-poster:not([href*="zuimeia."])
@@ -25537,7 +25538,6 @@ http://netbardh.com##.pos-navbar-ad
 http://vmovier.com##.post-ad-bottom
 http://hao.su##.post-content > div[class^="a"]
 http://vmovier.com##.post-right-item + a[target="_blank"]
-http://tepintehui.com##.post-wrap + div[style="margin:10px 0px 30px 0px;text-align:center;"]
 http://163.com##.post_adtop_main
 http://gamme.com.tw##.post_adwrpt
 http://tieba.baidu.com##.post_client_down
@@ -25764,7 +25764,6 @@ http://rs05.com##.side-bar-first
 http://uc123.com##.side-hot
 http://wallstreetcn.com##.side-money
 http://firefox.com.cn,firefoxchina.cn##.side-notice
-http://tepintehui.com##.side-pmt
 http://firefoxchina.cn##.side-promote
 http://firefoxchina.cn##.side-recommend
 http://smzdm.com##.side-stuff
@@ -27168,6 +27167,7 @@ http://cartomad.com,cartoonmad.com##tr:nth-child(n+5) > td > table[width="732"]
 http://sogou.com##ul[class^="atAd"]
 http://zdfans.com##ul[id^="gaosuxiazai"]
 http://firefoxchina.cn##ul[track-key="adv_links"]
+http://toolfk.com##wavy + p[style="float: left;"]
 http://weibo.com#?#.card-content > ul > li:-abp-has(> p > .icon-txt-recommend)
 http://weibo.com#?#tr:-abp-has(> .td-03 > .icon-txt-recommend)
 http://x3cn.com#?#.commonDiv:-abp-has(.ad)

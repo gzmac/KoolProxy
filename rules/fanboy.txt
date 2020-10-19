@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: a1vPaRO49mxld5bylPNq5Q
-! Version: 202010172351
+! Checksum: prVcmCDb+NUy3upmaNJtoQ
+! Version: 202010182351
 ! Title: Fanboy's Annoyance List
-! Last modified: 17 Oct 2020 23:51 UTC
+! Last modified: 18 Oct 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2490,7 +2490,7 @@
 ||http://emerse.com/consent.js
 ||http://freedoflondon.com/Styles/dialog-popup/jquery-ui.js
 ||http://freetls.fastly.net/main/sd-cmp-$domain=spanishdict.com
-||http://fundingchoicesmessages.google.com^$domain=telegram.hr
+||http://fundingchoicesmessages.google.com^$domain=gameblog.fr|telegram.hr
 ||http://gdpr.internetbrands.com^
 ||http://gdpr.prisa.com^
 ||http://government-and-constitution.org/js/consent.js
@@ -2532,6 +2532,7 @@
 ||http://auto-moto.com^*/iframe-box-article.html
 ||http://pourquoidocteur.fr/img2/face.png
 ||http://pourquoidocteur.fr/img2/in.png
+||http://sibforms.com^$domain=logiciels.pro
 ||http://4gtv.tv^*/scriptUP.
 ||http://ds-recommender.styria.hr^
 ||http://linker.hr^$third-party
@@ -9617,6 +9618,7 @@ https://lykke.com##.styled__Banner-hg6ib8-0
 https://meteoblue.com##.successMessage
 https://spiceworks.com##.sui-site-message-container
 https://haier.com##.swiper-slide-img-txt
+https://games2gether.com##.system-notification-container
 https://tudorwatch.com##.tdr-ribbon
 https://yahoo.com##.tdv2-applet-nagbar
 https://abcnews.go.com##.terms-alert-fixed
@@ -20227,6 +20229,7 @@ http://lykke.com##.styled__Banner-hg6ib8-0
 http://meteoblue.com##.successMessage
 http://spiceworks.com##.sui-site-message-container
 http://haier.com##.swiper-slide-img-txt
+http://games2gether.com##.system-notification-container
 http://tudorwatch.com##.tdr-ribbon
 http://yahoo.com##.tdv2-applet-nagbar
 http://abcnews.go.com##.terms-alert-fixed
