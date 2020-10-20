@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: prVcmCDb+NUy3upmaNJtoQ
-! Version: 202010182351
+! Checksum: +FCc1oIfpC4W2NsLEruSYQ
+! Version: 202010192351
 ! Title: Fanboy's Annoyance List
-! Last modified: 18 Oct 2020 23:51 UTC
+! Last modified: 19 Oct 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -5143,7 +5143,6 @@ https://medicaldaily.com##.md_con_left
 https://reference.com##.mdbt
 https://motherless.com##.media-action-networks
 https://video.yahoo.com##.media-network-provider
-https://zdnet.com##.medusa
 https://techrepublic.com##.medusa-promo
 https://yahoo.com##.membermodal
 https://hotklix.com##.menu
@@ -6380,7 +6379,6 @@ https://gatesnotes.com##.ALS_Holder
 https://naturalnews.com##.Action-Subscribe-Container
 https://newshub.co.nz##.ArticleAttribution
 https://sitepoint.com##.ArticleHead_supplemental
-https://counterpunch.org##.Campaign__innerWrapper
 https://talkingpointsmemo.com##.Daybreaker
 https://walmart.com##.Footer-topSection
 https://sitepoint.com##.FooterSub_form
@@ -7004,6 +7002,7 @@ https://thenewdaily.com.au##.tnd-subscribe-modal
 https://viamichelin.at,viamichelin.be,viamichelin.ch,viamichelin.co.uk,viamichelin.com,viamichelin.de,viamichelin.es,viamichelin.fr,viamichelin.ie,viamichelin.it,viamichelin.pl,viamichelin.pt##.toaster-newsletter
 https://billboard.com##.top-cover-image
 https://thrillist.com##.top-header
+https://counterpunch.org##.topfixedtrailer-color
 https://thenation.com##.tout
 https://independent.co.uk##.tp-active
 https://tp-link.com##.tp-follow-container
@@ -9000,7 +8999,7 @@ https://decathlon.co.uk###container-screen
 https://tinder.com###content > span > .App > div[class*="Start"]
 https://wotinfo.net###coo
 https://alcoholics-anonymous.org.uk,cryps.info###cook
-https://add0n.com,aflite.co.uk,aon.com,atom42.co.uk,bakersmall.co.uk,bbvonline.net,betradar.com,bookingsouthtyrol.com,boscolohotels.com,boxnation.com,e-doggy.com,eqavet.eu,essentraextrusion.eu,flexerasoftware.com,fremantlemedia.com,gulfstream.com,iadvize.com,keyboardco.com,kicc.org.uk,lonewolfonline.net,nspcc.org.uk,oilplusltd.com,onenessscotland.org,pentagon-group.co.uk,prestashop.com,pretix.eu,priorygroup.com,rodacciai.fr,sainsburysenergy.com,simmons-simmons.com,stiripesurse.ro,technutty.co.uk,thebmc.co.uk,toomeymotorgroup.co.uk,tutsandtips.com,tvcorner.com,unsee.cc,wheatley-group.com,zbmath.org###cookie
+https://add0n.com,aflite.co.uk,aon.com,atom42.co.uk,bakersmall.co.uk,bbvonline.net,betradar.com,bookingsouthtyrol.com,boscolohotels.com,boxnation.com,e-doggy.com,eqavet.eu,essentraextrusion.eu,flexerasoftware.com,fremantlemedia.com,gulfstream.com,iadvize.com,keyboardco.com,kicc.org.uk,lonewolfonline.net,mouseprice.com,nspcc.org.uk,oilplusltd.com,onenessscotland.org,pentagon-group.co.uk,prestashop.com,pretix.eu,priorygroup.com,rodacciai.fr,sainsburysenergy.com,simmons-simmons.com,stiripesurse.ro,technutty.co.uk,thebmc.co.uk,toomeymotorgroup.co.uk,tutsandtips.com,tvcorner.com,unsee.cc,wheatley-group.com,zbmath.org###cookie
 https://0calc.com###cookieconsentmodal
 https://anpost.ie,any.run,aquariumforums.co.uk,arag.com,atleticodemadrid.com,ayraviation.com,bl.uk,canadiansolar.com,celulares.com,cifas.org.uk,coinsofhope.eu,educalingo.com,eitb.eus,emrf.eu,emunewz.net,eporner.com,feyenoord.com,film-news.co.uk,forbiddenplanet.co.uk,fulltilt.com,globalpetrolprices.com,gpstraining.co.uk,harper-adams.ac.uk,history.bnpparibas,homecinemachoice.com,humbersideairport.com,ibeesoft.com,inmobi.com,irishjobs.ie,iso-chemie.eu,izikart.co.uk,jomast.co.uk,lloydsbankinggroup.com,mareespeche.com,metbiocat.eu,noisli.com,panfurware.com,phonearena.com,picload.org,playclassic.games,pokernews.com,police.uk,premiumcredit.co.uk,private.com,proteum.co.uk,puromarketing.com,radiocaroline.co.uk,rdnester.eu,rotterdam.info,scl.org,studentski.net,tablademareas.com,tellows-au.com,tellows-fi.com,tellows-ng.com,tellows-tr.com,tellows.asia,tellows.at,tellows.be,tellows.co,tellows.co.nz,tellows.co.uk,tellows.co.za,tellows.com,tellows.com.br,tellows.cz,tellows.de,tellows.dk,tellows.es,tellows.fr,tellows.gr,tellows.hu,tellows.in,tellows.it,tellows.jp,tellows.mx,tellows.net,tellows.nl,tellows.org,tellows.pl,tellows.pt,tellows.ru,tellows.se,tellows.tw,the-tls.co.uk,theatre-news.com,tsb.co.uk,wsws.org,xnostars.com###cookies
 https://patience-is-a-virtue.org###copy > p
@@ -13181,6 +13180,7 @@ https://patient.info#@##cookie-policy
 https://flybe.com#@##cookie-policy-modal
 https://bk.com,burgerking.co.nz###cookie-popup:not(html):not(body)
 https://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@##cookie-wrapper
+https://blog.google#@##cookieBar
 https://ad.win.nl,dehn.de,techopital.com#@##cookieConsent
 https://ad.win.nl#@##cookieConsentBox
 https://techopital.com#@##cookieConsentContainer
@@ -15753,7 +15753,6 @@ http://medicaldaily.com##.md_con_left
 http://reference.com##.mdbt
 http://motherless.com##.media-action-networks
 http://video.yahoo.com##.media-network-provider
-http://zdnet.com##.medusa
 http://techrepublic.com##.medusa-promo
 http://yahoo.com##.membermodal
 http://hotklix.com##.menu
@@ -16990,7 +16989,6 @@ http://gatesnotes.com##.ALS_Holder
 http://naturalnews.com##.Action-Subscribe-Container
 http://newshub.co.nz##.ArticleAttribution
 http://sitepoint.com##.ArticleHead_supplemental
-http://counterpunch.org##.Campaign__innerWrapper
 http://talkingpointsmemo.com##.Daybreaker
 http://walmart.com##.Footer-topSection
 http://sitepoint.com##.FooterSub_form
@@ -17614,6 +17612,7 @@ http://thenewdaily.com.au##.tnd-subscribe-modal
 http://viamichelin.at,viamichelin.be,viamichelin.ch,viamichelin.co.uk,viamichelin.com,viamichelin.de,viamichelin.es,viamichelin.fr,viamichelin.ie,viamichelin.it,viamichelin.pl,viamichelin.pt##.toaster-newsletter
 http://billboard.com##.top-cover-image
 http://thrillist.com##.top-header
+http://counterpunch.org##.topfixedtrailer-color
 http://thenation.com##.tout
 http://independent.co.uk##.tp-active
 http://tp-link.com##.tp-follow-container
@@ -19611,7 +19610,7 @@ http://decathlon.co.uk###container-screen
 http://tinder.com###content > span > .App > div[class*="Start"]
 http://wotinfo.net###coo
 http://alcoholics-anonymous.org.uk,cryps.info###cook
-http://add0n.com,aflite.co.uk,aon.com,atom42.co.uk,bakersmall.co.uk,bbvonline.net,betradar.com,bookingsouthtyrol.com,boscolohotels.com,boxnation.com,e-doggy.com,eqavet.eu,essentraextrusion.eu,flexerasoftware.com,fremantlemedia.com,gulfstream.com,iadvize.com,keyboardco.com,kicc.org.uk,lonewolfonline.net,nspcc.org.uk,oilplusltd.com,onenessscotland.org,pentagon-group.co.uk,prestashop.com,pretix.eu,priorygroup.com,rodacciai.fr,sainsburysenergy.com,simmons-simmons.com,stiripesurse.ro,technutty.co.uk,thebmc.co.uk,toomeymotorgroup.co.uk,tutsandtips.com,tvcorner.com,unsee.cc,wheatley-group.com,zbmath.org###cookie
+http://add0n.com,aflite.co.uk,aon.com,atom42.co.uk,bakersmall.co.uk,bbvonline.net,betradar.com,bookingsouthtyrol.com,boscolohotels.com,boxnation.com,e-doggy.com,eqavet.eu,essentraextrusion.eu,flexerasoftware.com,fremantlemedia.com,gulfstream.com,iadvize.com,keyboardco.com,kicc.org.uk,lonewolfonline.net,mouseprice.com,nspcc.org.uk,oilplusltd.com,onenessscotland.org,pentagon-group.co.uk,prestashop.com,pretix.eu,priorygroup.com,rodacciai.fr,sainsburysenergy.com,simmons-simmons.com,stiripesurse.ro,technutty.co.uk,thebmc.co.uk,toomeymotorgroup.co.uk,tutsandtips.com,tvcorner.com,unsee.cc,wheatley-group.com,zbmath.org###cookie
 http://0calc.com###cookieconsentmodal
 http://anpost.ie,any.run,aquariumforums.co.uk,arag.com,atleticodemadrid.com,ayraviation.com,bl.uk,canadiansolar.com,celulares.com,cifas.org.uk,coinsofhope.eu,educalingo.com,eitb.eus,emrf.eu,emunewz.net,eporner.com,feyenoord.com,film-news.co.uk,forbiddenplanet.co.uk,fulltilt.com,globalpetrolprices.com,gpstraining.co.uk,harper-adams.ac.uk,history.bnpparibas,homecinemachoice.com,humbersideairport.com,ibeesoft.com,inmobi.com,irishjobs.ie,iso-chemie.eu,izikart.co.uk,jomast.co.uk,lloydsbankinggroup.com,mareespeche.com,metbiocat.eu,noisli.com,panfurware.com,phonearena.com,picload.org,playclassic.games,pokernews.com,police.uk,premiumcredit.co.uk,private.com,proteum.co.uk,puromarketing.com,radiocaroline.co.uk,rdnester.eu,rotterdam.info,scl.org,studentski.net,tablademareas.com,tellows-au.com,tellows-fi.com,tellows-ng.com,tellows-tr.com,tellows.asia,tellows.at,tellows.be,tellows.co,tellows.co.nz,tellows.co.uk,tellows.co.za,tellows.com,tellows.com.br,tellows.cz,tellows.de,tellows.dk,tellows.es,tellows.fr,tellows.gr,tellows.hu,tellows.in,tellows.it,tellows.jp,tellows.mx,tellows.net,tellows.nl,tellows.org,tellows.pl,tellows.pt,tellows.ru,tellows.se,tellows.tw,the-tls.co.uk,theatre-news.com,tsb.co.uk,wsws.org,xnostars.com###cookies
 http://patience-is-a-virtue.org###copy > p
@@ -23793,6 +23792,7 @@ http://patient.info#@##cookie-policy
 http://flybe.com#@##cookie-policy-modal
 http://bk.com,burgerking.co.nz###cookie-popup:not(html):not(body)
 http://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@##cookie-wrapper
+http://blog.google#@##cookieBar
 http://ad.win.nl,dehn.de,techopital.com#@##cookieConsent
 http://ad.win.nl#@##cookieConsentBox
 http://techopital.com#@##cookieConsentContainer
