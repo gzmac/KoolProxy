@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +FCc1oIfpC4W2NsLEruSYQ
-! Version: 202010192351
+! Checksum: UWh2k9Cpl5dmg7Qa7ALtag
+! Version: 202010202351
 ! Title: Fanboy's Annoyance List
-! Last modified: 19 Oct 2020 23:51 UTC
+! Last modified: 20 Oct 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11874,7 +11874,7 @@ https://happypancake.fi##.bar.jsx-341223085
 https://hs.fi##.cb-container
 https://vertaa.fi##.cg-89.cg-97
 https://jenkki.fi##.container-agree
-https://kitchentime.fi##.cookie
+https://kitchentime.fi,makujakauppa.fi##.cookie
 https://blogit.fi,ilmainensanakirja.fi,telsu.fi##.cookies
 https://matkahuolto.fi##.css-jlvvqa
 https://ifolor.fi##.dialogBanner--align-bottom
@@ -12961,6 +12961,7 @@ https://nytimes.com#@#.shareToolsItem
 https://rambler.ru#@#.share__list
 https://webmd.com#@#.share_bar
 https://vk.com#@#.share_bottom
+https://joyreactor.cc#@#.share_buttons
 https://vk.com#@#.share_cont
 https://idrive.com#@#.share_container
 https://ezhikezhik.ru#@#.share_content
@@ -22486,7 +22487,7 @@ http://happypancake.fi##.bar.jsx-341223085
 http://hs.fi##.cb-container
 http://vertaa.fi##.cg-89.cg-97
 http://jenkki.fi##.container-agree
-http://kitchentime.fi##.cookie
+http://kitchentime.fi,makujakauppa.fi##.cookie
 http://blogit.fi,ilmainensanakirja.fi,telsu.fi##.cookies
 http://matkahuolto.fi##.css-jlvvqa
 http://ifolor.fi##.dialogBanner--align-bottom
@@ -23573,6 +23574,7 @@ http://nytimes.com#@#.shareToolsItem
 http://rambler.ru#@#.share__list
 http://webmd.com#@#.share_bar
 http://vk.com#@#.share_bottom
+http://joyreactor.cc#@#.share_buttons
 http://vk.com#@#.share_cont
 http://idrive.com#@#.share_container
 http://ezhikezhik.ru#@#.share_content
