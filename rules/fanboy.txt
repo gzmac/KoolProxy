@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GpuDEtJGtOye8K0W68AFjA
-! Version: 202010212351
+! Checksum: 24n2PuvhcZAQYao3DJpX8w
+! Version: 202010222351
 ! Title: Fanboy's Annoyance List
-! Last modified: 21 Oct 2020 23:51 UTC
+! Last modified: 22 Oct 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -251,7 +251,6 @@
 ||https://promoshq.wildfireapp.com^$third-party
 ||https://promotion.monster.com^$third-party
 ||https://promotions.newegg.com^$third-party
-||https://pubexchange.com^$third-party
 ||https://publisher.monster.com^$third-party
 ||https://punchtab.com^$third-party
 ||https://purch.com^$script,third-party
@@ -1604,7 +1603,6 @@
 ||http://promoshq.wildfireapp.com^$third-party
 ||http://promotion.monster.com^$third-party
 ||http://promotions.newegg.com^$third-party
-||http://pubexchange.com^$third-party
 ||http://publisher.monster.com^$third-party
 ||http://punchtab.com^$third-party
 ||http://purch.com^$script,third-party
