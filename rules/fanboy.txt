@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 24n2PuvhcZAQYao3DJpX8w
-! Version: 202010222351
+! Checksum: Gfza9Pd+szGAmiL1Ov4EEA
+! Version: 202010232351
 ! Title: Fanboy's Annoyance List
-! Last modified: 22 Oct 2020 23:51 UTC
+! Last modified: 23 Oct 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -9701,6 +9701,7 @@ https://voxi.co.uk##div[class^="notification-container"]
 https://cheddar.com##div[class^="notificationBanner"]
 https://listen.tidal.com##div[class^="notificationWrapper--"]
 https://deliveroo.ie##div[class^="orderweb__"]
+https://buffer.com##div[class^="style__Banner-"]
 https://tunein.com##div[class^="violator__container"]
 https://youtube.com##div[class^="ytd-consent"]
 https://tunein.com##div[data-testid="gdpr-violatorContainer-true"]
@@ -10250,6 +10251,7 @@ https://e-coop.it##.coop-goToTop
 https://dday.it##.corriere-header
 https://mowmag.com##.crm-card-next
 https://sapere.it##.dbdslim
+https://onefootball.com##.digest-signup
 https://donnamoderna.com##.donnam-footer-newsletter
 https://webnews.it##.email
 https://eprice.it##.ep_GoTop
@@ -20315,6 +20317,7 @@ http://voxi.co.uk##div[class^="notification-container"]
 http://cheddar.com##div[class^="notificationBanner"]
 http://listen.tidal.com##div[class^="notificationWrapper--"]
 http://deliveroo.ie##div[class^="orderweb__"]
+http://buffer.com##div[class^="style__Banner-"]
 http://tunein.com##div[class^="violator__container"]
 http://youtube.com##div[class^="ytd-consent"]
 http://tunein.com##div[data-testid="gdpr-violatorContainer-true"]
@@ -20864,6 +20867,7 @@ http://e-coop.it##.coop-goToTop
 http://dday.it##.corriere-header
 http://mowmag.com##.crm-card-next
 http://sapere.it##.dbdslim
+http://onefootball.com##.digest-signup
 http://donnamoderna.com##.donnam-footer-newsletter
 http://webnews.it##.email
 http://eprice.it##.ep_GoTop
