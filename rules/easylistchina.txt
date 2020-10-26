@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: hRTXNsvy7mXqd43eNsMaNQ
-! Version: 202010250032
+! Checksum: 2AKh1sqnQ7tmdh3js/mt7Q
+! Version: 202010260033
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1924,6 +1924,7 @@
 ||https://choujue.net/one/down.js
 ||https://choujue.net/script/
 ||https://chromeba.net/wp-content/uploads/
+||https://chromefk.com/common/other/11.png
 ||https://chuantu.biz/t2/22/1450961822x1822613148.gif
 ||https://chuantu.xyz/t6/714/1580707721x3703728804.jpg
 ||https://chubun.com/images/banners/
@@ -3573,6 +3574,7 @@
 ||https://price.com.hk/ec-discuss-widget.php
 ||https://price.com.hk/scripts/ysm.js
 ||https://proewildfire.cn/fd.js
+||https://proginn.com/cms/10000/
 ||https://programmer-club.com.tw/images/uuu/
 ||https://property.hk/js/adside.js
 ||https://ps110.ru/js/*.js
@@ -9468,6 +9470,7 @@
 ||http://choujue.net/one/down.js
 ||http://choujue.net/script/
 ||http://chromeba.net/wp-content/uploads/
+||http://chromefk.com/common/other/11.png
 ||http://chuantu.biz/t2/22/1450961822x1822613148.gif
 ||http://chuantu.biz^$domain=7mav2.com|thztv.cc
 ||http://chuantu.xyz/t6/714/1580707721x3703728804.jpg
@@ -11341,6 +11344,7 @@
 ||http://price.com.hk^$domain=discuss.com.hk
 ||http://pro.iweihai.cn^
 ||http://proewildfire.cn/fd.js
+||http://proginn.com/cms/10000/
 ||http://programmer-club.com.tw/images/uuu/
 ||http://property.hk/js/adside.js
 ||http://ps110.ru/js/*.js
@@ -13523,7 +13527,6 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://aliyunp.xyz^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13778,6 +13781,7 @@
 ||http://aliyunh.xyz^
 ||http://aliyuni.xyz^
 ||http://aliyunj.xyz^
+||http://aliyunp.xyz^
 ||http://allluck.cn^
 ||http://aly766.com^
 ||http://amghais.cn^
@@ -14056,6 +14060,7 @@
 ||http://ddpxhq.cn^
 ||http://ddskyuu.com^
 ||http://de093o.cn^
+||http://dehuaguanyin.com^
 ||http://dengfenzhang.cn^
 ||http://deskt.cn^
 ||http://deyidesign.com^
@@ -16863,7 +16868,6 @@ https://windows7en.com###fu_box_logo
 https://cnyes.com###full_ad-popup
 https://cnyes.com###full_ad-screen
 https://ifeng.com###funBar
-https://hboav.com###fwcrf
 https://cool-de.com###fwin_popadv
 https://cool-de.com###fwin_popadv_cover
 https://etest8.com###gads1
@@ -17581,6 +17585,7 @@ https://smzy.com###x_pc_down_g
 https://soft4fun.net###xad_mu
 https://hl.cn###xf_left
 https://hl.cn###xf_right
+https://hboav.com##body > #xfwcrfx:nth-child(8)
 https://jmbbs.com###xjj_jmbbs2015_01
 https://win7w.com###xldz
 https://fang.com###xmlAd
@@ -19915,6 +19920,7 @@ https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.th
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.thread_local_58
 https://jbtalks.cc##.threadad
 https://163.com##.tie-ad-bar
+https://chromefk.com,toolfk.com##.tip-alert
 https://2345.com,hao774.com##.tip_stopXP
 https://zhujiwiki.com##.tips
 https://pilipali.cc##.tips-widget-weixin
@@ -20839,6 +20845,7 @@ https://1010jiajiao.com##div[style*="position:fixed;"][style*="bottom:1px;"]
 https://huarenjie.net##div[style*="top: 50px;"]
 https://book118.com##div[style*="width: 252px;height: 260px;"]
 https://kkj.cn,mydrivers.com##div[style*="width:1"][style*="height:90px;"]
+https://proginn.com##div[style*="width:1000px;height: 250px;"]
 https://iplaysoft.com##div[style*="width:3"][style*="height:2"]
 https://divcss5.com##div[style*="width:336px;height:280px;"]
 https://iplaysoft.com##div[style*="width:6"][style*="height:1"]
@@ -21120,7 +21127,7 @@ https://cartomad.com,cartoonmad.com##tr:nth-child(n+5) > td > table[width="732"]
 https://sogou.com##ul[class^="atAd"]
 https://zdfans.com##ul[id^="gaosuxiazai"]
 https://firefoxchina.cn##ul[track-key="adv_links"]
-https://toolfk.com##wavy + div[style="float: left;width: 90%"]
+https://toolfk.com##wavy + div[style]
 https://weibo.com#?#.card-content > ul > li:-abp-has(> p > .icon-txt-recommend)
 https://weibo.com#?#tr:-abp-has(> .td-03 > .icon-txt-recommend)
 https://x3cn.com#?#.commonDiv:-abp-has(.ad)
@@ -21419,17 +21426,17 @@ https://hpjav.tv##body > div[style^="position: fixed;"]
 https://verystream.com#@#.adsbox
 https://googleads.g.doubleclick.net###mys-wrapper
 https://xhtml?%22+$script,third-party
-https://52biquge.com##[onclick*="app"]
-https://52biquge.com##a[href^="http://html.350.com/"]
-https://biqubao.com##div[style="width:976px;"]
-https://bixia.org##dd[style*="bottom:"]
 https://bxwx666.org###addiv3
 https://bxwx666.org###bdstatic
 https://duanwenxue.com##.qgzdwx
-https://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
 https://jx.la##[onclick*="apk"]
-https://piaotian5.com##script + div[style="padding:15px;"]
+https://52biquge.com##[onclick*="app"]
+https://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
+https://52biquge.com##a[href^="http://html.350.com/"]
+https://bixia.org##dd[style*="bottom:"]
 https://xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
+https://biqubao.com##div[style="width:976px;"]
+https://piaotian5.com##script + div[style="padding:15px;"]
 https://cocomanhua.com#@#.gg1000
 https://getrelax.cc,sexylove.club##.loaded-popup-wrapper
 https://rjno1.com##div[style="display:none"]
@@ -22965,7 +22972,6 @@ http://windows7en.com###fu_box_logo
 http://cnyes.com###full_ad-popup
 http://cnyes.com###full_ad-screen
 http://ifeng.com###funBar
-http://hboav.com###fwcrf
 http://cool-de.com###fwin_popadv
 http://cool-de.com###fwin_popadv_cover
 http://etest8.com###gads1
@@ -23683,6 +23689,7 @@ http://smzy.com###x_pc_down_g
 http://soft4fun.net###xad_mu
 http://hl.cn###xf_left
 http://hl.cn###xf_right
+http://hboav.com##body > #xfwcrfx:nth-child(8)
 http://jmbbs.com###xjj_jmbbs2015_01
 http://win7w.com###xldz
 http://fang.com###xmlAd
@@ -26017,6 +26024,7 @@ http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.thr
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.thread_local_58
 http://jbtalks.cc##.threadad
 http://163.com##.tie-ad-bar
+http://chromefk.com,toolfk.com##.tip-alert
 http://2345.com,hao774.com##.tip_stopXP
 http://zhujiwiki.com##.tips
 http://pilipali.cc##.tips-widget-weixin
@@ -26941,6 +26949,7 @@ http://1010jiajiao.com##div[style*="position:fixed;"][style*="bottom:1px;"]
 http://huarenjie.net##div[style*="top: 50px;"]
 http://book118.com##div[style*="width: 252px;height: 260px;"]
 http://kkj.cn,mydrivers.com##div[style*="width:1"][style*="height:90px;"]
+http://proginn.com##div[style*="width:1000px;height: 250px;"]
 http://iplaysoft.com##div[style*="width:3"][style*="height:2"]
 http://divcss5.com##div[style*="width:336px;height:280px;"]
 http://iplaysoft.com##div[style*="width:6"][style*="height:1"]
@@ -27222,7 +27231,7 @@ http://cartomad.com,cartoonmad.com##tr:nth-child(n+5) > td > table[width="732"]
 http://sogou.com##ul[class^="atAd"]
 http://zdfans.com##ul[id^="gaosuxiazai"]
 http://firefoxchina.cn##ul[track-key="adv_links"]
-http://toolfk.com##wavy + div[style="float: left;width: 90%"]
+http://toolfk.com##wavy + div[style]
 http://weibo.com#?#.card-content > ul > li:-abp-has(> p > .icon-txt-recommend)
 http://weibo.com#?#tr:-abp-has(> .td-03 > .icon-txt-recommend)
 http://x3cn.com#?#.commonDiv:-abp-has(.ad)
@@ -27521,17 +27530,17 @@ http://hpjav.tv##body > div[style^="position: fixed;"]
 http://verystream.com#@#.adsbox
 http://googleads.g.doubleclick.net###mys-wrapper
 http://xhtml?%22+$script,third-party
-http://52biquge.com##[onclick*="app"]
-http://52biquge.com##a[href^="http://html.350.com/"]
-http://biqubao.com##div[style="width:976px;"]
-http://bixia.org##dd[style*="bottom:"]
 http://bxwx666.org###addiv3
 http://bxwx666.org###bdstatic
 http://duanwenxue.com##.qgzdwx
-http://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
 http://jx.la##[onclick*="apk"]
-http://piaotian5.com##script + div[style="padding:15px;"]
+http://52biquge.com##[onclick*="app"]
+http://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
+http://52biquge.com##a[href^="http://html.350.com/"]
+http://bixia.org##dd[style*="bottom:"]
 http://xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
+http://biqubao.com##div[style="width:976px;"]
+http://piaotian5.com##script + div[style="padding:15px;"]
 http://cocomanhua.com#@#.gg1000
 http://getrelax.cc,sexylove.club##.loaded-popup-wrapper
 http://rjno1.com##div[style="display:none"]
