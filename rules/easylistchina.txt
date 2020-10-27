@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 2AKh1sqnQ7tmdh3js/mt7Q
-! Version: 202010260033
+! Checksum: AYKMfyscqXg1dn6kDOxUyQ
+! Version: 202010270033
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4800,6 +4800,8 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://lsnzxzy1.com/Runtime/js/psData.js
+||https://kanjiantu.com/images/2020/*.gif
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -12690,6 +12692,8 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://lsnzxzy1.com/Runtime/js/psData.js
+||http://kanjiantu.com/images/2020/*.gif
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a68.com|99re.com
 ||http://sinaimg.cn^$domain=99a68.com|99re.com
@@ -13527,6 +13531,9 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://ujiasm.com^
+||http://tjlms.cn^
+||http://kxvuv.com^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -16278,6 +16285,9 @@
 ||http://stadig.ifeng.com^
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
+https://58avgo.com##.BillingLeft
+https://freejavbt.com##div[data-selector*="ai-insert-"]
+https://58avgo.com##.BillingRight
 https://szxx.com.cn###A0
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
@@ -17585,7 +17595,7 @@ https://smzy.com###x_pc_down_g
 https://soft4fun.net###xad_mu
 https://hl.cn###xf_left
 https://hl.cn###xf_right
-https://hboav.com##body > #xfwcrfx:nth-child(8)
+https://hboav.com###crfx
 https://jmbbs.com###xjj_jmbbs2015_01
 https://win7w.com###xldz
 https://fang.com###xmlAd
@@ -22382,6 +22392,9 @@ https://weibo.com###v6_pl_rightmod_helpfav
 https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
+http://58avgo.com##.BillingLeft
+http://freejavbt.com##div[data-selector*="ai-insert-"]
+http://58avgo.com##.BillingRight
 http://szxx.com.cn###A0
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
@@ -23689,7 +23702,7 @@ http://smzy.com###x_pc_down_g
 http://soft4fun.net###xad_mu
 http://hl.cn###xf_left
 http://hl.cn###xf_right
-http://hboav.com##body > #xfwcrfx:nth-child(8)
+http://hboav.com###crfx
 http://jmbbs.com###xjj_jmbbs2015_01
 http://win7w.com###xldz
 http://fang.com###xmlAd

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YAzVJBXvTgF1Eyy190i9+A
-! Version: 202010260041
+! Checksum: WsKy79ytyccO7QwsPgNfsQ
+! Version: 202010270041
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Oct 2020 00:41 UTC
+! Last modified: 27 Oct 2020 00:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -9230,6 +9230,7 @@ https://cnn.com##.TermsOfService__component
 https://mtn.co.za##.Toast
 https://6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##.Tooltip
 https://hotcleaner.com##.XNKr
+https://jooble.org##._10033
 https://hiberworld.com##._1u7AkTjy
 https://tunnelmb.net##._23LkM
 https://911tabs.com##._29v-t
@@ -9324,7 +9325,7 @@ https://xing.com##.consent_wrapper
 https://cityoflondon.gov.uk##.container-floating-notifications
 https://bankofengland.co.uk,cityoflondon.police.uk##.container-notifications
 https://antoineonline.com##.container-overlay
-https://18virginsex.com,altervista.org,anglianwater.co.uk,ask.fm,callcredit.co.uk,calvertjournal.com,crazydomains.co.uk,derwaldhof.com,dw.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,gheed.com,hempel.co.uk,hempelyacht.com,here.com,hud.ac.uk,jaguarlandrover.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mclaren.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mydraw.com,mysurveylab.com,nationalcircus.org.uk,natwest.com,npl.co.uk,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,redditinc.com,roalddahl.com,rowenta.com,samsunghealthcare.com,sense.org.uk,sheldrickwildlifetrust.org,silverlake.com,sleek-mag.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,trailfinders.com,twitchstrike.com,unicheck.com,virgin-atlantic.com,wannawork.com##.cookie
+https://18virginsex.com,altervista.org,anglianwater.co.uk,ask.fm,callcredit.co.uk,calvertjournal.com,crazydomains.co.uk,derwaldhof.com,dw.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,gheed.com,hempel.co.uk,hempelyacht.com,here.com,hud.ac.uk,jaguarlandrover.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mclaren.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mydraw.com,mysurveylab.com,nationalcircus.org.uk,natwest.com,npl.co.uk,octotree.io,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,redditinc.com,roalddahl.com,rowenta.com,samsunghealthcare.com,sense.org.uk,sheldrickwildlifetrust.org,silverlake.com,sleek-mag.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,trailfinders.com,twitchstrike.com,unicheck.com,virgin-atlantic.com,wannawork.com##.cookie
 https://deezer.com##.cookie-banner
 https://theatlantic.com##.cookie-disclaimer
 https://bitfeed.co##.cookiebanner
@@ -10156,7 +10157,7 @@ https://cronacheancona.it###intestazione
 https://citywire.it###jsRegisterAlertBanner
 https://italiaoggi.it###lig_movingup2it_smartbox
 https://lavocedelnordest.eu###mb-scrollup
-https://agenziaimpress.it,davidemaggio.it,francescocosta.net,ilfarosulmondo.it,ilpost.it,meteonetwork.it,moked.it,money.it,pallacanestrotrieste.it,playstationbit.com,techzilla.it,tvsvizzera.it,vvox.it###mc_embed_signup
+https://agenziaimpress.it,cinainitalia.com,davidemaggio.it,francescocosta.net,ilfarosulmondo.it,ilpost.it,meteonetwork.it,moked.it,money.it,pallacanestrotrieste.it,playstationbit.com,techzilla.it,tvsvizzera.it,vvox.it###mc_embed_signup
 https://decathlon.it###messagetop
 https://milanofinanza.it###milanofinanza_web_smartbox_article
 https://automoto.it,moto.it###mit-bottombar
@@ -12990,7 +12991,7 @@ https://gry-online.pl#@#.social-16
 https://tvp.info#@#.social-article
 https://dallascowboys.com,golem.de,patriots.com,prk24.pl,top.de#@#.social-bar
 https://funnyordie.com#@#.social-bar-container
-https://adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,galaxydata.ru,ivid.it,onovini.com,rta24.eu,saydigi-tech.com,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
+https://adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,galaxydata.ru,ivid.it,onovini.com,rta24.eu,salentolive24.com,saydigi-tech.com,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
 https://bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 https://buzzerie.com,gog.com,hackerrank.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
 https://chess.com#@#.social-btns
@@ -13222,7 +13223,7 @@ https://bosch-mobility-solutions.com#@##m-cookie-overlay
 https://17track.net#@##modal-gdpr
 https://faberkabel.de#@##modalCookie
 https://thesocialmedwork.com#@##notice-cookie-block
-https://crfashionbook.com,giochi.it#@##onetrust-consent-sdk
+https://crfashionbook.com,giochi.it,mail.com#@##onetrust-consent-sdk
 https://api.newsguardtech.com,rockpapershotgun.com#@##optanon
 https://theverge.com#@##privacy-consent
 https://readthedocs.io,sportdiver.com#@##privacy-policy
@@ -19845,6 +19846,7 @@ http://cnn.com##.TermsOfService__component
 http://mtn.co.za##.Toast
 http://6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##.Tooltip
 http://hotcleaner.com##.XNKr
+http://jooble.org##._10033
 http://hiberworld.com##._1u7AkTjy
 http://tunnelmb.net##._23LkM
 http://911tabs.com##._29v-t
@@ -19939,7 +19941,7 @@ http://xing.com##.consent_wrapper
 http://cityoflondon.gov.uk##.container-floating-notifications
 http://bankofengland.co.uk,cityoflondon.police.uk##.container-notifications
 http://antoineonline.com##.container-overlay
-http://18virginsex.com,altervista.org,anglianwater.co.uk,ask.fm,callcredit.co.uk,calvertjournal.com,crazydomains.co.uk,derwaldhof.com,dw.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,gheed.com,hempel.co.uk,hempelyacht.com,here.com,hud.ac.uk,jaguarlandrover.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mclaren.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mydraw.com,mysurveylab.com,nationalcircus.org.uk,natwest.com,npl.co.uk,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,redditinc.com,roalddahl.com,rowenta.com,samsunghealthcare.com,sense.org.uk,sheldrickwildlifetrust.org,silverlake.com,sleek-mag.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,trailfinders.com,twitchstrike.com,unicheck.com,virgin-atlantic.com,wannawork.com##.cookie
+http://18virginsex.com,altervista.org,anglianwater.co.uk,ask.fm,callcredit.co.uk,calvertjournal.com,crazydomains.co.uk,derwaldhof.com,dw.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,gheed.com,hempel.co.uk,hempelyacht.com,here.com,hud.ac.uk,jaguarlandrover.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mclaren.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mydraw.com,mysurveylab.com,nationalcircus.org.uk,natwest.com,npl.co.uk,octotree.io,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,redditinc.com,roalddahl.com,rowenta.com,samsunghealthcare.com,sense.org.uk,sheldrickwildlifetrust.org,silverlake.com,sleek-mag.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,trailfinders.com,twitchstrike.com,unicheck.com,virgin-atlantic.com,wannawork.com##.cookie
 http://deezer.com##.cookie-banner
 http://theatlantic.com##.cookie-disclaimer
 http://bitfeed.co##.cookiebanner
@@ -20771,7 +20773,7 @@ http://cronacheancona.it###intestazione
 http://citywire.it###jsRegisterAlertBanner
 http://italiaoggi.it###lig_movingup2it_smartbox
 http://lavocedelnordest.eu###mb-scrollup
-http://agenziaimpress.it,davidemaggio.it,francescocosta.net,ilfarosulmondo.it,ilpost.it,meteonetwork.it,moked.it,money.it,pallacanestrotrieste.it,playstationbit.com,techzilla.it,tvsvizzera.it,vvox.it###mc_embed_signup
+http://agenziaimpress.it,cinainitalia.com,davidemaggio.it,francescocosta.net,ilfarosulmondo.it,ilpost.it,meteonetwork.it,moked.it,money.it,pallacanestrotrieste.it,playstationbit.com,techzilla.it,tvsvizzera.it,vvox.it###mc_embed_signup
 http://decathlon.it###messagetop
 http://milanofinanza.it###milanofinanza_web_smartbox_article
 http://automoto.it,moto.it###mit-bottombar
@@ -23606,7 +23608,7 @@ http://gry-online.pl#@#.social-16
 http://tvp.info#@#.social-article
 http://dallascowboys.com,golem.de,patriots.com,prk24.pl,top.de#@#.social-bar
 http://funnyordie.com#@#.social-bar-container
-http://adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,galaxydata.ru,ivid.it,onovini.com,rta24.eu,saydigi-tech.com,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
+http://adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,galaxydata.ru,ivid.it,onovini.com,rta24.eu,salentolive24.com,saydigi-tech.com,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
 http://bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 http://buzzerie.com,gog.com,hackerrank.com,poradnikprzedsiebiorcy.pl,udemy.com#@#.social-btn
 http://chess.com#@#.social-btns
@@ -23838,7 +23840,7 @@ http://bosch-mobility-solutions.com#@##m-cookie-overlay
 http://17track.net#@##modal-gdpr
 http://faberkabel.de#@##modalCookie
 http://thesocialmedwork.com#@##notice-cookie-block
-http://crfashionbook.com,giochi.it#@##onetrust-consent-sdk
+http://crfashionbook.com,giochi.it,mail.com#@##onetrust-consent-sdk
 http://api.newsguardtech.com,rockpapershotgun.com#@##optanon
 http://theverge.com#@##privacy-consent
 http://readthedocs.io,sportdiver.com#@##privacy-policy
