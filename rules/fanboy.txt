@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WsKy79ytyccO7QwsPgNfsQ
-! Version: 202010270041
+! Checksum: AJfTpAXc9Wj17/0IpIfeGw
+! Version: 202010280041
 ! Title: Fanboy's Annoyance List
-! Last modified: 27 Oct 2020 00:41 UTC
+! Last modified: 28 Oct 2020 00:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -8986,7 +8986,7 @@ https://gpuopen.com###colophon
 https://evaair.com,play.tv###colorbox
 https://shadertoy.com###compliance
 https://msn.com###conditionalbanner
-https://alarabiya.net,find-dvd.co.uk,ft.com,heathrowexpress.com,holition.com,mapcarta.com###consent
+https://alarabiya.net,find-dvd.co.uk,ft.com,heathrowexpress.com,holition.com,mapcarta.com,nperf.com###consent
 https://netcraft.com###consent-form
 https://c21stores.com###consent-tracking
 https://predesto.com###consent-wrapper
@@ -9272,6 +9272,7 @@ https://linkedin.com##.artdeco-global-alert
 https://leo.org##.as-oil
 https://businessinsider.com##.as-oil-content-overlay
 https://which.co.uk##.b_g
+https://chess24.com##.background
 https://uber.com##.banner--bottom
 https://makeprintable.com##.banner-hints
 https://nuget.org##.banner-notice
@@ -9341,6 +9342,7 @@ https://mad-daily.com##.cp-info-bar-container
 https://louisvuitton.com##.cs_banner
 https://quixel.com##.css-wzviqn
 https://tannoy.com##.cv2-wrapper
+https://chess24.com##.dataConsentModal
 https://dhl.com##.dhl-cgk
 https://ingwb.com##.dialog
 https://blocksite.co##.dialog-widget-content
@@ -12099,7 +12101,7 @@ https://insideevs.it,omnifurgone.it,omnimoto.it##.m1-footer-message
 https://fashionunited.it##.mdc-snackbar__surface
 https://ari.it##.message
 https://monzacalcio.com##.modal
-https://alfasigma.com,elevensports.it,monzacalcio.com##.modal-backdrop
+https://alfasigma.com,elevensports.it,feralpisalo.it,monzacalcio.com##.modal-backdrop
 https://informazione.it##.modal-body
 https://telethon.it##.modalMessage
 https://initalia.it##.notice-wrap
@@ -12560,7 +12562,7 @@ https://infiniti-vietnam.com.vn##.c_128
 https://360.cymru###negesCaniatad
 https://nasa.gov#@##BackToTop
 https://billabong.com#@##NewsletterSignup
-https://autotrader.com,brydge.com,liputan6.com#@##back-to-top
+https://autotrader.com,brydge.com,liputan6.com,rejuvenation.com#@##back-to-top
 https://engie.fr,gaz-tarif-reglemente.fr,nasa.gov#@##backToTop
 https://rmf24.pl#@##backTop
 https://nasa.gov#@##backtoTop
@@ -13288,7 +13290,7 @@ https://538.nl,pieseauto.ro,saxion.edu,unileverfoodsolutions.com.br,unileverfood
 https://ben.nl,bynco.com#@#.cookie-wall-container
 https://mediapart.fr#@#.cookie-warn
 https://samsung.com,verisign.com#@#.cookie-warning
-https://puzzels.ad.nl,puzzels.bd.nl,puzzels.bndestem.nl,puzzels.destentor.nl,puzzels.ed.nl,puzzels.gelderlander.nl,puzzels.parool.nl,puzzels.pzc.nl,puzzels.trouw.nl,puzzels.tubantia.nl,puzzels.volkskrant.nl,travelchannel.co.uk#@#.cookie-wrapper
+https://correosexpress.com,puzzels.ad.nl,puzzels.bd.nl,puzzels.bndestem.nl,puzzels.destentor.nl,puzzels.ed.nl,puzzels.gelderlander.nl,puzzels.parool.nl,puzzels.pzc.nl,puzzels.trouw.nl,puzzels.tubantia.nl,puzzels.volkskrant.nl,travelchannel.co.uk#@#.cookie-wrapper
 https://thesocialmedwork.com#@#.cookie.message
 https://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@#.cookie.row
 https://bezeq.co.il#@#.cookieAlert
@@ -19602,7 +19604,7 @@ http://gpuopen.com###colophon
 http://evaair.com,play.tv###colorbox
 http://shadertoy.com###compliance
 http://msn.com###conditionalbanner
-http://alarabiya.net,find-dvd.co.uk,ft.com,heathrowexpress.com,holition.com,mapcarta.com###consent
+http://alarabiya.net,find-dvd.co.uk,ft.com,heathrowexpress.com,holition.com,mapcarta.com,nperf.com###consent
 http://netcraft.com###consent-form
 http://c21stores.com###consent-tracking
 http://predesto.com###consent-wrapper
@@ -19888,6 +19890,7 @@ http://linkedin.com##.artdeco-global-alert
 http://leo.org##.as-oil
 http://businessinsider.com##.as-oil-content-overlay
 http://which.co.uk##.b_g
+http://chess24.com##.background
 http://uber.com##.banner--bottom
 http://makeprintable.com##.banner-hints
 http://nuget.org##.banner-notice
@@ -19957,6 +19960,7 @@ http://mad-daily.com##.cp-info-bar-container
 http://louisvuitton.com##.cs_banner
 http://quixel.com##.css-wzviqn
 http://tannoy.com##.cv2-wrapper
+http://chess24.com##.dataConsentModal
 http://dhl.com##.dhl-cgk
 http://ingwb.com##.dialog
 http://blocksite.co##.dialog-widget-content
@@ -22716,7 +22720,7 @@ http://insideevs.it,omnifurgone.it,omnimoto.it##.m1-footer-message
 http://fashionunited.it##.mdc-snackbar__surface
 http://ari.it##.message
 http://monzacalcio.com##.modal
-http://alfasigma.com,elevensports.it,monzacalcio.com##.modal-backdrop
+http://alfasigma.com,elevensports.it,feralpisalo.it,monzacalcio.com##.modal-backdrop
 http://informazione.it##.modal-body
 http://telethon.it##.modalMessage
 http://initalia.it##.notice-wrap
@@ -23177,7 +23181,7 @@ http://infiniti-vietnam.com.vn##.c_128
 http://360.cymru###negesCaniatad
 http://nasa.gov#@##BackToTop
 http://billabong.com#@##NewsletterSignup
-http://autotrader.com,brydge.com,liputan6.com#@##back-to-top
+http://autotrader.com,brydge.com,liputan6.com,rejuvenation.com#@##back-to-top
 http://engie.fr,gaz-tarif-reglemente.fr,nasa.gov#@##backToTop
 http://rmf24.pl#@##backTop
 http://nasa.gov#@##backtoTop
@@ -23905,7 +23909,7 @@ http://538.nl,pieseauto.ro,saxion.edu,unileverfoodsolutions.com.br,unileverfoods
 http://ben.nl,bynco.com#@#.cookie-wall-container
 http://mediapart.fr#@#.cookie-warn
 http://samsung.com,verisign.com#@#.cookie-warning
-http://puzzels.ad.nl,puzzels.bd.nl,puzzels.bndestem.nl,puzzels.destentor.nl,puzzels.ed.nl,puzzels.gelderlander.nl,puzzels.parool.nl,puzzels.pzc.nl,puzzels.trouw.nl,puzzels.tubantia.nl,puzzels.volkskrant.nl,travelchannel.co.uk#@#.cookie-wrapper
+http://correosexpress.com,puzzels.ad.nl,puzzels.bd.nl,puzzels.bndestem.nl,puzzels.destentor.nl,puzzels.ed.nl,puzzels.gelderlander.nl,puzzels.parool.nl,puzzels.pzc.nl,puzzels.trouw.nl,puzzels.tubantia.nl,puzzels.volkskrant.nl,travelchannel.co.uk#@#.cookie-wrapper
 http://thesocialmedwork.com#@#.cookie.message
 http://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@#.cookie.row
 http://bezeq.co.il#@#.cookieAlert
