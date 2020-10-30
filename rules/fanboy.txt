@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1hL9H4ctkQnJ70FRDGnksQ
-! Version: 202010290041
+! Checksum: MJqi2hG4iW9oxqtLpzwg9w
+! Version: 202010292352
 ! Title: Fanboy's Annoyance List
-! Last modified: 29 Oct 2020 00:41 UTC
+! Last modified: 29 Oct 2020 23:52 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -408,6 +408,7 @@
 ||https://contentsitesrv.com/js/push/$third-party
 ||https://easyfeeed.com^$third-party
 ||https://farteniuson.com^$third-party
+||https://getnotification.me^$third-party
 ||https://ichecknotifyfriends.info^$third-party
 ||https://iopushtech.com^$third-party
 ||https://irpush.com^$third-party
@@ -1326,6 +1327,7 @@
 ||https://creaweb.it/cookie/
 ||https://cure-naturali.it/cookies?
 ||https://effekt.it/analytics/
+||https://londraweb.com/consenso_lw.js
 ||https://meteorete.it/cookie.js
 ||https://ok-salute.it^*/cookie-law-info-public-
 ||https://plug.it^*/cmp.min.js
@@ -1761,6 +1763,7 @@
 ||http://d2r1yp2w7bby2u.cloudfront.net^
 ||http://easyfeeed.com^$third-party
 ||http://farteniuson.com^$third-party
+||http://getnotification.me^$third-party
 ||http://ichecknotifyfriends.info^$third-party
 ||http://iopushtech.com^$third-party
 ||http://irpush.com^$third-party
@@ -2742,6 +2745,7 @@
 ||http://creaweb.it/cookie/
 ||http://cure-naturali.it/cookies?
 ||http://effekt.it/analytics/
+||http://londraweb.com/consenso_lw.js
 ||http://meteorete.it/cookie.js
 ||http://ok-salute.it^*/cookie-law-info-public-
 ||http://plug.it^*/cmp.min.js
@@ -9407,6 +9411,7 @@ https://wccftech.com##.iframe-wrapper
 https://doff.co.uk##.ig_action_bar
 https://subscribercounter.com##.index__ModalContainer--mPjzx
 https://earthcp.com##.info
+https://cirdancapital.com##.info-bar
 https://sportingbet.com##.info-message
 https://livescore.com,livescore.eu,livescores.com##.info-msg
 https://comscore.com##.info_banner
@@ -9616,6 +9621,7 @@ https://meteoblue.com##.successMessage
 https://spiceworks.com##.sui-site-message-container
 https://haier.com##.swiper-slide-img-txt
 https://games2gether.com##.system-notification-container
+https://socioinform.com##.t886
 https://tudorwatch.com##.tdr-ribbon
 https://yahoo.com##.tdv2-applet-nagbar
 https://abcnews.go.com##.terms-alert-fixed
@@ -10265,6 +10271,7 @@ https://laleggepertutti.it##.footer-top-feild
 https://repubblica.it##.footer_back-top
 https://forbes.it##.forbes-newsletter
 https://forbes.it##.forbes-newsletter-invite
+https://petitchef.it##.form-nl
 https://hwupgrade.it##.form-offerte
 https://my-personaltrainer.it##.frecciabg
 https://euractiv.it##.gform_widget
@@ -11002,6 +11009,7 @@ https://focusjunior.it##.Share
 https://evomagazine.it##.Twitter
 https://ocaholic.it##.a2a_counter
 https://ocaholic.it##.a2a_svg
+https://ricetta.it##.alert
 https://federprivacy.org##.ampz_container
 https://giornali.it##.art-item-footer
 https://altroconsumo.it##.article-detail__footer
@@ -11017,6 +11025,7 @@ https://fantagazzetta.com##.btn-sm
 https://giornaledibrescia.it,teletutto.it##.btn-toolbar
 https://money.it##.btnYou
 https://cirio.it##.cirioYou
+https://lemillericette.it##.code-block-10
 https://tio.ch##.companyPagesBox
 https://toplegal.it##.cond
 https://optimagazine.com,optimaitalia.com##.condivisioni
@@ -12029,6 +12038,7 @@ https://aeroporto.catania.it,bapr.it,saverioriotto.it###policy_id
 https://tuodi.it###popup
 https://voloweb.it###popupDivC
 https://alceosalentino.it,chemistresearch.it,cinquantamila.it,metroservices.it###privacy
+https://testisemplificati.com###privacy-modal
 https://jusan.it###privacy-popup
 https://coni.it###privacy-wrapper
 https://pagomeno.it###privacyBanner
@@ -12053,7 +12063,7 @@ https://rivistastudio.com##.SCK_Banner
 https://abruzzo24ore.tv,capoluogo.com,economia24ore.it,fosse-biologiche.it,gossip24ore.it,il24ore.it,ilmeteo24ore.it,occhioallook.it,recensioni.tv,tuttosport24ore.it##._CL_main
 https://arbitrobancariofinanziario.it##.abf-no-cookie::after
 https://agenziagiovani.it,assocarta.it,cassoni-usati.it,farmenspa.it,salvaunbambino.it##.activebar-container
-https://cafassoefigli.it,essofuelfinder.it,faperme.it,pagellapolitica.it,playinfinity.it,saperesalute.it,siemens.it,trivago.it,tufanogomme.com,uabstyle.it,voglioviverecosi.com##.alert
+https://cafassoefigli.it,dirigentindustria.it,essofuelfinder.it,faperme.it,pagellapolitica.it,playinfinity.it,saperesalute.it,siemens.it,trivago.it,tufanogomme.com,uabstyle.it,voglioviverecosi.com##.alert
 https://intimerie.com##.alert-info
 https://lainox.it##.background_overlay
 https://elettrocasa.it##.banner
@@ -12748,6 +12758,7 @@ https://beautifulplanet4u.com#@#.advanced-social-widget
 https://kino-vorschau.com#@#.arqam-widget-counter
 https://unian.info,unian.net,unian.ua#@#.article-selection-shares
 https://banki.ru,neowin.net#@#.article-share
+https://heise.de#@#.article-sharing
 https://adme.ru,pomponik.pl#@#.article-social
 https://niedziela.pl#@#.article-social-btn
 https://pomponik.pl#@#.article-social-buttons
@@ -20026,6 +20037,7 @@ http://wccftech.com##.iframe-wrapper
 http://doff.co.uk##.ig_action_bar
 http://subscribercounter.com##.index__ModalContainer--mPjzx
 http://earthcp.com##.info
+http://cirdancapital.com##.info-bar
 http://sportingbet.com##.info-message
 http://livescore.com,livescore.eu,livescores.com##.info-msg
 http://comscore.com##.info_banner
@@ -20235,6 +20247,7 @@ http://meteoblue.com##.successMessage
 http://spiceworks.com##.sui-site-message-container
 http://haier.com##.swiper-slide-img-txt
 http://games2gether.com##.system-notification-container
+http://socioinform.com##.t886
 http://tudorwatch.com##.tdr-ribbon
 http://yahoo.com##.tdv2-applet-nagbar
 http://abcnews.go.com##.terms-alert-fixed
@@ -20884,6 +20897,7 @@ http://laleggepertutti.it##.footer-top-feild
 http://repubblica.it##.footer_back-top
 http://forbes.it##.forbes-newsletter
 http://forbes.it##.forbes-newsletter-invite
+http://petitchef.it##.form-nl
 http://hwupgrade.it##.form-offerte
 http://my-personaltrainer.it##.frecciabg
 http://euractiv.it##.gform_widget
@@ -21621,6 +21635,7 @@ http://focusjunior.it##.Share
 http://evomagazine.it##.Twitter
 http://ocaholic.it##.a2a_counter
 http://ocaholic.it##.a2a_svg
+http://ricetta.it##.alert
 http://federprivacy.org##.ampz_container
 http://giornali.it##.art-item-footer
 http://altroconsumo.it##.article-detail__footer
@@ -21636,6 +21651,7 @@ http://fantagazzetta.com##.btn-sm
 http://giornaledibrescia.it,teletutto.it##.btn-toolbar
 http://money.it##.btnYou
 http://cirio.it##.cirioYou
+http://lemillericette.it##.code-block-10
 http://tio.ch##.companyPagesBox
 http://toplegal.it##.cond
 http://optimagazine.com,optimaitalia.com##.condivisioni
@@ -22649,6 +22665,7 @@ http://aeroporto.catania.it,bapr.it,saverioriotto.it###policy_id
 http://tuodi.it###popup
 http://voloweb.it###popupDivC
 http://alceosalentino.it,chemistresearch.it,cinquantamila.it,metroservices.it###privacy
+http://testisemplificati.com###privacy-modal
 http://jusan.it###privacy-popup
 http://coni.it###privacy-wrapper
 http://pagomeno.it###privacyBanner
@@ -22673,7 +22690,7 @@ http://rivistastudio.com##.SCK_Banner
 http://abruzzo24ore.tv,capoluogo.com,economia24ore.it,fosse-biologiche.it,gossip24ore.it,il24ore.it,ilmeteo24ore.it,occhioallook.it,recensioni.tv,tuttosport24ore.it##._CL_main
 http://arbitrobancariofinanziario.it##.abf-no-cookie::after
 http://agenziagiovani.it,assocarta.it,cassoni-usati.it,farmenspa.it,salvaunbambino.it##.activebar-container
-http://cafassoefigli.it,essofuelfinder.it,faperme.it,pagellapolitica.it,playinfinity.it,saperesalute.it,siemens.it,trivago.it,tufanogomme.com,uabstyle.it,voglioviverecosi.com##.alert
+http://cafassoefigli.it,dirigentindustria.it,essofuelfinder.it,faperme.it,pagellapolitica.it,playinfinity.it,saperesalute.it,siemens.it,trivago.it,tufanogomme.com,uabstyle.it,voglioviverecosi.com##.alert
 http://intimerie.com##.alert-info
 http://lainox.it##.background_overlay
 http://elettrocasa.it##.banner
@@ -23368,6 +23385,7 @@ http://beautifulplanet4u.com#@#.advanced-social-widget
 http://kino-vorschau.com#@#.arqam-widget-counter
 http://unian.info,unian.net,unian.ua#@#.article-selection-shares
 http://banki.ru,neowin.net#@#.article-share
+http://heise.de#@#.article-sharing
 http://adme.ru,pomponik.pl#@#.article-social
 http://niedziela.pl#@#.article-social-btn
 http://pomponik.pl#@#.article-social-buttons
