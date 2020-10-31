@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: NRApsLWGbb22RSQk5vfRug
-! Version: 202010300013
+! Checksum: ftvHW3K7WxRe3Cu9waUFoA
+! Version: 202010310013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -2034,7 +2034,7 @@
 ||https://content.xilu.com^$object
 ||https://coolaler.com/index_ads/
 ||https://coolpc.com.tw/img/topweb.html
-||https://cosxcos.cc/uploads/my
+||https://cosxcos.cc/uploads/amybb/
 ||https://cp121.com/js2/
 ||https://cpbl-elta.cdn.hinet.net/web/images/ad_
 ||https://cpd.com.cn/template/*.swf
@@ -4949,6 +4949,7 @@
 ||https://xsw55.com/xswu/style/img/ls
 ||https://xszysc.com^$third-party
 ||https://yssm.tv/sm/true.js
+||https://ysxs8.com/js/bd_top.js
 ||https://ysxs8.com/js/play_db.js
 ||https://zhenben.cc/2000/
 ||https://zhuishubox.com/js/after-rain.js
@@ -5466,6 +5467,9 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://cke199.com^
+||http://58taopinhui.com^
+||http://sq85.press^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -9610,7 +9614,7 @@
 ||http://content.xilu.com^$object
 ||http://coolaler.com/index_ads/
 ||http://coolpc.com.tw/img/topweb.html
-||http://cosxcos.cc/uploads/my
+||http://cosxcos.cc/uploads/amybb/
 ||http://cp121.com/js2/
 ||http://cp2.eastmoney.com^
 ||http://cpbl-elta.cdn.hinet.net/web/images/ad_
@@ -12796,7 +12800,7 @@
 ||http://1017.cn^
 ||http://11.96131.com.cn^
 ||http://11.golang8.com^
-||http://111g.yiqig.cn^
+||http://11.yiqig.com^
 ||http://12.cookcai.com^
 ||http://1224.dxsbb.com^
 ||http://123456.asia^
@@ -13561,6 +13565,10 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://jiudiandyw.com^
+||http://u05m.cn^
+||http://mhi9da.cn^
+||http://toujing5.top^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -15519,6 +15527,7 @@
 ||http://yscci.com^
 ||http://ysjweb.com^
 ||http://yssm.tv/sm/true.js
+||http://ysxs8.com/js/bd_top.js
 ||http://ysxs8.com/js/play_db.js
 ||http://ysyhljt.vip^
 ||http://ytbnm.cn^
@@ -16326,6 +16335,7 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://wuhaozhan.net#?#.l-box:-abp-has(.l-a > span[style="margin-left:-5px;"])
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -17600,7 +17610,7 @@ https://zqzq.com###wAdTop1
 https://zqzq.com###wAdTop2
 https://weishangshijie.com###wad_left
 https://weishangshijie.com###wad_right
-https://hbo6.hboav.com###warming + style + script + .cc5278_banner_ad
+https://hboav.com##.cc5278_banner_ad ~ .cc5278_banner_ad
 https://21ic.com###warp_con
 https://chineseinla.com###weixin_ads2
 https://fububu.com###wendibu
@@ -21326,6 +21336,7 @@ https://bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 https://1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#div > .adsbygoogle
 https://brandsales.58.com#@#div[id^="ad_"]
 https://gohome.com.hk#@#div[id^="div-gpt-ad"]
+https://gamer.com.tw#@#.afs_ads
 https://17ce.com###kr_wrap
 https://17ce.com###lr_block
 https://17ce.com###lr_rows
@@ -22435,6 +22446,7 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://wuhaozhan.net#?#.l-box:-abp-has(.l-a > span[style="margin-left:-5px;"])
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -23709,7 +23721,7 @@ http://zqzq.com###wAdTop1
 http://zqzq.com###wAdTop2
 http://weishangshijie.com###wad_left
 http://weishangshijie.com###wad_right
-http://hbo6.hboav.com###warming + style + script + .cc5278_banner_ad
+http://hboav.com##.cc5278_banner_ad ~ .cc5278_banner_ad
 http://21ic.com###warp_con
 http://chineseinla.com###weixin_ads2
 http://fububu.com###wendibu
@@ -27435,6 +27447,7 @@ http://bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 http://1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#div > .adsbygoogle
 http://brandsales.58.com#@#div[id^="ad_"]
 http://gohome.com.hk#@#div[id^="div-gpt-ad"]
+http://gamer.com.tw#@#.afs_ads
 http://17ce.com###kr_wrap
 http://17ce.com###lr_block
 http://17ce.com###lr_rows
