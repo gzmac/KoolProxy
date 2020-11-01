@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ftvHW3K7WxRe3Cu9waUFoA
-! Version: 202010310013
+! Checksum: oxMq1/mo4hY10kvUXKTojQ
+! Version: 202011010013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -5467,9 +5467,6 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
-||http://cke199.com^
-||http://58taopinhui.com^
-||http://sq85.press^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -5726,8 +5723,10 @@
 ||http://55803.net^$third-party
 ||http://565882.com^$third-party
 ||http://56yk.com^$third-party
+||http://5783.org^
 ||http://57union.com^
 ||http://58.215.179.159^
+||http://58taopinhui.com^
 ||http://58xiangka.com^
 ||http://592man.com^
 ||http://593pi.cn^
@@ -6158,6 +6157,7 @@
 ||http://cifenqi.com^$third-party
 ||http://cj-cy.com^
 ||http://cjsdtj.com^
+||http://cke199.com^
 ||http://ckseeknew.com^
 ||http://claz.com.cn^
 ||http://clcassd.com^
@@ -6975,6 +6975,7 @@
 ||http://mindopu.com^
 ||http://mingboxieye.com^
 ||http://mingysh.com^
+||http://minwear.com.cn^
 ||http://minyaartcrafts.cn^
 ||http://mjx123.com^
 ||http://mkaqh.cn^
@@ -7200,6 +7201,7 @@
 ||http://qunale888.com/maizhan/
 ||http://quw18.com^
 ||http://qvpublish.com^
+||http://qwfknhc.cn^
 ||http://qxfly.com^
 ||http://qxjdlf.com^
 ||http://qxxys.com^
@@ -7341,6 +7343,7 @@
 ||http://spectram.pro^
 ||http://sphwq.net^$third-party
 ||http://spxnet.com^
+||http://sq85.press^
 ||http://sqext.com^
 ||http://ssaa.cc^$third-party
 ||http://sscefsol.com^
@@ -13565,10 +13568,6 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://jiudiandyw.com^
-||http://u05m.cn^
-||http://mhi9da.cn^
-||http://toujing5.top^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13721,6 +13720,7 @@
 ||http://76xs.com^
 ||http://7ez4.cn^
 ||http://7ia9h.cn^
+||http://7j7jv5.cn^
 ||http://7kzw.com/fe/
 ||http://7m0hj.cn^
 ||http://7m307.cn^
@@ -14491,6 +14491,7 @@
 ||http://j6yh5.xyz^
 ||http://j9wp6.cn^
 ||http://jacklm1.com^
+||http://jacklm2.com^
 ||http://jajattt.com^
 ||http://jbanb.com^
 ||http://jbbath.cn^
@@ -14534,6 +14535,7 @@
 ||http://jinxinyuan.cn^
 ||http://jioder3e.cn^
 ||http://jioeg.com^
+||http://jiudiandyw.com^
 ||http://jiujhzp.com^
 ||http://jiumishow.com^
 ||http://jiuwanzi.com^
@@ -14571,6 +14573,7 @@
 ||http://just9229.cn^
 ||http://justincao84.cn^
 ||http://juxilm.com^
+||http://juyour8.org^
 ||http://juyzr.com^
 ||http://jvyigg.biquge.lu^
 ||http://jvyigg.biqumo.com^
@@ -14738,6 +14741,7 @@
 ||http://mgsue.cn^
 ||http://mgzs.cdn.bcebos.com^
 ||http://mhdnspro.com^
+||http://mhi9da.cn^
 ||http://miaos11.com^
 ||http://micreative-china.cn^
 ||http://mindrook.com^
@@ -14912,6 +14916,7 @@
 ||http://pos68.cn^
 ||http://pougg.com^
 ||http://ppee.xyz^
+||http://pqezdo.cn^
 ||http://pqnlorg.cn^
 ||http://pqwtrq.xyz^
 ||http://prazpf.cn^
@@ -15202,6 +15207,7 @@
 ||http://toissue.cn^
 ||http://tongjiwo.com^
 ||http://toujing4.top^
+||http://toujing5.top^
 ||http://tozvhcq.cn^
 ||http://travel-together.cn^
 ||http://trhccn.cn^
@@ -15225,6 +15231,7 @@
 ||http://tymsyx.com^
 ||http://tyrghj.cn^
 ||http://tyyjzs.cn^
+||http://u05m.cn^
 ||http://u0r9.cn^
 ||http://u2c8.cn^
 ||http://uauwkfk.cn^
@@ -16335,7 +16342,6 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://wuhaozhan.net#?#.l-box:-abp-has(.l-a > span[style="margin-left:-5px;"])
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -17579,6 +17585,7 @@ https://mtrend.cn###toptabs1 > .kz_line
 https://85lou.com###topwarning_7ree
 https://fuli.us###toubuads
 https://qidian.com###tr-banner
+https://17ce.com###tr_banner
 https://tianya.cn###travel_float
 https://90pan.com###tt_6
 https://90pan.com###tt_xker
@@ -17610,7 +17617,7 @@ https://zqzq.com###wAdTop1
 https://zqzq.com###wAdTop2
 https://weishangshijie.com###wad_left
 https://weishangshijie.com###wad_right
-https://hboav.com##.cc5278_banner_ad ~ .cc5278_banner_ad
+https://hboav.com###warming ~ .cc5278_banner_ad
 https://21ic.com###warp_con
 https://chineseinla.com###weixin_ads2
 https://fububu.com###wendibu
@@ -21192,6 +21199,7 @@ https://firefoxchina.cn##ul[track-key="adv_links"]
 https://toolfk.com##wavy + div[style]
 https://weibo.com#?#.card-content > ul > li:-abp-has(> p > .icon-txt-recommend)
 https://weibo.com#?#tr:-abp-has(> .td-03 > .icon-txt-recommend)
+https://wuhaozhan.net#?#.l-box:-abp-has(.l-a > span[style="margin-left:-5px;"])
 https://x3cn.com#?#.commonDiv:-abp-has(.ad)
 https://x6d.com#?#li:-abp-has(>.myad)
 https://xbyuan.com#?#li:-abp-has(>.myad)
@@ -21300,7 +21308,7 @@ https://anjia365.com#@#.adv_bg
 https://htmlsucai.com,sucai8.cn,ui.cn#@#.adv_img
 https://zalora.com.hk#@#.advertisement-block
 https://lm-us.com#@#.advertisement_above_footer
-https://8maple.ru,bilibili.to,oldpig.org,pron777.com#@#.afs_ads
+https://8maple.ru,bilibili.to,gamer.com.tw,oldpig.org,pron777.com#@#.afs_ads
 https://epubit.com#@#.article_share
 https://dingdong.ganji.com#@#.banner
 https://10.10.5.12#@#.banner_ad
@@ -21336,7 +21344,6 @@ https://bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 https://1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#div > .adsbygoogle
 https://brandsales.58.com#@#div[id^="ad_"]
 https://gohome.com.hk#@#div[id^="div-gpt-ad"]
-https://gamer.com.tw#@#.afs_ads
 https://17ce.com###kr_wrap
 https://17ce.com###lr_block
 https://17ce.com###lr_rows
@@ -22446,7 +22453,6 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://wuhaozhan.net#?#.l-box:-abp-has(.l-a > span[style="margin-left:-5px;"])
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -23690,6 +23696,7 @@ http://mtrend.cn###toptabs1 > .kz_line
 http://85lou.com###topwarning_7ree
 http://fuli.us###toubuads
 http://qidian.com###tr-banner
+http://17ce.com###tr_banner
 http://tianya.cn###travel_float
 http://90pan.com###tt_6
 http://90pan.com###tt_xker
@@ -23721,7 +23728,7 @@ http://zqzq.com###wAdTop1
 http://zqzq.com###wAdTop2
 http://weishangshijie.com###wad_left
 http://weishangshijie.com###wad_right
-http://hboav.com##.cc5278_banner_ad ~ .cc5278_banner_ad
+http://hboav.com###warming ~ .cc5278_banner_ad
 http://21ic.com###warp_con
 http://chineseinla.com###weixin_ads2
 http://fububu.com###wendibu
@@ -27303,6 +27310,7 @@ http://firefoxchina.cn##ul[track-key="adv_links"]
 http://toolfk.com##wavy + div[style]
 http://weibo.com#?#.card-content > ul > li:-abp-has(> p > .icon-txt-recommend)
 http://weibo.com#?#tr:-abp-has(> .td-03 > .icon-txt-recommend)
+http://wuhaozhan.net#?#.l-box:-abp-has(.l-a > span[style="margin-left:-5px;"])
 http://x3cn.com#?#.commonDiv:-abp-has(.ad)
 http://x6d.com#?#li:-abp-has(>.myad)
 http://xbyuan.com#?#li:-abp-has(>.myad)
@@ -27411,7 +27419,7 @@ http://anjia365.com#@#.adv_bg
 http://htmlsucai.com,sucai8.cn,ui.cn#@#.adv_img
 http://zalora.com.hk#@#.advertisement-block
 http://lm-us.com#@#.advertisement_above_footer
-http://8maple.ru,bilibili.to,oldpig.org,pron777.com#@#.afs_ads
+http://8maple.ru,bilibili.to,gamer.com.tw,oldpig.org,pron777.com#@#.afs_ads
 http://epubit.com#@#.article_share
 http://dingdong.ganji.com#@#.banner
 http://10.10.5.12#@#.banner_ad
@@ -27447,7 +27455,6 @@ http://bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 http://1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#div > .adsbygoogle
 http://brandsales.58.com#@#div[id^="ad_"]
 http://gohome.com.hk#@#div[id^="div-gpt-ad"]
-http://gamer.com.tw#@#.afs_ads
 http://17ce.com###kr_wrap
 http://17ce.com###lr_block
 http://17ce.com###lr_rows
