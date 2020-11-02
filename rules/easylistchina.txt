@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: oxMq1/mo4hY10kvUXKTojQ
-! Version: 202011010013
+! Checksum: 88mZ3DRroBsBknmEhxaPQw
+! Version: 202011020013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1323,6 +1323,7 @@
 ||https://9ihome.com/info/ADTopvnet/
 ||https://9ist.com/others/ad/
 ||https://9kjj.com/images/*.gif
+||https://9kp.cc/js/bbk/
 ||https://9ku.com/aaa/
 ||https://9tata.com/js/pbanner.js
 ||https://9tata.com/js/Rand.js
@@ -1957,8 +1958,8 @@
 ||https://cloudfront-666.kxcdn.com/v4.js
 ||https://cloudfront.net/?
 ||https://cloudfront.net/images/K10/adv/
-||https://cmdy5.com/js/300.js
-||https://cmdy5.com/js/waptbplay
+||https://cmdy2020.com/js/300.js
+||https://cmdy2020.com/js/waptbplay
 ||https://cmsjs.eastmoney.com^$subdocument
 ||https://cna5.cc/skins/js/
 ||https://cnbeta.com/assets/images/*_670_90.
@@ -2034,7 +2035,7 @@
 ||https://content.xilu.com^$object
 ||https://coolaler.com/index_ads/
 ||https://coolpc.com.tw/img/topweb.html
-||https://cosxcos.cc/uploads/amybb/
+||https://cosxcos.cc/uploads/amy
 ||https://cp121.com/js2/
 ||https://cpbl-elta.cdn.hinet.net/web/images/ad_
 ||https://cpd.com.cn/template/*.swf
@@ -3768,6 +3769,7 @@
 ||https://s.yimg.com^*/flash_general_
 ||https://s8bbs.com/ad/
 ||https://s8bbs.com/g.php?
+||https://sangwu8.com/xin/
 ||https://sansrl.cn/mir300/attachment/portal/
 ||https://sasadown.cn/ad/
 ||https://sasadown.cn/source/plugin/drk_ledadv/
@@ -4110,7 +4112,7 @@
 ||https://tom.com/adsender/
 ||https://tonghuacun.com/js/uc.js
 ||https://tonnn.com/promotion2/*.js
-||https://toolfk.com/common/11/990-100.jpg
+||https://toolfk.com/common/11/
 ||https://toolfk.com/common/cp.js
 ||https://toolfk.com/common/other/11.png
 ||https://toolfk.com/tools/images/vps/
@@ -7068,6 +7070,7 @@
 ||http://nszmz.com^$third-party
 ||http://nterbx.com^
 ||http://ntxiangtai.com^
+||http://ntzfly.cn^
 ||http://nunc-china.com^
 ||http://nuonuo1.icu^
 ||http://nuxyz.cn^
@@ -7921,6 +7924,7 @@
 ||http://yzyrsw.com^
 ||http://yzytb.com^
 ||http://z2blog.com^$third-party
+||http://zaitouwang.com^
 ||http://zampda.net^$third-party
 ||http://zampdsp.com^$third-party
 ||http://zantainet.com^
@@ -8785,6 +8789,7 @@
 ||http://9ihome.com/info/ADTopvnet/
 ||http://9ist.com/others/ad/
 ||http://9kjj.com/images/*.gif
+||http://9kp.cc/js/bbk/
 ||http://9ku.com/aaa/
 ||http://9tata.com/js/pbanner.js
 ||http://9tata.com/js/Rand.js
@@ -9536,8 +9541,8 @@
 ||http://cloudfront-666.kxcdn.com/v4.js
 ||http://cloudfront.net/?$domain=olevod.com
 ||http://cloudfront.net/images/K10/adv/
-||http://cmdy5.com/js/300.js
-||http://cmdy5.com/js/waptbplay
+||http://cmdy2020.com/js/300.js
+||http://cmdy2020.com/js/waptbplay
 ||http://cmm.xmfish.com^
 ||http://cms.fx678.com^
 ||http://cms.fx678img.com^
@@ -9617,7 +9622,7 @@
 ||http://content.xilu.com^$object
 ||http://coolaler.com/index_ads/
 ||http://coolpc.com.tw/img/topweb.html
-||http://cosxcos.cc/uploads/amybb/
+||http://cosxcos.cc/uploads/amy
 ||http://cp121.com/js2/
 ||http://cp2.eastmoney.com^
 ||http://cpbl-elta.cdn.hinet.net/web/images/ad_
@@ -11593,6 +11598,7 @@
 ||http://same*.stockstar.com^
 ||http://same.chinadaily.com.cn^
 ||http://same.eastmoney.com^
+||http://sangwu8.com/xin/
 ||http://sansrl.cn/mir300/attachment/portal/
 ||http://sasadown.cn/ad/
 ||http://sasadown.cn/source/plugin/drk_ledadv/
@@ -11971,7 +11977,7 @@
 ||http://tom.com/adsender/
 ||http://tonghuacun.com/js/uc.js
 ||http://tonnn.com/promotion2/*.js
-||http://toolfk.com/common/11/990-100.jpg
+||http://toolfk.com/common/11/
 ||http://toolfk.com/common/cp.js
 ||http://toolfk.com/common/other/11.png
 ||http://toolfk.com/tools/images/vps/
@@ -12730,6 +12736,7 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://ytse*.top/Static/Home/GongGao/img/
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a68.com|99re.com
 ||http://sinaimg.cn^$domain=99a68.com|99re.com
@@ -16342,6 +16349,8 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://5izyw.com##.activity-box
+https://55188.com##A[href*="/gg-link."]
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -17617,7 +17626,6 @@ https://zqzq.com###wAdTop1
 https://zqzq.com###wAdTop2
 https://weishangshijie.com###wad_left
 https://weishangshijie.com###wad_right
-https://hboav.com###warming ~ .cc5278_banner_ad
 https://21ic.com###warp_con
 https://chineseinla.com###weixin_ads2
 https://fububu.com###wendibu
@@ -18248,6 +18256,7 @@ https://efu.com.cn##.banners-top-b
 https://efu.com.cn##.banners-top-x2
 https://fang.com##.bannger_inbox
 https://mscbsc.com##.bao1
+https://xhaiwai.com##.baoru
 https://hao123.com##.bar-text
 https://d1xz.net##.base_ad_300_250
 https://d1xz.net##.base_ad_640_90
@@ -22453,6 +22462,8 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://5izyw.com##.activity-box
+http://55188.com##A[href*="/gg-link."]
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -23728,7 +23739,6 @@ http://zqzq.com###wAdTop1
 http://zqzq.com###wAdTop2
 http://weishangshijie.com###wad_left
 http://weishangshijie.com###wad_right
-http://hboav.com###warming ~ .cc5278_banner_ad
 http://21ic.com###warp_con
 http://chineseinla.com###weixin_ads2
 http://fububu.com###wendibu
@@ -24359,6 +24369,7 @@ http://efu.com.cn##.banners-top-b
 http://efu.com.cn##.banners-top-x2
 http://fang.com##.bannger_inbox
 http://mscbsc.com##.bao1
+http://xhaiwai.com##.baoru
 http://hao123.com##.bar-text
 http://d1xz.net##.base_ad_300_250
 http://d1xz.net##.base_ad_640_90
