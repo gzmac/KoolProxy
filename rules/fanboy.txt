@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PKaTz/iFguw2eEKsq6DbhQ
-! Version: 202011012351
+! Checksum: YMYg1r85dSpm6L09cJHz4Q
+! Version: 202011022351
 ! Title: Fanboy's Annoyance List
-! Last modified: 01 Nov 2020 23:51 UTC
+! Last modified: 02 Nov 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10160,6 +10160,7 @@ https://ilsole24ore.com###ias-footer
 https://ilquotidianodellazio.it###imgtop
 https://sentireascoltare.com###info_pub2
 https://cronacheancona.it###intestazione
+https://sanihelp.it###iscriviti
 https://citywire.it###jsRegisterAlertBanner
 https://italiaoggi.it###lig_movingup2it_smartbox
 https://lavocedelnordest.eu###mb-scrollup
@@ -11019,6 +11020,7 @@ https://provincia.bz.it,provinzia.bz.it##.banner_facebook
 https://barfuss.it##.barfuss-fblikebox
 https://nurse24.it##.block-segui-nurse24it
 https://gamershqitalia.it##.bottoniera-social
+https://ccsnews.it##.box-gnews
 https://comingsoon.it##.box-tags
 https://ansa.it##.bt-suggest
 https://fantagazzetta.com##.btn-sm
@@ -11028,6 +11030,8 @@ https://cirio.it##.cirioYou
 https://lemillericette.it##.code-block-10
 https://tio.ch##.companyPagesBox
 https://toplegal.it##.cond
+https://valsusaoggi.it##.condividipagcatd
+https://valsusaoggi.it##.condividisottod
 https://optimagazine.com,optimaitalia.com##.condivisioni
 https://everyeye.it##.cont_reply > .link-post
 https://playstationitalianleague.com##.context-content-community-links
@@ -20786,6 +20790,7 @@ http://ilsole24ore.com###ias-footer
 http://ilquotidianodellazio.it###imgtop
 http://sentireascoltare.com###info_pub2
 http://cronacheancona.it###intestazione
+http://sanihelp.it###iscriviti
 http://citywire.it###jsRegisterAlertBanner
 http://italiaoggi.it###lig_movingup2it_smartbox
 http://lavocedelnordest.eu###mb-scrollup
@@ -21645,6 +21650,7 @@ http://provincia.bz.it,provinzia.bz.it##.banner_facebook
 http://barfuss.it##.barfuss-fblikebox
 http://nurse24.it##.block-segui-nurse24it
 http://gamershqitalia.it##.bottoniera-social
+http://ccsnews.it##.box-gnews
 http://comingsoon.it##.box-tags
 http://ansa.it##.bt-suggest
 http://fantagazzetta.com##.btn-sm
@@ -21654,6 +21660,8 @@ http://cirio.it##.cirioYou
 http://lemillericette.it##.code-block-10
 http://tio.ch##.companyPagesBox
 http://toplegal.it##.cond
+http://valsusaoggi.it##.condividipagcatd
+http://valsusaoggi.it##.condividisottod
 http://optimagazine.com,optimaitalia.com##.condivisioni
 http://everyeye.it##.cont_reply > .link-post
 http://playstationitalianleague.com##.context-content-community-links
