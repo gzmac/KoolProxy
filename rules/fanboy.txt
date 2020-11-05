@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FpkFFVY/muV531Vbd2YmlA
-! Version: 202011032351
+! Checksum: JSI1z1jY9skBv2yN956DQw
+! Version: 202011042351
 ! Title: Fanboy's Annoyance List
-! Last modified: 03 Nov 2020 23:51 UTC
+! Last modified: 04 Nov 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2203,8 +2203,8 @@
 ||http://widget.clym-sdk.net^$third-party
 ||http://wpcc.io^$third-party
 ||http://opencmp.net^$script,third-party
-||http://privacy-mgmt.com^$script,third-party,domain=~11freunde.de|~boerse-online.de|~faz.net|~finanzen.at|~finanzen.net|~insider.com|~transfermarkt.at|~transfermarkt.ch|~transfermarkt.co.uk|~transfermarkt.com|~transfermarkt.com.tr|~transfermarkt.de|~transfermarkt.fr|~transfermarkt.it|~transfermarkt.nl|~transfermarkt.pl|~transfermarkt.pt|~transfermarkt.us|~tvspielfilm.de|~vip.de
-||http://sp-prod.net^$third-party,domain=~autobild.de|~bike-bild.de|~bild.de|~boerse-online.de|~businessinsider.de|~bz-berlin.de|~caramia.de|~clever-tanken.de|~computerbild.de|~edelblech.de|~finanzen.at|~finanzen.ch|~finanzen.net|~fitbook.de|~gofeminin.de|~idealo.at|~idealo.co.uk|~idealo.de|~idealo.es|~idealo.fr|~idealo.it|~immonet.de|~kombi.de|~meinestadt.de|~metal-hammer.de|~musikexpress.de|~myhomebook.de|~n24.de|~noizz.de|~onmeda.de|~politico.eu|~rollingstone.de|~sportbild.de|~stylebook.de|~techbook.de|~testbild.de|~transfermarkt.de|~travelbook.de|~welt.de|~wieistmeineip.at|~wieistmeineip.ch|~wieistmeineip.de|~zuio.tv
+||http://privacy-mgmt.com^$script,third-party,domain=~11freunde.de|~autobild.de|~bike-bild.de|~bild.de|~boerse-online.de|~businessinsider.de|~bz-berlin.de|~caramia.de|~clever-tanken.de|~computerbild.de|~edelblech.de|~faz.net|~finanzen.at|~finanzen.ch|~finanzen.net|~fitbook.de|~gofeminin.de|~idealo.at|~idealo.co.uk|~idealo.de|~idealo.es|~idealo.fr|~idealo.it|~immonet.de|~insider.com|~kombi.de|~meinestadt.de|~metal-hammer.de|~musikexpress.de|~myhomebook.de|~n24.de|~noizz.de|~onmeda.de|~politico.eu|~rollingstone.de|~sportbild.de|~stylebook.de|~techbook.de|~testbild.de|~transfermarkt.at|~transfermarkt.ch|~transfermarkt.co.uk|~transfermarkt.com|~transfermarkt.com.tr|~transfermarkt.de|~transfermarkt.fr|~transfermarkt.it|~transfermarkt.nl|~transfermarkt.pl|~transfermarkt.pt|~transfermarkt.us|~travelbook.de|~tvspielfilm.de|~vip.de|~welt.de|~wieistmeineip.at|~wieistmeineip.ch|~wieistmeineip.de|~zuio.tv
+||http://sp-prod.net^$third-party,domain=~11freunde.de|~autobild.de|~bike-bild.de|~bild.de|~boerse-online.de|~businessinsider.de|~bz-berlin.de|~caramia.de|~clever-tanken.de|~computerbild.de|~edelblech.de|~faz.net|~finanzen.at|~finanzen.ch|~finanzen.net|~fitbook.de|~gofeminin.de|~idealo.at|~idealo.co.uk|~idealo.de|~idealo.es|~idealo.fr|~idealo.it|~immonet.de|~insider.com|~kombi.de|~meinestadt.de|~metal-hammer.de|~musikexpress.de|~myhomebook.de|~n24.de|~noizz.de|~onmeda.de|~politico.eu|~rollingstone.de|~sportbild.de|~stylebook.de|~techbook.de|~testbild.de|~transfermarkt.at|~transfermarkt.ch|~transfermarkt.co.uk|~transfermarkt.com|~transfermarkt.com.tr|~transfermarkt.de|~transfermarkt.fr|~transfermarkt.it|~transfermarkt.nl|~transfermarkt.pl|~transfermarkt.pt|~transfermarkt.us|~travelbook.de|~tvspielfilm.de|~vip.de|~welt.de|~wieistmeineip.at|~wieistmeineip.ch|~wieistmeineip.de|~zuio.tv
 ||http://4chan.org/b/*.swf
 ||http://anews.com/s/js/widget.js
 ||http://apnarm.net.au^*/keep-up-with_
@@ -10365,6 +10365,7 @@ https://ilvibonese.it##.torna_su
 https://travelnostop.com##.toup
 https://americantourister.it##.ui-widget-overlay
 https://lifestyleblog.it,lospecialista.tv##.widget_mailpoet_form
+https://ortodacoltivare.it##.widget_sib_subscribe_form
 https://lospecialista.tv##.widget_specialert
 https://melarossa.it,secoloditalia.it##.widget_wpmailup_widget
 https://vitatrentina.it##.wpdiscuz-front-actions
@@ -20997,6 +20998,7 @@ http://ilvibonese.it##.torna_su
 http://travelnostop.com##.toup
 http://americantourister.it##.ui-widget-overlay
 http://lifestyleblog.it,lospecialista.tv##.widget_mailpoet_form
+http://ortodacoltivare.it##.widget_sib_subscribe_form
 http://lospecialista.tv##.widget_specialert
 http://melarossa.it,secoloditalia.it##.widget_wpmailup_widget
 http://vitatrentina.it##.wpdiscuz-front-actions
