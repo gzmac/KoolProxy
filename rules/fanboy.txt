@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: JSI1z1jY9skBv2yN956DQw
-! Version: 202011042351
+! Checksum: x6T1/fJlbW2bHPNj9P21sw
+! Version: 202011052351
 ! Title: Fanboy's Annoyance List
-! Last modified: 04 Nov 2020 23:51 UTC
+! Last modified: 05 Nov 2020 23:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -9320,6 +9320,7 @@ https://drakecircus.com##.ccc-widget
 https://hannity.com##.ccpa
 https://orcadian.co.uk##.cd-container
 https://wunderground.com##.cdk-overlay-container
+https://source.chromium.org##.cdk-overlay-pane > .mat-snack-bar-container
 https://kbs.co.kr##.chrome_pick
 https://stayinwales.co.uk##.ckinfo-panel
 https://singular.com.cy##.cm-notification-container
@@ -9824,7 +9825,7 @@ https://stuttgarter-nachrichten.de##.js-to-top
 https://kicker.de##.kick__scroll-top-ic
 https://ifun.de,iphone-ticker.de##.mail
 https://weltwoche.ch##.navInner.fixed
-https://diepresse.com,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,silicon.de##.newsletter
+https://diepresse.com,euractiv.de,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,silicon.de##.newsletter
 https://geo.de##.nlAnmeldg
 https://therese-moelk.at##.pageup
 https://matratzen.info##.postNavigation
@@ -12594,6 +12595,7 @@ https://megalight18.net,mk-78.ru,stp-shop.ru#@##backtop
 https://gcnlive.com,nasa.gov#@##backtotop
 https://patch.com#@##email-modal-wrapper
 https://hearthis.at#@##email-overlay
+https://rbxactive.com#@##email-sign-up
 https://arma3.com,dayz.com#@##go-top
 https://mercopress.com#@##goToTop
 https://encompass.tv#@##goTop
@@ -13025,7 +13027,7 @@ https://chess.com#@#.social-btns
 https://4shared.com,disqus.com,fastcompany.com,golem.de,nu.nl#@#.social-button
 https://adevarul.ro,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,bilingua.io,cheezburger.com,musixmatch.com,nu.nl,ozy.com,tipranks.com#@#.social-buttons
 https://pioneer-iot.com,velox.net.ua,workroom-myata.ru#@#.social-circle
-https://cheezburger.com,epicgames.com,gofugyourself.com#@#.social-container
+https://businessinsider.de,cheezburger.com,epicgames.com,gofugyourself.com#@#.social-container
 https://golem.de#@#.social-counter
 https://4players.de,chrisblattman.com,deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-facebook
 https://lifetimetv.pl#@#.social-feed
@@ -19953,6 +19955,7 @@ http://drakecircus.com##.ccc-widget
 http://hannity.com##.ccpa
 http://orcadian.co.uk##.cd-container
 http://wunderground.com##.cdk-overlay-container
+http://source.chromium.org##.cdk-overlay-pane > .mat-snack-bar-container
 http://kbs.co.kr##.chrome_pick
 http://stayinwales.co.uk##.ckinfo-panel
 http://singular.com.cy##.cm-notification-container
@@ -20457,7 +20460,7 @@ http://stuttgarter-nachrichten.de##.js-to-top
 http://kicker.de##.kick__scroll-top-ic
 http://ifun.de,iphone-ticker.de##.mail
 http://weltwoche.ch##.navInner.fixed
-http://diepresse.com,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,silicon.de##.newsletter
+http://diepresse.com,euractiv.de,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,silicon.de##.newsletter
 http://geo.de##.nlAnmeldg
 http://therese-moelk.at##.pageup
 http://matratzen.info##.postNavigation
@@ -23228,6 +23231,7 @@ http://megalight18.net,mk-78.ru,stp-shop.ru#@##backtop
 http://gcnlive.com,nasa.gov#@##backtotop
 http://patch.com#@##email-modal-wrapper
 http://hearthis.at#@##email-overlay
+http://rbxactive.com#@##email-sign-up
 http://arma3.com,dayz.com#@##go-top
 http://mercopress.com#@##goToTop
 http://encompass.tv#@##goTop
@@ -23659,7 +23663,7 @@ http://chess.com#@#.social-btns
 http://4shared.com,disqus.com,fastcompany.com,golem.de,nu.nl#@#.social-button
 http://adevarul.ro,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,bilingua.io,cheezburger.com,musixmatch.com,nu.nl,ozy.com,tipranks.com#@#.social-buttons
 http://pioneer-iot.com,velox.net.ua,workroom-myata.ru#@#.social-circle
-http://cheezburger.com,epicgames.com,gofugyourself.com#@#.social-container
+http://businessinsider.de,cheezburger.com,epicgames.com,gofugyourself.com#@#.social-container
 http://golem.de#@#.social-counter
 http://4players.de,chrisblattman.com,deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-facebook
 http://lifetimetv.pl#@#.social-feed
