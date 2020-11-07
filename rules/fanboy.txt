@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: x6T1/fJlbW2bHPNj9P21sw
-! Version: 202011052351
+! Checksum: QY4M4UkTOfivCbdFhObg6A
+! Version: 202011060931
 ! Title: Fanboy's Annoyance List
-! Last modified: 05 Nov 2020 23:51 UTC
+! Last modified: 06 Nov 2020 09:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6664,6 +6664,7 @@ https://christianpost.com##.iframe-popup-full
 https://maxim.com##.img-responsive
 https://impactbnd.com##.impactBlogFeed--sidebar-background-color
 https://longreads.com##.in-story
+https://inews.co.uk##.inews__email-signup
 https://routesonline.com##.infoBlock
 https://citylab.com,theatlantic.com##.injector-promo
 https://sandiegouniontribune.com##.inline_embedded
@@ -8107,6 +8108,7 @@ https://designcurial.com##.image-tools
 https://imdb.com##.imdb-footer__social
 https://imdb.com##.imdb-footer__socials
 https://alarabiya.net##.img-caption-facebook-container
+https://inews.co.uk##.inews__post-byline__share
 https://ebay.co.uk,ebay.com.au##.info > .share
 https://pcgscoinfacts.com##.info-connect
 https://timeout.com##.information
@@ -12011,6 +12013,7 @@ https://bancacrs.it###boxes
 https://proversi.it###c-agree
 https://ladistanza.it###cMessage
 https://cassaforense.it,cfnews.it###cassaforense-cookies
+https://radiozammu.it###ccM
 https://centrometeolombardo.com###cc_div
 https://ecodallecitta.it###contenuto_consenso
 https://spesasicura.com###cook
@@ -12141,6 +12144,7 @@ https://nh-hotels.it##.politicaRewards
 https://edilvetta.it,naegele.it##.privacy
 https://smtvsanmarino.sm##.privacy-top
 https://italradio.org##.privacyStatement
+https://idoctors.it##.privacy_bottom
 https://peer.tv##.rain1-cp-container
 https://prelex.it##.rstboxes
 https://juzaphoto.com##.s_bluebox
@@ -13207,7 +13211,7 @@ https://penny.hu,pennymarket.it#@##cookie-message
 https://bokadirekt.se,zlm.nl#@##cookie-modal
 https://makelaarsland.nl#@##cookie-notice
 https://power.fi#@##cookie-notification
-https://danbolig.dk#@##cookie-overlay
+https://danbolig.dk,finanzen.ch#@##cookie-overlay
 https://patient.info#@##cookie-policy
 https://flybe.com#@##cookie-policy-modal
 https://bk.com,burgerking.co.nz###cookie-popup:not(html):not(body)
@@ -13306,7 +13310,7 @@ https://findagrave.com#@#.cookie-msg
 https://account.here.com,calvinklein.at,calvinklein.be,calvinklein.bg,calvinklein.ch,calvinklein.co.uk,calvinklein.com,calvinklein.cz,calvinklein.de,calvinklein.dk,calvinklein.ee,calvinklein.es,calvinklein.fi,calvinklein.fr,calvinklein.hr,calvinklein.hu,calvinklein.ie,calvinklein.it,calvinklein.lt,calvinklein.lu,calvinklein.lv,calvinklein.nl,calvinklein.pl,calvinklein.pt,calvinklein.ru,calvinklein.se,calvinklein.si,calvinklein.sk,uktv.co.uk#@#.cookie-notice
 https://hm.com,prosiebengames.de,stories.com#@#.cookie-notification
 https://hype.it,labanquepostale.fr,rosbank.ru#@#.cookie-on
-https://timeout.com#@#.cookie-overlay
+https://finanzen.ch,timeout.com#@#.cookie-overlay
 https://bbcstudios.com,fotopuzzle.de,hearst.co.uk#@#.cookie-policy
 https://fotopuzzle.de#@#.cookie-policy-wrapper
 https://60millions-mag.com#@#.cookie-popup
@@ -17298,6 +17302,7 @@ http://christianpost.com##.iframe-popup-full
 http://maxim.com##.img-responsive
 http://impactbnd.com##.impactBlogFeed--sidebar-background-color
 http://longreads.com##.in-story
+http://inews.co.uk##.inews__email-signup
 http://routesonline.com##.infoBlock
 http://citylab.com,theatlantic.com##.injector-promo
 http://sandiegouniontribune.com##.inline_embedded
@@ -18741,6 +18746,7 @@ http://designcurial.com##.image-tools
 http://imdb.com##.imdb-footer__social
 http://imdb.com##.imdb-footer__socials
 http://alarabiya.net##.img-caption-facebook-container
+http://inews.co.uk##.inews__post-byline__share
 http://ebay.co.uk,ebay.com.au##.info > .share
 http://pcgscoinfacts.com##.info-connect
 http://timeout.com##.information
@@ -22647,6 +22653,7 @@ http://bancacrs.it###boxes
 http://proversi.it###c-agree
 http://ladistanza.it###cMessage
 http://cassaforense.it,cfnews.it###cassaforense-cookies
+http://radiozammu.it###ccM
 http://centrometeolombardo.com###cc_div
 http://ecodallecitta.it###contenuto_consenso
 http://spesasicura.com###cook
@@ -22777,6 +22784,7 @@ http://nh-hotels.it##.politicaRewards
 http://edilvetta.it,naegele.it##.privacy
 http://smtvsanmarino.sm##.privacy-top
 http://italradio.org##.privacyStatement
+http://idoctors.it##.privacy_bottom
 http://peer.tv##.rain1-cp-container
 http://prelex.it##.rstboxes
 http://juzaphoto.com##.s_bluebox
@@ -23843,7 +23851,7 @@ http://penny.hu,pennymarket.it#@##cookie-message
 http://bokadirekt.se,zlm.nl#@##cookie-modal
 http://makelaarsland.nl#@##cookie-notice
 http://power.fi#@##cookie-notification
-http://danbolig.dk#@##cookie-overlay
+http://danbolig.dk,finanzen.ch#@##cookie-overlay
 http://patient.info#@##cookie-policy
 http://flybe.com#@##cookie-policy-modal
 http://bk.com,burgerking.co.nz###cookie-popup:not(html):not(body)
@@ -23942,7 +23950,7 @@ http://findagrave.com#@#.cookie-msg
 http://account.here.com,calvinklein.at,calvinklein.be,calvinklein.bg,calvinklein.ch,calvinklein.co.uk,calvinklein.com,calvinklein.cz,calvinklein.de,calvinklein.dk,calvinklein.ee,calvinklein.es,calvinklein.fi,calvinklein.fr,calvinklein.hr,calvinklein.hu,calvinklein.ie,calvinklein.it,calvinklein.lt,calvinklein.lu,calvinklein.lv,calvinklein.nl,calvinklein.pl,calvinklein.pt,calvinklein.ru,calvinklein.se,calvinklein.si,calvinklein.sk,uktv.co.uk#@#.cookie-notice
 http://hm.com,prosiebengames.de,stories.com#@#.cookie-notification
 http://hype.it,labanquepostale.fr,rosbank.ru#@#.cookie-on
-http://timeout.com#@#.cookie-overlay
+http://finanzen.ch,timeout.com#@#.cookie-overlay
 http://bbcstudios.com,fotopuzzle.de,hearst.co.uk#@#.cookie-policy
 http://fotopuzzle.de#@#.cookie-policy-wrapper
 http://60millions-mag.com#@#.cookie-popup
