@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 9HMIUm7e47F/HJY0lmL6EA
-! Version: 202011080013
+! Checksum: txbHj6jOqE1zdkJTvRdCXw
+! Version: 202011090013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -3539,6 +3539,7 @@
 ||https://phpernote.com/ali
 ||https://phpstudyimg.com/all/hrl.gif
 ||https://phpstudyimg.com/all/renrenxiaxuan980.gif
+||https://phpstudyimg.com/all/xiaojieqiantie.gif
 ||https://pianba.tv/api/*.js
 ||https://pianjicdn.com^*.php
 ||https://piaodown.com/xtm/
@@ -4943,6 +4944,7 @@
 ||https://myyxapp.com^$third-party
 ||https://pgyzw.com/0
 ||https://pgyzw.com/k
+||https://qianqianxsw.com^*xhtml
 ||https://qianrenge.cc/qian/
 ||https://qushuba.com^*(com?
 ||https://sangwu8.com/tu/
@@ -7722,6 +7724,7 @@
 ||http://xi0021.com^
 ||http://xiadaxiong.com^
 ||http://xiald.com^
+||http://xianguangergaozhi.com^
 ||http://xiaobiaoucai.cn^
 ||http://xiaoyida.com^$third-party
 ||http://xiarikui08.com^
@@ -11360,6 +11363,7 @@
 ||http://phpernote.com/ali
 ||http://phpstudyimg.com/all/hrl.gif
 ||http://phpstudyimg.com/all/renrenxiaxuan980.gif
+||http://phpstudyimg.com/all/xiaojieqiantie.gif
 ||http://pianba.tv/api/*.js
 ||http://pianjicdn.com^*.php
 ||http://piaodown.com/xtm/
@@ -13620,6 +13624,7 @@
 ||http://0224fqpowiuxybnmvdfghj.xyz^
 ||http://0234408.cn^
 ||http://024chaoren.cn^
+||http://027whht.com^
 ||http://0302woeuxcbrnxcvsdfghu.xyz^
 ||http://0309fuweopermncvbnazdf.xyz^
 ||http://0316dieroxiemzfjwmapk.xyz^
@@ -14547,6 +14552,7 @@
 ||http://isgow.com^
 ||http://ishowms.com^
 ||http://itcoder.top^
+||http://ixshklh.cn^
 ||http://iyaos.com^
 ||http://iyouhu.cn^
 ||http://izuis.com^
@@ -14860,6 +14866,7 @@
 ||http://nanyangqiaoxiang.cn^
 ||http://naolifanghealth.com^
 ||http://nashlin.top^
+||http://nazhenkj.com^
 ||http://nbhotpo.com^
 ||http://ncoyqc.com^
 ||http://nd59w.cn^
@@ -15020,6 +15027,7 @@
 ||http://qhdop.com^
 ||http://qhxcdmfj.cn^
 ||http://qi-shi.top^
+||http://qianqianxsw.com^*xhtml
 ||http://qianrenge.cc/qian/
 ||http://qianyuntengyue.com^
 ||http://qiaopiguniang.com^
@@ -17872,7 +17880,7 @@ https://lahoo.ca##.a_af
 https://hcbbs.com##.a_cn_pb
 https://baixing.com##.a_d_s_hidden_link
 https://wmzhe.com##.a_dwrap
-https://cnpingpang.com,jdbbs.com##.a_h
+https://0516city.com,cnpingpang.com,jdbbs.com##.a_h
 https://17tui.cc,tropica.cn##.a_mu1
 https://muchong.com##.a_subject[href^="creditshow."]
 https://163.com##.a_topad
@@ -19659,6 +19667,7 @@ https://chongbuluo.com##.postright
 https://zhujiboke.com##.posts-top-cjtz
 https://ifxtx.com##.ppsy_content758
 https://7hcn.com##.pr > a[href^="http"]:not([href^="http://www.7hcn."])
+https://sisixxb.com##.preflink
 https://javdove.com,javdove2.club##.preroll-adv-popup-overlay
 https://pcstore.com.tw##.priority
 https://pcstore.com.tw##.priority1
@@ -20116,6 +20125,7 @@ https://loldk.com##.tools-recommend
 https://meizhou.com##.top + .w1000
 https://toolfk.com##.top > .desc
 https://2345.com,hao774.com##.top > .fred
+https://toolfk.com##.top > div[style="font-size: 12px;text-align: center;margin-top:6px;"]
 https://midifan.com##.top-aaa
 https://10jqka.com.cn##.top-ad-box
 https://baidu.com##.top-ad-cont
@@ -24003,7 +24013,7 @@ http://lahoo.ca##.a_af
 http://hcbbs.com##.a_cn_pb
 http://baixing.com##.a_d_s_hidden_link
 http://wmzhe.com##.a_dwrap
-http://cnpingpang.com,jdbbs.com##.a_h
+http://0516city.com,cnpingpang.com,jdbbs.com##.a_h
 http://17tui.cc,tropica.cn##.a_mu1
 http://muchong.com##.a_subject[href^="creditshow."]
 http://163.com##.a_topad
@@ -25790,6 +25800,7 @@ http://chongbuluo.com##.postright
 http://zhujiboke.com##.posts-top-cjtz
 http://ifxtx.com##.ppsy_content758
 http://7hcn.com##.pr > a[href^="http"]:not([href^="http://www.7hcn."])
+http://sisixxb.com##.preflink
 http://javdove.com,javdove2.club##.preroll-adv-popup-overlay
 http://pcstore.com.tw##.priority
 http://pcstore.com.tw##.priority1
@@ -26247,6 +26258,7 @@ http://loldk.com##.tools-recommend
 http://meizhou.com##.top + .w1000
 http://toolfk.com##.top > .desc
 http://2345.com,hao774.com##.top > .fred
+http://toolfk.com##.top > div[style="font-size: 12px;text-align: center;margin-top:6px;"]
 http://midifan.com##.top-aaa
 http://10jqka.com.cn##.top-ad-box
 http://baidu.com##.top-ad-cont
