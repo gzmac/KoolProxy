@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 62ZDI8st2/JrCytxRjx9hQ
-! Version: 202011120013
+! Checksum: YR2wmSha6UWjk0VxZstjIA
+! Version: 202011130013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1286,6 +1286,7 @@
 ||https://922tp.com/wp-content/uploads/*0x
 ||https://92dp.com/home/showga?
 ||https://92uq.com/Ads/
+||https://933m.com/1.js
 ||https://941novel.com/wp-content/uploads/*.gif
 ||https://949949.com/2013/end/hot_news.js
 ||https://94as.com/cxlnb.php
@@ -4576,7 +4577,7 @@
 ||https://ygdy8.com/jsy/
 ||https://ygdy8.net/js1/
 ||https://ygodl.com/wp-content/uploads/*.js
-||https://yhdm.tv/bar/
+||https://yhdm.io/bar/
 ||https://yibo5.cn/img0
 ||https://yigujin.cn/faaa/
 ||https://yigujin.cn/img/abc/
@@ -4936,6 +4937,7 @@
 ||https://feixs.com/style/t.js
 ||https://hbfie.org/mh
 ||https://ieeod0.com^$third-party
+||https://jsr9.com^$third-party
 ||https://jx.cn^$third-party
 ||https://kuhu168.com/web/js/17mb.js
 ||https://lnwow.co/1.
@@ -5487,6 +5489,8 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://chengzilte.top^
+||http://suning.design^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -7121,6 +7125,7 @@
 ||http://oa-panther.data.aliyun.com^$third-party
 ||http://oacustom.com^
 ||http://obboob.cn^
+||http://oceanbot-steam.com^
 ||http://officeme.cn^
 ||http://okm918.com^
 ||http://okokw.com^$third-party
@@ -7833,6 +7838,7 @@
 ||http://xyaddby.com^
 ||http://xyadtlyy.com^
 ||http://xyadtlyya.cn^
+||http://xyadtlyya.com^
 ||http://xyadyzpsb.com^
 ||http://xycnz.com^
 ||http://xycnzz.com^
@@ -8790,6 +8796,7 @@
 ||http://922tp.com/wp-content/uploads/*0x
 ||http://92dp.com/home/showga?
 ||http://92uq.com/Ads/
+||http://933m.com/1.js
 ||http://941novel.com/wp-content/uploads/*.gif
 ||http://94994.com*/js/plugin/shoppingMall/
 ||http://949949.com/2013/end/hot_news.js
@@ -12521,7 +12528,7 @@
 ||http://ygdy8.com/jsy/
 ||http://ygdy8.net/js1/
 ||http://ygodl.com/wp-content/uploads/*.js
-||http://yhdm.tv/bar/
+||http://yhdm.io/bar/
 ||http://yibo5.cn/img0
 ||http://yigujin.cn/faaa/
 ||http://yigujin.cn/img/abc/
@@ -14640,7 +14647,7 @@
 ||http://jqpvv.cn^
 ||http://jskang.cn^
 ||http://jsku.cc^
-||http://jsr9.com^
+||http://jsr9.com^$third-party
 ||http://jssumei.cn^
 ||http://jsszxx.com^
 ||http://jstdjq.com^
@@ -16447,6 +16454,7 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://12580sky.com##.adn
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -22597,6 +22605,7 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://12580sky.com##.adn
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
