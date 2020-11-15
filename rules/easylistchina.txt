@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Z9e0yb9t249nnbB7+yZrYg
-! Version: 202011140013
+! Checksum: DOTQgxEyJgQPfx8zab3Mrw
+! Version: 202011150013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1667,6 +1667,7 @@
 ||https://bcquan.me/front/*_ad
 ||https://bcquan.me/front/*_game
 ||https://bcquan.me/front/home/render
+||https://bde4.cc/js/aes.js
 ||https://bdimg.com/brands/yxtg/source/juhe-v2.js
 ||https://bdimg.com/muzhi/adwap/top-banner.jpg
 ||https://bdimg.com/newmap/static/common/images/nav-ad_
@@ -3472,7 +3473,6 @@
 ||https://okbmf.com^*950_120
 ||https://okooo.com/I/?method=system.data.ad&
 ||https://oldpig.org/live.html
-||https://olevod.com/poppagen.php
 ||https://olgame.tw/home/attachment/
 ||https://om.cn/api/ad-om/
 ||https://onedala.tv/uploads/banner/
@@ -3484,7 +3484,6 @@
 ||https://onx8.com/zb_users/theme/ydgreen/style/ad/
 ||https://oodcd.cn/pan/config/ad.json
 ||https://ooo.0o0.ooo/2017/11/03/59fc6b3c5b723.jpg
-||https://oopw.top/img/jdy
 ||https://ooqiu.com/ad_js/
 ||https://opticsky.cn/images/2015/gy-px201
 ||https://orzx.im/Document/recommend/flashpoint.html
@@ -5715,6 +5714,7 @@
 ||http://4567.org^$third-party
 ||http://46cq.cn^
 ||http://47.90.50.177^
+||http://47api.cn^
 ||http://4936.cn^$third-party
 ||http://49ko.com^$third-party
 ||http://4ggww.com^
@@ -9261,6 +9261,7 @@
 ||http://bcquan.me/front/*_ad
 ||http://bcquan.me/front/*_game
 ||http://bcquan.me/front/home/render
+||http://bde4.cc/js/aes.js
 ||http://bdimg.com/brands/yxtg/source/juhe-v2.js
 ||http://bdimg.com/muzhi/adwap/top-banner.jpg
 ||http://bdimg.com/newmap/static/common/images/nav-ad_
@@ -11301,7 +11302,6 @@
 ||http://okbmf.com^*950_120
 ||http://okooo.com/I/?method=system.data.ad&
 ||http://oldpig.org/live.html
-||http://olevod.com/poppagen.php
 ||http://olgame.tw/home/attachment/
 ||http://om.cn/api/ad-om/
 ||http://onedala.tv/uploads/banner/
@@ -11313,7 +11313,6 @@
 ||http://onx8.com/zb_users/theme/ydgreen/style/ad/
 ||http://oodcd.cn/pan/config/ad.json
 ||http://ooo.0o0.ooo/2017/11/03/59fc6b3c5b723.jpg
-||http://oopw.top/img/jdy
 ||http://ooqiu.com/ad_js/
 ||http://opticsky.cn/images/2015/gy-px201
 ||http://orzx.im/Document/recommend/flashpoint.html
@@ -17548,7 +17547,6 @@ https://gdmm.com###separatorline + script + tbody:not([id])
 https://nick18.com,nick20.com###sex
 https://nick20.com###sex + div[align="center"]
 https://265g.com###sfmt
-https://ottawazine.com###sgpb-popup-dialog-main-div-wrapper
 https://pan.baidu.com###share_ad_info_panl
 https://soft5566.com###sharebtn
 https://hupu.com###shihuo1111
@@ -18130,7 +18128,7 @@ https://11px.cn##.adg
 https://92wy.com##.adhengfu
 https://jxdbg.com##.adindex
 https://huanqiu.com##.adindexList
-https://oopw.top,sina.com##.aditem
+https://13tv.top,sina.com##.aditem
 https://fzdao.cn##.adlan
 https://cww.net.cn##.adlinkL
 https://cww.net.cn##.adlinkR
@@ -18447,7 +18445,7 @@ https://aoshu.com,zhongkao.com,zuowen.com##.bottomImg
 https://lenovo.com.cn##.bottom_ad_ban_bg
 https://lenovo.com.cn##.bottom_ad_fla
 https://23pili.com,kt51.com##.bottom_fixed
-https://freehao123.com,oopw.top##.box
+https://13tv.top,freehao123.com##.box
 https://cb.com.cn##.box > a[href^="http"]:not([href*=".cb."])
 https://enread.com##.box > ul[style="width:100%;overflow:hidden;"]
 https://114la.com,ylmf.com##.box-hot
@@ -19894,7 +19892,6 @@ https://baidu.com##.sfc-image-content-adrootnew
 https://baidu.com##.sfc-image-content-adtext
 https://baidu.com##.sfc-image-content-waterfall-item > div:not([class]) > .sfc-image-content-cell
 https://wbzol.com##.sg
-https://ottawazine.com##.sgpb-popup-overlay
 https://pcsoft.com.cn##.shang11-top
 https://m.mydrivers.com##.share
 https://xilu.com##.shehuibanner
@@ -21101,7 +21098,6 @@ https://baidu.com##div[style="padding: 20px 9px 20px 10px;widget:250px;height:25
 https://zuanke8.com##div[style="padding:0px 0 10px 0;background-color:#F1F1F1;"]
 https://win007.com##div[style="padding:6px 0; width:950px; height:45px"]
 https://7junshi.com##div[style="position: fixed; right: 0px; bottom: 0;z-index:999;width: 300px;height: 250px;"]
-https://bde4.cc##div[style="position: fixed;bottom: -5px;z-index:999;width:100%"]
 https://jijidown.com##div[style="position: fixed;right: 0;bottom: 0;"]
 https://ys168.com##div[style="position:fixed; width:200px; top: 330px;right:10px;font-size:9pt;text-align:left;"]
 https://1ting.com##div[style="position:fixed;bottom:0;z-index:999"]
@@ -21144,6 +21140,7 @@ https://ttzmz.vip##div[style^="margin-top:2"]
 https://52ch.net##div[style^="margin-top:5px; height:60px;"]
 https://m.weather.com.cn##div[style^="position: fixed; width: 100%; bottom: 0px;"]
 https://buscodepto.com##div[style^="position: fixed;"]
+https://bde4.cc##div[style^="position: fixed;bottom:"]
 https://chineseinla.com##div[style^="position:absolute;"][style$=":0px;top:30px;"]
 https://52youpiao.com##div[style^="position:fixed; right:40px;"]
 https://zimuku.cn##div[style^="position:fixed; text-align:"]
@@ -23698,7 +23695,6 @@ http://gdmm.com###separatorline + script + tbody:not([id])
 http://nick18.com,nick20.com###sex
 http://nick20.com###sex + div[align="center"]
 http://265g.com###sfmt
-http://ottawazine.com###sgpb-popup-dialog-main-div-wrapper
 http://pan.baidu.com###share_ad_info_panl
 http://soft5566.com###sharebtn
 http://hupu.com###shihuo1111
@@ -24280,7 +24276,7 @@ http://11px.cn##.adg
 http://92wy.com##.adhengfu
 http://jxdbg.com##.adindex
 http://huanqiu.com##.adindexList
-http://oopw.top,sina.com##.aditem
+http://13tv.top,sina.com##.aditem
 http://fzdao.cn##.adlan
 http://cww.net.cn##.adlinkL
 http://cww.net.cn##.adlinkR
@@ -24597,7 +24593,7 @@ http://aoshu.com,zhongkao.com,zuowen.com##.bottomImg
 http://lenovo.com.cn##.bottom_ad_ban_bg
 http://lenovo.com.cn##.bottom_ad_fla
 http://23pili.com,kt51.com##.bottom_fixed
-http://freehao123.com,oopw.top##.box
+http://13tv.top,freehao123.com##.box
 http://cb.com.cn##.box > a[href^="http"]:not([href*=".cb."])
 http://enread.com##.box > ul[style="width:100%;overflow:hidden;"]
 http://114la.com,ylmf.com##.box-hot
@@ -26044,7 +26040,6 @@ http://baidu.com##.sfc-image-content-adrootnew
 http://baidu.com##.sfc-image-content-adtext
 http://baidu.com##.sfc-image-content-waterfall-item > div:not([class]) > .sfc-image-content-cell
 http://wbzol.com##.sg
-http://ottawazine.com##.sgpb-popup-overlay
 http://pcsoft.com.cn##.shang11-top
 http://m.mydrivers.com##.share
 http://xilu.com##.shehuibanner
@@ -27251,7 +27246,6 @@ http://baidu.com##div[style="padding: 20px 9px 20px 10px;widget:250px;height:250
 http://zuanke8.com##div[style="padding:0px 0 10px 0;background-color:#F1F1F1;"]
 http://win007.com##div[style="padding:6px 0; width:950px; height:45px"]
 http://7junshi.com##div[style="position: fixed; right: 0px; bottom: 0;z-index:999;width: 300px;height: 250px;"]
-http://bde4.cc##div[style="position: fixed;bottom: -5px;z-index:999;width:100%"]
 http://jijidown.com##div[style="position: fixed;right: 0;bottom: 0;"]
 http://ys168.com##div[style="position:fixed; width:200px; top: 330px;right:10px;font-size:9pt;text-align:left;"]
 http://1ting.com##div[style="position:fixed;bottom:0;z-index:999"]
@@ -27294,6 +27288,7 @@ http://ttzmz.vip##div[style^="margin-top:2"]
 http://52ch.net##div[style^="margin-top:5px; height:60px;"]
 http://m.weather.com.cn##div[style^="position: fixed; width: 100%; bottom: 0px;"]
 http://buscodepto.com##div[style^="position: fixed;"]
+http://bde4.cc##div[style^="position: fixed;bottom:"]
 http://chineseinla.com##div[style^="position:absolute;"][style$=":0px;top:30px;"]
 http://52youpiao.com##div[style^="position:fixed; right:40px;"]
 http://zimuku.cn##div[style^="position:fixed; text-align:"]

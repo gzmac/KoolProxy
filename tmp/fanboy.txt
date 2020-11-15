@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: parHaiytk+pLkEN3BwgWKQ
+! Checksum: TvmicjtR5w7Dhjsquj74vg
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -6351,6 +6351,7 @@ _site_cookie_
 ##.js_newsletter-btn--subscribe
 ##.keystone-newsletter-class
 ##.klaviyo_flyout
+##.kraken-popup
 ##.l-footer__newsletter
 ##.l-main__newsletters
 ##.lien-newsletter
@@ -33833,6 +33834,7 @@ _site_cookie_
 ||kaango.com/feCustomWidgetDisplay/$third-party
 ||klaviyo.com^$third-party
 ||knowd.com^$third-party
+||krakenoptimize.com^$third-party
 ||leadacity.net^$third-party
 ||leadpages.co^$third-party
 ||letreach.com^$third-party
@@ -37563,6 +37565,8 @@ jack-wolfskin.com##.pp_overlay
 jack-wolfskin.com##.pp_pic_holder
 gaytimes.co.uk##.pre-header
 ddnews.gov.in##.pre_next
+reddit.com##.premium-banner
+reddit.com##.premium-banner-outer
 pornhub.com##.premiumPromoBannerWrapper
 bmwblog.com,globes.co.il,grubstreet.com,gwinnettdailypost.com,porn5.com##.prev
 fixya.com##.prev-arrow
@@ -38613,6 +38617,7 @@ esquire.com##.body-tip
 allevents.in##.bottom-right-subscribe
 businesstimes.com.sg##.bottom-wrap
 iafrica.com,marijuanamoment.net,thebaffler.com##.boxzilla-container
+marijuanamoment.net##.boxzilla-overlay
 the-line-up.com##.branded
 staradvertiser.com##.breaking-news-signup
 inverse.com##.btn--newsletter
@@ -41623,6 +41628,7 @@ ingwb.com##.glass
 linkedin.com##.global-alert
 houseoffraser.co.uk##.global-messages
 mozilla.org##.global-notice
+wankz.com##.global-notif
 guggenheim.org##.guggen-consent
 office.com##.headPopup
 veeam.com##.header-component__messages-overlay
