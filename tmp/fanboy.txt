@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: TvmicjtR5w7Dhjsquj74vg
+! Checksum: H/T+poY9MfTBuBly01wvQg
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -4060,6 +4060,7 @@ _youtube_social_
 /cookieacceptance.
 /cookieAgree.
 /cookiealert.
+/cookiealert/*
 /CookieAlertBootStrapper.
 /cookiebadge.
 /cookiebadge_
@@ -6351,7 +6352,6 @@ _site_cookie_
 ##.js_newsletter-btn--subscribe
 ##.keystone-newsletter-class
 ##.klaviyo_flyout
-##.kraken-popup
 ##.l-footer__newsletter
 ##.l-main__newsletters
 ##.lien-newsletter
@@ -6483,6 +6483,7 @@ _site_cookie_
 ##.newsletter-center-form
 ##.newsletter-col
 ##.newsletter-compact
+##.newsletter-component
 ##.newsletter-container
 ##.newsletter-content
 ##.newsletter-cta
@@ -8248,6 +8249,7 @@ _site_cookie_
 ##.js-custom-push-notifications
 ##.js-notifications-button
 ##.js-push-allow
+##.kraken-popup
 ##.m-notifications-banner
 ##.m-webpush-layer
 ##.modal-push
@@ -11794,6 +11796,7 @@ _site_cookie_
 ##.article-social-tools
 ##.article-social-top
 ##.article-social-wrapper
+##.article-socialMedia
 ##.article-social__meta--share-count
 ##.article-socials
 ##.article-sticky-nav__shares
@@ -22630,7 +22633,6 @@ _site_cookie_
 ###blusys_normativa_cookie
 ###blz-cookieinfo
 ###bn-cookies
-###bnp_cookie_banner
 ###boite_dialog_cookie
 ###bonaCookies
 ###bootcooker-banner
@@ -33834,7 +33836,6 @@ _site_cookie_
 ||kaango.com/feCustomWidgetDisplay/$third-party
 ||klaviyo.com^$third-party
 ||knowd.com^$third-party
-||krakenoptimize.com^$third-party
 ||leadacity.net^$third-party
 ||leadpages.co^$third-party
 ||letreach.com^$third-party
@@ -34076,6 +34077,7 @@ _site_cookie_
 ||iopushtech.com^$third-party
 ||irpush.com^$third-party
 ||jubi.ai/buttonbot/$script,third-party
+||krakenoptimize.com^$third-party
 ||luravius.com^$third-party
 ||news2day.me^$third-party
 ||notification-time.com^$third-party
@@ -34565,6 +34567,7 @@ _site_cookie_
 ||thisisdone.com/gdpr/$third-party
 ||truendo.com^$third-party
 ||trustarc.com^$third-party
+||trustarc.mgr.consensu.org^
 ||uniconsent.mgr.consensu.org^$third-party
 ||usercentrics.eu^$third-party
 ||vendorlist.consensu.org^$third-party
@@ -39987,6 +39990,7 @@ salemnews.net##.article_details_icons
 goodnet.org##.article_like
 nybooks.com##.article_toolbar
 gadgetsnow.com##.as-wdt-newsltr
+folkspaper.com##.aside-list4
 techtimes.com##.at-like
 skyneel.com##.atext
 artnet.com##.author-links
@@ -42695,7 +42699,7 @@ everyeye.it##.nav_articoli
 ilsitodellozoo.com##.navbar-alt
 laleggepertutti.it##.news-letter
 leggioggi.it##.newsButton
-01net.it,advisoronline.it,aeroporto.net,astrooroscopo.it,basketinside.com,bintmusic.it,carpicalcionews.it,chiesadimilano.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,giornaledibrescia.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,key4biz.it,lanazione.it,legab.it,leitgamhof.com,lescienze.it,linkiesta.it,lintellettualedissidente.it,lvh.it,mediagol.it,meteolive.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,theitaliantimes.it,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
+01net.it,advisoronline.it,aeroporto.net,astrooroscopo.it,basketinside.com,bintmusic.it,brindisisera.it,carpicalcionews.it,chiesadimilano.it,cittaceleste.it,condominioweb.com,corsedimoto.com,fantamagazine.com,fcinter1908.it,focusardegna.com,forzaroma.info,gazzamercato.it,giornaledibrescia.it,gogedizioni.it,golssip.it,guidafisco.it,ilfoglio.it,ilgiorno.it,ilmilanista.it,ilposticipo.it,ilrestodelcarlino.it,ilsecoloxix.it,ilsussidiario.net,itasportpress.it,juvenews.eu,key4biz.it,lanazione.it,legab.it,leitgamhof.com,lescienze.it,linkiesta.it,lintellettualedissidente.it,lvh.it,mediagol.it,meteolive.it,mondoudinese.it,motorionline.com,numericalcio.it,padovasport.tv,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,quotidiano.net,rivistacontrasti.it,sassuolocalcionews.it,silicon.it,sportavellino.it,tenniscircus.com,theitaliantimes.it,toronews.net,tuttobolognaweb.it,valori.it,violanews.com##.newsletter
 ravennanotizie.it##.newsletter-section
 orizzontescuola.it##.nl-block
 starbene.it##.nlslim
@@ -43721,6 +43725,7 @@ assopoker.com##.singlemeta
 finanzaonline.com,teleborsa.it,tempostretto.it##.soc
 quickparking.it##.soc-icon-container
 affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,creditosportivo.it,deabyday.tv,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,giornaledibrescia.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
+citroenselect.it##.social-network
 davinotti.com##.social__variant
 investireoggi.it##.social_menu
 salepepe.it##.sp2015-footer-social
@@ -45681,6 +45686,7 @@ last.fm#@##sharebuttons
 bufferapp.com#@##sharer
 renren.com#@##sharevideo
 nextcloud.com#@##sharing
+statoquotidiano.it#@##sidebar-social
 swappa.com#@##social-buttons
 birebin.com,pictame.com,thepictaram.club#@##social-container
 arstechnica.co.uk,arstechnica.com,mozilla.org#@##social-footer
@@ -46666,7 +46672,7 @@ yoigo.com#@#thor-cookies
 @@||idg.se/idg-consent.min.js$script
 @@||internazionale.it/assets/js/cookies_gdpr.js?
 @@||iubenda.com/cookie_solution/$script,domain=iphoneitalia.com
-@@||iubenda.com^$script,subdocument,xmlhttprequest,domain=105.net|3bmeteo.com|capital.it|huffingtonpost.it|ilmessaggero.it|m2o.it|mediaset.it|r101.it|radiomontecarlo.net|rockol.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it|virginradio.it
+@@||iubenda.com^$script,subdocument,xmlhttprequest,domain=105.net|3bmeteo.com|ansa.it|capital.it|huffingtonpost.it|ilmessaggero.it|m2o.it|mediaset.it|r101.it|radiomontecarlo.net|rockol.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it|virginradio.it
 @@||kalaydo.de^*/cookie-consent.jsc.js$domain=kalaydo.de
 @@||kjellmann.no^*/cookielaw/css/cookielaw.css$stylesheet
 @@||meine.postbank.de/translations/*-cookieDisclaimer-*.json$~third-party,xmlhttprequest

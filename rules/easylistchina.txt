@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: DOTQgxEyJgQPfx8zab3Mrw
-! Version: 202011150013
+! Checksum: A7XA+LcD2CHKR4nEU8et9Q
+! Version: 202011160013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1480,6 +1480,7 @@
 ||https://alicdn.com/tfscom/*.sina.
 ||https://alicdn.com/tps/*-950-90.
 ||https://alicdn.com/tps/i3/T19NaCFKFaXXckTCTS-300-100.jpg
+||https://alicdn.com^*_!!3361094544.
 ||https://alicdn.com^*yksdk/*sdk.js$script
 ||https://alixixi.com/adsview/
 ||https://aliyuncs.com/ad/jd-smoofit-ad.jpg
@@ -1940,6 +1941,7 @@
 ||https://chromefk.com/common/other/11.png
 ||https://chuantu.biz/t2/22/1450961822x1822613148.gif
 ||https://chuantu.xyz/t6/714/1580707721x3703728804.jpg
+||https://chuapp.com/wp-content/Picture/2017-08-14/59917b959139f.png
 ||https://chubun.com/images/banners/
 ||https://chubun.com/uploads/pic/img
 ||https://cidianwang.com/js/left
@@ -2053,7 +2055,6 @@
 ||https://cpnn.com.cn/cpnn2015g/neiyegg.gif
 ||https://cpnn.com.cn/cpnn_images/diangong.gif
 ||https://cpplay.com/inc/
-||https://cqtnfs.com/maizhan/js/age.js
 ||https://cqvip.com/viewserver/ViewAD
 ||https://cr173.com/js/
 ||https://cr173.com/show/
@@ -2580,7 +2581,6 @@
 ||https://haosf.com/kan.htm
 ||https://haoxxoo.com/player/ad.html
 ||https://happyhongkong.com/images/client/
-||https://hboav.com/guga/$~subdocument
 ||https://hbzhan.com/images/index/*.swf
 ||https://hc360.com/images/14826/289x90.jpg
 ||https://hc360.com/js/*hezuo.js
@@ -2588,6 +2588,7 @@
 ||https://hc360.com/js/module/info/info_liuliangbao.js
 ||https://hc360.com/list/iframe_end_textadv.shtml
 ||https://hc360.com/security/201409/201409021830024990.jpg
+||https://hcbbsoss.oss-cn-hangzhou.aliyuncs.com^*-banner
 ||https://hcmoo.com/mm.js
 ||https://hcwang.cn/images/g/*.swf
 ||https://hdsky.me/adv/
@@ -2966,6 +2967,7 @@
 ||https://js.tlt.cn/js/
 ||https://js0573.com/images/cus/
 ||https://jsdelivr.net/gh/a901361/
+||https://jsjinfu.com/maizhan/js/age.js
 ||https://jstucdn.com/g3/
 ||https://jstucdn.com/js/vrsr
 ||https://jswz8.com/images/
@@ -4335,6 +4337,7 @@
 ||https://wei2008.com/js/jump
 ||https://wei2008.com/js/t_
 ||https://wei2008.com/skin/js/top.js
+||https://weihaifangzi.com/js/w1.js
 ||https://weihaojiaju.com/tu888/
 ||https://weike87.com/images/*0
 ||https://weike87.com/images/*1
@@ -4908,6 +4911,7 @@
 ||https://s1-a1.dnvodcdn.me^*.svg
 ||https://s1-a4.ifvod.tv^$rewrite=abp-resource:blank-mp3
 ||https://dybee.tv/gg
+||https://hboav.com/guga/$~subdocument
 ||https://hh010.com/static/image/fff/
 ||https://0577renliu.
 ||https://23txt.com^$third-party
@@ -5883,6 +5887,7 @@
 ||http://9669.com^$script,third-party
 ||http://96mob.com^
 ||http://9718.com^$third-party
+||http://97wanle.com^
 ||http://980th.com^$third-party
 ||http://9898c.com^
 ||http://991pao.com^
@@ -7836,11 +7841,13 @@
 ||http://xxx55tp.com^*.gif
 ||http://xxyxmdq.cn^
 ||http://xxyzwtsylw.com^
+||http://xyad3hada.com^
 ||http://xyadaa.com^
 ||http://xyaddby.com^
 ||http://xyadtlyy.com^
 ||http://xyadtlyya.cn^
 ||http://xyadtlyya.com^
+||http://xyadtlyya.vip^
 ||http://xyadyzpsb.com^
 ||http://xycnz.com^
 ||http://xycnzz.com^
@@ -9047,6 +9054,7 @@
 ||http://alicdn.com^$domain=1024gu.com|11papapa.com|1avlang.com|1yingdoutv.com|2334n.com|51dll.com|52kpop.com|55cc.cc|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|acglover.me|aotu101.com|btdp.online|c7cc.cc|camelliadali.com|ccxx99.com|dytt.com|f6hx.site|feifei6.com|haicao32.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|lookpian.com|magnet2048.com|ppx116.com|qingmanyong.com|qqtenglong.com|qyl00.com|qyl222.com|spqi.xyz|supfree.net|thztv.cc|ttww22.com|tv4.cc|viidii.info|wenkuxiazai.com|xiaomingming.org|xinchen2.com|xingzhiyin44.com|yeyemo6.com|yuese46.com|yy6080.cn|yzz12.com|zhuankezhijia.com
 ||http://alicdn.com^*.gif$domain=15yc.cc|hmog.me
 ||http://alicdn.com^*.jpg$domain=hmog.me
+||http://alicdn.com^*_!!3361094544.
 ||http://alitui.weibo.com^
 ||http://alixixi.com/adsview/
 ||http://aliyuncs.com/ad/jd-smoofit-ad.jpg
@@ -9568,6 +9576,7 @@
 ||http://chuantu.biz/t2/22/1450961822x1822613148.gif
 ||http://chuantu.biz^$domain=7mav2.com|thztv.cc
 ||http://chuantu.xyz/t6/714/1580707721x3703728804.jpg
+||http://chuapp.com/wp-content/Picture/2017-08-14/59917b959139f.png
 ||http://chubun.com/images/banners/
 ||http://chubun.com/uploads/pic/img
 ||http://chufw.com/_lpfile_*.swf
@@ -9687,7 +9696,6 @@
 ||http://cpnn.com.cn/cpnn2015g/neiyegg.gif
 ||http://cpnn.com.cn/cpnn_images/diangong.gif
 ||http://cpplay.com/inc/
-||http://cqtnfs.com/maizhan/js/age.js
 ||http://cqvip.com/viewserver/ViewAD
 ||http://cr173.com/js/
 ||http://cr173.com/show/
@@ -10311,7 +10319,6 @@
 ||http://haosf.com/kan.htm
 ||http://haoxxoo.com/player/ad.html
 ||http://happyhongkong.com/images/client/
-||http://hboav.com/guga/$~subdocument
 ||http://hbzhan.com/images/index/*.swf
 ||http://hc360.com/images/14826/289x90.jpg
 ||http://hc360.com/js/*hezuo.js
@@ -10319,6 +10326,7 @@
 ||http://hc360.com/js/module/info/info_liuliangbao.js
 ||http://hc360.com/list/iframe_end_textadv.shtml
 ||http://hc360.com/security/201409/201409021830024990.jpg
+||http://hcbbsoss.oss-cn-hangzhou.aliyuncs.com^*-banner
 ||http://hcmoo.com/mm.js
 ||http://hcwang.cn/images/g/*.swf
 ||http://hdsky.me/adv/
@@ -10755,6 +10763,7 @@
 ||http://jsdelivr.net/gh/a901361/
 ||http://jsdelivr.net/gh/cdnjsdelivr001/182cdn*.js
 ||http://jsdelivr.net/gh/fzdm/st*/js/fzwap-
+||http://jsjinfu.com/maizhan/js/age.js
 ||http://jstucdn.com/g3/
 ||http://jstucdn.com/js/vrsr
 ||http://jswz8.com/images/
@@ -12270,6 +12279,7 @@
 ||http://wei2008.com/js/jump
 ||http://wei2008.com/js/t_
 ||http://wei2008.com/skin/js/top.js
+||http://weihaifangzi.com/js/w1.js
 ||http://weihaojiaju.com/tu888/
 ||http://weike87.com/images/*0
 ||http://weike87.com/images/*1
@@ -13634,6 +13644,7 @@
 ||http://s1-a4.ifvod.tv^$rewrite=abp-resource:blank-mp3,domain=ifvod.tv
 ||http://dybee.tv/gg
 ||http://runkao.net^
+||http://hboav.com/guga/$~subdocument
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
@@ -13999,6 +14010,7 @@
 ||http://bjygfd.com^
 ||http://bjzcbx.com^
 ||http://bkzisok.cn^
+||http://bl2030.com^
 ||http://bljpk3.cn^
 ||http://bmgan.com^
 ||http://bmuju.com^
@@ -15474,6 +15486,7 @@
 ||http://wxmg2016.com^
 ||http://wxvsj.com.cn^
 ||http://wywna.cn^
+||http://wyxcb6.top^
 ||http://wzxw7.com^
 ||http://x23qb.com/skin/style
 ||http://x81zw.com^*.gif
@@ -15519,6 +15532,7 @@
 ||http://xintaizhaoming.com^
 ||http://xinuocp666.com^
 ||http://xionghaobm.cn^
+||http://xiuqixuan.cn^
 ||http://xixizaix.cn^
 ||http://xjhjtz.cn^
 ||http://xjtxcj.com^
