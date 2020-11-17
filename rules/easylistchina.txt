@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: A7XA+LcD2CHKR4nEU8et9Q
-! Version: 202011160013
+! Checksum: uiBbUwT2PLEGo5teCW+f0Q
+! Version: 202011170012
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1805,6 +1805,7 @@
 ||https://c114.com.cn/default_inc/a/images/
 ||https://c114.com.cn/js/channel.js
 ||https://c114.com.cn^*/js/ad_load-new.js
+||https://c1km4.com/mobile/app.js
 ||https://c2000.cn/c2000/
 ||https://c4d.cn/api.php?mod=ad&adid=
 ||https://c4d.cn/template/iscwo_zcool/iscwo/ad/
@@ -2599,6 +2600,7 @@
 ||https://hebei.com.cn/sys/online_calc.js
 ||https://hebtv.com/d/a/thea
 ||https://hefei.cc/templates/default/index_ad
+||https://hefeng-group.net/attach/20200605/Fl05PJWEPUSuVt1x6PeHbHiaQ59J.png
 ||https://heiguang.com/f/uad/
 ||https://heipa666.xyz/hp/
 ||https://heirui.cn/static/hb_
@@ -7979,6 +7981,7 @@
 ||http://yzyrsw.com^
 ||http://yzytb.com^
 ||http://z2blog.com^$third-party
+||http://z5of63.cn^
 ||http://zaitouwang.com^
 ||http://zampda.net^$third-party
 ||http://zampdsp.com^$third-party
@@ -9430,6 +9433,7 @@
 ||http://c114.com.cn/default_inc/a/images/
 ||http://c114.com.cn/js/channel.js
 ||http://c114.com.cn^*/js/ad_load-new.js
+||http://c1km4.com/mobile/app.js
 ||http://c2000.cn/c2000/
 ||http://c4d.cn/api.php?mod=ad&adid=
 ||http://c4d.cn/template/iscwo_zcool/iscwo/ad/
@@ -10337,6 +10341,7 @@
 ||http://hebei.com.cn/sys/online_calc.js
 ||http://hebtv.com/d/a/thea
 ||http://hefei.cc/templates/default/index_ad
+||http://hefeng-group.net/attach/20200605/Fl05PJWEPUSuVt1x6PeHbHiaQ59J.png
 ||http://heiguang.com/f/uad/
 ||http://heipa666.xyz/hp/
 ||http://heirui.cn/static/hb_
@@ -13969,6 +13974,7 @@
 ||http://bbvdd.com^
 ||http://bchur.com^
 ||http://bcunr.com^
+||http://bd2fbnfg.com^
 ||http://bdcapweb.xyz^
 ||http://bdcouc.xyz^
 ||http://bdiae.com^
@@ -18814,6 +18820,7 @@ https://hackhw.com##.entry-banner
 https://idanmu.at##.entry-body > div[class]:first-child
 https://fuliba.net##.entry-content > div[style^="float:right"]
 https://hexieshe.com,hexieshe.xyz,xxshe.info##.entry-header + p + p[style="text-align: center;"]
+https://ruanyifeng.com##.entry-sponsor
 https://hexieshe.com,hexieshe.xyz,xxshe.info##.entry-title > p
 https://niotv.com##.epg_ad3
 https://niotv.com##.epg_ad_list
@@ -24962,6 +24969,7 @@ http://hackhw.com##.entry-banner
 http://idanmu.at##.entry-body > div[class]:first-child
 http://fuliba.net##.entry-content > div[style^="float:right"]
 http://hexieshe.com,hexieshe.xyz,xxshe.info##.entry-header + p + p[style="text-align: center;"]
+http://ruanyifeng.com##.entry-sponsor
 http://hexieshe.com,hexieshe.xyz,xxshe.info##.entry-title > p
 http://niotv.com##.epg_ad3
 http://niotv.com##.epg_ad_list
