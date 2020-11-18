@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: E8EVs5XQk4+sDcuKTGbdsA
-! Version: 202011162351
+! Checksum: jD0F44yZFWb4L8c2v86K7A
+! Version: 202011060931
 ! Title: Fanboy's Annoyance List
-! Last modified: 16 Nov 2020 23:51 UTC
+! Last modified: 06 Nov 2020 09:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -5882,6 +5882,7 @@ https://realonlinedegrees.com,visualeconomics.com##.ve2_joinbox
 https://sify.com##.vhare-textbg
 https://metrolyrics.com##.video-container
 https://imgur.com##.viewInAppLink
+https://kjzz.org##.views-field-field-image-promo
 https://sfweekly.com,westword.com##.villagerail
 https://handbag.com##.viral_toolbar
 https://popularmechanics.com##.viral_tools
@@ -16564,6 +16565,7 @@ http://realonlinedegrees.com,visualeconomics.com##.ve2_joinbox
 http://sify.com##.vhare-textbg
 http://metrolyrics.com##.video-container
 http://imgur.com##.viewInAppLink
+http://kjzz.org##.views-field-field-image-promo
 http://sfweekly.com,westword.com##.villagerail
 http://handbag.com##.viral_toolbar
 http://popularmechanics.com##.viral_tools
