@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: GQBFmkOyCr07/IOYfBu92w
-! Version: 202011190013
+! Checksum: c0dSuft6ftORNyAfoV4ipg
+! Version: 202011200013
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -14122,6 +14122,7 @@
 ||http://clandia.cn^
 ||http://classicgir.cn^
 ||http://clmmw.com^
+||http://clxxkz.com.cn^
 ||http://cn-3drp.com^
 ||http://cniuv.com^
 ||http://cnlhg.cn^
@@ -14278,6 +14279,7 @@
 ||http://emshx.cn^
 ||http://enjuk.com^
 ||http://enjuw.com^
+||http://enq5ur.cn^
 ||http://epanr.com^
 ||http://epcqyac.cn^
 ||http://erocw.com^
@@ -14381,6 +14383,7 @@
 ||http://gdunt.com^
 ||http://gedus.cn^
 ||http://gerunsenbo.cn^
+||http://gflcsiot.com^
 ||http://gghh486.cn^
 ||http://gghh493.cn^
 ||http://ggsgww.cn^
@@ -14533,6 +14536,7 @@
 ||http://houanjijuxie.cn^
 ||http://how5.cn^
 ||http://hp-china.biz^
+||http://hp0hnj.cn^
 ||http://hpsszw.cn^
 ||http://hqsjc.com^
 ||http://hsbkr.com^
@@ -14650,6 +14654,7 @@
 ||http://jinrianshan.com^
 ||http://jinrichaoyang.com^
 ||http://jinrungroup.cn^
+||http://jinshzx.com^
 ||http://jinxinyuan.cn^
 ||http://jioder3e.cn^
 ||http://jioeg.com^
@@ -14839,6 +14844,7 @@
 ||http://mababa.info^
 ||http://mabioe.cn^
 ||http://maicaoren.cn^
+||http://maimaias.cn^
 ||http://maka.im^$third-party
 ||http://mamaailmjz.cn^
 ||http://mao1.jsnovel.com^
@@ -15341,6 +15347,7 @@
 ||http://tongjiwo.com^
 ||http://toujing4.top^
 ||http://toujing5.top^
+||http://toujing7.top^
 ||http://toujing8.top^
 ||http://tozvhcq.cn^
 ||http://travel-together.cn^
@@ -15529,6 +15536,7 @@
 ||http://xhaiu.com^
 ||http://xhct66.com^
 ||http://xhera.cn^
+||http://xiachouchou.com^
 ||http://xiakelea.com^
 ||http://xiandafood.cn^
 ||http://xiangchim0.com^
@@ -15761,6 +15769,7 @@
 ||http://zimingdh.com^
 ||http://zitaoh.cn^
 ||http://zixun8.com^
+||http://ziyeaiying.com^
 ||http://zizcy.com^
 ||http://zizidi.com^
 ||http://zjhrondo.cn^
@@ -18268,7 +18277,6 @@ https://caibaojian.com##.aliyun-inner
 https://cnfol.com##.allAd
 https://bkill.com##.alliance-ad
 https://pilifx.com##.alltop
-https://tophub.today##.am
 https://gugeys.cc##.am-g
 https://gufengmh.com##.animated
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.app_forum_top_nav_tab
@@ -18700,6 +18708,7 @@ https://newxue.com##.dashuggtop
 https://newxue.com##.dashuggtop1
 https://qinbing.cn##.day
 https://ggcj.com##.dbxf
+https://tophub.today##.dddxxx
 https://33lc.com##.ddnew
 https://chineseinla.com##.deal_discount
 https://8ziyuan.com##.deanadsside
@@ -24418,7 +24427,6 @@ http://caibaojian.com##.aliyun-inner
 http://cnfol.com##.allAd
 http://bkill.com##.alliance-ad
 http://pilifx.com##.alltop
-http://tophub.today##.am
 http://gugeys.cc##.am-g
 http://gufengmh.com##.animated
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.app_forum_top_nav_tab
@@ -24850,6 +24858,7 @@ http://newxue.com##.dashuggtop
 http://newxue.com##.dashuggtop1
 http://qinbing.cn##.day
 http://ggcj.com##.dbxf
+http://tophub.today##.dddxxx
 http://33lc.com##.ddnew
 http://chineseinla.com##.deal_discount
 http://8ziyuan.com##.deanadsside
