@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 4HapoX2CLNttuidC1eVk8A
+! Checksum: u9AboqhPOClTbG4LrOJucQ
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -3845,6 +3845,7 @@ _youtube_social_
 /alertcookies.
 /amCookieApproval.
 /amgdpr/*
+/amp-consent-
 /analytics_cookie.
 /api/gdpr^
 /approvazione-gdpr/*
@@ -42528,6 +42529,7 @@ _iscriviti_alla_newsletter.
 ||simplymarket.it/images/scroll-top.png
 ||skyplayer.tiscali.it^$third-party
 ||smiling.video^$third-party
+||tools.net-parade.it^$third-party
 ||trovaprezzi.it/buttons/$third-party
 ||videosynd.kataweb.it^$third-party
 ||vistosulweb.com^*/Newsletter.
