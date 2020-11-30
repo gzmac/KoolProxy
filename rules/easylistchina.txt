@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 2Wgmz1NHtqN5aCl/fLB4qw
-! Version: 202011290022
+! Checksum: upiS685j81A26otK8JQbAA
+! Version: 202011300022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1443,6 +1443,7 @@
 ||https://alicdn.com/img/ibank/*_1591187313.
 ||https://alicdn.com/img/ibank/*_1623489831.
 ||https://alicdn.com/img/ibank/*_1746120392.
+||https://alicdn.com/img/ibank/*_1776866723.
 ||https://alicdn.com/img/ibank/*_1794478205.
 ||https://alicdn.com/img/ibank/*_1932275220.
 ||https://alicdn.com/img/ibank/*_1995781528.
@@ -5126,7 +5127,6 @@
 ||https://gtimg.com/pingjs/ext2020/dc2017/dist/m_tips/tips.js
 ||https://gz-chengkao.com/js/duo.js
 ||https://hahamx.cn/images/banner/
-||https://hanjutv.com/public/js/layer/layer.js
 ||https://hao123img.com/v4/MB/xU/jy/VY/YX/MBxUjyVYYX.js
 ||https://heiguang.com/_r/2015/js/hrBottomBar.
 ||https://hexun.com/2016/pc/618.swf
@@ -6332,6 +6332,7 @@
 ||http://displink.com^$third-party
 ||http://diuling.com^
 ||http://dizhonghaihotel.com^
+||http://djpt33.com^
 ||http://djsn888.com^
 ||http://djy518.com^
 ||http://dlads.cn^$third-party
@@ -7275,6 +7276,7 @@
 ||http://qubilou.com^$third-party
 ||http://qubo94.com^
 ||http://qucaigg.com^
+||http://qudaoweiwang.com^
 ||http://queene.cn^
 ||http://qunale888.com/maizhan/
 ||http://quw18.com^
@@ -9047,6 +9049,7 @@
 ||http://alicdn.com/img/ibank/*_1591187313.
 ||http://alicdn.com/img/ibank/*_1623489831.
 ||http://alicdn.com/img/ibank/*_1746120392.$domain=~rmdown.com
+||http://alicdn.com/img/ibank/*_1776866723.
 ||http://alicdn.com/img/ibank/*_1794478205.
 ||http://alicdn.com/img/ibank/*_1932275220.
 ||http://alicdn.com/img/ibank/*_1995781528.
@@ -11626,6 +11629,7 @@
 ||http://r3sub.com/images/ccc/
 ||http://r3sub.com/posters/0069810.jpg
 ||http://r3sub.com^*0.gif
+||http://radikal.ru^$domain=18board.com|18p2p.com
 ||http://rainpat.com/Content/1360x55/
 ||http://rainpat.com/Scripts/jquery.SuperSlide.
 ||http://rakuten-static.com^$domain=cwyuni.tw
@@ -14594,6 +14598,7 @@
 ||http://huayi65.com^
 ||http://hudxqjg.cn^
 ||http://hueekqx.cn^
+||http://huhuhiiuio.com^
 ||http://huician.cn^
 ||http://huigoushop.com^
 ||http://huixingcheng.cn^
@@ -16060,7 +16065,6 @@
 ||http://gtimg.com/pingjs/ext2020/dc2017/dist/m_tips/tips.js
 ||http://gz-chengkao.com/js/duo.js
 ||http://hahamx.cn/images/banner/
-||http://hanjutv.com/public/js/layer/layer.js
 ||http://hao123img.com/v4/MB/xU/jy/VY/YX/MBxUjyVYYX.js
 ||http://heiguang.com/_r/2015/js/hrBottomBar.
 ||http://hexun.com/2016/pc/618.swf
@@ -18346,6 +18350,7 @@ https://caibaojian.com##.aliyun-inner
 https://cnfol.com##.allAd
 https://bkill.com##.alliance-ad
 https://pilifx.com##.alltop
+https://18board.com,18p2p.com##.altbg2 > td[width="33%"]
 https://gugeys.cc##.am-g
 https://gufengmh.com##.animated
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.app_forum_top_nav_tab
@@ -21567,7 +21572,7 @@ https://ltn.com.tw#@#.adright
 https://money18.on.cc#@#.ads-bg
 https://gsxt.gov.cn#@#.ads-right
 https://159i.com,techroomage.com,zhaopin.com#@#.adsBox
-https://1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
+https://alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
 https://gdmm.com,gkstk.com,youquba.net#@#.adtop
 https://bdp.cn#@#.adv-list
 https://anjia365.com#@#.adv_bg
@@ -21891,6 +21896,7 @@ https://ali213.net#@#.subscribe-container
 https://5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
+https://xdf.cn##.popup-wrap
 https://sina.com.cn##.redPacketCont
 https://offcn.com###offcn_yx
 https://3dmgame.com##.modAD
@@ -22010,7 +22016,6 @@ https://jiemian.com##.app-open
 https://znds.com###diy_mobanbus_view_right2
 https://meijuxingqiu.com##.fixed-bottom-bar
 https://3dmgame.com##A[href^="http://web.3dmgame.com/h5/game?"]
-https://hanjutv.com###widget-weixin
 https://ifeng.com##DIV[class^="enquiry_bottom"]
 https://ifeng.com##div[class^="bottom_box"]
 https://ifeng.com##div[class^="bottomSlide"]
@@ -22516,7 +22521,6 @@ https://51cto.com##.footer_mask
 https://nen.com.cn##.for3gagzy
 https://it168.com##.fu1020_box
 https://eastmoney.com##.fund-pop
-https://hanjutv.com##.ggw_fr
 https://55haitao.com##.global-dialog
 https://1kkk.com,dm5.com##.guide
 https://baixing.com##.guide-video-app
@@ -24513,6 +24517,7 @@ http://caibaojian.com##.aliyun-inner
 http://cnfol.com##.allAd
 http://bkill.com##.alliance-ad
 http://pilifx.com##.alltop
+http://18board.com,18p2p.com##.altbg2 > td[width="33%"]
 http://gugeys.cc##.am-g
 http://gufengmh.com##.animated
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.app_forum_top_nav_tab
@@ -27734,7 +27739,7 @@ http://ltn.com.tw#@#.adright
 http://money18.on.cc#@#.ads-bg
 http://gsxt.gov.cn#@#.ads-right
 http://159i.com,techroomage.com,zhaopin.com#@#.adsBox
-http://1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
+http://alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
 http://gdmm.com,gkstk.com,youquba.net#@#.adtop
 http://bdp.cn#@#.adv-list
 http://anjia365.com#@#.adv_bg
@@ -28058,6 +28063,7 @@ http://ali213.net#@#.subscribe-container
 http://5dm.tv#@#.tm-share-this
 http://laohu8.com#@#.tweet-article
 http://fqsousou.com,kengso.com#@#.user-share
+http://xdf.cn##.popup-wrap
 http://sina.com.cn##.redPacketCont
 http://offcn.com###offcn_yx
 http://3dmgame.com##.modAD
@@ -28177,7 +28183,6 @@ http://jiemian.com##.app-open
 http://znds.com###diy_mobanbus_view_right2
 http://meijuxingqiu.com##.fixed-bottom-bar
 http://3dmgame.com##A[href^="http://web.3dmgame.com/h5/game?"]
-http://hanjutv.com###widget-weixin
 http://ifeng.com##DIV[class^="enquiry_bottom"]
 http://ifeng.com##div[class^="bottom_box"]
 http://ifeng.com##div[class^="bottomSlide"]
@@ -28683,7 +28688,6 @@ http://51cto.com##.footer_mask
 http://nen.com.cn##.for3gagzy
 http://it168.com##.fu1020_box
 http://eastmoney.com##.fund-pop
-http://hanjutv.com##.ggw_fr
 http://55haitao.com##.global-dialog
 http://1kkk.com,dm5.com##.guide
 http://baixing.com##.guide-video-app
