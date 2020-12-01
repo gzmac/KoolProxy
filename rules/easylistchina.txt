@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: upiS685j81A26otK8JQbAA
-! Version: 202011300022
+! Checksum: +B2S20tHx6200sEKfO+tWg
+! Version: 202012010022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -6651,6 +6651,7 @@
 ||http://hslyqs.com^
 ||http://hsmkj.net^$third-party
 ||http://hsyjxzl.cn^
+||http://ht12366.top^
 ||http://htg-x.com^$third-party
 ||http://huaerduo.com^
 ||http://huanqiucaizhi.com^
@@ -14739,6 +14740,7 @@
 ||http://jqpvv.cn^
 ||http://jskang.cn^
 ||http://jsku.cc^
+||http://jsku.info^
 ||http://jsr9.com^$third-party
 ||http://jssumei.cn^
 ||http://jsszxx.com^
@@ -14765,6 +14767,7 @@
 ||http://jxhcyc.com^
 ||http://jxinyue.top^
 ||http://jxmzyg.com^
+||http://jxwef0.cn^
 ||http://jxxcfd.com^
 ||http://jxyufa.com^
 ||http://jyjhkz.com^
