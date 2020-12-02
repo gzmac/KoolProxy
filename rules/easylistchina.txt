@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: +B2S20tHx6200sEKfO+tWg
-! Version: 202012010022
+! Checksum: SMhl78J1hs7MAXDSpUqZCg
+! Version: 202012020023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -2978,6 +2978,7 @@
 ||https://jsdelivr.net/gh/a901361/
 ||https://jsjinfu.com/maizhan/js/age.js
 ||https://jstucdn.com/g3/
+||https://jstucdn.com/js/goovis.js
 ||https://jstucdn.com/js/vrsr
 ||https://jswz8.com/images/
 ||https://juejin.im/v3/web/wbbr/
@@ -6292,6 +6293,7 @@
 ||http://d8ekco.com^
 ||http://dadjia.com^
 ||http://dafapai.com^
+||http://dagonghuzhu.com^
 ||http://dahanedu.com^
 ||http://daikuanfanli.com^
 ||http://dalianhengtai.com^
@@ -7679,6 +7681,7 @@
 ||http://webofxm.cn^
 ||http://wecrtfr.com^
 ||http://weddingeeos.com^$third-party
+||http://weifengtianxia.com^
 ||http://weihuiyungou.com^
 ||http://weiqiqu.cn^
 ||http://weizhenwx.com^
@@ -10809,6 +10812,7 @@
 ||http://jsdelivr.net/gh/fzdm/st*/js/fzwap-
 ||http://jsjinfu.com/maizhan/js/age.js
 ||http://jstucdn.com/g3/
+||http://jstucdn.com/js/goovis.js
 ||http://jstucdn.com/js/vrsr
 ||http://jswz8.com/images/
 ||http://jsyefc.com^
@@ -14188,6 +14192,7 @@
 ||http://colorofgod.cn^
 ||http://comberry.cn^
 ||http://continuedsys.cn^
+||http://continuefaf.top^
 ||http://coolpadrom.cn^
 ||http://cooltool.cc^
 ||http://cornplus.cn^
@@ -15209,6 +15214,7 @@
 ||http://rockcoke.cn^
 ||http://romgv.com^
 ||http://rongnews.com^
+||http://root85.com^
 ||http://rqvfewi.cn^
 ||http://rrkykn.cn^
 ||http://rtslgov.cn^
@@ -15311,6 +15317,7 @@
 ||http://soueki.com^
 ||http://soyue.cc^$third-party
 ||http://spahelani.com^
+||http://spaung.cn^
 ||http://sqa4e.xyz^
 ||http://sqtr1v.com^
 ||http://sqwscy.com^
@@ -16575,6 +16582,7 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://kocpc.com.tw##.kocpc_bot_ad
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -22742,6 +22750,7 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://kocpc.com.tw##.kocpc_bot_ad
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
