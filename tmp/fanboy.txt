@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: pLcC6bubcUpkvr/7YzQ30Q
+! Checksum: 71iXXg4JqB4H5paQuMxFpg
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -6442,6 +6442,7 @@ _site_cookie_
 ##.newletter-main-wrapper
 ##.newletter-sidebar
 ##.newnl-signup
+##.news-detail-newsletter-cta
 ##.news-letter-signup-wrapper
 ##.news-letter-widget
 ##.newsLetter
@@ -6528,6 +6529,7 @@ _site_cookie_
 ##.newsletter-l-wrapper
 ##.newsletter-lightbox
 ##.newsletter-link
+##.newsletter-listSidebar-box
 ##.newsletter-mini-banner
 ##.newsletter-mod
 ##.newsletter-modal
@@ -33138,6 +33140,7 @@ _site_cookie_
 ##.ui-dialog-cookies
 ##.ui.cookie.nag
 ##.uiCookiesHint
+##.uitk-gdpr-banner
 ##.uk-cookie
 ##.uk-cookie-banner
 ##.uk-cookies
@@ -34797,6 +34800,7 @@ _site_cookie_
 ||ultimedia.com/js/common/notification.js
 ||yahoo.com/manifest_desktop_
 ! International
+||ad-hoc-news.de/js/push.js
 ||flashscore.fr^*/build/notifications.
 ||horoscope.fr/notifications/
 ||push.neko-san.fr^
@@ -42121,6 +42125,7 @@ blm.de##.clickTop
 zentrum-der-gesundheit.de##.component-recommended-products
 stuttgarter-nachrichten.de##.container-stn-popup
 vonovia.de##.content-module.controller.partial
+kress.de##.cta
 seniorenportal.de##.custom-topbutton
 radiokoeln.de##.fab__scroll
 wegeheld.org##.fixed-note
@@ -44305,6 +44310,7 @@ brieffreund-gesucht.de##.privacy
 focus-arztsuche.de##.py-md.tracking-box
 deutscher-fenstershop.de##.rule_assept
 grazia-magazin.de,idee-fuer-mich.de##.safeSpaceForClose
+gayfm.de##.sc_window
 bw-online-shop.com##.show-modal
 au-checkliste.de##.showAGP
 kleiderkreisel.de##.sticky-footer
@@ -45440,6 +45446,7 @@ infiniti-vietnam.com.vn##.c_128
 ||henryschein.at^*/CookieList.aspx
 ||keltendorf-mitterkirchen.at/system/web/cookie.ashx
 ||strato.de^*/consent.js
+||up-cookiemon.wavecdn.net^
 !
 ! ---------- French ----------
 !
