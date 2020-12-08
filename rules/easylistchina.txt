@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: AnEupMvSC503bbgFu6TeRw
-! Version: 202012070022
+! Checksum: tdU439MVF1jkvwfbDmwjzA
+! Version: 202012080023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -89,6 +89,7 @@
 ||https://6avz.com^$script,third-party
 ||https://6dad.com^$third-party
 ||https://6travel.com^$third-party
+||https://6v4.cn^$third-party
 ||https://70e.com^$third-party
 ||https://710070.com^$third-party
 ||https://7540.com^$third-party
@@ -2209,7 +2210,6 @@
 ||https://downhot.com/Res/js/arc.js
 ||https://downhot.com/Res/js/main.js
 ||https://downk.cc/item/*.gif
-||https://downk.cc/item/5e966286c2a9a83be54d479a.gif
 ||https://download.game.yy.com/crossdomain.xml
 ||https://download.game.yy.com/resource/fodder/*.flv
 ||https://downxia.com/dgjs/download.js
@@ -2381,9 +2381,6 @@
 ||https://fenxiangdashi.com/img/banner/
 ||https://fenxiangdashi.com/Res/js/detail_
 ||https://fh21.com.cn/partners/
-||https://fijipic.xyz/bit20/upload/image/20200401/40100094771.gif
-||https://fijipic.xyz/bit20/upload/image/20200503/50300122412.gif
-||https://fijipic.xyz/bit20/upload/image/20200721/72100040886.gif
 ||https://file.cloud.sogou.com/*/superzone/
 ||https://file.ws.126.net/house/nj/*.swf
 ||https://files.jb51.net/image/
@@ -2931,6 +2928,7 @@
 ||https://jiasule.com/static/js/http_error.js
 ||https://jiayu.net/comiis_ad/
 ||https://jiecao12.com/guanggao
+||https://jiegeng.com/static/json/jg_topFixed.
 ||https://jiejueba.com/templets/16img/*.js
 ||https://jiemian.com/static/jmw/js/adBase_
 ||https://jijidown.com/static/img/dongcidaci/
@@ -3014,7 +3012,6 @@
 ||https://kancloud.cn/ad/
 ||https://kanguba.com/file/js/wwwifr.asp
 ||https://kanjiantu.com/images/2020/*.gif
-||https://kanjiantu.com/images/2020/04/17/uO6sX9.gif
 ||https://kanjuba.me/js/bbk/
 ||https://kanjuwo.com/js/6
 ||https://kanjuwo.com/js/8
@@ -4464,7 +4461,6 @@
 ||https://xianliao.me/assets/js/lib/ne3u3.js
 ||https://xianliao.me/etoron/get?
 ||https://xianshuabao.com/ashx/pt.ashx?cmd=record&filter=&order=all&
-||https://xianzhenyuan.cn/data/attachment/common/
 ||https://xiaobaipan.com/tb.html
 ||https://xiaodutv.com/xda?
 ||https://xiaoma.com/images/form/getclueforxiaomazonghe.js
@@ -5643,6 +5639,7 @@
 ||http://189.gd^*.html$third-party
 ||http://18tzx.com^
 ||http://194.36.101.178^
+||http://198.2.215.131^
 ||http://199.231.214.62^
 ||http://1999sg.com^
 ||http://1d1a.com^
@@ -5834,6 +5831,7 @@
 ||http://6huu.com^
 ||http://6ped2nd3yp.com^
 ||http://6travel.com^$third-party
+||http://6v4.cn^$third-party
 ||http://700ok.net^
 ||http://70e.com^$third-party
 ||http://70lm.com^
@@ -6206,7 +6204,6 @@
 ||http://chenghangtech.com^
 ||http://chengruide.com^$third-party
 ||http://chengzhao95511.com^
-||http://chengzilte.top^
 ||http://chenyanjiao.cn^
 ||http://china-pengdu.cn^
 ||http://china-star.cc^
@@ -9927,7 +9924,6 @@
 ||http://downhot.com/Res/js/arc.js
 ||http://downhot.com/Res/js/main.js
 ||http://downk.cc/item/*.gif
-||http://downk.cc/item/5e966286c2a9a83be54d479a.gif
 ||http://download.game.yy.com/crossdomain.xml
 ||http://download.game.yy.com/resource/fodder/*.flv
 ||http://downxia.com/dgjs/download.js
@@ -10122,9 +10118,6 @@
 ||http://fenxiangdashi.com/Res/js/detail_
 ||http://ff.meikanguo.com^
 ||http://fh21.com.cn/partners/
-||http://fijipic.xyz/bit20/upload/image/20200401/40100094771.gif
-||http://fijipic.xyz/bit20/upload/image/20200503/50300122412.gif
-||http://fijipic.xyz/bit20/upload/image/20200721/72100040886.gif
 ||http://file.cloud.sogou.com/*/superzone/
 ||http://file.ws.126.net/house/nj/*.swf
 ||http://files.jb51.net/image/
@@ -10770,6 +10763,7 @@
 ||http://jiasule.com/static/js/http_error.js
 ||http://jiayu.net/comiis_ad/
 ||http://jiecao12.com/guanggao
+||http://jiegeng.com/static/json/jg_topFixed.
 ||http://jiejueba.com/templets/16img/*.js
 ||http://jiemian.com/static/jmw/js/adBase_
 ||http://jijidown.com/static/img/dongcidaci/
@@ -10865,7 +10859,6 @@
 ||http://kancloud.cn/ad/
 ||http://kanguba.com/file/js/wwwifr.asp
 ||http://kanjiantu.com/images/2020/*.gif
-||http://kanjiantu.com/images/2020/04/17/uO6sX9.gif
 ||http://kanjuba.me/js/bbk/
 ||http://kanjuwo.com/js/6
 ||http://kanjuwo.com/js/8
@@ -12469,7 +12462,6 @@
 ||http://xianliao.me/assets/js/lib/ne3u3.js
 ||http://xianliao.me/etoron/get?
 ||http://xianshuabao.com/ashx/pt.ashx?cmd=record&filter=&order=all&
-||http://xianzhenyuan.cn/data/attachment/common/
 ||http://xiaobaipan.com/tb.html
 ||http://xiaobi*.com/layer/layer.js
 ||http://xiaodutv.com/xda?
@@ -13579,7 +13571,6 @@
 ||http://ytelc.com^$third-party
 ||http://yunzuowen.com^$third-party
 ||http://yx1.managershare.com^
-||http://yy1.fwccw.com^
 ||http://z.tudouxy01.com^
 ||http://z1.chezhuzhinan.com^
 ||http://z1.cyla.cn^
@@ -14015,6 +14006,7 @@
 ||http://applequan.com^
 ||http://apxyz.com^
 ||http://aquarius8.cn^
+||http://aqvnurq.cn^
 ||http://archrug.com^
 ||http://askfsh.cn^
 ||http://askspsl.cn^
@@ -14251,6 +14243,7 @@
 ||http://d1skp.cn^
 ||http://d1wn3.cn^
 ||http://d2wb1.cn^
+||http://d36gyu.cn^
 ||http://d5a5a.xyz^
 ||http://d663q.cn^
 ||http://d72l4.com^
@@ -15710,11 +15703,11 @@
 ||http://xszysc.com^$third-party
 ||http://xt725.cn^
 ||http://xuehongxs.com:
-||http://xuehongxs.com:8862^
 ||http://xujx8.com^
 ||http://xunhuaji.cn^
 ||http://xurizhongguo.cn^
 ||http://xuro006.com^
+||http://xuxiangkj.com^
 ||http://xw1001.com^
 ||http://xxkio.com^
 ||http://xy98.com.cn^
@@ -17636,6 +17629,7 @@ https://cankaoxiaoxi.com###qihupic
 https://so.com###qiyu-brand-container
 https://chinanews.com###qizhi_div980
 https://xineurope.com###qmenu_menu + .wp
+https://78dm.net###qpgg
 https://duba.com###qq_adv
 https://baidu.com###qrcode-chunwan
 https://fsclzs.com###qvod
@@ -18496,6 +18490,7 @@ https://big-cup.tv,g-cup.tv##.banner-table-block
 https://5118.com##.banner-top
 https://firefoxchina.cn##.banner-words
 https://fanyi.baidu.com,longzhu.com##.banner-wrap
+https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.banner-wrapper
 https://news.cn2che.com##.banner01
 https://sojson.com,wbzol.com,xizi.com##.banner1
 https://jinhua.com.cn##.banner1200
@@ -18585,7 +18580,6 @@ https://ifeng.com##.blockR.ipad_none:nth-last-child(2)
 https://boo.tw##.blockUI
 https://oschina.net##.blog-left-ad
 https://codexiu.cn##.blog-twitter:first-child
-https://xianzhenyuan.cn##.bm.a_c
 https://tropica.cn##.bm.a_c1
 https://ydss.cn##.bm.bml.pbn > table > tbody > tr > td:nth-child(-n+2)
 https://jlmhk.com##.bn
@@ -20689,7 +20683,7 @@ https://163.com,bilibili.com,longzhu.com##a[href*=".admaster."]
 https://itboth.com,itkeyword.com##a[href*=".aliyun."]
 https://boke112.com,dzbhdm.com,mzh.ren,techweb.com.cn##a[href*=".aliyun.com"]
 https://github.com##a[href*=".aliyun.com/minisite/goods?"]
-https://mydrivers.com##a[href*=".ashx?go="]
+https://mydrivers.com##a[href*=".ashx?to="]
 https://zhanqi.tv##a[href*=".bfun.cn/ad."]:not([href*=".zhanqi."])
 https://backchina.com##a[href*=".cardbenefit.com/"]
 https://cnbeta.com,qudong.com##a[href*=".ctyun."]
@@ -21953,6 +21947,8 @@ https://ali213.net#@#.subscribe-container
 https://5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
+https://360doc.com##.floatqrcode
+https://xueqiu.com##.widget__download-app
 https://123.com.cn##.bottom-ylink
 https://123.com.cn##.fixed-top
 https://douyu.com##.index-common-1-rrh
@@ -23820,6 +23816,7 @@ http://cankaoxiaoxi.com###qihupic
 http://so.com###qiyu-brand-container
 http://chinanews.com###qizhi_div980
 http://xineurope.com###qmenu_menu + .wp
+http://78dm.net###qpgg
 http://duba.com###qq_adv
 http://baidu.com###qrcode-chunwan
 http://fsclzs.com###qvod
@@ -24680,6 +24677,7 @@ http://big-cup.tv,g-cup.tv##.banner-table-block
 http://5118.com##.banner-top
 http://firefoxchina.cn##.banner-words
 http://fanyi.baidu.com,longzhu.com##.banner-wrap
+http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.banner-wrapper
 http://news.cn2che.com##.banner01
 http://sojson.com,wbzol.com,xizi.com##.banner1
 http://jinhua.com.cn##.banner1200
@@ -24769,7 +24767,6 @@ http://ifeng.com##.blockR.ipad_none:nth-last-child(2)
 http://boo.tw##.blockUI
 http://oschina.net##.blog-left-ad
 http://codexiu.cn##.blog-twitter:first-child
-http://xianzhenyuan.cn##.bm.a_c
 http://tropica.cn##.bm.a_c1
 http://ydss.cn##.bm.bml.pbn > table > tbody > tr > td:nth-child(-n+2)
 http://jlmhk.com##.bn
@@ -26873,7 +26870,7 @@ http://163.com,bilibili.com,longzhu.com##a[href*=".admaster."]
 http://itboth.com,itkeyword.com##a[href*=".aliyun."]
 http://boke112.com,dzbhdm.com,mzh.ren,techweb.com.cn##a[href*=".aliyun.com"]
 http://github.com##a[href*=".aliyun.com/minisite/goods?"]
-http://mydrivers.com##a[href*=".ashx?go="]
+http://mydrivers.com##a[href*=".ashx?to="]
 http://zhanqi.tv##a[href*=".bfun.cn/ad."]:not([href*=".zhanqi."])
 http://backchina.com##a[href*=".cardbenefit.com/"]
 http://cnbeta.com,qudong.com##a[href*=".ctyun."]
@@ -28137,6 +28134,8 @@ http://ali213.net#@#.subscribe-container
 http://5dm.tv#@#.tm-share-this
 http://laohu8.com#@#.tweet-article
 http://fqsousou.com,kengso.com#@#.user-share
+http://360doc.com##.floatqrcode
+http://xueqiu.com##.widget__download-app
 http://123.com.cn##.bottom-ylink
 http://123.com.cn##.fixed-top
 http://douyu.com##.index-common-1-rrh
