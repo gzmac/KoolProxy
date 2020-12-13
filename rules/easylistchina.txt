@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: eyOLuJn0XMpzhLQdYJuRcA
-! Version: 202012120023
+! Checksum: d+Sw1exmnOd5gShhfUVSTA
+! Version: 202012130022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -3619,8 +3619,8 @@
 ||https://ps557.com/link/
 ||https://ps886.us/js/*.js
 ||https://pstatp.com/large/pgc-image/e8bd997e82874259a66207d2f77f0c6c
-||https://pstatp.com/origin/1374a000205bdcde4096a.jpg
 ||https://pstatp.com/origin/1381500009611bc201d61
+||https://pstatp.com/origin/13816000374e83a453717.jpg
 ||https://pstatp.com/origin/fef20000e7013b3511b6
 ||https://psyzg.com/Public/Home/images/tuhe_240_236.gif
 ||https://ptbus.com/s.js
@@ -5511,7 +5511,6 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
-||http://depnegj.cn^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -6313,6 +6312,7 @@
 ||http://ddhtek.com^
 ||http://ddomm.com^
 ||http://deeplacer.com^
+||http://depnegj.cn^
 ||http://detuns.com^
 ||http://df3n43m.com^
 ||http://df77.com^
@@ -6578,6 +6578,7 @@
 ||http://haiyunpush.com^
 ||http://haiyunx.com^$third-party
 ||http://haizirv.cn^
+||http://handanxinkai.com^
 ||http://hanqidq.com^
 ||http://hao123union.baidu.com^$third-party
 ||http://hao222.com^$third-party
@@ -11507,8 +11508,8 @@
 ||http://ps557.com/link/
 ||http://ps886.us/js/*.js
 ||http://pstatp.com/large/pgc-image/e8bd997e82874259a66207d2f77f0c6c
-||http://pstatp.com/origin/1374a000205bdcde4096a.jpg
 ||http://pstatp.com/origin/1381500009611bc201d61
+||http://pstatp.com/origin/13816000374e83a453717.jpg
 ||http://pstatp.com/origin/fef20000e7013b3511b6
 ||http://pstatp.com^$domain=ahah3.com|beiwodi.com|i5qs.com|manhua123.net
 ||http://psyzg.com/Public/Home/images/tuhe_240_236.gif
@@ -12865,7 +12866,6 @@
 ||http://avgle.topgirlsdating.com^$domain=avgle.com
 ||http://jads.co^$domain=avgle.com
 ||http://olmsoneenh.info^$domain=avgle.com
-||http://bd1-china.xsfaya.com^
 ||http://003store.com^
 ||http://0512s.com^$third-party
 ||http://1.01fy.cn^
@@ -13076,6 +13076,7 @@
 ||http://bd.czxuexi.com^
 ||http://bd.ershenghuo.com^
 ||http://bd1-china.6789.com^
+||http://bd1-china.xsfaya.com^
 ||http://bd1.365qilu.com^
 ||http://bd1.99danji.com^
 ||http://bd1.click.com.cn^
@@ -13697,12 +13698,6 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://abi.run^
-||http://jisufeifei.com^
-||http://mxhbkj.cn^
-||http://ububyiw6655.xyz^
-||http://ohthub.com.cn^
-||http://jtwlj.cn^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13903,6 +13898,7 @@
 ||http://abckzo.cn^
 ||http://abeij.com^
 ||http://abfirst.cn^
+||http://abi.run^
 ||http://abie10.top^
 ||http://abie11.top^
 ||http://abie12.top^
@@ -13927,6 +13923,7 @@
 ||http://afefw.com^
 ||http://affiliate6.com^
 ||http://aganj.com^
+||http://ah808.com^
 ||http://ahanve.cn^
 ||http://ahidna.cn^
 ||http://ahinang.cn^
@@ -14097,6 +14094,7 @@
 ||http://bqhnj.cn^
 ||http://bqqsdv73724.cn^
 ||http://brysj.vip^
+||http://bsjgqhe.cn^
 ||http://bslmw.com^
 ||http://btbalex.cn^
 ||http://btnvlvt.cn^
@@ -14728,12 +14726,14 @@
 ||http://jinxinyuan.cn^
 ||http://jioder3e.cn^
 ||http://jioeg.com^
+||http://jisufeifei.com^
 ||http://jiudiandyw.com^
 ||http://jiujhzp.com^
 ||http://jiumishow.com^
 ||http://jiuwanzi.com^
 ||http://jixiby.cn^
 ||http://jiyuanzixun.com^
+||http://jj0453.com^
 ||http://jkert.com^
 ||http://jkleosnfjutme.top^
 ||http://jkxtd77.com^
@@ -14763,6 +14763,7 @@
 ||http://jsvv587.com^
 ||http://jswnuq.cn^
 ||http://jsyjwj.com^
+||http://jtwlj.cn^
 ||http://julitenj.com^
 ||http://jullycn.com^
 ||http://jundazulin.com^
@@ -14887,8 +14888,7 @@
 ||http://lnwow.co/1.
 ||http://lnwow.net/1.gif
 ||http://lobmuc.cn^
-||http://loli.net^$domain=rmxs8.com
-||http://loli.net^$domain=xinqingdou.com
+||http://loli.net^$domain=rmxs8.com|xinqingdou.com
 ||http://lolvsdota.cn^
 ||http://longfenfa.com^
 ||http://longkoupeanut.cn^
@@ -14985,6 +14985,7 @@
 ||http://muusn.cn^
 ||http://mwjpk.com^
 ||http://mx.biquge.info^
+||http://mxhbkj.cn^
 ||http://mxtailor.com^
 ||http://myams.cn^
 ||http://mydownba.com^
@@ -15057,6 +15058,7 @@
 ||http://octopuszyw.cn^
 ||http://oende.cn^
 ||http://oesnw.com^
+||http://ohthub.com.cn^
 ||http://oikqfwv.cn^
 ||http://oir85.cn^
 ||http://oiwjcsh001.top^
@@ -15090,6 +15092,7 @@
 ||http://paerst.cn^
 ||http://panwenjun.top^
 ||http://paochala.net^
+||http://pbtxt.win^
 ||http://pbvxtgn.cn^
 ||http://pcouis.cn^
 ||http://pd3a.cn^
@@ -15153,6 +15156,7 @@
 ||http://qbczpo.cn^
 ||http://qcsfxv.cn^
 ||http://qd836.cn^
+||http://qdhhdsw.cn^
 ||http://qdiut.com^
 ||http://qdmeifeng.cn^
 ||http://qdyazc.com^
@@ -15163,6 +15167,7 @@
 ||http://qhdop.com^
 ||http://qhxcdmfj.cn^
 ||http://qi-shi.top^
+||http://qianggou8.top^
 ||http://qianqianxsw.com^*xhtml
 ||http://qianrenge.cc/qian/
 ||http://qianyuntengyue.com^
@@ -15274,6 +15279,7 @@
 ||http://sfanf.com^
 ||http://sffxcwc.cn^
 ||http://sguac.com^
+||http://sgyebd.com^
 ||http://shangyingwm.com^
 ||http://shanyuebrowser.com^
 ||http://shaque.vip^
@@ -15466,6 +15472,7 @@
 ||http://u0r9.cn^
 ||http://u2c8.cn^
 ||http://uauwkfk.cn^
+||http://ububyiw6655.xyz^
 ||http://uc4a.cn^
 ||http://ucaii.com^
 ||http://ucvqmvg.cn^
@@ -15746,6 +15753,7 @@
 ||http://yimeize.cn^
 ||http://yingjiawm.com^
 ||http://yinlt.com^
+||http://yinvmh.com^
 ||http://yinzantouzi.com^
 ||http://yiqima.xyz^
 ||http://yitiaoyu.top^
@@ -15772,6 +15780,7 @@
 ||http://yokebao.com^
 ||http://yoobest.cn^
 ||http://youkete.cn^
+||http://youngalsobeautiful.com^
 ||http://youshouge513.cn^
 ||http://youtui456.com^
 ||http://youweiprint.com^
@@ -17629,6 +17638,7 @@ https://baidu.com###qrcode-chunwan
 https://fsclzs.com###qvod
 https://atyun.com###r_banner > ul > li > a[href^="http"]:not([href*="atyun."])
 https://163.com###r_mkaolaadv
+https://360.com###rainbow-cat-screen
 https://appinn.com###ranshownow
 https://game2.cn###rb
 https://tiboo.cn###read_hd1
@@ -23814,6 +23824,7 @@ http://baidu.com###qrcode-chunwan
 http://fsclzs.com###qvod
 http://atyun.com###r_banner > ul > li > a[href^="http"]:not([href*="atyun."])
 http://163.com###r_mkaolaadv
+http://360.com###rainbow-cat-screen
 http://appinn.com###ranshownow
 http://game2.cn###rb
 http://tiboo.cn###read_hd1
