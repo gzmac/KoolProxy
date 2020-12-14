@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: oaY5k5kWjnO9U6Q4scY6yQ
+! Checksum: RiE10kYZQzp5q9WqfDoUhw
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -138,6 +138,7 @@
 ! Taboola
 -taboola-article.
 -taboola-loader.
+/ad-taboola.min.js
 /components/taboola/*
 /modulo/taboola/*
 /taboola-header.js
@@ -3304,7 +3305,6 @@ _revotas_push.
 /twitter/lookup?
 /twitter/twitter_
 /twitter16x16.
-/twitter2.$domain=~arstechnica.com
 /twitter232.
 /twitter25x25.
 /twitter2_icon.
@@ -3519,7 +3519,6 @@ _btn_share_
 _btn_twitter.
 _delicious_btn.
 _email_social_
-_facebook-
 _facebook01.
 _facebook14.
 _facebook_24.
@@ -3576,7 +3575,6 @@ _ico_facebook.
 _ico_social_
 _ico_twitter.
 _ico_youtube.
-_icon-email.
 _icon-facebook.
 _icon-twitter.
 _icon_blog.
@@ -3601,14 +3599,11 @@ _instagram_badge
 _instagram_hover.
 _instagram_icon.
 _Linked_Logo.
-_linkedin-
 _linkedin_32.
 _linkedin_icon_
 _linkedin_social_
 _links/share.
 _mvsocialbuttons/
-_my_yahoo.$image
-_phone_social_
 _pinterest_icon
 _pinterest_social_
 _pinterest_square_
@@ -3706,7 +3701,6 @@ _stumble_upon.
 _technorati_24.
 _tumblr_hover.
 _tw_icon.
-_twitter-$~stylesheet
 _twitter01.
 _twitter3.
 _twitter_24.
@@ -6832,6 +6826,9 @@ _site_cookie_
 ##.pb-f-page-newsletter-inStream
 ##.pb-subscribe
 ##.pc-newsletter-sidebar
+##.pdb-newsletter
+##.pdb-newsletter_3col
+##.pdb-newsletter_article
 ##.pdb-sign-up
 ##.pgevoke-header-row2-right-newsletters
 ##.ph-optin
@@ -9484,6 +9481,7 @@ _site_cookie_
 ###js-Twitter-Container
 ###js-article-image-share
 ###js-article-share-top
+###js-avSharing
 ###js-btnShowShare
 ###js-dialog-social-overlay
 ###js-item-social-slider
@@ -9703,6 +9701,7 @@ _site_cookie_
 ###newGigyaShareBottom-HolderCenter
 ###newGigyaShareTop
 ###newGigyaShareTop-Holder
+###newSocialContainer
 ###new_share_icons
 ###new_socials_nav
 ###newfacebookpanel
@@ -11991,6 +11990,7 @@ _site_cookie_
 ##.authorbox-social
 ##.av-share-box
 ##.av-social-share
+##.avSharing
 ##.av_content_facebook
 ##.av_content_twitter
 ##.avia_fb_likebox
@@ -13908,6 +13908,7 @@ _site_cookie_
 ##.follow_us2
 ##.follow_us_heading
 ##.follow_us_right
+##.follow_us_wrp
 ##.follow_widget
 ##.followandshare
 ##.followbl
@@ -18071,6 +18072,7 @@ _site_cookie_
 ##.si-share-box
 ##.sib-post-share-buttons
 ##.sib-shareButton
+##.sics-component__footer__secondary-social
 ##.sics-component__sharebar
 ##.side-facebook
 ##.side-pinterest
@@ -20162,6 +20164,7 @@ _site_cookie_
 ##.tdr-share-wishlist__item
 ##.tds-social1
 ##.teaser-social-share
+##.teaser_social_block_trigger
 ##.teasershare
 ##.tech-social
 ##.tecnavia_img_share_icon
@@ -28077,6 +28080,7 @@ _site_cookie_
 ###wt-cookie-box
 ###wt_cookieconsent
 ###wucAcceptCookies_panAcceptCookies
+###wvc-privacy-policy-message-content
 ###ww-cookie-information
 ###ww_cookie_consent
 ###wwf-cookie
@@ -33440,6 +33444,7 @@ _site_cookie_
 ##.z-cookieBar_wrapper
 ##.z-navicat-header-cookieBar
 ##.z16_cookies_banner-wrapper
+##.zalrt-zcookies-alert
 ##.zen-privacypolicypopup
 ##.zenario_cookie_consent
 ##.zenconsent-popup
@@ -34822,6 +34827,7 @@ _site_cookie_
 ||pgs.aviationweek.com^
 ||politics.co.uk^*/newsletter.
 ||premierchristianradio.com^*/Stay-informed-
+||pym.nprapps.org^$domain=dw.com
 ||reclaimthenet.org^*/subs.jpg
 ||revntv.com^*-Subscribe-
 ||rferl.org/a/29791891.html
@@ -38366,6 +38372,8 @@ propublica.org##.module-donate
 newsweek.com##.msub
 propublica.org##.promo-bar__link-wrapper
 newsweek.com##.subscribe-block-wrapper
+stuff.co.nz##.support-brief-container
+stuff.co.nz##.ta.t9.t8
 ! Youtube TV promos
 youtube.com##.ytd-primetime-promo-renderer
 ! instgram.com hovercards
@@ -38593,6 +38601,7 @@ space.com,tomshardware.co.uk,tomshardware.com###popup-modal
 thrillist.com###popup-signup
 peoplesworld.org###popupModal
 worldreligionnews.com###post_footer_promo
+dw.com###promio-pym-container
 scientificamerican.com###promo-header
 buzzfeed.com###promo-popup
 sperry.com,striderite.com###promotionalPopup
@@ -41230,6 +41239,7 @@ thebanker.com###bdbanner
 europa.eu###block-esm-base-cookie-message-footer
 freecycle.org###blocker_message
 lucidsamples.com###blocksplash
+afootballreport.com###botnot
 awwapp.com###bottom-notification
 gamelink.com###bottomAlert
 litmind.com###bottom_notice
@@ -42092,6 +42102,7 @@ handelsblatt.com###divStickyLayerWrapper
 focus.de###flying_mbox
 foerderland.de###footerFlyout
 valentins.de###myModal
+nw.de###nl-box
 ###nutzungs_einverstaendnis
 voelkner.de###push
 moebel-hubacher.ch###scrollTopLink
@@ -42828,6 +42839,7 @@ inran.it##div[style="background-color: #f0f0f0; text-align: center; font-size:12
 trend-online.com##div[style="display:flex;padding:10px;background:#efefef;border:1px solid #dadada; border-top: 2px solid #638d43"]
 ||centrometeoitaliano.it^*/logo-messaggero.
 ||superguidatv.it^*/head-tgCom.
+||zeusnews.it/pic/04.png
 !
 ! ---------- Japanese Site Specific Rules ----------
 !

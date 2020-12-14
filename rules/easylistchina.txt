@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: d+Sw1exmnOd5gShhfUVSTA
-! Version: 202012130022
+! Checksum: r+nWA9dTH3SrmdPmkIjKLA
+! Version: 202012140022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1097,6 +1097,7 @@
 ||https://58.com/demand/content?
 ||https://58.com/ds/tgbrand/*.js
 ||https://58.com/show/ads?
+||https://583she.xyz/dds/
 ||https://5888.tv/User_Ad/
 ||https://58cdn.com.cn/ds/tgbrand/*.js
 ||https://58cdn.com.cn/ds/zhuangxiu/jzad-
@@ -2057,8 +2058,7 @@
 ||https://content.xilu.com^$object
 ||https://coolaler.com/index_ads/
 ||https://coolpc.com.tw/img/topweb.html
-||https://cosxcos.cc/uploads/*bb
-||https://cosxcos.cc/uploads/*my
+||https://cosxcos.cc/uploads/aaybabc/
 ||https://cp121.com/js2/
 ||https://cpbl-elta.cdn.hinet.net/web/images/ad_
 ||https://cpd.com.cn/template/*.swf
@@ -4317,6 +4317,7 @@
 ||https://w51t.com^$subdocument
 ||https://wa.kuwo.cn/lyrics/img/kwgg/
 ||https://wacowla.com/wp-content/plugins/popover/js/
+||https://wai69.com/js/baidu/
 ||https://wallstcn.com/image?url=http%3A%2F%2Fcbjs.
 ||https://wallstcn.com^*-300x250.
 ||https://wallstreetcn.com/apiv1/earn/impression/
@@ -7884,6 +7885,7 @@
 ||http://xyadtlyya.cn^
 ||http://xyadtlyya.com^
 ||http://xyadtlyya.vip^
+||http://xyadtlyyc.vip^
 ||http://xyadyzpsb.com^
 ||http://xycnz.com^
 ||http://xycnzz.com^
@@ -8633,6 +8635,7 @@
 ||http://58.com/demand/content?
 ||http://58.com/ds/tgbrand/*.js
 ||http://58.com/show/ads?
+||http://583she.xyz/dds/
 ||http://5888.tv/User_Ad/
 ||http://58cdn.com.cn/ds/tgbrand/*.js
 ||http://58cdn.com.cn/ds/zhuangxiu/jzad-
@@ -9730,8 +9733,7 @@
 ||http://content.xilu.com^$object
 ||http://coolaler.com/index_ads/
 ||http://coolpc.com.tw/img/topweb.html
-||http://cosxcos.cc/uploads/*bb
-||http://cosxcos.cc/uploads/*my
+||http://cosxcos.cc/uploads/aaybabc/
 ||http://cp121.com/js2/
 ||http://cp2.eastmoney.com^
 ||http://cpbl-elta.cdn.hinet.net/web/images/ad_
@@ -12289,6 +12291,7 @@
 ||http://w51t.com^$subdocument
 ||http://wa.kuwo.cn/lyrics/img/kwgg/
 ||http://wacowla.com/wp-content/plugins/popover/js/
+||http://wai69.com/js/baidu/
 ||http://wallstcn.com/image?url=http%3A%2F%2Fcbjs.
 ||http://wallstcn.com^*-300x250.
 ||http://wallstreetcn.com/apiv1/earn/impression/
@@ -14547,6 +14550,7 @@
 ||http://hcprzx.cn^
 ||http://hdfdm.com^
 ||http://hdminfeng.com^
+||http://hdvwm3.cn^
 ||http://hdweds.cn^
 ||http://hdzkjv.cn^
 ||http://headwell.cn^
@@ -17296,6 +17300,7 @@ https://houdao.com###header-ban
 https://maxthon.cn###header-float-promote
 https://2345.com###header-news
 https://hao.360.cn,hao.360.com###header-patch
+https://aiqiyivip.com###header-top + div[style]
 https://060s.com###header4
 https://bdinfo.net###header_AD
 https://131458.com###header_gg
@@ -17311,6 +17316,7 @@ https://aizhan.com###home_text_content
 https://ruanyifeng.com###homepage_pos
 https://3987.com,588230.com###hongbao
 https://3boys2girls.com###hotbar
+https://360.com###hotbottom_littlenav
 https://sogou.com###hotel_vr_details
 https://sohu.com###hotpicnew
 https://yahoo.com###hp-ad-left
@@ -21798,6 +21804,7 @@ https://bejson.com#?#body>:not(ul):not(div):-abp-has(>:-abp-contains(香港))
 https://bejson.com##div[id^="shua"] + font[color="red"]
 https://bejson.com##div[id^="shuangshi"]
 https://bejson.com##img[src^="data"]
+https://bde4.cc###ayx
 https://bingfeng.tw##.wow-ad-link
 https://bingfeng.tw##div[style="position: fixed; left: 0px; top: 0px; width: 100%; height: 100%; z-index: 999;"]
 https://btzhongzifuli.com,cililianbt.org,maomaobt.cc,sousoucili.com,zhainanzhongzi.cc##.photos
@@ -21948,7 +21955,9 @@ https://ali213.net#@#.subscribe-container
 https://5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
-https://baidu.com#?#.pager-container:-abp-has(>.treasure-main)
+https://wendu.com##.foot_adv
+https://wendu.com##.head-banner
+https://baidu.com##.search-box-wrapper + .pager-container
 https://baidu.com##.fufei-activity-bar
 https://360doc.com##.floatqrcode
 https://xueqiu.com##.widget__download-app
@@ -23482,6 +23491,7 @@ http://houdao.com###header-ban
 http://maxthon.cn###header-float-promote
 http://2345.com###header-news
 http://hao.360.cn,hao.360.com###header-patch
+http://aiqiyivip.com###header-top + div[style]
 http://060s.com###header4
 http://bdinfo.net###header_AD
 http://131458.com###header_gg
@@ -23497,6 +23507,7 @@ http://aizhan.com###home_text_content
 http://ruanyifeng.com###homepage_pos
 http://3987.com,588230.com###hongbao
 http://3boys2girls.com###hotbar
+http://360.com###hotbottom_littlenav
 http://sogou.com###hotel_vr_details
 http://sohu.com###hotpicnew
 http://yahoo.com###hp-ad-left
@@ -27984,6 +27995,7 @@ http://bejson.com#?#body>:not(ul):not(div):-abp-has(>:-abp-contains(香港))
 http://bejson.com##div[id^="shua"] + font[color="red"]
 http://bejson.com##div[id^="shuangshi"]
 http://bejson.com##img[src^="data"]
+http://bde4.cc###ayx
 http://bingfeng.tw##.wow-ad-link
 http://bingfeng.tw##div[style="position: fixed; left: 0px; top: 0px; width: 100%; height: 100%; z-index: 999;"]
 http://btzhongzifuli.com,cililianbt.org,maomaobt.cc,sousoucili.com,zhainanzhongzi.cc##.photos
@@ -28134,7 +28146,9 @@ http://ali213.net#@#.subscribe-container
 http://5dm.tv#@#.tm-share-this
 http://laohu8.com#@#.tweet-article
 http://fqsousou.com,kengso.com#@#.user-share
-http://baidu.com#?#.pager-container:-abp-has(>.treasure-main)
+http://wendu.com##.foot_adv
+http://wendu.com##.head-banner
+http://baidu.com##.search-box-wrapper + .pager-container
 http://baidu.com##.fufei-activity-bar
 http://360doc.com##.floatqrcode
 http://xueqiu.com##.widget__download-app
