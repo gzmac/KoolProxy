@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: RiE10kYZQzp5q9WqfDoUhw
+! Checksum: pfb4eN7IJJJ30FNybapWHw
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -6094,6 +6094,7 @@ _site_cookie_
 ##.content--newsletter
 ##.content-c__newsletter--box
 ##.content-mod-newsletter-right
+##.content-subscribe-block
 ##.content-toaster--newsletter
 ##.content-well-newsletter
 ##.cookie-notice-wrapper-newsletter
@@ -6884,6 +6885,7 @@ _site_cookie_
 ##.scroll-navigation-subscribe
 ##.sec-signup
 ##.section--newsletter
+##.section-content-newsletter
 ##.section-newsletter
 ##.section-newsletters
 ##.section_newsletter
@@ -13225,20 +13227,9 @@ _site_cookie_
 ##.fBsocial
 ##.fButtonLarge
 ##.f_social
-##.fa-facebook-square
 ##.fa-fb
 ##.fa-google-plus-official
 ##.fa-google-plus-square
-##.fa-linkedin-square
-##.fa-pinterest-p
-##.fa-pinterest-square
-##.fa-share
-##.fa-share-alt
-##.fa-share-square-o
-##.fa-snapchat-square
-##.fa-twitter-square
-##.fa-xing-square
-##.fa-youtube-square
 ##.fa232-facebook
 ##.fa232-twitter
 ##.faceBookButton
@@ -18621,6 +18612,7 @@ _site_cookie_
 ##.social-follow-list
 ##.social-follow-small
 ##.social-follow-us__list
+##.social-follow__container
 ##.social-followers
 ##.social-foot
 ##.social-footer
@@ -19709,6 +19701,7 @@ _site_cookie_
 ##.socialpopdust
 ##.socialright
 ##.socials
+##.socials-banner
 ##.socials-bar
 ##.socials-block
 ##.socials-box
@@ -35973,6 +35966,7 @@ rdnewsnow.com###next-article
 economist.com###next-article-carousel
 economist.com###next-article-carousel-wrapper
 wbur.org###next-article-wrap
+the8-bit.com###next-block__wrap
 hiphopdx.com###next-news
 adultswim.com###next-playlist-arrow
 cp-africa.com,petflow.com,venturebeat.com###next-post
@@ -36111,6 +36105,7 @@ thestreet.com###premServ
 theatlantic.com###premiumArchive
 computerweekly.com,techtarget.com###premiumContentPromo
 rdnewsnow.com###prev-article
+the8-bit.com###prev-block__wrap
 bozemandailychronicle.com###prev-next-nav
 coconuts.co###prev_article
 abovethelaw.com###prev_post
@@ -38374,6 +38369,7 @@ propublica.org##.promo-bar__link-wrapper
 newsweek.com##.subscribe-block-wrapper
 stuff.co.nz##.support-brief-container
 stuff.co.nz##.ta.t9.t8
+zerohedge.com##[class^="Banner_"]
 ! Youtube TV promos
 youtube.com##.ytd-primetime-promo-renderer
 ! instgram.com hovercards
@@ -39103,6 +39099,7 @@ motorsport.com##.ms-footer_top
 msnbc.com##.msnbcDaily__footer
 ft.com##.n-sliding-popup
 nature.com##.nature-briefing
+nypost.com##.nav-header--email
 njtvonline.org##.nav-signup
 shine.cn##.nav-tools
 nationalinterest.org##.nav__mag
@@ -39182,6 +39179,7 @@ theglobeandmail.com##.pb-f-marketing-container-placeholder
 washingtonpost.com##.pb-f-page-follow-instream
 playboy.com##.pb-newsletter
 playbuzz.com##.pb-site-subscription
+washingtontimes.com##.piano-fixed-footer-two
 dcalert.com##.pk-subscribe-container
 dcalert.com##.pk-subscribe-data
 slate.com##.plus-promo
@@ -39426,6 +39424,9 @@ wwd.com##.wwd-subscribe-now-banner-ad-container
 concisenews.global,palmerreport.com##.yikes-mailchimp-container
 nypost.com,pagesix.com##.zephr-component
 minds.com##M-MODAL
+zerohedge.com##[class^="ExitModalNewsletter_"]
+zerohedge.com##[class^="MidArticleNewsletter_"]
+zerohedge.com##[class^="SidebarNewsletter_"]
 chicksonright.com##[data-name="Subscribe"]
 rollingstone.com##[href="/subscribe-more/"]
 visualcapitalist.com##[href="https://www.visualcapitalist.com/subscribe"]
@@ -42630,7 +42631,7 @@ sanihelp.it###iscriviti
 citywire.it###jsRegisterAlertBanner
 italiaoggi.it###lig_movingup2it_smartbox
 lavocedelnordest.eu###mb-scrollup
-agenziaimpress.it,cinainitalia.com,davidemaggio.it,francescocosta.net,ilfarosulmondo.it,ilpost.it,meteonetwork.it,moked.it,money.it,pallacanestrotrieste.it,playstationbit.com,techzilla.it,tvsvizzera.it,vvox.it###mc_embed_signup
+agenziaimpress.it,cinainitalia.com,davidemaggio.it,francescocosta.net,ilfarosulmondo.it,ilpost.it,informagiovani-italia.com,meteonetwork.it,moked.it,money.it,pallacanestrotrieste.it,playstationbit.com,techzilla.it,tvsvizzera.it,vvox.it,winedharma.com###mc_embed_signup
 decathlon.it###messagetop
 milanofinanza.it###milanofinanza_web_smartbox_article
 automoto.it,moto.it###mit-bottombar
@@ -44879,12 +44880,13 @@ gamershqitalia.it###wrapDisclaimer
 meyer.it###zf--alerts-panel
 intrage.it##.BoxPrivacy
 rivistastudio.com##.SCK_Banner
-abruzzo24ore.tv,abruzzoindependent.it,capoluogo.com,economia24ore.it,fosse-biologiche.it,gossip24ore.it,il24ore.it,ilmeteo24ore.it,occhioallook.it,recensioni.tv,tuttosport24ore.it##._CL_main
+abruzzo24ore.tv,abruzzoindependent.it,capoluogo.com,economia24ore.it,energiarinnovabile.org,fosse-biologiche.it,gossip24ore.it,il24ore.it,ilmeteo24ore.it,occhioallook.it,recensioni.tv,tuttosport24ore.it##._CL_main
 arbitrobancariofinanziario.it##.abf-no-cookie::after
 meteoeradar.it##.active
 agenziagiovani.it,assocarta.it,cassoni-usati.it,farmenspa.it,salvaunbambino.it##.activebar-container
 cafassoefigli.it,dirigentindustria.it,essofuelfinder.it,faperme.it,pagellapolitica.it,playinfinity.it,saperesalute.it,siemens.it,trivago.it,tufanogomme.com,uabstyle.it,voglioviverecosi.com##.alert
 intimerie.com##.alert-info
+bakecaincontrii.com##.alert-secondary
 lainox.it##.background_overlay
 elettrocasa.it##.banner
 bisceglielive.it##.biscotto
@@ -44947,7 +44949,7 @@ tupperware.it##.notificationBox
 fieraforli.it##.ns-box
 rubner.com##.page__notification
 nh-hotels.it##.politicaRewards
-ecoage.it,edilvetta.it,naegele.it,nigiara.it##.privacy
+ecoage.it,edilvetta.it,naegele.it,nigiara.it,okpedia.it##.privacy
 smtvsanmarino.sm##.privacy-top
 italradio.org##.privacyStatement
 idoctors.it##.privacy_bottom
@@ -45736,6 +45738,7 @@ answers.microsoft.com#@##SocialIcons
 beautifulplanet4u.com#@##advancedsocialwidget
 api.oneall.com#@##button_facebook
 api.oneall.com,lanik.us#@##button_twitter
+mediathekviewweb.de#@##cookieModal
 digg.com#@##digg-widget
 digg.com#@##digg_module
 digg.com#@##digg_upcoming_content
@@ -45953,6 +45956,7 @@ flattr.com#@#.icon-youtube
 community.imgur.com#@#.icons
 upworthy.com#@#.image-share
 24h.com.vn,dailymail.co.uk,eva.vn,mogaznews.com,stationgossip.com,thisismoney.co.uk#@#.img-share
+roblox.com#@#.inline-social
 instagram.com#@#.instagram-follow
 fandom.com#@#.is-social
 dikidi.net#@#.item-shares
