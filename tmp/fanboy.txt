@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: pfb4eN7IJJJ30FNybapWHw
+! Checksum: nomrVToRAss6UnVWu5xxrQ
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -6040,6 +6040,7 @@ _site_cookie_
 ##.c-newsletter--footer
 ##.c-newsletter-article
 ##.c-newsletter-article__content
+##.c-newsletter-banner
 ##.c-newsletter-context
 ##.c-newsletter-form
 ##.c-newsletter-form__inner
@@ -14161,6 +14162,7 @@ _site_cookie_
 ##.footersocial
 ##.footersocialbtn
 ##.footersociallinks
+##.footsocial
 ##.footsocialize
 ##.for_sharing
 ##.format-social-buttons
@@ -19130,6 +19132,7 @@ _site_cookie_
 ##.social-wrp
 ##.social-youtube
 ##.social-yt
+##.social.nav
 ##.social.thumb
 ##.social2
 ##.social2-links-wrapper
@@ -22467,6 +22470,7 @@ _site_cookie_
 ###amp-user-notification-privacy
 ###analytics-consent
 ###analytics_cookie
+###andcookie
 ###andytimes_privacy_div
 ###announcement-eu-cookie
 ###announcement-eucookielaw
@@ -28556,6 +28560,7 @@ _site_cookie_
 ##.ams-m-cookie-warning
 ##.amz-cookies-notice
 ##.analytics-consent
+##.andcookie
 ##.animate-cookie-message
 ##.announcement-eu-cookie
 ##.announcement.cookies
@@ -46706,6 +46711,7 @@ yoigo.com#@#thor-cookies
 @@||onetrust.com/request/$xmlhttprequest
 @@||ozmotorbike.com/templates/motorbike/js/vendor/cookies-enabler.js
 @@||ozracing.com/templates/oz/js/vendor/cookies-enabler.min.js
+@@||parastorage.com/services/wix-thunderbolt/dist/cookiesManager.$script,domain=artisansakemaker.com
 @@||policy.app.cookieinformation.com^$script,domain=eniro.se
 @@||porno720.pl/core/js/cookieinfo.js
 @@||portal.aae.at/changeportal/js/lib/cookieconsent.js$script,~third-party
