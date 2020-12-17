@@ -5,8 +5,8 @@ alias echo_date='echo $(date "+%F %T"):'
 
 LOGFILE="tmp/koolproxy.log"
 url_cjx="https://shaoxia1991.coding.net/p/cjxlist/d/cjxlist/git/raw/master/cjx-annoyance.txt"
-url_kp="https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/kp.dat"
-url_kp_md5="https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/kp.dat.md5"
+url_kp="https://raw.githubusercontent.com/houzi-/CDN/master/kp.dat"
+url_kp_md5="https://raw.githubusercontent.com/houzi-/CDN/master/kp.dat.md5"
 url_easylist="https://easylist-downloads.adblockplus.org/easylistchina.txt"
 url_yhosts="https://shaoxia1991.coding.net/p/yhosts/d/yhosts/git/raw/master/hosts"
 url_yhosts1="https://shaoxia1991.coding.net/p/yhosts/d/yhosts/git/raw/master/data/tvbox.txt"
