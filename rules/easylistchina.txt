@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: EWBUBfghZqSvO6pKG6WoUA
-! Version: 202012170023
+! Checksum: mSV6mLuJb2VCuFnqczqWmA
+! Version: 202012180026
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -3478,6 +3478,7 @@
 ||https://nownews.com/assets/js/setAds.js
 ||https://nqbcf.cn/html/top
 ||https://nrsfh.com/neirong/
+||https://ntimg.cn/original/images/www_ads.jpg
 ||https://nulltm.com/adv.js
 ||https://nvsheng.com/js/gg.js
 ||https://nxing.cn/uploads/uploads/*-size1220x
@@ -4601,6 +4602,7 @@
 ||https://ygodl.com/wp-content/uploads/*.js
 ||https://yhdm.io/bar/
 ||https://yibo5.cn/img0
+||https://yidengfe.com/launches/01/yd.png
 ||https://yigujin.cn/faaa/
 ||https://yigujin.cn/img/abc/
 ||https://yigujin.cn/tp/*_hengchuangfuwqi.
@@ -4847,7 +4849,6 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
-||https://ntimg.cn/original/images/www_ads.jpg
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -5374,6 +5375,7 @@
 ||https://sinaimg.cn/news/diversion/index2/static/js/index.
 ||https://sinaimg.cn^*/pushDiversion*.js
 ||https://iviewui.com/v1/*?name=
+||https://sinaimg.cn/news/article/article_qcode
 ||https://3158.cn^*_analyser.
 ||https://lnd.com.cn/sys/real_calc.js
 ||https://sogou.com/dr/p1.gif
@@ -5519,8 +5521,6 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
-||http://pinyoux.com^
-||http://itchenjian.com^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -6750,6 +6750,7 @@
 ||http://istcg.com^$third-party
 ||http://istreamsche.com^$third-party
 ||http://it028.net.cn^
+||http://itchenjian.com^
 ||http://itechwall.com^$third-party
 ||http://itemccmod.com^
 ||http://iwansf.com^
@@ -7213,6 +7214,7 @@
 ||http://pic12x20.com^
 ||http://piclick.cn^$third-party
 ||http://pingping888.com^
+||http://pinyoux.com^
 ||http://pjshw.cn^
 ||http://pjtymy.cn^
 ||http://pk965.com^
@@ -7963,6 +7965,7 @@
 ||http://yixui.com^
 ||http://yk0712.com^
 ||http://ykjmy.com^
+||http://ylflwbj.cn^
 ||http://ylzx.net^$third-party
 ||http://ymcqb.com^
 ||http://ymima360.com^
@@ -8921,6 +8924,7 @@
 ||http://a.xywy.com^
 ||http://a2.b310.com^
 ||http://a2.xinhuanet.com^
+||http://a2put.chinaz.com^
 ||http://a3v4.top/Picture/aiai.gif
 ||http://a5xiazai.com/z/
 ||http://aassy4.com/dm/
@@ -11358,6 +11362,7 @@
 ||http://nownews.com/assets/js/setAds.js
 ||http://nqbcf.cn/html/top
 ||http://nrsfh.com/neirong/
+||http://ntimg.cn/original/images/www_ads.jpg
 ||http://nulltm.com/adv.js
 ||http://nvsheng.com/js/gg.js
 ||http://nxing.cn/uploads/uploads/*-size1220x
@@ -12608,6 +12613,7 @@
 ||http://ygodl.com/wp-content/uploads/*.js
 ||http://yhdm.io/bar/
 ||http://yibo5.cn/img0
+||http://yidengfe.com/launches/01/yd.png
 ||http://yigujin.cn/faaa/
 ||http://yigujin.cn/img/abc/
 ||http://yigujin.cn/tp/*_hengchuangfuwqi.
@@ -12872,7 +12878,6 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
-||http://ntimg.cn/original/images/www_ads.jpg
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a67.com|99re.com
 ||http://jsdelivr.net^$domain=99a67.com
@@ -13047,6 +13052,7 @@
 ||http://a1.shusanqi.com^
 ||http://a1.sumiaowang.com^
 ||http://a1.twtym.com^
+||http://a1.zhanzhang.net^
 ||http://a15d55423.5tps.xyz^
 ||http://a3.jandan.net^
 ||http://aa.0755rc.com^
@@ -13720,11 +13726,6 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://zxlmnet.com^
-||http://51showmy.com^
-||http://hyuanprint.com^
-||http://fjylcy.com^
-||http://nmlhkj.com^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13838,6 +13839,7 @@
 ||http://51foodsafe.cn^
 ||http://51gpt.com^
 ||http://51posj.cn^
+||http://51showmy.com^
 ||http://51wxyx.cn^
 ||http://52homie.cn^
 ||http://52tushuo.com^
@@ -13902,6 +13904,7 @@
 ||http://8v61j.cn^
 ||http://8yrn.cn^
 ||http://91cy.top^
+||http://91funcy.com^
 ||http://91jiedai.cn^
 ||http://922x7c.cn^
 ||http://958so.cn^
@@ -14419,6 +14422,7 @@
 ||http://fjmrxys.com^
 ||http://fjshxzyyxgs.cn^
 ||http://fjtzjy.com^
+||http://fjylcy.com^
 ||http://fkkse.com^
 ||http://fll007.com^
 ||http://fnpet.cn^
@@ -14655,6 +14659,7 @@
 ||http://hyjyjc.com^
 ||http://hypzv.com^
 ||http://hytcsh.cn^
+||http://hyuanprint.com^
 ||http://hyxca.top^
 ||http://hyyazhaji.com^
 ||http://hzht666.com^
@@ -15064,6 +15069,7 @@
 ||http://nlqnmkn.cn^
 ||http://nlyjs2015.com^
 ||http://nlzq888.com^
+||http://nmlhkj.com^
 ||http://nmqdnykj.com^
 ||http://nmtouzi.com^
 ||http://nongzhifu.cn^
@@ -15162,6 +15168,7 @@
 ||http://pos68.cn^
 ||http://pougg.com^
 ||http://ppee.xyz^
+||http://pppxia.com^
 ||http://pqezdo.cn^
 ||http://pqnlorg.cn^
 ||http://pqwtrq.xyz^
@@ -15412,6 +15419,7 @@
 ||http://symag.cn^
 ||http://symah.cn^
 ||http://syooys.com^
+||http://syrstrq.cn^
 ||http://sysadult.cn^
 ||http://sysal.cn^
 ||http://sysycloud.com^
@@ -15629,6 +15637,7 @@
 ||http://wsvike.cn^
 ||http://wsxxu.com^
 ||http://wszzb.top^
+||http://wtgongsi.com^
 ||http://wtnjupl.cn^
 ||http://wuwuhh.top^
 ||http://wuyanauto.com^
@@ -15950,6 +15959,7 @@
 ||http://zxhymh.com^
 ||http://zxin131.cn^
 ||http://zxjjzx.com^
+||http://zxlmnet.com^
 ||http://zxpyzc.cn^
 ||http://zxsmxt.com^
 ||http://zxzhengxin.com^
@@ -16388,6 +16398,7 @@
 ||http://sinaimg.cn^*/pushDiversion*.js
 ||http://msstatic.com/huya/main3/widget/DiyActLayer/DiyActLayer_*.js
 ||http://iviewui.com/v1/*?name=
+||http://sinaimg.cn/news/article/article_qcode
 ||http://3158.cn^*_analyser.
 ||http://pv.cheshi.com^
 ||http://tracking.kdnet.net^
@@ -17576,6 +17587,7 @@ https://rising.cn###pageflip
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_encourage-appforum\/pagelet\/my_app
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_encourage-tbguess\/pagelet\/sidebar
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_frs-aside\/pagelet\/ad
+https://baidu.com###pagelet_frs-aside\/pagelet\/fengchao_ad
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_frs-header\/pagelet\/head_content_middle > div[class]:not([class*="_"]):first-child
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_search\/pagelet\/search_ad
 https://whnews.cn###panel
@@ -19029,6 +19041,7 @@ https://smzdm.com##.feed-stuff
 https://firefoxchina.cn##.feed-tm11
 https://kalvin.cn##.fell_advertisement_box
 https://ytbbs.com##.fend_ad
+https://baidu.com##.fengchao-wrap
 https://home.ifeng.com##.fengjc02
 https://hao.360.cn##.festival_snatch
 https://firefoxchina.cn##.ff-banner
@@ -21993,6 +22006,8 @@ https://ali213.net#@#.subscribe-container
 https://5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
+https://sina.com.cn##.fl_feedFous
+https://sina.com.cn##.tab_related_app_imglink
 https://nipic.com##.vip_show
 https://nipic.com##.vip_homeshow
 https://baidu.com##.guide-to-univer-app-root
@@ -23778,6 +23793,7 @@ http://rising.cn###pageflip
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_encourage-appforum\/pagelet\/my_app
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_encourage-tbguess\/pagelet\/sidebar
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_frs-aside\/pagelet\/ad
+http://baidu.com###pagelet_frs-aside\/pagelet\/fengchao_ad
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_frs-header\/pagelet\/head_content_middle > div[class]:not([class*="_"]):first-child
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_search\/pagelet\/search_ad
 http://whnews.cn###panel
@@ -25231,6 +25247,7 @@ http://smzdm.com##.feed-stuff
 http://firefoxchina.cn##.feed-tm11
 http://kalvin.cn##.fell_advertisement_box
 http://ytbbs.com##.fend_ad
+http://baidu.com##.fengchao-wrap
 http://home.ifeng.com##.fengjc02
 http://hao.360.cn##.festival_snatch
 http://firefoxchina.cn##.ff-banner
@@ -28195,6 +28212,8 @@ http://ali213.net#@#.subscribe-container
 http://5dm.tv#@#.tm-share-this
 http://laohu8.com#@#.tweet-article
 http://fqsousou.com,kengso.com#@#.user-share
+http://sina.com.cn##.fl_feedFous
+http://sina.com.cn##.tab_related_app_imglink
 http://nipic.com##.vip_show
 http://nipic.com##.vip_homeshow
 http://baidu.com##.guide-to-univer-app-root
