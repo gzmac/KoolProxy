@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: d08wBaGfaFrapwWbch2blg
+! Checksum: o6eELe/06ornu5ojDZrftw
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -8001,6 +8001,7 @@ _site_cookie_
 ##.scroll-to-top-arrow
 ##.scroll-to-top-btn
 ##.scroll-to-top-button
+##.scroll-to-top-link
 ##.scroll-to-top-square:not(body)
 ##.scroll-to-top:not(body)
 ##.scroll-to.top
@@ -14949,7 +14950,6 @@ _site_cookie_
 ##.icon-inq-facebook
 ##.icon-inq-twitter
 ##.icon-insta
-##.icon-instagram
 ##.icon-instagram-box
 ##.icon-instagram-circle
 ##.icon-instagram-encircled
@@ -14959,7 +14959,6 @@ _site_cookie_
 ##.icon-instagramm
 ##.icon-ion-android-share-alt
 ##.icon-link--share
-##.icon-linkedin
 ##.icon-linkedin-box
 ##.icon-linkedin-circled
 ##.icon-linkedin-sign
@@ -15069,7 +15068,6 @@ _site_cookie_
 ##.icon-tw-white
 ##.icon-tweet
 ##.icon-twitch
-##.icon-twitter
 ##.icon-twitter-2
 ##.icon-twitter-24
 ##.icon-twitter-alt
@@ -15098,7 +15096,6 @@ _site_cookie_
 ##.icon-wechat
 ##.icon-whatsapp
 ##.icon-witter
-##.icon-youtube
 ##.icon-youtube-24
 ##.icon-youtube-alt
 ##.icon-youtube-play-2
@@ -31907,6 +31904,7 @@ _site_cookie_
 ##.js-cookies-box
 ##.js-cookies-consent
 ##.js-cookies-message
+##.js-cookies-not-accepted
 ##.js-cookies-notice
 ##.js-cookiesAdv
 ##.js-cookies_informer
@@ -38749,6 +38747,7 @@ newshub.co.nz##.ArticleAttribution
 sitepoint.com##.ArticleHead_supplemental
 mic.com##.Bsv
 talkingpointsmemo.com##.Daybreaker
+walmart.com##.EmailCapture
 cbssports.com##.EventPromoInline
 walmart.com##.Footer-topSection
 sitepoint.com##.FooterSub_form
@@ -39400,6 +39399,7 @@ thenation.com##.takeaction
 10clouds.com##.tenc-blog-post__progress
 eos.org##.text-15
 nymag.com##.text-form-wrapper
+publicintegrity.org##.themomentcontainer
 time.com##.time-newsletters
 gomechanicalkeyboard.com##.tl-state-root
 thenewdaily.com.au##.tnd-subscribe-modal
@@ -39479,6 +39479,8 @@ pri.org##div[class^="CtaMessage_"]
 nytimes.com##div[class^="Dock-dock-"]
 nowthisnews.com,thrillist.com##div[class^="EmailAcquisitonstyles"]
 nytimes.com##div[class^="InlineMessage-inline-"]
+usnews.com##div[class^="KioskEconomy__Container-"]
+usnews.com##div[class^="KioskFirstClass__Container-"]
 inc.com##div[class^="NewsLetterBar"]
 axios.com##div[class^="StreamCap__promoContainer"]
 dallasnews.com##div[class^="app_cta-newsletter"]
@@ -45970,20 +45972,16 @@ flattr.com#@#.icon-flickr
 flattr.com,hacpai.com#@#.icon-github
 battle.net,chess.com,imgur.com,login.alibaba.com#@#.icon-google
 myanimelist.net#@#.icon-gp
-flattr.com,gleam.io#@#.icon-instagram
-fora.ie,login.alibaba.com#@#.icon-linkedin
 techjunkie.com#@#.icon-social
 carsguide.com.au#@#.icon-social-facebook
 carsguide.com.au#@#.icon-social-linkedin
 flattr.com,gleam.io#@#.icon-soundcloud
 hacpai.com#@#.icon-telegram
 myanimelist.net#@#.icon-tw
-aitnews.com,comicbook.com,fastcompany.com,flattr.com,gleam.io,imgur.com,lockerdome.com,login.alibaba.com,squidoo.com#@#.icon-twitter
 twitter.com,yourstory.com#@#.icon-twitter-bird
 cc.cc#@#.icon-twitter-sign
 flattr.com#@#.icon-vimeo
 hacpai.com#@#.icon-wechat
-flattr.com#@#.icon-youtube
 community.imgur.com#@#.icons
 upworthy.com#@#.image-share
 24h.com.vn,dailymail.co.uk,eva.vn,mogaznews.com,stationgossip.com,thisismoney.co.uk#@#.img-share
