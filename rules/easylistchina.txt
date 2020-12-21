@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: C4NgqMdx1hJ6OO8/H2THgw
-! Version: 202012200023
+! Checksum: SiFnCBq2tIDaz3FxO2R6tg
+! Version: 202012210033
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1466,6 +1466,7 @@
 ||https://alicdn.com/imgextra/i1/3491683832/TB2A4QaisjI8KJjSsppXXXbyVXa_
 ||https://alicdn.com/imgextra/i3/1731999033/TB2lAJufnlYBeNjSszcXXbwhFXa_
 ||https://alicdn.com/kf/*.gif
+||https://alicdn.com/kf/H23e4be4c556744c4bef772eb0ad9d938G.jpg
 ||https://alicdn.com/kf/H4fa310799bf04b33803900c0f629094bQ.jpg
 ||https://alicdn.com/kf/H8105709d8ee745139cfd5affe30a9d719.jpg
 ||https://alicdn.com/kf/H9df22b1c3f0041b2874ddfd38836993em.gif
@@ -3998,6 +3999,7 @@
 ||https://sozi.cn/images/tj/hukead.gif
 ||https://sozi.cn/images/tj/szdown
 ||https://sozi.cn/templets/sozi/js/js.js
+||https://speedtest.cn/api/v2/showpic?
 ||https://speedtest.cn/assets/images/ce_
 ||https://sportscn.com/js/commerical
 ||https://sportsv.net/dist/ads/
@@ -7206,6 +7208,7 @@
 ||http://panel-cn.com^
 ||http://papa9394.com^$third-party
 ||http://papa999.xyz^
+||http://parisianmacao.bet^
 ||http://pay838.com^
 ||http://pcmzn.com^
 ||http://pdsjycm.com^
@@ -9092,6 +9095,7 @@
 ||http://alicdn.com/imgextra/i1/3491683832/TB2A4QaisjI8KJjSsppXXXbyVXa_
 ||http://alicdn.com/imgextra/i3/1731999033/TB2lAJufnlYBeNjSszcXXbwhFXa_
 ||http://alicdn.com/kf/*.gif$domain=tzfile.com
+||http://alicdn.com/kf/H23e4be4c556744c4bef772eb0ad9d938G.jpg
 ||http://alicdn.com/kf/H4fa310799bf04b33803900c0f629094bQ.jpg
 ||http://alicdn.com/kf/H8105709d8ee745139cfd5affe30a9d719.jpg
 ||http://alicdn.com/kf/H9df22b1c3f0041b2874ddfd38836993em.gif
@@ -11942,6 +11946,7 @@
 ||http://sozi.cn/images/tj/hukead.gif
 ||http://sozi.cn/images/tj/szdown
 ||http://sozi.cn/templets/sozi/js/js.js
+||http://speedtest.cn/api/v2/showpic?
 ||http://speedtest.cn/assets/images/ce_
 ||http://sportscn.com/js/commerical
 ||http://sportsv.net/dist/ads/
@@ -13425,6 +13430,7 @@
 ||http://mg.glwxw.net^
 ||http://milk.yesky.com.cn^
 ||http://mipujia.com^$third-party
+||http://mm.jbzj.com^
 ||http://mo-tuo.com^
 ||http://mountain.zhidao.baidu.com^
 ||http://mpb1.iteye.com^
@@ -18431,6 +18437,8 @@ https://3d66.com##.advertisement-carousel
 https://chinacar.com.cn##.advertising
 https://10086.cn##.advertisingOther_img
 https://speedtest.cn##.advertisingSpace
+https://sm.ms##.advertising_1
+https://sm.ms##.advertising_2
 https://ifeng.com##.advmark
 https://it165.net##.advyello
 https://itavcn.com##.advzone
@@ -18513,6 +18521,7 @@ https://yangmaodang.org##.autumn-single-bottom-a-d
 https://yangmaodang.org##.autumn-single-top-a-d
 https://liba.com##.avdert1190
 https://dcloud.net.cn##.aw-ad-item
+https://tophub.today##.ax
 https://yam.com##.axdBox
 https://kknews.cc,read01.com##.axslot
 https://tophub.today##.axx
@@ -18934,7 +18943,6 @@ https://xici.net##.doc_tl
 https://woniupai.net##.doit-ad-home
 https://ilxdh.com##.double11-dialog-container
 https://pctowap.com##.dowap_ads
-https://3dmgame.com##.dowm_box2
 https://3d66.com##.down-adver
 https://xiazaiba.com##.down-btn1
 https://xiazaiba.com##.down-btn2
@@ -19781,7 +19789,6 @@ https://ttrar.com##.new_xzq
 https://doubibackup.com##.new_zixun
 https://zt5.com##.newa
 https://uimaker.com##.newbaidu
-https://3dmgame.com##.newqkdown2
 https://ali213.net##.newright
 https://sydneytoday.com##.news-list > .row > .col-xs-12
 https://eastday.com##.news-promote
@@ -19961,8 +19968,6 @@ https://htcui.com##.qqanimate
 https://baidu.com##.quality-elinks
 https://muzhi.baidu.com##.quick-ask-2 + .android + div
 https://hualongxiang.com##.quick_reply_ad
-https://3dmgame.com##.quickdown2
-https://3dmgame.com##.quickdown3
 https://im286.net##.qybj
 https://ouyaoxiazai.com##.qzhengfu
 https://ali213.net##.qztf
@@ -20962,6 +20967,7 @@ https://frdic.com,godic.net##a[onclick*="/ads/"]
 https://pcsoft.com.cn##a[onclick*="_ad"]
 https://caibaojian.com##a[onclick*="aliyun"]
 https://caibaojian.com##a[onclick*="aly"]
+https://3dmgame.com##a[onclick="goxiazai()"]
 https://jokerlu.com,jokerlu1.com##a[onclick^="_czc."]
 https://fixdown.com##a[onclick^="count_down"]
 https://52pk.com##a[onclick^="ga"]
@@ -21975,7 +21981,6 @@ https://zol.com.cn##.xiazaic-topa-box
 https://zol.com.cn##.xiazaic-topb-box
 https://zol.com.cn##a[class*="member-button"]
 https://zol.com.cn##a[href*="downloader_main"]
-https://zol.com.cn##div[class*="-top-"]
 https://zol.com.cn##div[class^="top-box-xiazai"]
 https://zol.com.cn##span[class*="-dxlt"]
 https://zol.com.cn##span[class^="dxlt-down"]
@@ -24642,6 +24647,8 @@ http://3d66.com##.advertisement-carousel
 http://chinacar.com.cn##.advertising
 http://10086.cn##.advertisingOther_img
 http://speedtest.cn##.advertisingSpace
+http://sm.ms##.advertising_1
+http://sm.ms##.advertising_2
 http://ifeng.com##.advmark
 http://it165.net##.advyello
 http://itavcn.com##.advzone
@@ -24724,6 +24731,7 @@ http://yangmaodang.org##.autumn-single-bottom-a-d
 http://yangmaodang.org##.autumn-single-top-a-d
 http://liba.com##.avdert1190
 http://dcloud.net.cn##.aw-ad-item
+http://tophub.today##.ax
 http://yam.com##.axdBox
 http://kknews.cc,read01.com##.axslot
 http://tophub.today##.axx
@@ -25145,7 +25153,6 @@ http://xici.net##.doc_tl
 http://woniupai.net##.doit-ad-home
 http://ilxdh.com##.double11-dialog-container
 http://pctowap.com##.dowap_ads
-http://3dmgame.com##.dowm_box2
 http://3d66.com##.down-adver
 http://xiazaiba.com##.down-btn1
 http://xiazaiba.com##.down-btn2
@@ -25992,7 +25999,6 @@ http://ttrar.com##.new_xzq
 http://doubibackup.com##.new_zixun
 http://zt5.com##.newa
 http://uimaker.com##.newbaidu
-http://3dmgame.com##.newqkdown2
 http://ali213.net##.newright
 http://sydneytoday.com##.news-list > .row > .col-xs-12
 http://eastday.com##.news-promote
@@ -26172,8 +26178,6 @@ http://htcui.com##.qqanimate
 http://baidu.com##.quality-elinks
 http://muzhi.baidu.com##.quick-ask-2 + .android + div
 http://hualongxiang.com##.quick_reply_ad
-http://3dmgame.com##.quickdown2
-http://3dmgame.com##.quickdown3
 http://im286.net##.qybj
 http://ouyaoxiazai.com##.qzhengfu
 http://ali213.net##.qztf
@@ -27173,6 +27177,7 @@ http://frdic.com,godic.net##a[onclick*="/ads/"]
 http://pcsoft.com.cn##a[onclick*="_ad"]
 http://caibaojian.com##a[onclick*="aliyun"]
 http://caibaojian.com##a[onclick*="aly"]
+http://3dmgame.com##a[onclick="goxiazai()"]
 http://jokerlu.com,jokerlu1.com##a[onclick^="_czc."]
 http://fixdown.com##a[onclick^="count_down"]
 http://52pk.com##a[onclick^="ga"]
@@ -28186,7 +28191,6 @@ http://zol.com.cn##.xiazaic-topa-box
 http://zol.com.cn##.xiazaic-topb-box
 http://zol.com.cn##a[class*="member-button"]
 http://zol.com.cn##a[href*="downloader_main"]
-http://zol.com.cn##div[class*="-top-"]
 http://zol.com.cn##div[class^="top-box-xiazai"]
 http://zol.com.cn##span[class*="-dxlt"]
 http://zol.com.cn##span[class^="dxlt-down"]

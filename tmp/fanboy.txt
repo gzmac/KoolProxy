@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: o6eELe/06ornu5ojDZrftw
+! Checksum: do2b/ewsuwQh5ynPBuaXbg
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -1997,9 +1997,11 @@ _revotas_push.
 /iconbig-twitter-
 /icone-facebook-
 /icone-facebook.
+/icone-insta.
 /icone-instagram-
 /icone-instagram.
 /icone-social/*
+/icone-tik-tok.
 /icone-twiter-
 /icone-twitter-
 /icone-twitter.
@@ -8272,6 +8274,7 @@ _site_cookie_
 ###qrzpush-prompt-widget
 ###smart_push_smio_overlay
 ###smart_push_smio_window
+###spm_msg_push_notification
 ###visilabs_web_push_perm_box
 ###web-alerts-modal
 ###web-push-prompt
@@ -21286,6 +21289,7 @@ _site_cookie_
 ##[title^="Follow on Twitter"]
 ##[title^="Follow us on "]
 ##[title^="Like us on Facebook"]
+##[title^="Partager ce commentaire sur"]
 ##[title^="Share on Facebook"]
 ##[title^="Share on Google+"]
 ##[title^="Share on LinkedIn"]
@@ -21621,6 +21625,8 @@ _site_cookie_
 ##div[id^="pw_widget_"]
 ##div[id^="simple_tweet_widget"]
 ##div[id^="sl_share_"]
+##div[param^="https://twitter.com/intent/tweet?"]
+##div[param^="https://www.facebook.com/sharer/sharer.php?"]
 ##div[title="Find us on Facebook!"]
 ##div[title="Follow us"]
 ##div[title="Partager sur Facebook"]
@@ -40816,6 +40822,7 @@ fujitsu.com##.social-content
 topmarks.co.uk##.social-game
 jns.org##.social-help
 gaystarnews.com##.social-images
+cinenews.be##.social-line
 gamerant.com##.social-list
 system-ns.com##.social-login
 autotrader.ca,clickhole.com,gbtimes.com,metascan-online.com,uanews.org##.social-network
@@ -41573,7 +41580,7 @@ sunweb.co.uk##.absolute-dialog
 greenfields.eu##.accept-alert
 akeebabackup.com,displays.agneovo.com,imunify360.com,luxos.com,reshade.me,v-tac.eu##.activebar-container
 ticketmaster.ca##.agree-terms
-adata.com,ahlulbayt.tv,altervista.org,askdifference.com,asklion.co.uk,bankid.com,cfainstitute.org,convert-my-image.com,costaclub.com,efinancialcareers.com,hattrick.org,kenweego.com,lawyersonline.co.uk,lifescience.net,lonelyplanet.com,m-a.org.uk,nature.com,netweather.tv,norwegian.com,pozyx.io,streema.com,supercell.com,theonlinesurgery.co.uk,tindie.com,ukpressonline.co.uk,vernemq.com,viewsonic.com,viewsoniceurope.com,youngsseafood.co.uk##.alert
+adata.com,ahlulbayt.tv,altervista.org,askdifference.com,asklion.co.uk,bankid.com,cfainstitute.org,convert-my-image.com,costaclub.com,efinancialcareers.com,gambling-affiliation.com,hattrick.org,kenweego.com,lawyersonline.co.uk,lifescience.net,lonelyplanet.com,m-a.org.uk,nature.com,netweather.tv,norwegian.com,pozyx.io,streema.com,supercell.com,theonlinesurgery.co.uk,tindie.com,ukpressonline.co.uk,vernemq.com,viewsonic.com,viewsoniceurope.com,youngsseafood.co.uk##.alert
 espn.com##.alert--fixed
 goodmorningamerica.com,historicengland.org.uk##.alert-banner
 labour.org.uk##.alert-bar-footer
@@ -42328,7 +42335,7 @@ fourchette-et-bikini.fr##.newsBloc
 cuisineetvinsdefrance.com,francetvinfo.fr,leparisien.fr,phonandroid.com,silicon.fr##.newsletter
 challenges.fr,lepoint.fr##.newsletter-form
 la-croix.com##.next
-challenges.fr##.nl
+challenges.fr,ecommercemag.fr##.nl
 lepoint.fr##.nl-block
 zepass.com##.notification
 large.be##.notification-box-bottom
@@ -43433,6 +43440,8 @@ focus.de##a[href="http://twitter.com/share"]
 !---------- French Site Specific Hiding Rules ----------
 !
 directmatin.fr###aside_actions_items
+universfreebox.com###banniere-2951-particle
+universfreebox.com###banniere-6584-particle
 lachainemeteo.com###barrepartage_home
 radiofrance.fr###block-print-print-links
 soluciones-libres.com###cajared
@@ -44869,6 +44878,7 @@ trovanumeri.com###hid
 accessibilitacentristorici.it###htmlbox_div1
 legea.it###infobarDiv
 lostrillone.tv###informativa
+insidemarketing.it###informativaPrivacy
 musicworks.it###infromativap
 vmmotori.it###ll_banner
 programmitv.it###mag
