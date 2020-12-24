@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FtEiP6nwTrPqVwgstk62gg
-! Version: 202012230041
+! Checksum: Q73fqRcFV06wfCiMguRALw
+! Version: 202011060931
 ! Title: Fanboy's Annoyance List
-! Last modified: 23 Dec 2020 00:41 UTC
+! Last modified: 06 Nov 2020 09:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6732,6 +6732,7 @@ https://ucsd.edu##.hdSubscribeFooter
 https://njtvonline.org##.head-email-signup
 https://tasteofhome.com##.header-banner-container
 https://theprovince.com,torontosun.com##.header-breaking__secondary
+https://spendwithpennies.com##.header-cta
 https://paleohacks.com##.header-optin
 https://nextcity.org##.header-tools
 https://rightwingwatch.org##.header__top
@@ -7073,6 +7074,7 @@ https://breakingnews.ie##.subscribe-box-articles
 https://albawaba.com,rt.com,sport360.com##.subscribe-btn
 https://middleeastmonitor.com##.subscribe-container
 https://todayonline.com##.subscribe-content
+https://spendwithpennies.com##.subscribe-cta
 https://nutritioninsight.com##.subscribe-div
 https://afp.com,albawaba.com,gulfnews.com##.subscribe-footer
 https://financialbuzz.com,maclife.com,segmentnext.com##.subscribe-form
@@ -7890,6 +7892,7 @@ https://ocaholic.co.uk##.a2a_svg
 https://imdb.com##.ab_facebook
 https://imdb.com##.ab_twitter
 https://abc.go.com##.abc-facebook-like
+https://spendwithpennies.com##.access_container_inner
 https://mainichi.jp##.accounts
 https://buzzfeed.com,latimes.com,marriott.com##.action-bar
 https://slideshare.net##.action-btns-container
@@ -17366,6 +17369,7 @@ http://ucsd.edu##.hdSubscribeFooter
 http://njtvonline.org##.head-email-signup
 http://tasteofhome.com##.header-banner-container
 http://theprovince.com,torontosun.com##.header-breaking__secondary
+http://spendwithpennies.com##.header-cta
 http://paleohacks.com##.header-optin
 http://nextcity.org##.header-tools
 http://rightwingwatch.org##.header__top
@@ -17707,6 +17711,7 @@ http://breakingnews.ie##.subscribe-box-articles
 http://albawaba.com,rt.com,sport360.com##.subscribe-btn
 http://middleeastmonitor.com##.subscribe-container
 http://todayonline.com##.subscribe-content
+http://spendwithpennies.com##.subscribe-cta
 http://nutritioninsight.com##.subscribe-div
 http://afp.com,albawaba.com,gulfnews.com##.subscribe-footer
 http://financialbuzz.com,maclife.com,segmentnext.com##.subscribe-form
@@ -18524,6 +18529,7 @@ http://ocaholic.co.uk##.a2a_svg
 http://imdb.com##.ab_facebook
 http://imdb.com##.ab_twitter
 http://abc.go.com##.abc-facebook-like
+http://spendwithpennies.com##.access_container_inner
 http://mainichi.jp##.accounts
 http://buzzfeed.com,latimes.com,marriott.com##.action-bar
 http://slideshare.net##.action-btns-container
