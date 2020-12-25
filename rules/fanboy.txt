@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Q73fqRcFV06wfCiMguRALw
-! Version: 202011060931
+! Checksum: GobRmR0jHSGgbYWu5ZU99w
+! Version: 202012250041
 ! Title: Fanboy's Annoyance List
-! Last modified: 06 Nov 2020 09:31 UTC
+! Last modified: 25 Dec 2020 00:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6707,6 +6707,7 @@ https://politico.com##.friday-cover-sign-up
 https://adventistworld.org##.frm_form_fields
 https://fansided.com,lastnighton.com,netflixlife.com,winteriscoming.net##.fs-daily
 https://fitbit.com##.ftr-mail-me
+https://screenbinge.com##.ftr-subscribe
 https://fundable.com##.fundable_newsletter_signup
 https://whatuni.com##.fwrp
 https://thegolfnewsnet.com##.g-20
@@ -7494,6 +7495,7 @@ https://pcb.cc###Cntnr6
 https://softwares-serials.in###FTslide
 https://x17online.com###Facebook
 https://hothardware.com###Follow
+https://artistdirect.com###FollowBut
 https://zylab.com###Footercolumn3
 https://nytimes.com###Growl_optly
 https://digitalfirstmedia.com###LiIcon
@@ -9203,6 +9205,7 @@ https://ritdye.com###vue-app > .v_bg\:peach-300
 https://sabanci.com###warning-bar
 https://dompe.com###warning-popup
 https://iflicks.in###welcome
+https://f1forgottendrivers.com###wpcg-box
 https://janrain.com###wptbheadline1
 https://here.com###wrapper
 https://dublininquirer.com##.-alert.-fixed.notice
@@ -9815,7 +9818,7 @@ https://kicker.de##.kick__scroll-top-ic
 https://ifun.de,iphone-ticker.de##.mail
 https://bitreporter.de##.ml-form-embedWrapper
 https://weltwoche.ch##.navInner.fixed
-https://deraktionaer.tv,diepresse.com,euractiv.de,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,silicon.de##.newsletter
+https://deraktionaer.tv,diepresse.com,euractiv.de,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,silicon.de,superfly.fm##.newsletter
 https://geo.de##.nlAnmeldg
 https://therese-moelk.at##.pageup
 https://matratzen.info##.postNavigation
@@ -17344,6 +17347,7 @@ http://politico.com##.friday-cover-sign-up
 http://adventistworld.org##.frm_form_fields
 http://fansided.com,lastnighton.com,netflixlife.com,winteriscoming.net##.fs-daily
 http://fitbit.com##.ftr-mail-me
+http://screenbinge.com##.ftr-subscribe
 http://fundable.com##.fundable_newsletter_signup
 http://whatuni.com##.fwrp
 http://thegolfnewsnet.com##.g-20
@@ -18131,6 +18135,7 @@ http://pcb.cc###Cntnr6
 http://softwares-serials.in###FTslide
 http://x17online.com###Facebook
 http://hothardware.com###Follow
+http://artistdirect.com###FollowBut
 http://zylab.com###Footercolumn3
 http://nytimes.com###Growl_optly
 http://digitalfirstmedia.com###LiIcon
@@ -19841,6 +19846,7 @@ http://ritdye.com###vue-app > .v_bg\:peach-300
 http://sabanci.com###warning-bar
 http://dompe.com###warning-popup
 http://iflicks.in###welcome
+http://f1forgottendrivers.com###wpcg-box
 http://janrain.com###wptbheadline1
 http://here.com###wrapper
 http://dublininquirer.com##.-alert.-fixed.notice
@@ -20453,7 +20459,7 @@ http://kicker.de##.kick__scroll-top-ic
 http://ifun.de,iphone-ticker.de##.mail
 http://bitreporter.de##.ml-form-embedWrapper
 http://weltwoche.ch##.navInner.fixed
-http://deraktionaer.tv,diepresse.com,euractiv.de,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,silicon.de##.newsletter
+http://deraktionaer.tv,diepresse.com,euractiv.de,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,silicon.de,superfly.fm##.newsletter
 http://geo.de##.nlAnmeldg
 http://therese-moelk.at##.pageup
 http://matratzen.info##.postNavigation
