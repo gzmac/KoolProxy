@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GobRmR0jHSGgbYWu5ZU99w
-! Version: 202012250041
+! Checksum: WeX/ytjkauJdJk7IpQVNyQ
+! Version: 202012260041
 ! Title: Fanboy's Annoyance List
-! Last modified: 25 Dec 2020 00:41 UTC
+! Last modified: 26 Dec 2020 00:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -13250,6 +13250,7 @@ https://arbeiterkammer.at,brieftip.pl,britishairways.com,epolisbari.com,fotofair
 https://dhbbank.nl#@##cookieModalCenter
 https://krefting.de#@##cookieNote
 https://tweakers.net#@##cookieOverlay
+https://crown.com#@##cookiePolicyModal
 https://milliman.com#@##cookieSection
 https://gberardi.com#@##cookie_message
 https://postnl.be#@##cookiebar-container
@@ -23892,6 +23893,7 @@ http://arbeiterkammer.at,brieftip.pl,britishairways.com,epolisbari.com,fotofairs
 http://dhbbank.nl#@##cookieModalCenter
 http://krefting.de#@##cookieNote
 http://tweakers.net#@##cookieOverlay
+http://crown.com#@##cookiePolicyModal
 http://milliman.com#@##cookieSection
 http://gberardi.com#@##cookie_message
 http://postnl.be#@##cookiebar-container
