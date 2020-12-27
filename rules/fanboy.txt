@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WeX/ytjkauJdJk7IpQVNyQ
-! Version: 202012260041
+! Checksum: xDvvdH6Dok6cVpi9oLYGeQ
+! Version: 202012270041
 ! Title: Fanboy's Annoyance List
-! Last modified: 26 Dec 2020 00:41 UTC
+! Last modified: 27 Dec 2020 00:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7094,6 +7094,7 @@ https://mybroadband.co.za##.subscribe-submit
 https://medicaldaily.com##.subscribe-to
 https://hindustantimes.com##.subscribe-update
 https://bikeexif.com##.subscribe-win
+https://faroutmagazine.co.uk##.subscribe-wrap
 https://icepop.com##.subscribe__wrapper
 https://optimumenergy.com##.subscribe_content
 https://mobilemarketingmagazine.com##.subscribe_section_wrap
@@ -17735,6 +17736,7 @@ http://mybroadband.co.za##.subscribe-submit
 http://medicaldaily.com##.subscribe-to
 http://hindustantimes.com##.subscribe-update
 http://bikeexif.com##.subscribe-win
+http://faroutmagazine.co.uk##.subscribe-wrap
 http://icepop.com##.subscribe__wrapper
 http://optimumenergy.com##.subscribe_content
 http://mobilemarketingmagazine.com##.subscribe_section_wrap
