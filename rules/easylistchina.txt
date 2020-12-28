@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: /Xn1n8QRdiO07PbzaIr/YA
-! Version: 202012270033
+! Checksum: yBNuMus4QNf/tv8WY1JaMg
+! Version: 202012280033
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -5386,6 +5386,7 @@
 ||https://iviewui.com/v1/*?name=
 ||https://sinaimg.cn/news/article/article_qcode
 ||https://niuacc.com/static/common/js/145.js
+||https://yyetss.com/static/modal.js
 ||https://3158.cn^*_analyser.
 ||https://lnd.com.cn/sys/real_calc.js
 ||https://sogou.com/dr/p1.gif
@@ -12920,6 +12921,8 @@
 ||http://avgle.topgirlsdating.com^$domain=avgle.com
 ||http://jads.co^$domain=avgle.com
 ||http://olmsoneenh.info^$domain=avgle.com
+||http://idgdmgroup.com.cn^
+||http://hxbt.alading123.com^
 ||http://003store.com^
 ||http://0512s.com^$third-party
 ||http://1.01fy.cn^
@@ -13754,6 +13757,8 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://aoidf3.com^
+||http://yuanqitu.com^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -16460,6 +16465,7 @@
 ||http://iviewui.com/v1/*?name=
 ||http://sinaimg.cn/news/article/article_qcode
 ||http://niuacc.com/static/common/js/145.js
+||http://yyetss.com/static/modal.js
 ||http://3158.cn^*_analyser.
 ||http://pv.cheshi.com^
 ||http://tracking.kdnet.net^
@@ -22091,6 +22097,14 @@ https://ali213.net#@#.subscribe-container
 https://5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
+https://bilibili.com##.video-page-game-card
+https://ldmnq.com##.dialog-game
+https://hupu.com###game-center-entrance-container
+https://hupu.com##DIV[class^="game-center-"]
+https://sina.cn###j_toTop ~ .fl_suspension_template
+https://sina.cn##.zhidi
+https://sina.cn###j_gotop ~ .fl_suspension_template
+https://sina.cn##.sw_c0.fix_top
 https://niuacc.com##.masks
 https://niuacc.com##.yure
 https://niuacc.com##.botLm-container
@@ -28324,6 +28338,14 @@ http://ali213.net#@#.subscribe-container
 http://5dm.tv#@#.tm-share-this
 http://laohu8.com#@#.tweet-article
 http://fqsousou.com,kengso.com#@#.user-share
+http://bilibili.com##.video-page-game-card
+http://ldmnq.com##.dialog-game
+http://hupu.com###game-center-entrance-container
+http://hupu.com##DIV[class^="game-center-"]
+http://sina.cn###j_toTop ~ .fl_suspension_template
+http://sina.cn##.zhidi
+http://sina.cn###j_gotop ~ .fl_suspension_template
+http://sina.cn##.sw_c0.fix_top
 http://niuacc.com##.masks
 http://niuacc.com##.yure
 http://niuacc.com##.botLm-container

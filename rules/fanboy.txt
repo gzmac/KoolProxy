@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xDvvdH6Dok6cVpi9oLYGeQ
-! Version: 202012270041
+! Checksum: 4qzDf0Esv/HjxRl1z5Qmhg
+! Version: 202012280041
 ! Title: Fanboy's Annoyance List
-! Last modified: 27 Dec 2020 00:41 UTC
+! Last modified: 28 Dec 2020 00:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -856,6 +856,7 @@
 ||https://easytutoriel.com/wp-content/themes/easytutoriel-10-1/js/scripts.js
 ||https://eatout.co.za^*/iab-
 ||https://emailsherlock.com/javascripts/lightbox.js
+||https://feedback.wwe.com/survey/
 ||https://fin24.com^*/iabLogo.
 ||https://findthebest.co.uk/ajax/load_tracker
 ||https://gamesindustry.biz/jobs-widget
@@ -2243,6 +2244,7 @@
 ||http://easytutoriel.com/wp-content/themes/easytutoriel-10-1/js/scripts.js
 ||http://eatout.co.za^*/iab-
 ||http://emailsherlock.com/javascripts/lightbox.js
+||http://feedback.wwe.com/survey/
 ||http://fin24.com^*/iabLogo.
 ||http://findthebest.co.uk/ajax/load_tracker
 ||http://gamesindustry.biz/jobs-widget
@@ -4459,6 +4461,7 @@ https://androidpolice.com##.ap2_below_post_body_adb
 https://androidpolice.com##.ap2_header_1_adb
 https://androidpolice.com##.ap2_sidebar_2_adb
 https://androidpolice.com##.ap2_sidebar_5_adb
+https://tiktok.com##.app-promotion
 https://mywot.com##.app-stripe
 https://discountsstory.com##.app_banner_right
 https://mirror.co.uk,walesonline.co.uk##.app_container
@@ -4857,7 +4860,7 @@ https://everydayfamily.com##.featured_300
 https://self.com##.featurehed
 https://7is7.com,alternativeto.net,criosweb.ro##.feed
 https://1065.com,wtam.com##.feedBack
-https://reference.com##.feedback
+https://reference.com,tiktok.com##.feedback
 https://youbeauty.com##.feedback-link
 https://uk.msn.com##.feedbackImageContainer
 https://nymag.com##.feedbackWrap
@@ -7384,6 +7387,7 @@ https://imperialtoyota.co.za##.scroller
 https://artstation.com##.scrollto
 https://dailymotion.com##.sd_footer--back
 https://ubs.com##.section__topwrapper
+https://tiktok.com##.show-top
 https://ebookfriendly.com##.side-scroll
 https://timeout.com##.site-footer__top-link
 https://grundig.com##.site-footer__up
@@ -11582,7 +11586,7 @@ https://roland-schuhe.de##.newsflash
 https://kvvks.de,messe-kassel.de##.note
 https://helios-gesundheit.de,shire.de##.notice
 https://armedangels.de##.notice-home
-https://cebit.de,denic.de,lesara.de,lidl.at,lidl.ch,moviepilot.de,salus.de##.notification
+https://bayer04.de,cebit.de,denic.de,lesara.de,lidl.at,lidl.ch,moviepilot.de,salus.de##.notification
 https://ep.de##.notification-widget
 https://onb.ac.at##.notification-wrapper
 https://jaguar.at,jaguar.de,landrover.at##.notificationBars
@@ -15101,6 +15105,7 @@ http://androidpolice.com##.ap2_below_post_body_adb
 http://androidpolice.com##.ap2_header_1_adb
 http://androidpolice.com##.ap2_sidebar_2_adb
 http://androidpolice.com##.ap2_sidebar_5_adb
+http://tiktok.com##.app-promotion
 http://mywot.com##.app-stripe
 http://discountsstory.com##.app_banner_right
 http://mirror.co.uk,walesonline.co.uk##.app_container
@@ -15499,7 +15504,7 @@ http://everydayfamily.com##.featured_300
 http://self.com##.featurehed
 http://7is7.com,alternativeto.net,criosweb.ro##.feed
 http://1065.com,wtam.com##.feedBack
-http://reference.com##.feedback
+http://reference.com,tiktok.com##.feedback
 http://youbeauty.com##.feedback-link
 http://uk.msn.com##.feedbackImageContainer
 http://nymag.com##.feedbackWrap
@@ -18026,6 +18031,7 @@ http://imperialtoyota.co.za##.scroller
 http://artstation.com##.scrollto
 http://dailymotion.com##.sd_footer--back
 http://ubs.com##.section__topwrapper
+http://tiktok.com##.show-top
 http://ebookfriendly.com##.side-scroll
 http://timeout.com##.site-footer__top-link
 http://grundig.com##.site-footer__up
@@ -22226,7 +22232,7 @@ http://roland-schuhe.de##.newsflash
 http://kvvks.de,messe-kassel.de##.note
 http://helios-gesundheit.de,shire.de##.notice
 http://armedangels.de##.notice-home
-http://cebit.de,denic.de,lesara.de,lidl.at,lidl.ch,moviepilot.de,salus.de##.notification
+http://bayer04.de,cebit.de,denic.de,lesara.de,lidl.at,lidl.ch,moviepilot.de,salus.de##.notification
 http://ep.de##.notification-widget
 http://onb.ac.at##.notification-wrapper
 http://jaguar.at,jaguar.de,landrover.at##.notificationBars
