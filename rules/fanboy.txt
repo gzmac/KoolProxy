@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4qzDf0Esv/HjxRl1z5Qmhg
-! Version: 202012280041
+! Checksum: IfxbyjTqlvi69dspzM4pIw
+! Version: 202012290041
 ! Title: Fanboy's Annoyance List
-! Last modified: 28 Dec 2020 00:41 UTC
+! Last modified: 29 Dec 2020 00:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -9821,9 +9821,10 @@ https://luxor.co.at##.info
 https://stuttgarter-nachrichten.de##.js-to-top
 https://kicker.de##.kick__scroll-top-ic
 https://ifun.de,iphone-ticker.de##.mail
+https://onmeda.de##.mc_embed_signup
 https://bitreporter.de##.ml-form-embedWrapper
 https://weltwoche.ch##.navInner.fixed
-https://deraktionaer.tv,diepresse.com,euractiv.de,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,silicon.de,superfly.fm##.newsletter
+https://delamar.de,deraktionaer.tv,diepresse.com,euractiv.de,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,silicon.de,superfly.fm##.newsletter
 https://geo.de##.nlAnmeldg
 https://therese-moelk.at##.pageup
 https://matratzen.info##.postNavigation
@@ -11420,7 +11421,7 @@ https://renault-koenig.de###cook
 https://bookingsuedtirol.com,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,lvr.de,ruhrbarone.de,shop-apotheke.com###cookie
 https://bambergfacts.de###cookiebar-007
 https://0rechner.de###cookieconsentmodal
-https://abload.de,autoampel.de,cewe-print.de,dynamo-fanshop.de,elegant.be,firma5.com,livetrakway.de,telspy.org,tonies.de,tti.at,ufpro.de,uni-muenster.de###cookies
+https://abload.de,autoampel.de,blockfloete.eu,cewe-print.de,dynamo-fanshop.de,elegant.be,firma5.com,livetrakway.de,telspy.org,tonies.de,tti.at,ufpro.de,uni-muenster.de###cookies
 https://start-nrw.de###cpopup
 https://ruegenwalder.de###csdialogbd
 https://ruegenwalder.de###csdialogmd2
@@ -11640,6 +11641,7 @@ https://klett.de##div[style="background: rgb(197, 219, 232); padding: 1em;"]
 https://ortsdienst.de##div[style="background:#888;padding:10px;color:#FFF;font-weight:bold"]
 https://veritas-shop.com##div[style="background:#dfeff7;"]
 https://leselupe.de##div[style="height:22px; overflow:hidden; width:990px; background-color:#FF8080; font-size:10pt;font-family: Arial,Helvetica,sans-serif;"]
+https://bhc06.de##div[style="padding: 10px; text-align:center; background-color: rgba(220,226,235, 0.8); position: fixed; width: 100%; z-index:9999; left:0; top:0"]
 https://fast-mirror.de##div[style="padding: 10px;"]
 https://grezzo.de##div[style="position: relative; clear:both; z-index: 99; width:100%; min-height:70px; margin: 0px !important; padding:15px 10px; background:url(images/back_cookie.png) bottom;"]
 https://zukunftsheizen.de##div[style^="box-sizing:border-box; width: 100%;"]
@@ -12647,9 +12649,7 @@ https://hearthis.at#@##email-overlay
 https://rbxactive.com#@##email-sign-up
 https://arma3.com,dayz.com#@##go-top
 https://mercopress.com#@##goToTop
-https://encompass.tv#@##goTop
 https://lecyclo.com#@##goto-top
-https://kingstone.com.tw,nannicskin.ru,redlink.com.ar#@##gotop
 https://upim.com,wagingnonviolence.org#@##newsletter-modal
 https://exposurelights.com,tactxflashlights.com,thefirefly.com#@##newsletter-popup
 https://dnevnik.bg#@##newsletterBar
@@ -12978,7 +12978,7 @@ https://supercomfysleep.com#@#.q_social_icon_holder
 https://reddit.com#@#.reddit_button
 https://hootsuite.com#@#.retweet
 https://space.com#@#.search-social
-https://nasa.gov#@#.section-social
+https://nasa.gov,nosdiario.gal#@#.section-social
 https://californiasunday.com,youtube.com#@#.share-bar
 https://figshare.com,upi.com#@#.share-block
 https://speedtest.net#@#.share-body
@@ -20466,9 +20466,10 @@ http://luxor.co.at##.info
 http://stuttgarter-nachrichten.de##.js-to-top
 http://kicker.de##.kick__scroll-top-ic
 http://ifun.de,iphone-ticker.de##.mail
+http://onmeda.de##.mc_embed_signup
 http://bitreporter.de##.ml-form-embedWrapper
 http://weltwoche.ch##.navInner.fixed
-http://deraktionaer.tv,diepresse.com,euractiv.de,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,silicon.de,superfly.fm##.newsletter
+http://delamar.de,deraktionaer.tv,diepresse.com,euractiv.de,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.com,silicon.de,superfly.fm##.newsletter
 http://geo.de##.nlAnmeldg
 http://therese-moelk.at##.pageup
 http://matratzen.info##.postNavigation
@@ -22066,7 +22067,7 @@ http://renault-koenig.de###cook
 http://bookingsuedtirol.com,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,lvr.de,ruhrbarone.de,shop-apotheke.com###cookie
 http://bambergfacts.de###cookiebar-007
 http://0rechner.de###cookieconsentmodal
-http://abload.de,autoampel.de,cewe-print.de,dynamo-fanshop.de,elegant.be,firma5.com,livetrakway.de,telspy.org,tonies.de,tti.at,ufpro.de,uni-muenster.de###cookies
+http://abload.de,autoampel.de,blockfloete.eu,cewe-print.de,dynamo-fanshop.de,elegant.be,firma5.com,livetrakway.de,telspy.org,tonies.de,tti.at,ufpro.de,uni-muenster.de###cookies
 http://start-nrw.de###cpopup
 http://ruegenwalder.de###csdialogbd
 http://ruegenwalder.de###csdialogmd2
@@ -22286,6 +22287,7 @@ http://klett.de##div[style="background: rgb(197, 219, 232); padding: 1em;"]
 http://ortsdienst.de##div[style="background:#888;padding:10px;color:#FFF;font-weight:bold"]
 http://veritas-shop.com##div[style="background:#dfeff7;"]
 http://leselupe.de##div[style="height:22px; overflow:hidden; width:990px; background-color:#FF8080; font-size:10pt;font-family: Arial,Helvetica,sans-serif;"]
+http://bhc06.de##div[style="padding: 10px; text-align:center; background-color: rgba(220,226,235, 0.8); position: fixed; width: 100%; z-index:9999; left:0; top:0"]
 http://fast-mirror.de##div[style="padding: 10px;"]
 http://grezzo.de##div[style="position: relative; clear:both; z-index: 99; width:100%; min-height:70px; margin: 0px !important; padding:15px 10px; background:url(images/back_cookie.png) bottom;"]
 http://zukunftsheizen.de##div[style^="box-sizing:border-box; width: 100%;"]
@@ -23293,9 +23295,7 @@ http://hearthis.at#@##email-overlay
 http://rbxactive.com#@##email-sign-up
 http://arma3.com,dayz.com#@##go-top
 http://mercopress.com#@##goToTop
-http://encompass.tv#@##goTop
 http://lecyclo.com#@##goto-top
-http://kingstone.com.tw,nannicskin.ru,redlink.com.ar#@##gotop
 http://upim.com,wagingnonviolence.org#@##newsletter-modal
 http://exposurelights.com,tactxflashlights.com,thefirefly.com#@##newsletter-popup
 http://dnevnik.bg#@##newsletterBar
@@ -23624,7 +23624,7 @@ http://supercomfysleep.com#@#.q_social_icon_holder
 http://reddit.com#@#.reddit_button
 http://hootsuite.com#@#.retweet
 http://space.com#@#.search-social
-http://nasa.gov#@#.section-social
+http://nasa.gov,nosdiario.gal#@#.section-social
 http://californiasunday.com,youtube.com#@#.share-bar
 http://figshare.com,upi.com#@#.share-block
 http://speedtest.net#@#.share-body
