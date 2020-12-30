@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IfxbyjTqlvi69dspzM4pIw
-! Version: 202012290041
+! Checksum: FrjIBT0IwL7VSDT37JDPaA
+! Version: 202011060931
 ! Title: Fanboy's Annoyance List
-! Last modified: 29 Dec 2020 00:41 UTC
+! Last modified: 06 Nov 2020 09:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6017,6 +6017,7 @@ https://watchseries-online.ch##a[title="Go Up"]
 https://stuff.co.nz##app-sticky-container
 https://translate.google.co.nz,translate.google.co.uk,translate.google.com,translate.google.com.au,translate.google.de,translate.google.es,translate.google.fr##body > header#gb > div.gb_se > div.gb_g
 https://google.com##button[id^="gbpwm_"]
+https://apnews.com##div[class^="Component-apps-"]
 https://bloombergquint.com##div[class^="more-on-this-topic"]
 https://dailymail.co.uk##div[class^="nextBtn-"]
 https://brighthub.com##div[data-bhtrackregion="Subscribe"]
@@ -10552,6 +10553,7 @@ https://kinopoisk.ru###GOWrapper
 https://rzn.info###myNotification
 https://rbc.ru###popup_box
 https://rbc.ru###popup_inner
+https://imperiya.by###scroller
 https://championat.com###subscription_block
 https://aif.ru###subscription_item_widget
 https://aif.ru###subscription_sidebar_block
@@ -10781,6 +10783,7 @@ https://focus.de##.socBm
 https://focus.de##.socInfo
 https://az.com.na,businessinsider.de,europages.de,fc-suedtirol.com,infosat.de,kabeleins.de,klassikradio.de,n24.de,omdb.org,peugeot.de,prosieben.de,ran.de,sat1.de,sixx.de,the-voice-of-germany.de,therese-moelk.at,top.de,tt.com##.social
 https://futurezone.at##.social > li > a > img
+https://deutsche-wirtschafts-nachrichten.de##.social-line
 https://marcopolo.de##.socialWeb
 https://schwaebische.de##.social_communities
 https://delivering-tomorrow.de##.some-links
@@ -16661,6 +16664,7 @@ http://watchseries-online.ch##a[title="Go Up"]
 http://stuff.co.nz##app-sticky-container
 http://translate.google.co.nz,translate.google.co.uk,translate.google.com,translate.google.com.au,translate.google.de,translate.google.es,translate.google.fr##body > header#gb > div.gb_se > div.gb_g
 http://google.com##button[id^="gbpwm_"]
+http://apnews.com##div[class^="Component-apps-"]
 http://bloombergquint.com##div[class^="more-on-this-topic"]
 http://dailymail.co.uk##div[class^="nextBtn-"]
 http://brighthub.com##div[data-bhtrackregion="Subscribe"]
@@ -21197,6 +21201,7 @@ http://kinopoisk.ru###GOWrapper
 http://rzn.info###myNotification
 http://rbc.ru###popup_box
 http://rbc.ru###popup_inner
+http://imperiya.by###scroller
 http://championat.com###subscription_block
 http://aif.ru###subscription_item_widget
 http://aif.ru###subscription_sidebar_block
@@ -21426,6 +21431,7 @@ http://focus.de##.socBm
 http://focus.de##.socInfo
 http://az.com.na,businessinsider.de,europages.de,fc-suedtirol.com,infosat.de,kabeleins.de,klassikradio.de,n24.de,omdb.org,peugeot.de,prosieben.de,ran.de,sat1.de,sixx.de,the-voice-of-germany.de,therese-moelk.at,top.de,tt.com##.social
 http://futurezone.at##.social > li > a > img
+http://deutsche-wirtschafts-nachrichten.de##.social-line
 http://marcopolo.de##.socialWeb
 http://schwaebische.de##.social_communities
 http://delivering-tomorrow.de##.some-links
