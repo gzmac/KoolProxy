@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: b3u73cAcey6+ga/xKGnqyA
+! Checksum: jQ1injDGJtE06/YOJvQGCw
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -326,6 +326,7 @@
 /newsletter_background_
 /newsletter_banner.
 /newsletter_button.
+/Newsletter_button_
 /newsletter_cta.
 /newsletter_form.
 /newsletter_form_
@@ -14503,7 +14504,9 @@ _site_cookie_
 ##.header-social-button-tw
 ##.header-social-button-yt
 ##.header-social-buttons
+##.header-social-facebook
 ##.header-social-icons
+##.header-social-insta
 ##.header-social-item
 ##.header-social-link
 ##.header-social-links
@@ -14513,6 +14516,7 @@ _site_cookie_
 ##.header-social-share
 ##.header-social-shares
 ##.header-social-shim
+##.header-social-twitter
 ##.header-socials
 ##.header-special-social
 ##.header-sub-area-sns
@@ -33911,7 +33915,6 @@ _site_cookie_
 ||js.brow.si^$third-party
 ||jugglu.com^$third-party
 ||kaango.com/feCustomWidgetDisplay/$third-party
-||klaviyo.com^$third-party
 ||knowd.com^$third-party
 ||leadacity.net^$third-party
 ||leadpages.co^$third-party
@@ -40510,7 +40513,7 @@ classybro.com##.lbx_content
 classybro.com##.lbx_overlay
 yourweather.co.uk##.liCompartir
 monova.org##.lightbox
-base64decode.org,base64encode.org##.like
+base64decode.org,base64encode.org,theshovel.com.au##.like
 labour.org.nz,nzfirst.org.nz##.like-page
 addictivetips.com##.like-this
 badoo.com##.like-wrap
@@ -45868,8 +45871,9 @@ jappy.de#@#.facebookbutton
 academia.edu,twitter.com#@#.fb-btn
 airbnb.cat,airbnb.com,airbnb.de,dobreprogramy.pl,tekstowo.pl#@#.fb-button
 marketdino.pl,mediaexpert.leszczynscy.pl,pajarito.de#@#.fb-container
-kizlarsoruyor.com#@#.fb-content
+flugzeugbilder.de,kizlarsoruyor.com#@#.fb-content
 firebase.google.com#@#.fb-dialog
+flugzeugbilder.de#@#.fb-footer
 allegro.pl,itweb.co.za#@#.fb-icon
 e-biznes.pl,facebook.com,fb.com#@#.fb-like
 facebook.com#@#.fb-likebox
