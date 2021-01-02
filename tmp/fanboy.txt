@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: jQ1injDGJtE06/YOJvQGCw
+! Checksum: zM3unySk3/MpdoXLxj2Lsw
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -33970,7 +33970,7 @@ _site_cookie_
 ||page2rss.com^$third-party
 ||parse.ly^$third-party
 ||partner.dw.com^$third-party
-||pelcro.com^$third-party,$domain=newsweek.com
+||pelcro.com^$third-party,domain=newsweek.com
 ||phoenix-widget.com^$third-party
 ||pippity.com^$third-party
 ||placehold.it^$third-party
@@ -46335,6 +46335,7 @@ krone.at#@##krn-privacy-center
 bosch-mobility-solutions.com#@##m-cookie-overlay
 17track.net#@##modal-gdpr
 faberkabel.de#@##modalCookie
+microsoft.com#@##ms-cookie-banner
 thesocialmedwork.com#@##notice-cookie-block
 crfashionbook.com,giochi.it,gmx.com,mail.com#@##onetrust-consent-sdk
 api.newsguardtech.com,rockpapershotgun.com#@##optanon
@@ -46344,6 +46345,7 @@ account.sonymobile.com#@##privacy-statement
 totalwar.com#@##privacy_policy
 varusteleka.com,varusteleka.fi#@##privacypolicy
 repostuj.pl#@##rodo-modal
+forgeandfortune.com#@##toasts > #toastsWrapper
 litebit.eu#@#.CookieConsent
 boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz#@#.Cookies
 bancaifis.it#@#.Cookies:not(body)
@@ -46467,6 +46469,7 @@ airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,ai
 totalcasino.pl#@#.gdpr-popup
 wufoo.com#@#.gdpr-prompt
 booking.pobeda.aero,coastalliving.com,commercialtrucktrader.com,cookinglight.com,esselunga.it,essence.com,ew.com,fortune.com,gct.com,golf.com,health.com,hellogiggles.com,instyle.com,metallica.com,mirjan24.pl,my.games,nytimes.com,people.com,realsimple.com,si.com,southernliving.com,time.com,travelandleisure.com#@#.gdpr:not(body):not(html)
+ansa.it#@#.iubenda-cs-content
 suzuki.co.nz#@#.js-cookie
 geleidehond.nl#@#.js-cookie-alert
 hildesheimer-allgemeine.de#@#.js-cookie-consent
