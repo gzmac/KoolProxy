@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: zM3unySk3/MpdoXLxj2Lsw
+! Checksum: ZmtA5AP9uhg7TaHVNZyogQ
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -5470,6 +5470,7 @@ _site_cookie_
 ###new_newsletter
 ###new_newsletter_subscription
 ###newletterF
+###newletterspanel
 ###news-ltr
 ###newsLetter-signup-box
 ###newsLetterAsset
@@ -7126,6 +7127,7 @@ _site_cookie_
 ##.uiLayer-newsletterLink
 ##.umhs-emma-email-container
 ##.unit--newsletter
+##.unitnewsletter
 ##.valor_newsletter_front
 ##.vb-magazine-newsletter
 ##.vc_newsletter_button
@@ -9895,6 +9897,8 @@ _site_cookie_
 ###service_tw
 ###sexy-bookmarks
 ###sexy-bookmarks-wrapper
+###sfsi_floater
+###sfsi_plus_floater
 ###sh_socialized
 ###sh_video_link
 ###share-3
@@ -10709,6 +10713,7 @@ _site_cookie_
 ###social_fb
 ###social_fixed
 ###social_float_box
+###social_follow
 ###social_followers
 ###social_footer
 ###social_googleplus
@@ -16371,6 +16376,7 @@ _site_cookie_
 ##.pane-social-links
 ##.pane-social-plugins-social-plugins-widget
 ##.pane-social-widget-items
+##.pane-socialblock
 ##.pane-storypage-sharethis
 ##.panel--follow
 ##.panel--social
@@ -31503,6 +31509,7 @@ _site_cookie_
 ##.gdprcookie
 ##.gdprcookie-wrapper
 ##.gdprfooter
+##.gdprmodal-backdrop
 ##.gdprpopup
 ##.gdprrhs
 ##.gdrp-cookie-banner-wrapper
@@ -42118,6 +42125,7 @@ rewe.de##.fragment
 luxor.co.at##.info
 stuttgarter-nachrichten.de##.js-to-top
 kicker.de##.kick__scroll-top-ic
+kontextwochenzeitung.de##.kontextpermail
 ifun.de,iphone-ticker.de##.mail
 onmeda.de##.mc_embed_signup
 bitreporter.de##.ml-form-embedWrapper
@@ -44922,7 +44930,7 @@ monzacalcio.com##.modal
 alfasigma.com,elevensports.it,feralpisalo.it,metro.it,monzacalcio.com##.modal-backdrop
 informazione.it##.modal-body
 telethon.it##.modalMessage
-forumfree.it##.note
+forumcommunity.net,forumfree.it##.note
 initalia.it##.notice-wrap
 vg247.it##.notif-bar
 lidl.it##.notification
