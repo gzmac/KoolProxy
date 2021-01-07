@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Eh2UIds7zqf1WOfpfsQ+iw
+! Checksum: bSEpTBQNU1cxvpfmmODVLw
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -6213,6 +6213,7 @@ _site_cookie_
 ##.essb-subscribe-form-content
 ##.et_bloom_flyin
 ##.et_bloom_optin
+##.et_newsletter_widget
 ##.exacttarget-newsletter-signup
 ##.expert-newslater
 ##.ezn-newsletter_inarticle_banner
@@ -16893,6 +16894,7 @@ _site_cookie_
 ##.s-f__social
 ##.s-facebook
 ##.s-get-social
+##.s-get-social-share
 ##.s-googleplus
 ##.s-instagram
 ##.s-linkedin
@@ -33471,6 +33473,7 @@ _site_cookie_
 ##app-cookies-consent
 ##app-cookies-policy-updated
 ##app-root app-cookie-acceptance
+##ark-cookiebar
 ##aside[class^="cookie-banner__Wrapper-"]
 ##awsui-alert[dismiss*="CookieBanner"]
 ##aza-cookie-message
@@ -39062,6 +39065,7 @@ sun-sentinel.com##.met-flyout
 sun-sentinel.com##.met-promo-content
 themighty.com##.meta-join
 thenewdaily.com.au##.mfp-bg
+missouri.edu##.miz-layer
 motherjones.com##.mj-text-cta
 heartfm.co.za##.mk-subscribe-link
 fiercecable.com##.mktoForm
@@ -40726,6 +40730,7 @@ ign.com,newsday.com##.sharer
 bulawayo24.com,foodbeast.com,glogster.com,good.is,hereisthecity.com,independent.co.uk,petapixel.com,trtworld.com,twistedfood.co.uk##.shares
 theregister.com##.sharing_widget
 recode.net##.shoutout
+missouri.edu##.showme-footer__social
 nationalpost.com##.shr
 reference.com##.shths
 yahoo.com##.side-buttons
@@ -46806,6 +46811,7 @@ yoigo.com#@#thor-cookies
 @@||swissmed.com.pl/js/jquery.cookiecuttr.js
 @@||topschool.pl/wp-content/plugins/CookieInfo/js/CookieInfo.js$script
 @@||trevisoairport.it^*/jquery.divascookies-$script
+@@||uicdn.com^*/consent-management.js$domain=gmx.net|home.1und1.de|web.de
 @@||vendorlist.consensu.org/vendorlist.json$xmlhttprequest,domain=fanpage.it|telegraph.co.uk|tf1.fr
 @@||vesmir.cz/components/eu_cookie/$script
 @@||whos-perfect.de/min/*/cookieconsent.min.js
