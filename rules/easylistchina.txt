@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: PWRGbI4DeUVoGCyeJzXQeA
-! Version: 202101090042
+! Checksum: fZ6r828KepU8zsohrCBrUA
+! Version: 202101100042
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4875,6 +4875,8 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://kxmusic.cn/tc/js/script.js
+||https://kxmusic.top/tc/js/script.js
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -5077,6 +5079,7 @@
 ||https://mylikechat.com^$third-party
 ||https://pop800.com^$third-party
 ||https://soperson.com^$third-party
+||https://tawk.to^$third-party
 ||https://tui.cnzz.net^$third-party
 ||https://zoosnet.net^$third-party
 ||https://zoossoft.cn^$third-party
@@ -5411,7 +5414,9 @@
 ||https://yyetss.com/static/modal.js
 ||https://pcauto.com.cn/zt/*_dialog/cjx-pc-half_
 ||https://thepaper.cn/bottomBanner_
+||https://iiikefu.com/wp-content/plugins/halfdata-green-popups/js/lepopup.js
 ||https://3158.cn^*_analyser.
+||https://pstatp.com/toutiao/push.js
 ||https://lnd.com.cn/sys/real_calc.js
 ||https://sogou.com/dr/p1.gif
 ||https://pconline.com.cn/ipJson.
@@ -12959,6 +12964,8 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://kxmusic.cn/tc/js/script.js
+||http://kxmusic.top/tc/js/script.js
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a67.com|99re.com
 ||http://jsdelivr.net^$domain=99a67.com
@@ -12973,6 +12980,7 @@
 ||http://avgle.topgirlsdating.com^$domain=avgle.com
 ||http://jads.co^$domain=avgle.com
 ||http://olmsoneenh.info^$domain=avgle.com
+||http://d.8181zx.com^
 ||http://003store.com^
 ||http://0512s.com^$third-party
 ||http://1.01fy.cn^
@@ -13811,6 +13819,8 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://huosuniao.com^
+||http://mohaijishu.cn^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -16217,6 +16227,7 @@
 ||http://ntalker.com^
 ||http://pop800.com^$third-party
 ||http://soperson.com^$third-party
+||http://tawk.to^$third-party
 ||http://tui.cnzz.net^$third-party
 ||http://zoosnet.net^$third-party
 ||http://zoossoft.cn^$third-party
@@ -16562,7 +16573,9 @@
 ||http://yyetss.com/static/modal.js
 ||http://pcauto.com.cn/zt/*_dialog/cjx-pc-half_
 ||http://thepaper.cn/bottomBanner_
+||http://iiikefu.com/wp-content/plugins/halfdata-green-popups/js/lepopup.js
 ||http://3158.cn^*_analyser.
+||http://pstatp.com/toutiao/push.js
 ||http://pv.cheshi.com^
 ||http://tracking.kdnet.net^
 ||http://lnd.com.cn/sys/real_calc.js
@@ -16822,6 +16835,11 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://22vd.com##.ad
+https://icourse163.org##.promotion-banner-wrapper
+https://22vd.com##.widget_custom_html:last-child
+https://kxmusic.top##A[href*="smsf8.com"]
+https://kxmusic.cn##A[href*="smsf8.com"]
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -23089,6 +23107,11 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://22vd.com##.ad
+http://icourse163.org##.promotion-banner-wrapper
+http://22vd.com##.widget_custom_html:last-child
+http://kxmusic.top##A[href*="smsf8.com"]
+http://kxmusic.cn##A[href*="smsf8.com"]
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2

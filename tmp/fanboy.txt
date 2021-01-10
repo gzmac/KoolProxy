@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 8F5CXbgdIb0dP3XbehYeiQ
+! Checksum: 5PXmOGRjqi42e6E25ipFbQ
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -21539,6 +21539,7 @@ _site_cookie_
 ##div[class^="j-share-"]
 ##div[class^="numberShares_"]
 ##div[class^="shareBar_"]
+##div[class^="shareBottom_"]
 ##div[class^="shareButton_"]
 ##div[class^="sidebar-social-"]
 ##div[class^="site-footer-social"]
@@ -38827,6 +38828,7 @@ wired.com##.consumer-marketing-unit--display-rail
 moneycontrol.com##.contact
 houseandleisure.co.za##.contact-us
 theneweuropean.co.uk##.container-pencil
+buzzfeed.com##.container__DucLZy4CZL
 fiercecable.com##.content-subscribe
 asianews.network##.content-subscription
 theguardian.com##.contributions__epic
@@ -41466,6 +41468,7 @@ zoomin.tv###privacyoverlay
 rocketleague.com###privmessage
 scalemates.com###prv
 elanco.com###ribbon
+ricochet.com###ricochet-cookie-bar
 cote.co.uk###root > div > .fixed
 mywot.com###root > div > div[direction="up"][style*="transform"]
 wrigleys.co.uk###rpcm
@@ -44850,6 +44853,7 @@ cassaforense.it,cfnews.it###cassaforense-cookies
 blogmamma.it###cbox-notice
 radiozammu.it###ccM
 centrometeolombardo.com###cc_div
+eismoinfo.lt###consent
 ecodallecitta.it###contenuto_consenso
 spesasicura.com###cook
 aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mymercato.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
