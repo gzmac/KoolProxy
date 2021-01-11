@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 5PXmOGRjqi42e6E25ipFbQ
+! Checksum: wdcTutQMZSW4GQMOok+p0A
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -27625,6 +27625,7 @@ _site_cookie_
 ###spcookiegdpr
 ###spfcookiebanner
 ###spletko-cookies
+###sprd-consent
 ###sputnik_cookie_policy_banner
 ###sr-cookie-policy
 ###stCookiebox
@@ -32025,6 +32026,7 @@ _site_cookie_
 ##.lp-widget-cookie-banner
 ##.lp__cookie_tooltip
 ##.lpsCookieInfo
+##.lsConsent
 ##.luana-module-cookie-policy
 ##.lucid-cookie-compliance
 ##.lvm-compliance-confirm-alert
@@ -45313,6 +45315,7 @@ basilica.ro##.alert
 bancatransilvania.ro##.bannerWrapper
 samsonite.ro##.cookies
 lexus.ro##.disclaimer
+imobiliare.ro##.modal-backdrop
 idea-bank.ro,lidl.ro##.notification
 epantofi.ro##.popup
 !
