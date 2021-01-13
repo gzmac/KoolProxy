@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: TgYk+wYG8wo6B5RWz322TA
-! Version: 202101120052
+! Checksum: WBbYFb09bAvcqGcaXufnGg
+! Version: 202101130052
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4879,6 +4879,8 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://kuaishouba.com/themes/default/images/*.gif
+||https://gllmh.com/style/js/gll
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -5565,6 +5567,8 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://govjiangsu.cn^
+||http://govbeijing.cn^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -12974,6 +12978,8 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://kuaishouba.com/themes/default/images/*.gif
+||http://gllmh.com/style/js/gll
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a67.com|99re.com
 ||http://jsdelivr.net^$domain=99a67.com
@@ -13827,6 +13833,8 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://gongxifacai21.top^
+||http://wenjianzhongxin.com^*.gif
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -16852,6 +16860,8 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://baidu.com##.fengchao-wrap-feed
+https://kuaishouba.com##.index_adbox
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -23128,6 +23138,8 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://baidu.com##.fengchao-wrap-feed
+http://kuaishouba.com##.index_adbox
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
