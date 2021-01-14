@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: D0byslxyHZDktddzA7Mrmw
+! Checksum: IhXLr8mPt4VYTcs0ZBpRjQ
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -6983,6 +6983,7 @@ _site_cookie_
 ##.slide-in--newsletter
 ##.slidedown-newsletter
 ##.slider_newsletter-container
+##.slideup-newsletter-optin
 ##.sm_newsletter
 ##.small-newsletter
 ##.sml_subscribe_widget
@@ -18029,6 +18030,7 @@ _site_cookie_
 ##.sib-shareButton
 ##.sics-component__footer__secondary-social
 ##.sics-component__sharebar
+##.side-article-share
 ##.side-facebook
 ##.side-pinterest
 ##.side-post-social
@@ -26688,6 +26690,7 @@ _site_cookie_
 ###leycookies
 ###leydecookies
 ###lf_cookie_msg
+###lgpd-wrapper
 ###lh-consent-dialog
 ###light_cookies_bar
 ###lineCookieInfo
@@ -33864,6 +33867,7 @@ _site_cookie_
 ##web-cookie-consent
 ##wp-cookie-notification-banner
 ##xk-cookie-policy-warning
+##yd-cookie-notice
 ##yg-cookie-confirm
 ##ytd-app ~ iron-overlay-backdrop
 ##ytd-consent-bump-renderer
@@ -39059,6 +39063,7 @@ reclaimthenet.org##.elementor-element-7fc59b9
 alriyadhdaily.com,democracynow.org,emigrate2.co.uk,pjmedia.com,townhall.com##.email
 hermanmiller.com,refinery29.com##.email-acquisition
 smarteranalyst.com##.email-alerts-pops
+flightconnections.com##.email-box
 playboy.com##.email-collection
 kveller.com##.email-form
 thegatewaypundit.com##.email-list-subscribe
@@ -46416,7 +46421,7 @@ amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.fr,gitlab.com,last.fm,red
 fewo-direkt.de,nvidia.pl#@#.subscribe-container
 nvidia.pl#@#.subscribe-text
 first-class-and-more.de,geekgamer.tv#@#.subscribe-widget
-greenlemon.me,mozvr.com,pianetamilan.it,sheensay.ru#@#.tag-social
+greenlemon.me,mozvr.com,pianetamilan.it,radiospada.org,sheensay.ru#@#.tag-social
 twitch.tv#@#.tw-icon
 twitch.tv#@#.tw-share
 chinadaily.com.cn,twitch.tv#@#.twBox
@@ -47346,6 +47351,7 @@ yoigo.com#@#thor-cookies
 @@||joinsnapcard.com/thema/img/reddit.png
 @@||joyreactor.cc/images/icon_social.png
 @@||jrjimg.cn/js.do?f=/share/js/
+@@||jsdelivr.net/npm/sharer.js
 @@||jsfiddle.net^$generichide
 @@||junglevibe2.net/min/?$script
 @@||kcrw.com^*/images/social-icons-$image,domain=kcrw.com
