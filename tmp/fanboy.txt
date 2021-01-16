@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: I4eg7VA8/CM2azYtDQmItA
+! Checksum: WRLEkja8ksY9xwlKt0VFcQ
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -3879,6 +3879,7 @@ _youtube_social_
 /cmp.bundle.js
 /cmp.complete.bundle.js
 /cmp/cmp.js
+/cmp/cmp.min.js
 /cmp/cmpui-
 /cmp/int_cmp.
 /cmp/privacy_manager?
@@ -3965,6 +3966,7 @@ _youtube_social_
 /cookie-overlay-
 /cookie-partner-list.
 /cookie-policy-
+/cookie-policy.css
 /cookie-policy.js
 /cookie-policy.min.
 /cookie-policy/*
@@ -4561,6 +4563,7 @@ _youtube_social_
 /uk-cookie-
 /ukcookie.
 /um-gdpr.
+/unitb-cmp.
 /uploads/GDPR-
 /usecookies.js
 /usocookies.
@@ -10855,7 +10858,6 @@ _site_cookie_
 ###socializethis
 ###socialleft
 ###sociallinks
-###socialmedia
 ###socialmedia-bottom
 ###socialmedia-icons
 ###socialmedia-share
@@ -19636,7 +19638,6 @@ _site_cookie_
 ##.socialmedia-container
 ##.socialmedia-menu
 ##.socialmedia-side
-##.socialmedia:not(html):not(body)
 ##.socialmediaDetails
 ##.socialmedia_article_linkbox
 ##.socialmedia_float
@@ -27088,6 +27089,7 @@ _site_cookie_
 ###openCookie
 ###openglobal_privacy_widget
 ###optanon
+###optin-bannerDiv
 ###optin-bar
 ###optin-optin-header
 ###optinCookie
@@ -39945,6 +39947,7 @@ food.com##.pushdown-message
 thechivery.com##.wheelio_holder
 reddit.com##.xPromoAppStoreFooter
 ! International
+aerzteblatt.de###pushy
 romait.it##.alert
 sindonews.com##.notif-box
 clarin.com##.notification-popup
@@ -41989,7 +41992,7 @@ spotify.com##.mh-message-bar
 mitele.es##.mitele-consent
 transparency.org##.mk-c-modal
 amazon.com##.mo-wp
-airnewzealand.eu,przekroj.pl,qv.co.nz##.modal
+airnewzealand.eu,przekroj.pl,qv.co.nz,thelittleboxoffice.com##.modal
 airnewzealand.eu,arlingtoncemetery.mil,arthrex.com,axminster.co.uk,daf.be,daf.co.uk,daf.com,daf.fr,daf.global,daf.nl,daf.ru,daf.se,daftrucks.de,daftrucks.dk,daftrucks.it,daftrucks.pl,daftrucks.sk,ferratum.co.uk,fiveguys.co.uk,kon-boot.com,lam.co.mz,medtronic.com,primaresearch.org,qv.co.nz##.modal-backdrop
 myanimelist.net##.modal-container
 myanimelist.net##.modal-content
@@ -42144,6 +42147,7 @@ daft.ie##.strapline-container
 lykke.com##.styled__Banner-hg6ib8-0
 meteoblue.com##.successMessage
 spiceworks.com##.sui-site-message-container
+outage.report##.swal2-container
 haier.com##.swiper-slide-img-txt
 games2gether.com##.system-notification-container
 socioinform.com##.t886
@@ -44505,6 +44509,7 @@ unifilm.de##.form-dsgvo
 frankonia.de##.fr-c-message
 jesus.de##.gaoop
 tipp24.com##.gdpr
+nick.de##.generic-text-wrap
 galeria-kaufhof.de##.gk-stickymessage
 autoscout24.ch,motoscout24.ch##.global-banner
 brigitte.de,essen-und-trinken.de,geo.de##.guj-cb
@@ -45533,7 +45538,10 @@ rgs.ru###rgs-main-context-bar
 linux-info.ru###trumpet_message
 drweb.ru##.SHOWIT-msg_showed
 ngnovoros.ru##._1TNYbgH
+oreluniver.ru##.accept
 bancaintesa.ru##.agreement-substrate
+podrozerowerowe.info##.appriseOuter
+podrozerowerowe.info##.appriseOverlay
 tvguru.ru##.c-modal
 hashrating.com##.cookie
 glavred.info,unian.net##.cookies
@@ -45544,6 +45552,7 @@ patee.ru##.informer2
 kinoby.ru##.message-alert
 shophair.ru##.modal_popup_sessid_box
 landrover.ru##.notificationBars
+kamkabel.ru##.panel_152_wp
 pegast.ru##.pgs-top
 66.ru##.t-i-agree
 !
@@ -45707,6 +45716,7 @@ infiniti-vietnam.com.vn##.c_128
 !
 ||byom.de/js/cookie.de.js
 ||cmp.pcwelt.de^
+||cmp.tvspielfilm.de^
 ||consent.berliner-kurier.de^
 ||consent.gutefrage.net^
 ||henryschein.at^*/CookieList.aspx
@@ -45847,6 +45857,7 @@ infiniti-vietnam.com.vn##.c_128
 !
 ! ---------- Slovak ----------
 !
+||cookies.teraz.sk^
 !
 ! ---------- Slovenian ----------
 !
@@ -46034,7 +46045,6 @@ wsqn.pl#@##social_container
 base.de#@##social_footer
 ghostery.com#@##social_media
 nextinpact.com#@##socialbar
-net-kanker.nl#@##socialmedia
 arte.tv,lenta.ru#@##socials
 youtube.com#@##subscribe-button
 feedburner.com#@##subscribe-options
@@ -46427,7 +46437,6 @@ wuala.com#@#.socialboxp
 esselungajob.it,jobs.jnj.com,jobs.kroger.com,realogy.com#@#.socialbutton
 clientsfromhell.net#@#.socialbuttons
 gamepedia.com#@#.sociallink
-heise.de,megabus.com,thenextweb.com#@#.socialmedia
 belgafiles.com,chaturbate.com,eska.pl,gog.com,se.pl#@#.socials
 aktuality.sk#@#.socials-link
 aktuality.sk#@#.socials-wrapper
@@ -46636,11 +46645,10 @@ rituals.com#@#.cookie-bar:not(body)
 egmont.com#@#.cookie-bar:not(body):not(html)
 zeist.hu.nl#@#.cookie-block
 lg.com#@#.cookie-check
-dovoba.de#@#.cookie-consent
 zwijsen.nl#@#.cookie-consent-container
 zwijsen.nl#@#.cookie-consent-content
 zwijsen.nl#@#.cookie-consent-wrapper
-codra.net,dovoba.de,medicinenet.com#@#.cookie-consent:not(body)
+codra.net,dovoba.de,medicinenet.com#@#.cookie-consent:not(body):not(html)
 bokadirekt.se,danbolig.dk,hongkong.fi,rusta.com,xmradio.nl#@#.cookie-content
 danbolig.dk,skuola.net#@#.cookie-dialog
 ikks.com#@#.cookie-footer
@@ -46988,6 +46996,7 @@ yoigo.com#@#thor-cookies
 @@||ameli.fr/sites/all/modules/custom/ameli_tarte_au_citron/js/*/tarteaucitron.$script
 @@||amigosmuseoreinasofia.org/assets/js/cookiecuttr/jquery.cookie.js
 @@||bccmilano.it/framework/js/cookies.dyn.js
+@@||betterdiscordlibrary.com/assets/js/libraries/cookie.js$script,~third-party
 @@||candidat.pole-emploi.fr^*/modules/jquery-eu-cookie-law-popup.js$script
 @@||cdn.privacy-mgmt.com^$domain=telegraph.co.uk
 @@||cdn.rp.pl/cmp/cmp.min.js
@@ -47000,6 +47009,7 @@ yoigo.com#@#thor-cookies
 @@||consent.truste.com/notice?$script,domain=forbes.it
 @@||cookist.it^*/remote-gdpr.min.js
 @@||cyrk-zalewski.com.pl^*/CookieInfo.js$script
+@@||dashnet.org/experiments/cookie/cookie.png$image,~third-party
 @@||ebok.vectra.pl/components/layout/cookie-bar/
 @@||fanpage.it^*/remote-gdpr.min.js
 @@||firkloveren.no/skin/$script,stylesheet
