@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Eq970BQmpugxaz8AwfAANA
+! Checksum: +Vc7Kxx1BChQwVuP714cDA
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -162,7 +162,6 @@
 /outbrainAd.
 ! Newsletter/Subscribe
 -160x120-newsletter.
--email-newsletter-
 -footer-newsletter.
 -icon-newsletter.
 -iscrizione-newsletter-
@@ -27180,7 +27179,6 @@ _vpcookieconsent/
 ###okno_rcookie
 ###okookie-box
 ###onetag_cookie_law
-###onetrust-consent-sdk
 ###onlyCookie
 ###onyx_cookiesinfo_bar
 ###onyx_cookiesinfo_spacer
@@ -32819,7 +32817,6 @@ _vpcookieconsent/
 ##.ort-cookie-banner
 ##.osano-cm-window
 ##.osw-privacy
-##.ot-sdk-show-settings
 ##.ot_cookie_settings_btn
 ##.ou-cookies-bar
 ##.outer-privacy-top-navigationBar
@@ -40626,7 +40623,7 @@ watchfree.to##.backdrop
 moviesdbz.com##.backgroundPopup
 thedirectory.co.zw##.badge-lists
 dezeen.com,huffpost.com##.badges
-invenglobal.com##.banner
+dxomark.com,invenglobal.com##.banner
 southerntimesafrica.com##.be-sc-area
 peruthisweek.com##.bg2
 businessinsider.com##.bi-icons
@@ -40922,6 +40919,7 @@ nj.com##.inline-sidebar
 mapometer.com##.inright
 bossip.com,foreigndesknews.com##.insta
 bulova.com,cadenaazul.com,comicrelief.com,cwseed.com,dailystar.co.uk,filmfare.com,lapoderosa.com,peoplesweather.com,sassymamahk.com,triangleoffense.com##.instagram
+dxomark.com##.instagram-banner
 winnipegfreepress.com##.interactive
 yahoo.com##.interest-bar
 bestgamingmouse.online##.iqs
@@ -46814,7 +46812,6 @@ bosch-mobility-solutions.com#@##m-cookie-overlay
 faberkabel.de#@##modalCookie
 microsoft.com#@##ms-cookie-banner
 thesocialmedwork.com#@##notice-cookie-block
-crfashionbook.com,giochi.it,gmx.com,mail.com#@##onetrust-consent-sdk
 api.newsguardtech.com,rockpapershotgun.com#@##optanon
 theverge.com#@##privacy-consent
 readthedocs.io,sportdiver.com#@##privacy-policy
@@ -47499,6 +47496,7 @@ yoigo.com#@#thor-cookies
 @@||ge.tt/s/images/twitter-extension-icon.png
 @@||ge.tt/s/images/twitter-signin.png
 @@||gearbest.com/imagecache/*/images/styleimg/share.png
+@@||gen.jut.su/jcdn/minify?charset=*/videojs-share.$script,stylesheet,domain=jut.su
 @@||geocaching.su/images/ctypes/icons/googlemap/$image,~third-party
 @@||getmyapp.link/content/images/share/$image,~third-party
 @@||gfycat.com^*/sharepage-*.js$script
@@ -47586,7 +47584,6 @@ yoigo.com#@#thor-cookies
 @@||ix.de/imgs/*/linkedin-$image,domain=heise.de
 @@||ix.de/scale/geometry/*/linkedin-$image,domain=heise.de
 @@||jailbreakqa.com/m/default/media/images/openid/
-@@||jjut.su/jcdn/minify?*/share/videojs-share.$script,stylesheet,domain=jut.su
 @@||jobs.kroger.com/platform/images/shared/social/$~third-party
 @@||joinsnapcard.com/thema/img/reddit.png
 @@||joyreactor.cc/images/icon_social.png
