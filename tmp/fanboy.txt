@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 7uA3WWk30kjz/saRKE9W+A
+! Checksum: zfR6ER6KMJT/qiEwrrJ96w
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -6845,6 +6845,7 @@ _vpcookieconsent/
 ##.nl-subscription-inarticle
 ##.nlSubscribe
 ##.nlWidgetMain2
+##.nletter-cont
 ##.nls-subscribe
 ##.nlsubscribe-block
 ##.nn-newsletter
@@ -32122,6 +32123,7 @@ _vpcookieconsent/
 ##.js-cookie-dialog
 ##.js-cookie-directive
 ##.js-cookie-disclaimer
+##.js-cookie-disclosure-banner
 ##.js-cookie-hint
 ##.js-cookie-holder
 ##.js-cookie-iframe
@@ -39128,6 +39130,8 @@ rt.com##.Subscription-content
 cnbc.com##.WildcardEmbed-wrapper
 languagetool.org##.ZebraDialog
 languagetool.org##.ZebraDialogOverlay
+qz.com##._2KLGz
+qz.com##._8xL_9
 bmmagazine.co.uk##._dark._inline-form
 sportspromedia.com##._floating-box
 commentarymagazine.com##._form_5
@@ -39727,7 +39731,7 @@ breakingnews.ie##.subscribe-box-articles
 albawaba.com,rt.com,sport360.com##.subscribe-btn
 middleeastmonitor.com##.subscribe-container
 todayonline.com##.subscribe-content
-spendwithpennies.com##.subscribe-cta
+narcity.com,spendwithpennies.com##.subscribe-cta
 nutritioninsight.com##.subscribe-div
 afp.com,albawaba.com,gulfnews.com##.subscribe-footer
 financialbuzz.com,maclife.com,segmentnext.com##.subscribe-form
@@ -42550,6 +42554,7 @@ daenischesbettenlager.de###totop
 suedtirolermilch.com###up
 helpster.de###videoFlyin
 mathe24.net###wrapperdiv
+computerbase.de##.app-install
 drwindows.de##.arrowNav
 suedtirol-it.com##.btn-top
 comparis.ch##.button-go-up
@@ -47470,6 +47475,7 @@ yoigo.com#@#thor-cookies
 @@||fappenist.com/Libs/Javascript/goodshare.min.js$script,~third-party
 @@||fark.net/images/*/links/
 @@||fbcdn.net/connect.php/js/FB.Share$domain=jamendo.com
+@@||fc-zenit.ru/local/templates/new_html/css/nav-social-2/$~third-party
 @@||fdcdn.co.uk/img/icons/
 @@||febbit.com/img/googleButtons/
 @@||feedburner.google.com^$image,domain=feeds.feedburner.com
