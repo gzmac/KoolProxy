@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: NnpwUy+YTW2FhIQKi+GOdw
-! Version: 202101250102
+! Checksum: uf7fd/PV/wrsHJf5onlcUg
+! Version: 202101260032
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -13246,6 +13246,7 @@
 ||http://baidujs.cnys.com^
 ||http://bas.boshi.tv^
 ||http://bd-s.baixing.net^
+||http://bd.beimap.com^
 ||http://bd.czxuexi.com^
 ||http://bd.ershenghuo.com^
 ||http://bd1-china.6789.com^
@@ -14562,6 +14563,7 @@
 ||http://exusr.com^
 ||http://ezfashion.com.cn^
 ||http://f1t5pb.cn^
+||http://f50b5.cn^
 ||http://fangjslc.com^
 ||http://fanglinwang.cn^
 ||http://fangzhanla.cn^
@@ -15022,6 +15024,7 @@
 ||http://jysbj.cn^
 ||http://jytjw.com^
 ||http://jzn360.cn^
+||http://jzrzpump.com^
 ||http://k22x6.cn^
 ||http://k2wx5.cn^
 ||http://k7tju.xyz^
@@ -15201,6 +15204,7 @@
 ||http://minglongtea.cn^
 ||http://mitjg.xyz^
 ||http://mjita.cn^
+||http://mjtowot.cn^
 ||http://ml44.cn^
 ||http://mlion.cn^
 ||http://mmfusheng.com^
@@ -15305,6 +15309,7 @@
 ||http://nyhnx.com^
 ||http://nykps.com^
 ||http://nyyxyx.com.cn^
+||http://o5ikm6.cn^
 ||http://obeip.com^
 ||http://obj9.cn^
 ||http://octopuszyw.cn^
