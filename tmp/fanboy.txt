@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: MQ7R0+nBo7KFmuqDCEyBsA
+! Checksum: q/wZYRAt+Ckw0aTvSriojA
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -7941,6 +7941,7 @@ _vpcookieconsent/
 ##.footer__backtotop-btn
 ##.footer__go-to-top
 ##.footer__nav-to-top
+##.footernavigation__scrollUp
 ##.fwscrolltotop
 ##.g1-back-to-top
 ##.g1-back-to-top-on
@@ -42538,6 +42539,7 @@ smallseotools.com###cookie-bar
 eteknix.com###cookie-law-info-bar
 depositfiles.com,dfiles.eu,dfiles.ru###cookie_popup
 tweaktown.com###cookies_footer_sec
+msn.com###onetrust-consent-sdk
 shirtsofcotton.com###udtDark
 bild.de,welt.de##.as-oil
 icq.com##.ca_wrap
@@ -44251,6 +44253,7 @@ fanpage.it##.ft-icon
 corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it##.fumetti
 ilmeteo.it##.giornale-contatti
 advicegroup.it##.google
+cellulare-magazine.it##.google-news
 montecarlonews.it##.google_news
 webnews.it##.gplus
 ilbianconero.com##.header-banner-menu
