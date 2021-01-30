@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: q/wZYRAt+Ckw0aTvSriojA
+! Checksum: BNNXPE94uS24rAo7iZOS6g
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -6192,6 +6192,7 @@ _vpcookieconsent/
 ##.d-newsletter
 ##.d1-article-sidebar-subscribe-msg
 ##.d1-article-subscribe
+##.daily-news-letter
 ##.daily-newsletter
 ##.daily-newsletter-anmeldung_r
 ##.daily_email_signup
@@ -25990,6 +25991,7 @@ _vpcookieconsent/
 ###euCookiesZone
 ###euLaw-alert
 ###euNotice
+###euPopup
 ###eu_compliance
 ###eu_cookie
 ###eu_cookie_alert
@@ -39627,6 +39629,7 @@ pedestrian.tv##.panel-signup-footer
 livescience.com,space.com##.partner-banner
 patheos.com##.patheos-newsletter-mod-rail
 vanityfair.com,wired.com##.paywall-bar--visible
+nautil.us##.paywall-popup
 dbknews.com##.pb-f-global-mailchimp-signup
 theglobeandmail.com##.pb-f-marketing-container-placeholder
 washingtonpost.com##.pb-f-page-follow-instream
@@ -46632,7 +46635,7 @@ lifetimetv.pl#@#.social-feed
 ally.com#@#.social-footer
 deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-google
 attn.com,wonderhowto.com#@#.social-header
-counterpunch.org#@#.social-hide
+counterpunch.org,staysafeonline.org#@#.social-hide
 deathandtaxesmag.com,gofugyourself.com,hostinger.ae,hostinger.com.br,hostinger.com.ua,hostinger.fr,hostinger.in.th,hostinger.it,hostinger.kr,hostinger.lt,hostinger.my,hostinger.ph,hostinger.pl,hostinger.pt,hostinger.ro,hostinger.ru,hostinger.vn,hostinger.web.tr,spin.com,stereogum.com,vibe.com#@#.social-holder
 battle.net,ok.ru,speedtest.net,udemy.com,washingtonexaminer.com#@#.social-icon
 deathandtaxesmag.com,gofugyourself.com,ourweigh.in,spin.com,stereogum.com,vibe.com,viewbug.com#@#.social-icons
@@ -47351,6 +47354,7 @@ yoigo.com#@#thor-cookies
 @@||accountkiller.com/i/social-icons.png
 @@||accounts.codemasters.com/Areas/OAuth/Content/Clean/logo_twitter.png
 @@||activations.cdn.mozilla.net^*/images/$~third-party
+@@||activestate.com/wp-content/plugins/accesspress-social-icons/js/frontend.js$script,domain=activestate.com
 @@||addthis.com^*/official-addthis-angularjs.min.js$domain=bayie.com
 @@||addthiscdn.com^*/print.png
 @@||addtoany.com/menu/page.js$domain=similarpages.com
