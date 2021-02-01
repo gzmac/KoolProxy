@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: bHQPdlp9QalSyS+h9eWdcw
-! Version: 202101310032
+! Checksum: miLdD9LruwUVThFAODxCFg
+! Version: 202102010032
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4399,7 +4399,6 @@
 ||https://wei2008.com/js/jump
 ||https://wei2008.com/js/t_
 ||https://wei2008.com/skin/js/top.js
-||https://weihaifangzi.com/js/w1.js
 ||https://weihaojiaju.com/tu888/
 ||https://weike87.com/images/*0
 ||https://weike87.com/images/*1
@@ -4997,10 +4996,10 @@
 ||https://360xs.com/templates/html5/js/djtop.js
 ||https://55shuba.com/files/article/html/
 ||https://597txtt.com^*.php
-||https://6ks.net^*.html$script
 ||https://78zw.com/1
 ||https://7kzw.com/1
 ||https://7kzw.com/fe/
+||https://9yd.net^*.html$script
 ||https://aikanshu8.com/novel/js/hm
 ||https://aitxt.com/bot-
 ||https://aitxt.com/js/ai.js
@@ -5049,7 +5048,7 @@
 ||https://xqxx520.com^$third-party
 ||https://xstt5.com/skin/v3/js/dibu.js
 ||https://xstt5.com/template/js/fx
-||https://xsw55.com/xswu/style/img/ls
+||https://xsw55.net/xswu/style/img/ls
 ||https://xszysc.com^$third-party
 ||https://xuehongxs.com:
 ||https://yssm.info/sm/true.js
@@ -7421,6 +7420,7 @@
 ||http://rdiqt.cn^
 ||http://re.taotaosou.com^
 ||http://rebdy.com^
+||http://reendian.cn^
 ||http://rekanw.com^$third-party
 ||http://reliancevalve.com^
 ||http://remotedu.cn^
@@ -12505,7 +12505,6 @@
 ||http://wei2008.com/js/jump
 ||http://wei2008.com/js/t_
 ||http://wei2008.com/skin/js/top.js
-||http://weihaifangzi.com/js/w1.js
 ||http://weihaojiaju.com/tu888/
 ||http://weike87.com/images/*0
 ||http://weike87.com/images/*1
@@ -13634,6 +13633,7 @@
 ||http://r.99waiyu.com^
 ||http://rabc1.iteye.com^
 ||http://rbmry.com^
+||http://rc.ie13.com^
 ||http://rdbd.xsread.com^
 ||http://redmx.cn^$third-party
 ||http://rmcxw.cn^
@@ -14055,7 +14055,6 @@
 ||http://688ct.com^
 ||http://6945k6.cn^
 ||http://69yll.cn^
-||http://6ks.net^*.html$script
 ||http://6l1967.cn^
 ||http://6shuge.com^
 ||http://6yush.cn^
@@ -14100,6 +14099,7 @@
 ||http://9uh94c.cn^
 ||http://9weg7b.com^
 ||http://9y88.com^
+||http://9yd.net^*.html$script
 ||http://a3pz36.cn^
 ||http://a7t89g4a.cn^
 ||http://aa.wenxue6.com^
@@ -15037,7 +15037,7 @@
 ||http://juyour8.org^
 ||http://juyzr.com^
 ||http://jvyigg.biquge.lu^
-||http://jvyigg.biqumo.com^
+||http://jvyigg.biqugeq.com^
 ||http://jvyigg.zbzw.la^
 ||http://jwhfn.cn^
 ||http://jx.cn^$third-party
@@ -15113,6 +15113,7 @@
 ||http://lalaaal.cn^
 ||http://lalaxit.cn^
 ||http://lanshiwan.cn^
+||http://lantuyj.com^
 ||http://laojiayoufang.com^
 ||http://lawumi.cn^
 ||http://lchar.com^
@@ -15169,7 +15170,7 @@
 ||http://louisan.cn^
 ||http://lousivency.com.cn^
 ||http://lownguw.top^
-||http://lq.booktxt.net^
+||http://lq.xsbooktxt.com^
 ||http://lq0s3c.cn^
 ||http://lq1.abcxs.com^
 ||http://lqmohun.com^$third-party
@@ -16032,7 +16033,7 @@
 ||http://xsc.x81zw.com^
 ||http://xstt5.com/skin/v3/js/dibu.js
 ||http://xstt5.com/template/js/fx
-||http://xsw55.com/xswu/style/img/ls
+||http://xsw55.net/xswu/style/img/ls
 ||http://xswfkco.cn^
 ||http://xsyouwei.cn^
 ||http://xszysc.com^$third-party
@@ -16177,6 +16178,7 @@
 ||http://yzdcb.xyz^
 ||http://yzfbank.com^
 ||http://yzftqx.cn^
+||http://yzt001.com^
 ||http://yzylm.com^
 ||http://yzyszy.com^
 ||http://z65j.cn^
@@ -17554,6 +17556,7 @@ https://bd-film.cc###fmtdiv
 https://apk.tw###focus
 https://fuliba2020.net,fulibus.net,wuzuowei.net###focusslide
 https://bitauto.com###folieAdNews
+https://w3school.com.cn###foogz
 https://wdzj.com###footbanner
 https://jxedt.com###footer
 https://ttzmz.vip###footer > div[style]
@@ -18166,6 +18169,7 @@ https://baidu.com###sning1
 https://baidu.com###sning2
 https://baidu.com###sning3
 https://sogou.com###sogou_vr_21355601_wrap_0
+https://w3school.com.cn###sp_sidebar
 https://w3school.com.cn###sp_tiy
 https://baidu.com###spage-top-banner
 https://downbank.cn,greenxf.com###speed-download
@@ -18614,6 +18618,7 @@ https://2345.com##.adMainBg
 https://hao123.com##.adMainMiddle-box
 https://cnblogs.com##.adPopup
 https://ifeng.com##.adR01
+https://chinaz.com##.adSpon
 https://ck101.com##.adTopBox
 https://baidu.com##.adTopImg
 https://cztv.com##.ad_003
@@ -20623,6 +20628,7 @@ https://acwifi.net,zhain8.com##.ssr
 https://eastday.com##.ssy_left
 https://eastday.com##.ssy_right
 https://3g.cn##.statistic[href^="https://jumpluna.58.com/"]
+https://ping.chinaz.com##.sth > .col-red
 https://tvsou.com##.story_ad_android
 https://tvsou.com##.story_ad_content_footer
 https://tvsou.com##.story_ad_ios
@@ -21088,7 +21094,7 @@ https://3322.cc##[onclick*=".gsxzq."]
 https://32r.com##[onclick*="@"]
 https://zhangxinxu.com##[onclick*="Ad"]
 https://42xz.com##[onclick*="godownload"]
-https://717dyi.com,86cg.me,aiqiyivip.com,duodada.com,liaocao.tv,qhdi.com##[onclick]
+https://1stchina.net,717dyi.com,86cg.me,aiqiyivip.com,duodada.com,liaocao.tv,qhdi.com##[onclick]
 https://duonaolive.com##[onclick^="track"]
 https://717dyi.com,aiqiyivip.com,duodada.com,poxiaotv.com,qhdi.com##[ontouchstart]
 https://duodada.com##[style*="position: fixed; left: 0px;"]
@@ -23861,6 +23867,7 @@ http://bd-film.cc###fmtdiv
 http://apk.tw###focus
 http://fuliba2020.net,fulibus.net,wuzuowei.net###focusslide
 http://bitauto.com###folieAdNews
+http://w3school.com.cn###foogz
 http://wdzj.com###footbanner
 http://jxedt.com###footer
 http://ttzmz.vip###footer > div[style]
@@ -24473,6 +24480,7 @@ http://baidu.com###sning1
 http://baidu.com###sning2
 http://baidu.com###sning3
 http://sogou.com###sogou_vr_21355601_wrap_0
+http://w3school.com.cn###sp_sidebar
 http://w3school.com.cn###sp_tiy
 http://baidu.com###spage-top-banner
 http://downbank.cn,greenxf.com###speed-download
@@ -24921,6 +24929,7 @@ http://2345.com##.adMainBg
 http://hao123.com##.adMainMiddle-box
 http://cnblogs.com##.adPopup
 http://ifeng.com##.adR01
+http://chinaz.com##.adSpon
 http://ck101.com##.adTopBox
 http://baidu.com##.adTopImg
 http://cztv.com##.ad_003
@@ -26930,6 +26939,7 @@ http://acwifi.net,zhain8.com##.ssr
 http://eastday.com##.ssy_left
 http://eastday.com##.ssy_right
 http://3g.cn##.statistic[href^="https://jumpluna.58.com/"]
+http://ping.chinaz.com##.sth > .col-red
 http://tvsou.com##.story_ad_android
 http://tvsou.com##.story_ad_content_footer
 http://tvsou.com##.story_ad_ios
@@ -27395,7 +27405,7 @@ http://3322.cc##[onclick*=".gsxzq."]
 http://32r.com##[onclick*="@"]
 http://zhangxinxu.com##[onclick*="Ad"]
 http://42xz.com##[onclick*="godownload"]
-http://717dyi.com,86cg.me,aiqiyivip.com,duodada.com,liaocao.tv,qhdi.com##[onclick]
+http://1stchina.net,717dyi.com,86cg.me,aiqiyivip.com,duodada.com,liaocao.tv,qhdi.com##[onclick]
 http://duonaolive.com##[onclick^="track"]
 http://717dyi.com,aiqiyivip.com,duodada.com,poxiaotv.com,qhdi.com##[ontouchstart]
 http://duodada.com##[style*="position: fixed; left: 0px;"]
