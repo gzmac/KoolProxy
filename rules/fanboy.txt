@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tgT+ziAWsCeyZbXCiw2E8w
-! Version: 202102010041
+! Checksum: 0GWBMQUp9fglFDVpxeg/AA
+! Version: 202011060931
 ! Title: Fanboy's Annoyance List
-! Last modified: 01 Feb 2021 00:41 UTC
+! Last modified: 06 Nov 2020 09:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7212,6 +7212,7 @@ https://sciencetimes.com##.wh_transf
 https://daltondailycitizen.com##.what-counts
 https://madison.com##.whatcounts-form-container
 https://mybroadband.co.za##.whatsapp-button
+https://news18.com##.whatsappbutton
 https://xda-developers.com##.widget-2
 https://styleblazer.com##.widget_fashionblog_newsletter
 https://lamag.com##.widget_innoscale_hubspotwidget_id
@@ -8439,6 +8440,7 @@ https://patreon.com##.patreon-footer-component--link
 https://post-gazette.com##.pgevoke-story-socialbuttons-facebook
 https://post-gazette.com##.pgevoke-story-socialbuttons-reddit
 https://post-gazette.com##.pgevoke-story-socialbuttons-twitter
+https://news18.com##.pht-artcl-shr2
 https://bossip.com,esquire.com,fashionmagazine.com,foxnews.com,sassyhongkong.com,sassymanila.com,upi.com##.pin
 https://foodnetwork.com,kitchendaily.com##.pinit
 https://9gag.tv,bulova.com,cnn.com,fraghero.com,inhabitat.com,latintimes.com,nymag.com,opensiteexplorer.org,tweaktown.com,vulture.com,yahoo.com,yourdailymedia.com##.pinterest
@@ -9798,6 +9800,7 @@ https://mashable.com##div[style*="background: rgb(255, 255, 255)"]
 https://plarium.com##div[style*="position: fixed;"]
 https://cplusplus.com##div[style="background:#eed;padding:10px;margin:0;text-align:center;border-bottom:1px solid #446"]
 https://flazio.com##div[style="z-index:9998; position: fixed;bottom: 0;left: 0;width: 100%;background: #208ac8;color: #f1f3f5;font-size: 12px;padding: 12px 0px;text-align: center;"]
+https://g4tv.com##div[style^="align-items: baseline; background: rgb(53, 53, 53)"]
 https://cieem.net##div[style^="background-color: #000; padding: 10px"]
 https://bundlestars.com##div[style^="background: #424242; "]
 https://qrzcq.com##div[style^="border: 2px solid blue;"]
@@ -13563,6 +13566,7 @@ https://openfiber.it#@#[aria-label="cookieconsent"]
 https://atutszkola.pl,meethue.com,mydziewczyny.pl,philips-hue.com,philips.ae,philips.am,philips.at,philips.az,philips.be,philips.bg,philips.by,philips.ca,philips.ch,philips.cl,philips.co.id,philips.co.il,philips.co.in,philips.co.jp,philips.co.ke,philips.co.kr,philips.co.nz,philips.co.th,philips.co.uk,philips.co.za,philips.com,philips.com.ar,philips.com.au,philips.com.bh,philips.com.br,philips.com.cn,philips.com.co,philips.com.eg,philips.com.ge,philips.com.gh,philips.com.hk,philips.com.kw,philips.com.lb,philips.com.mx,philips.com.my,philips.com.om,philips.com.pe,philips.com.ph,philips.com.pk,philips.com.qa,philips.com.sg,philips.com.tr,philips.com.tw,philips.com.uy,philips.com.vn,philips.cz,philips.de,philips.dk,philips.ee,philips.es,philips.fi,philips.fr,philips.gr,philips.hr,philips.hu,philips.ie,philips.iq,philips.it,philips.jo,philips.kz,philips.lt,philips.lv,philips.ma,philips.ng,philips.nl,philips.no,philips.pl,philips.pt,philips.ro,philips.rs,philips.ru,philips.sa,philips.se,philips.si,philips.sk,philips.ua,philips.uz#@#[data-cookie-id]
 https://mymuesli.com#@#cookies_consent
 https://litebit.eu#@#div[class*="CookieConsent"]
+https://telenor.se#@#div[class*="cookie-consent-modal_"]
 https://ee.co.uk,monese.com#@#div[class^="cookie-banner"]
 https://dovoba.de#@#div[class^="cookie-consent_"]
 https://birramenabrea.com,cnwl.nhs.uk,marketerplus.pl,myspeed.pl#@#div[data-cookie]
@@ -17939,6 +17943,7 @@ http://sciencetimes.com##.wh_transf
 http://daltondailycitizen.com##.what-counts
 http://madison.com##.whatcounts-form-container
 http://mybroadband.co.za##.whatsapp-button
+http://news18.com##.whatsappbutton
 http://xda-developers.com##.widget-2
 http://styleblazer.com##.widget_fashionblog_newsletter
 http://lamag.com##.widget_innoscale_hubspotwidget_id
@@ -19166,6 +19171,7 @@ http://patreon.com##.patreon-footer-component--link
 http://post-gazette.com##.pgevoke-story-socialbuttons-facebook
 http://post-gazette.com##.pgevoke-story-socialbuttons-reddit
 http://post-gazette.com##.pgevoke-story-socialbuttons-twitter
+http://news18.com##.pht-artcl-shr2
 http://bossip.com,esquire.com,fashionmagazine.com,foxnews.com,sassyhongkong.com,sassymanila.com,upi.com##.pin
 http://foodnetwork.com,kitchendaily.com##.pinit
 http://9gag.tv,bulova.com,cnn.com,fraghero.com,inhabitat.com,latintimes.com,nymag.com,opensiteexplorer.org,tweaktown.com,vulture.com,yahoo.com,yourdailymedia.com##.pinterest
@@ -20526,6 +20532,7 @@ http://mashable.com##div[style*="background: rgb(255, 255, 255)"]
 http://plarium.com##div[style*="position: fixed;"]
 http://cplusplus.com##div[style="background:#eed;padding:10px;margin:0;text-align:center;border-bottom:1px solid #446"]
 http://flazio.com##div[style="z-index:9998; position: fixed;bottom: 0;left: 0;width: 100%;background: #208ac8;color: #f1f3f5;font-size: 12px;padding: 12px 0px;text-align: center;"]
+http://g4tv.com##div[style^="align-items: baseline; background: rgb(53, 53, 53)"]
 http://cieem.net##div[style^="background-color: #000; padding: 10px"]
 http://bundlestars.com##div[style^="background: #424242; "]
 http://qrzcq.com##div[style^="border: 2px solid blue;"]
@@ -24292,6 +24299,7 @@ http://openfiber.it#@#[aria-label="cookieconsent"]
 http://atutszkola.pl,meethue.com,mydziewczyny.pl,philips-hue.com,philips.ae,philips.am,philips.at,philips.az,philips.be,philips.bg,philips.by,philips.ca,philips.ch,philips.cl,philips.co.id,philips.co.il,philips.co.in,philips.co.jp,philips.co.ke,philips.co.kr,philips.co.nz,philips.co.th,philips.co.uk,philips.co.za,philips.com,philips.com.ar,philips.com.au,philips.com.bh,philips.com.br,philips.com.cn,philips.com.co,philips.com.eg,philips.com.ge,philips.com.gh,philips.com.hk,philips.com.kw,philips.com.lb,philips.com.mx,philips.com.my,philips.com.om,philips.com.pe,philips.com.ph,philips.com.pk,philips.com.qa,philips.com.sg,philips.com.tr,philips.com.tw,philips.com.uy,philips.com.vn,philips.cz,philips.de,philips.dk,philips.ee,philips.es,philips.fi,philips.fr,philips.gr,philips.hr,philips.hu,philips.ie,philips.iq,philips.it,philips.jo,philips.kz,philips.lt,philips.lv,philips.ma,philips.ng,philips.nl,philips.no,philips.pl,philips.pt,philips.ro,philips.rs,philips.ru,philips.sa,philips.se,philips.si,philips.sk,philips.ua,philips.uz#@#[data-cookie-id]
 http://mymuesli.com#@#cookies_consent
 http://litebit.eu#@#div[class*="CookieConsent"]
+http://telenor.se#@#div[class*="cookie-consent-modal_"]
 http://ee.co.uk,monese.com#@#div[class^="cookie-banner"]
 http://dovoba.de#@#div[class^="cookie-consent_"]
 http://birramenabrea.com,cnwl.nhs.uk,marketerplus.pl,myspeed.pl#@#div[data-cookie]

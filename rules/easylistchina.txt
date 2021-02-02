@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: miLdD9LruwUVThFAODxCFg
-! Version: 202102010032
+! Checksum: bfOn1Yx5aM7oR1DhexEpbw
+! Version: 202102020022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1473,6 +1473,7 @@
 ||https://alicdn.com/imgextra/i3/1731999033/TB2lAJufnlYBeNjSszcXXbwhFXa_
 ||https://alicdn.com/kf/*.gif
 ||https://alicdn.com/kf/H23e4be4c556744c4bef772eb0ad9d938G.jpg
+||https://alicdn.com/kf/H34fbd8f00853429d937c89c5d4d75e17T.gif
 ||https://alicdn.com/kf/H4fa310799bf04b33803900c0f629094bQ.jpg
 ||https://alicdn.com/kf/H8105709d8ee745139cfd5affe30a9d719.jpg
 ||https://alicdn.com/kf/H9df22b1c3f0041b2874ddfd38836993em.gif
@@ -2204,6 +2205,7 @@
 ||https://doczj.com/js/common.js
 ||https://dodo8.com/template/*/images/g_js/
 ||https://dol.tianya.cn/s?z=tianya&
+||https://dongchedi.com/motor/ad/
 ||https://dongfangtai.com/2018/
 ||https://dota2.uuu9.com^$subdocument
 ||https://douban.com/?unit=dale_movie_trailer_after_play&
@@ -7572,6 +7574,7 @@
 ||http://subo.me^$third-party
 ||http://sufficient.cn^
 ||http://sums.suning.com^$third-party
+||http://sundady.online^
 ||http://suning.beer^
 ||http://suning.design^
 ||http://suning.fit^
@@ -9208,6 +9211,7 @@
 ||http://alicdn.com/imgextra/i3/1731999033/TB2lAJufnlYBeNjSszcXXbwhFXa_
 ||http://alicdn.com/kf/*.gif$domain=tzfile.com
 ||http://alicdn.com/kf/H23e4be4c556744c4bef772eb0ad9d938G.jpg
+||http://alicdn.com/kf/H34fbd8f00853429d937c89c5d4d75e17T.gif
 ||http://alicdn.com/kf/H4fa310799bf04b33803900c0f629094bQ.jpg
 ||http://alicdn.com/kf/H8105709d8ee745139cfd5affe30a9d719.jpg
 ||http://alicdn.com/kf/H9df22b1c3f0041b2874ddfd38836993em.gif
@@ -10032,6 +10036,7 @@
 ||http://dodo8.com/template/*/images/g_js/
 ||http://doko.moe^$domain=pantsu.cat
 ||http://dol.tianya.cn/s?z=tianya&
+||http://dongchedi.com/motor/ad/
 ||http://dongfangtai.com/2018/
 ||http://dota2.uuu9.com^$subdocument
 ||http://douban.com/?unit=dale_movie_trailer_after_play&
@@ -11070,7 +11075,7 @@
 ||http://kuaihou.com/c/you1.js
 ||http://kuaihou.com/js/new/xiazai
 ||http://kuaishouba.com/themes/default/images/*.gif
-||http://kuaizhan.com^$domain=bingdou.net|ppx116.com|yaoshe67.com|yuese46.com
+||http://kuaizhan.com^$domain=ppx116.com|yaoshe67.com|yuese46.com
 ||http://kukan5.com/ad
 ||http://kukan5.com/indexxzad.jpg
 ||http://kwflvcdn.000dn.com^*.flv
@@ -14885,6 +14890,7 @@
 ||http://hyyazhaji.com^
 ||http://hyzhongchuang.com^
 ||http://hzhfhkj.cn^
+||http://hzhongjianfund.com^
 ||http://hzht666.com^
 ||http://hzqzxf.com^
 ||http://hzsrjs.com^
@@ -15358,6 +15364,7 @@
 ||http://okshishi.com^
 ||http://okuis.com^
 ||http://okwan.cn^
+||http://ol6nhf.cn^
 ||http://olc0.cn^
 ||http://on1q0.cn^
 ||http://once88.cn^
@@ -18634,7 +18641,6 @@ https://51wangdai.com##.ad_123_AD
 https://jurong.cn##.ad_190_60_5s
 https://1688.com.au##.ad_300_p
 https://eol.cn##.ad_490
-https://ttys5.com##.ad_580
 https://cna.com.tw##.ad_970
 https://hupu.com##.ad_980
 https://cheshi.com##.ad_980105
@@ -19453,7 +19459,7 @@ https://9dog.pw##.float-adv
 https://firefoxchina.cn,taoyizhu.com##.float-banner
 https://csdn.net##.float-left > div[id^="dmp_ad_"]
 https://3boys2girls.com##.float320
-https://hoteastday.com##.float_ad
+https://bingdou.com.cn,hoteastday.com##.float_ad
 https://oschina.net##.float_adbox
 https://admin5.com##.float_both_index
 https://rrys2020.com##.float_middel_ad_bk
@@ -21223,6 +21229,7 @@ https://58.com##a[href*="to8to.com"]
 https://1090ys2.com,wnacg.com,wnacg.org##a[href*="tyrantdb.com"]
 https://boke112.com##a[href*="url.cn"]
 https://enjoymore.fun##a[href*="urlto.pw"]
+https://tingroom.com##a[href*="weidian.com"]
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##a[href*="www.clinique."]
 https://yamibo.com##a[href*="xqsp.club"]
 https://1090ys2.com##a[href*="yb6277."]
@@ -24945,7 +24952,6 @@ http://51wangdai.com##.ad_123_AD
 http://jurong.cn##.ad_190_60_5s
 http://1688.com.au##.ad_300_p
 http://eol.cn##.ad_490
-http://ttys5.com##.ad_580
 http://cna.com.tw##.ad_970
 http://hupu.com##.ad_980
 http://cheshi.com##.ad_980105
@@ -25764,7 +25770,7 @@ http://9dog.pw##.float-adv
 http://firefoxchina.cn,taoyizhu.com##.float-banner
 http://csdn.net##.float-left > div[id^="dmp_ad_"]
 http://3boys2girls.com##.float320
-http://hoteastday.com##.float_ad
+http://bingdou.com.cn,hoteastday.com##.float_ad
 http://oschina.net##.float_adbox
 http://admin5.com##.float_both_index
 http://rrys2020.com##.float_middel_ad_bk
@@ -27534,6 +27540,7 @@ http://58.com##a[href*="to8to.com"]
 http://1090ys2.com,wnacg.com,wnacg.org##a[href*="tyrantdb.com"]
 http://boke112.com##a[href*="url.cn"]
 http://enjoymore.fun##a[href*="urlto.pw"]
+http://tingroom.com##a[href*="weidian.com"]
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##a[href*="www.clinique."]
 http://yamibo.com##a[href*="xqsp.club"]
 http://1090ys2.com##a[href*="yb6277."]
