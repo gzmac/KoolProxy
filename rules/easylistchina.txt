@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: bfOn1Yx5aM7oR1DhexEpbw
-! Version: 202102020022
+! Checksum: xZ7GXe7raZMjlpCGA6d+Zg
+! Version: 202102030022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -2587,6 +2587,7 @@
 ||https://hahamx.cn/upload/data/detail_
 ||https://hahamx.cn/upload/data/list_sidebar_
 ||https://haiwaiyy.com/B970X90.gif
+||https://halitv.com/ad/
 ||https://hangzhou.com.cn/extra/flash/hzwarticle300.swf
 ||https://hanjutv2020.com/index.php?c=dudu_
 ||https://hanjutv2020.com/statics/skin/*/js/plus.js
@@ -3520,6 +3521,7 @@
 ||https://nownews.com/assets/js/setAds.js
 ||https://nqbcf.cn/html/top
 ||https://nrsfh.com/neirong/
+||https://ntdtv.com/assets/themes/ntd/js/article_ads.js
 ||https://ntimg.cn/original/images/www_ads.jpg
 ||https://nulltm.com/adv.js
 ||https://nvsheng.com/js/gg.js
@@ -4639,6 +4641,7 @@
 ||https://yefu365.com/rebo/function.js
 ||https://yehaobo5.com/js/
 ||https://yerecpa.cn/uploadsb/app_adv/
+||https://yeshefb.com/template/conch/dd/
 ||https://yesky.com/monitorjs/imp-
 ||https://yesky.com/s?z=
 ||https://yeyou.com/2013/new/yeyou-float-window.js
@@ -7776,6 +7779,7 @@
 ||http://vs944.cn^
 ||http://vsnoon.com^$third-party
 ||http://vt863.cn^
+||http://vtfwgfo.cn^
 ||http://vtqifk86868.cn^
 ||http://vxsnk.com^
 ||http://w3989.com^
@@ -10492,6 +10496,7 @@
 ||http://haituie.com^*.gif
 ||http://haiwainet.cn*/k.js
 ||http://haiwaiyy.com/B970X90.gif
+||http://halitv.com/ad/
 ||http://hangzhou.com.cn/extra/flash/hzwarticle300.swf
 ||http://hanjutv2020.com/index.php?c=dudu_
 ||http://hanjutv2020.com/statics/skin/*/js/plus.js
@@ -11520,6 +11525,7 @@
 ||http://nownews.com/assets/js/setAds.js
 ||http://nqbcf.cn/html/top
 ||http://nrsfh.com/neirong/
+||http://ntdtv.com/assets/themes/ntd/js/article_ads.js
 ||http://ntimg.cn/original/images/www_ads.jpg
 ||http://nulltm.com/adv.js
 ||http://nvsheng.com/js/gg.js
@@ -12766,6 +12772,7 @@
 ||http://yehaobo5.com/js/
 ||http://yerecpa.cn/uploadsb/app_adv/
 ||http://yes1.feng.com^$domain=feng.com
+||http://yeshefb.com/template/conch/dd/
 ||http://yesky.com/monitorjs/imp-
 ||http://yesky.com/s?z=
 ||http://yeyou.com/2013/new/yeyou-float-window.js
@@ -14198,6 +14205,7 @@
 ||http://amghvzn.cn^
 ||http://anmeilai.net^
 ||http://anweigongsi.com^
+||http://anyihuan.com^
 ||http://anyysz.com^
 ||http://aodepuo.cn^
 ||http://aoidf3.com^
@@ -14980,6 +14988,7 @@
 ||http://jiirz.com^
 ||http://jilinxinfukeji.com^
 ||http://jinchaoyu.com^
+||http://jindingguopin.com^
 ||http://jindowins.com^
 ||http://jingdayiyuan.com^
 ||http://jingoulong.cn^
@@ -16194,6 +16203,7 @@
 ||http://zanghaihua.org^
 ||http://zazkkk.com^
 ||http://zbieo.com^
+||http://zbqmsc.com^
 ||http://zcand.com^
 ||http://zdovrb.cn^
 ||http://zenwq.com^
@@ -21371,6 +21381,7 @@ https://houdao.com##a[style^="background:url"]
 https://html-js.com##a[style^="margin-top:20px;"]
 https://dybee.tv##a[style^="position: fixed;bottom:"]
 https://chchzhan.com,xxizhan.com##a[style^="position:fixed;z-index:"]
+https://1090ys2.com##a[target="_blank"] > img[src*="alicdn.com"]
 https://aishoujizy.com,xd0.com##a[target="_blank"] > img[src^="/upload/1/"]
 https://18board.com,18p2p.com##a[target="_blank"] > img[width="320"]
 https://18board.com,18p2p.com##a[target="_blank"] > img[width="330"]
@@ -21552,6 +21563,7 @@ https://freejavbt.com##div[data-selector*="ai-insert-"]
 https://oschina.net##div[data-traceid*="_ad_"]
 https://oschina.net##div[data-tracepid="question_detai_above"]
 https://le.com##div[data-type="bottomLayerView"]
+https://eastmoney.com##div[data-url*="same.eastmoney.com"]
 https://weibo.com##div[feedtype="ad"]
 https://heirui.cn##div[id$="MASK"]
 https://mail.126.com,mail.163.com##div[id$="_AdDiv"]
@@ -27682,6 +27694,7 @@ http://houdao.com##a[style^="background:url"]
 http://html-js.com##a[style^="margin-top:20px;"]
 http://dybee.tv##a[style^="position: fixed;bottom:"]
 http://chchzhan.com,xxizhan.com##a[style^="position:fixed;z-index:"]
+http://1090ys2.com##a[target="_blank"] > img[src*="alicdn.com"]
 http://aishoujizy.com,xd0.com##a[target="_blank"] > img[src^="/upload/1/"]
 http://18board.com,18p2p.com##a[target="_blank"] > img[width="320"]
 http://18board.com,18p2p.com##a[target="_blank"] > img[width="330"]
@@ -27863,6 +27876,7 @@ http://freejavbt.com##div[data-selector*="ai-insert-"]
 http://oschina.net##div[data-traceid*="_ad_"]
 http://oschina.net##div[data-tracepid="question_detai_above"]
 http://le.com##div[data-type="bottomLayerView"]
+http://eastmoney.com##div[data-url*="same.eastmoney.com"]
 http://weibo.com##div[feedtype="ad"]
 http://heirui.cn##div[id$="MASK"]
 http://mail.126.com,mail.163.com##div[id$="_AdDiv"]
