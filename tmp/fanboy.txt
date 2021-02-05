@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: j44clSSaNJcE8Dyuv6gDsA
+! Checksum: VGFfsWOawOB06k5jdOY59w
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -43886,6 +43886,7 @@ gmx.net,web.de##iframe[src^="https://www.facebook.com/plugins/like.php"]
 ||werkenntwen.de/images/buttons/$third-party
 ||widgets.getsitecontrol.com^*/script.js$domain=winfuture.de
 ! Specific hiding filters necessary for sites allowlisted with $generichide filter option
+pcwelt.de##.social_media_buttons
 ! Spiegel.de
 spiegel.de##.social-bar
 ! Focus.de
@@ -44812,6 +44813,7 @@ piqd.de##.js-flash_message-container
 kleiderkreisel.de,mamikreisel.de##.js-notification
 muenchen-heilpraktiker-psychotherapie.de##.jtci
 hey.car##.kigihv-0
+go-windows.de##.kit-sticky-privacy
 assura.ch##.kmVGim.sc-1ulmn3o-0
 fairmondo.de##.l-news-header
 urbia.de##.layer-confirm-bottom
@@ -46436,7 +46438,7 @@ academia.edu,twitter.com#@#.fb-btn
 airbnb.cat,airbnb.com,airbnb.de,dobreprogramy.pl,tekstowo.pl#@#.fb-button
 marketdino.pl,mediaexpert.leszczynscy.pl,pajarito.de#@#.fb-container
 flugzeugbilder.de,kizlarsoruyor.com#@#.fb-content
-firebase.google.com#@#.fb-dialog
+google.com#@#.fb-dialog
 flugzeugbilder.de#@#.fb-footer
 allegro.pl,itweb.co.za#@#.fb-icon
 e-biznes.pl,facebook.com,fb.com#@#.fb-like
@@ -47188,6 +47190,7 @@ yoigo.com#@#thor-cookies
 @@||bbci.co.uk^*/cookie-library.min.js
 @@||betterworldbooks.com/app/components/cookienotice.js$script,~third-party
 @@||bolha.com/js/obj.cookiesPolicy.js
+@@||brandexperience-group.com/assets/js/cookie.notice.min.js$script,~third-party
 @@||businessinsider.in/gdpr_js/version-12,minify-1.cms$script,~third-party
 @@||c.evidon.com/sitenotice/evidon-sitenotice-tag.js$script,domain=southpark.de|southparkstudios.nu
 @@||cdn.cookielaw.org^$script,stylesheet,xmlhttprequest,domain=cnn.com|crfashionbook.com|doctoroz.com|eurogamer.net|gmx.com|mail.com|reuters.com|rockpapershotgun.com|rte.ie|trustpilot.com|tvn24.pl
@@ -47767,6 +47770,7 @@ yoigo.com#@#thor-cookies
 @@||oklivetv.com/wp-content/plugins/facebook-page-promoter-lightbox/$script
 @@||oko-planet.su/templates/*/images/ratingplus.png$image,~third-party
 @@||onesecond.designly.com/img/*.gif$~third-party
+@@||onlainporno.online^*/images/share/$image,~third-party
 @@||onlyfans.com^*/img/btn_$domain=onlyfans.com
 @@||opendatacity.de/prism/assets/img/logos/logo_facebook_$image
 @@||opensat4all.com/forums/public/$stylesheet

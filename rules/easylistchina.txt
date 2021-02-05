@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: myINEXCOzjwWT6wi4Y+NDg
-! Version: 202102040022
+! Checksum: /uGI3sobI/STJkFU6hNaTg
+! Version: 202102050022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -131,6 +131,7 @@
 ||https://a3p4.com^$third-party
 ||https://a7shun.com^$third-party
 ||https://aaaf.info^$script
+||https://aafuck.xyz^$third-party
 ||https://acgbase.com^$third-party
 ||https://achicih.gitee.io^$third-party
 ||https://acs86.com^$third-party
@@ -1354,6 +1355,7 @@
 ||https://a.v.duowan.com/crossdomain.xml
 ||https://a3v4.top/Picture/aiai.gif
 ||https://a5xiazai.com/z/
+||https://aaread.space/images/*0.gif
 ||https://aassy4.com/dm/
 ||https://abbao.cn^*adblock
 ||https://abcache.com/tg/
@@ -2320,6 +2322,7 @@
 ||https://ebioweb.com/jslibrary/js
 ||https://ebioweb.com/newsf/js/inpic.js
 ||https://ebrun.com/jfile/position/js/*.js
+||https://eclassified.my/cp_featured
 ||https://ecpoc.com/style/ad
 ||https://educity.cn/self_text/text_disp.aspx?id=
 ||https://eduuu.com/website/public_js/pc_aso.js
@@ -4057,6 +4060,7 @@
 ||https://ssnn.net^*-200-250.jpg
 ||https://sspai.com/api/v1/recommends?*=article_
 ||https://sspai.com/attachment/sponsor/
+||https://sss777.net/Alove-A/
 ||https://ssyy121.com/js/bo
 ||https://ssyy121.com/js/di
 ||https://ssyy121.com/js/tonglan.js
@@ -4346,6 +4350,7 @@
 ||https://vista.tgbusdata.cn/s.js
 ||https://vista.tuwan.com/s.js
 ||https://vjcdn.com/wp-content/uploads/*640x200
+||https://vk923.com/img/
 ||https://vkeke.net/public/agd
 ||https://vkugq.com/data/attachment/portal/
 ||https://vnet.cn^*.html
@@ -6038,6 +6043,7 @@
 ||http://a907907.com^
 ||http://a9377j.com^
 ||http://aaaf.info^$script
+||http://aafuck.xyz^$third-party
 ||http://aasyy.com^
 ||http://aazcio.cn^
 ||http://abie14.top^
@@ -6312,6 +6318,7 @@
 ||http://cj-cy.com^
 ||http://cjsdtj.com^
 ||http://cke199.com^
+||http://ckkc.cc^
 ||http://ckseeknew.com^
 ||http://claz.com.cn^
 ||http://climbcoder.com^
@@ -7318,7 +7325,6 @@
 ||http://pg88cdn.com^
 ||http://phvmax.com^
 ||http://pianjjiicdn.com^
-||http://pic12x20.com^
 ||http://piclick.cn^$third-party
 ||http://pingping888.com^
 ||http://pinwu123.com^
@@ -9052,6 +9058,7 @@
 ||http://a2put.chinaz.com^
 ||http://a3v4.top/Picture/aiai.gif
 ||http://a5xiazai.com/z/
+||http://aaread.space/images/*0.gif
 ||http://aassy4.com/dm/
 ||http://abbao.cn^*adblock
 ||http://abc.hkepc.com^
@@ -10171,6 +10178,7 @@
 ||http://ebioweb.com/newsf/js/inpic.js
 ||http://ebp.renren.com^
 ||http://ebrun.com/jfile/position/js/*.js
+||http://eclassified.my/cp_featured
 ||http://ecma.bdimg.com^
 ||http://ecmb.bdimg.com^
 ||http://ecpoc.com/style/ad
@@ -12122,6 +12130,7 @@
 ||http://ssp.zf313.com^
 ||http://sspai.com/api/v1/recommends?*=article_
 ||http://sspai.com/attachment/sponsor/
+||http://sss777.net/Alove-A/
 ||http://sssvd.china.com^
 ||http://ssyy121.com/js/bo
 ||http://ssyy121.com/js/di
@@ -12456,6 +12465,7 @@
 ||http://vista.tgbusdata.cn/s.js
 ||http://vista.tuwan.com/s.js
 ||http://vjcdn.com/wp-content/uploads/*640x200
+||http://vk923.com/img/
 ||http://vkeke.net/public/agd
 ||http://vkugq.com/data/attachment/portal/
 ||http://vnet.cn^*.html
@@ -14881,6 +14891,7 @@
 ||http://huhuhiiuio.com^
 ||http://huician.cn^
 ||http://huigoushop.com^
+||http://huijiamei.cn^
 ||http://huitiankuaiji.com^
 ||http://huixingcheng.cn^
 ||http://hunpp.com^
@@ -15044,6 +15055,7 @@
 ||http://jswnuq.cn^
 ||http://jsyjwj.com^
 ||http://jtwlj.cn^
+||http://juhuandian.com^
 ||http://julitenj.com^
 ||http://jullycn.com^
 ||http://jundazulin.com^
@@ -15313,6 +15325,7 @@
 ||http://netfix8.info^
 ||http://newknowledge.cn^
 ||http://ngceq.cn^
+||http://ngmaul.cn^
 ||http://ngsaang.top^
 ||http://nickarini.com^
 ||http://niegg.com^
@@ -15806,6 +15819,7 @@
 ||http://u0r9.cn^
 ||http://u2c8.cn^
 ||http://uauwkfk.cn^
+||http://ubt573.org^
 ||http://ububyiw6655.xyz^
 ||http://uc4a.cn^
 ||http://ucaii.com^
@@ -19934,6 +19948,7 @@ https://le.com##.lay_body[style^="width:980px;height:100px;"]
 https://le.com##.lay_body[style^="width:980px;height:90px;"]
 https://le.com##.lay_title[style^="width:490px;height:60px;"]
 https://firefoxchina.cn##.layout > .banner
+https://douyu.com##.layout-Slide-banner
 https://szonline.net##.layout_ad
 https://gkstk.com##.layui-layer
 https://toolfk.com##.layui-layer-content
@@ -21412,6 +21427,7 @@ https://bdimg.com,tieba.baidu.com,tieba.com#?#.tl_shadow:-abp-has(> .ti_item > .
 https://bejson.com#?#:-abp-properties(/data:/)
 https://bejson.com#?#body>:-abp-has(>:-abp-properties(/新人|香港/))
 https://benyixiwang.com#?#p:-abp-has(a[href="http://www.sm9166.com"])
+https://bilibili.com#?#.video-card-common:-abp-has(>.card-pic>a[href*="cm.bilibili.com"][data-target-url]:not([data-target-url*=".bili"]))
 https://api.so.lianmeng.360.cn,pos.baidu.com##body
 https://qzwb.com##body > .area[style^="height:60px;"]
 https://bkill.com##body > a:first-child
@@ -22449,6 +22465,10 @@ https://ali213.net#@#.subscribe-container
 https://5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
+https://infoq.cn##.live-fixed-bar
+https://infoq.cn##.widget-slide-weekly
+https://sina.cn##.js-voice-yyy
+https://sina.cn##.module-finance-client3
 https://sina.com.cn##.f_app_screen_wrap
 https://sina.com.cn###commonSideBar
 https://sina.com.cn##.yyy-wrap-2021
@@ -26248,6 +26268,7 @@ http://le.com##.lay_body[style^="width:980px;height:100px;"]
 http://le.com##.lay_body[style^="width:980px;height:90px;"]
 http://le.com##.lay_title[style^="width:490px;height:60px;"]
 http://firefoxchina.cn##.layout > .banner
+http://douyu.com##.layout-Slide-banner
 http://szonline.net##.layout_ad
 http://gkstk.com##.layui-layer
 http://toolfk.com##.layui-layer-content
@@ -27726,6 +27747,7 @@ http://bdimg.com,tieba.baidu.com,tieba.com#?#.tl_shadow:-abp-has(> .ti_item > .t
 http://bejson.com#?#:-abp-properties(/data:/)
 http://bejson.com#?#body>:-abp-has(>:-abp-properties(/新人|香港/))
 http://benyixiwang.com#?#p:-abp-has(a[href="http://www.sm9166.com"])
+http://bilibili.com#?#.video-card-common:-abp-has(>.card-pic>a[href*="cm.bilibili.com"][data-target-url]:not([data-target-url*=".bili"]))
 http://api.so.lianmeng.360.cn,pos.baidu.com##body
 http://qzwb.com##body > .area[style^="height:60px;"]
 http://bkill.com##body > a:first-child
@@ -28763,6 +28785,10 @@ http://ali213.net#@#.subscribe-container
 http://5dm.tv#@#.tm-share-this
 http://laohu8.com#@#.tweet-article
 http://fqsousou.com,kengso.com#@#.user-share
+http://infoq.cn##.live-fixed-bar
+http://infoq.cn##.widget-slide-weekly
+http://sina.cn##.js-voice-yyy
+http://sina.cn##.module-finance-client3
 http://sina.com.cn##.f_app_screen_wrap
 http://sina.com.cn###commonSideBar
 http://sina.com.cn##.yyy-wrap-2021
