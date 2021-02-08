@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: aXVTA+/3D1UHfKqYbdfONA
-! Version: 202102070022
+! Checksum: VjOoZ31fCUVERdDCgwXf7w
+! Version: 202102080022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -5603,6 +5603,8 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://104.233.177.93^
+||http://45.192.59.62^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -13929,6 +13931,7 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://kl0ru78.xyz^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -17605,7 +17608,7 @@ https://brushes8.com###flxgg
 https://gamer.com.tw###flyRightBox
 https://gamer.com.tw###flySalve
 https://juxia.com###fmt
-https://bd-film.cc###fmtdiv
+https://bd2020.com###fmtdiv
 https://apk.tw###focus
 https://fuliba2020.net,fulibus.net,wuzuowei.net###focusslide
 https://bitauto.com###folieAdNews
@@ -19967,7 +19970,6 @@ https://le.com##.lay_body[style^="width:980px;height:100px;"]
 https://le.com##.lay_body[style^="width:980px;height:90px;"]
 https://le.com##.lay_title[style^="width:490px;height:60px;"]
 https://firefoxchina.cn##.layout > .banner
-https://douyu.com##.layout-Slide-banner
 https://szonline.net##.layout_ad
 https://gkstk.com##.layui-layer
 https://toolfk.com##.layui-layer-content
@@ -23925,7 +23927,7 @@ http://brushes8.com###flxgg
 http://gamer.com.tw###flyRightBox
 http://gamer.com.tw###flySalve
 http://juxia.com###fmt
-http://bd-film.cc###fmtdiv
+http://bd2020.com###fmtdiv
 http://apk.tw###focus
 http://fuliba2020.net,fulibus.net,wuzuowei.net###focusslide
 http://bitauto.com###folieAdNews
@@ -26287,7 +26289,6 @@ http://le.com##.lay_body[style^="width:980px;height:100px;"]
 http://le.com##.lay_body[style^="width:980px;height:90px;"]
 http://le.com##.lay_title[style^="width:490px;height:60px;"]
 http://firefoxchina.cn##.layout > .banner
-http://douyu.com##.layout-Slide-banner
 http://szonline.net##.layout_ad
 http://gkstk.com##.layui-layer
 http://toolfk.com##.layui-layer-content
