@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: VjOoZ31fCUVERdDCgwXf7w
-! Version: 202102080022
+! Checksum: kK4quvjF7ae1PgfpFWlUpg
+! Version: 202102090022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4911,6 +4911,10 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://1990tu.com/i/*.gif
+||https://1990tu.com/i/*.png
+||https://alicdn.com/img/ibank/*_1165462224.
+||https://zhengjie.com/a_d?
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -5603,8 +5607,7 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
-||http://104.233.177.93^
-||http://45.192.59.62^
+||http://163.197.167.236^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -5654,6 +5657,7 @@
 ||http://104.203.214.3^
 ||http://104.203.72.254^
 ||http://104.233.154.134^
+||http://104.233.177.93^
 ||http://104.233.203.164^
 ||http://104.237.67.78^
 ||http://106.187.95.251^
@@ -5833,6 +5837,7 @@
 ||http://4006825178.com^
 ||http://4480dy.net^
 ||http://44pv.com^$third-party
+||http://45.192.59.62^
 ||http://45.34.240.72^
 ||http://4567.org^$third-party
 ||http://46cq.cn^
@@ -13073,6 +13078,12 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://1990tu.com/i/*.gif
+||http://1990tu.com/i/*.png
+||http://3337723.com^
+||http://3337738.com^
+||http://alicdn.com/img/ibank/*_1165462224.
+||http://zhengjie.com/a_d?
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a67.com|99re.com
 ||http://jsdelivr.net^$domain=99a67.com
@@ -13931,7 +13942,10 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://kl0ru78.xyz^
+||http://happyyong.com^
+||http://n18uji.xyz^
+||http://oppaid.com^
+||http://cndaizi.com^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -15129,6 +15143,7 @@
 ||http://kjdw.com.cn^
 ||http://kjhfy.com^
 ||http://kkhuhct.cn^
+||http://kl0ru78.xyz^
 ||http://klorn.cn^
 ||http://klsadm.com^
 ||http://kltent.cn^
@@ -17053,6 +17068,7 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://douyu.com##.layout-Slide-banner:not([href*="douyu"])
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -23372,6 +23388,7 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://douyu.com##.layout-Slide-banner:not([href*="douyu"])
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
