@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: uLvK8ohnDRUyvn7MBW2Y2Q
-! Version: 202102100022
+! Checksum: y5ZZUnpIu3VFD5Zz+OzI+g
+! Version: 202102110022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4919,6 +4919,8 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://zqnow.net/js/kh.js
+||https://8seaa.com/template/assets1/js/vue.js
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -13093,6 +13095,8 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://zqnow.net/js/kh.js
+||http://8seaa.com/template/assets1/js/vue.js
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a67.com|99re.com
 ||http://jsdelivr.net^$domain=99a67.com
@@ -13953,6 +13957,7 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://dtxdwl.cn^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -17083,6 +17088,16 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://kxdw.com###downloadTop
+https://kxdw.com##.gsdt
+https://32r.com##.gsaxzdz > UL > DT
+https://32r.com##.gsdbtn
+https://xz7.com##.bzxz
+https://weiyun001.com##.g-side-r > A[onclick^="onLogs"]
+https://gebi1.com###diy1
+https://weiyun001.com##.agency-list
+https://weiyun001.com##.bg-box > .slide-box
+https://sdo.com##A[class^="side-nav-box-daoyu"]
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -22526,6 +22541,9 @@ https://ali213.net#@#.subscribe-container
 https://5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
+https://gebi1.com###fwin_dialog
+https://gebi1.com###fwin_dialog_cover
+https://gebi1.com##.offical-account
 https://infoq.cn##.live-fixed-bar
 https://infoq.cn##.widget-slide-weekly
 https://sina.cn##.js-voice-yyy
@@ -23412,6 +23430,16 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://kxdw.com###downloadTop
+http://kxdw.com##.gsdt
+http://32r.com##.gsaxzdz > UL > DT
+http://32r.com##.gsdbtn
+http://xz7.com##.bzxz
+http://weiyun001.com##.g-side-r > A[onclick^="onLogs"]
+http://gebi1.com###diy1
+http://weiyun001.com##.agency-list
+http://weiyun001.com##.bg-box > .slide-box
+http://sdo.com##A[class^="side-nav-box-daoyu"]
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -28855,6 +28883,9 @@ http://ali213.net#@#.subscribe-container
 http://5dm.tv#@#.tm-share-this
 http://laohu8.com#@#.tweet-article
 http://fqsousou.com,kengso.com#@#.user-share
+http://gebi1.com###fwin_dialog
+http://gebi1.com###fwin_dialog_cover
+http://gebi1.com##.offical-account
 http://infoq.cn##.live-fixed-bar
 http://infoq.cn##.widget-slide-weekly
 http://sina.cn##.js-voice-yyy
