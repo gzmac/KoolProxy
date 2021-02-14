@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: UroRskej3/e+iTECtk36xw
-! Version: 202102130022
+! Checksum: cs2/+X7hOEjmOomkGiEASw
+! Version: 202102140022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -5623,6 +5623,7 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://tan1dian.com^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
