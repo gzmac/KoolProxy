@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: cs2/+X7hOEjmOomkGiEASw
-! Version: 202102140022
+! Checksum: ncNoe2YwTrAQTEW54vNpEA
+! Version: 202102150022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -414,7 +414,6 @@
 ||https://pagechoice.net^$third-party
 ||https://papa9394.com^$third-party
 ||https://piclick.cn^$third-party
-||https://popin.cc^$third-party
 ||https://poxzyu.com^$third-party
 ||https://poyang.cn^$third-party
 ||https://pro.cn^$third-party
@@ -7367,7 +7366,6 @@
 ||http://poijugh.top^
 ||http://poke88.com^
 ||http://polkoa.com^
-||http://popin.cc^$third-party
 ||http://pos.baidu.com^
 ||http://poxzyu.com^$third-party
 ||http://poyang.cn^$third-party
@@ -12402,7 +12400,6 @@
 ||http://tw.buy.yahoo.com/?z=
 ||http://tw.partner.buy.yahoo.com^$domain=cool3c.com
 ||http://twavtv.com/js/jquery.colorbox
-||http://twproxy*.svc.litv.tv/cdi/v2/rpc
 ||http://twunbbs.com/images/
 ||http://txahz.com/static/image/tp/
 ||http://txzqw.me/attachment88txzqw/*.gif
@@ -13985,6 +13982,7 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://ymxlm.cc^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -17122,6 +17120,7 @@
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
 https://szxx.com.cn###A1
+https://dzbhdm.com##.inn-nav__placeholder + .poi-container > A[target="_blank"]
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
 https://yahoo.com###ACT_crazy
@@ -19949,7 +19948,7 @@ https://ylfx.com##.info_logrt
 https://riaway.com##.info_message_container
 https://autohome.com.cn##.information-adv
 https://chinabidding.com.cn##.innovate + .layer
-https://litv.tv##.internal_banner
+https://litv.tv##.internal_bn
 https://baidu.com##.intro-adv
 https://people.com.cn##.ipc_none
 https://iqshw.com##.iqshwad-comm
@@ -22577,6 +22576,8 @@ https://ali213.net#@#.subscribe-container
 https://5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
+https://faayoo.com###footer_fd
+https://faayoo.com##.qr_code
 https://gebi1.com###fwin_dialog
 https://gebi1.com###fwin_dialog_cover
 https://gebi1.com##.offical-account
@@ -23467,6 +23468,7 @@ https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
 http://szxx.com.cn###A1
+http://dzbhdm.com##.inn-nav__placeholder + .poi-container > A[target="_blank"]
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
 http://yahoo.com###ACT_crazy
@@ -26294,7 +26296,7 @@ http://ylfx.com##.info_logrt
 http://riaway.com##.info_message_container
 http://autohome.com.cn##.information-adv
 http://chinabidding.com.cn##.innovate + .layer
-http://litv.tv##.internal_banner
+http://litv.tv##.internal_bn
 http://baidu.com##.intro-adv
 http://people.com.cn##.ipc_none
 http://iqshw.com##.iqshwad-comm
@@ -28922,6 +28924,8 @@ http://ali213.net#@#.subscribe-container
 http://5dm.tv#@#.tm-share-this
 http://laohu8.com#@#.tweet-article
 http://fqsousou.com,kengso.com#@#.user-share
+http://faayoo.com###footer_fd
+http://faayoo.com##.qr_code
 http://gebi1.com###fwin_dialog
 http://gebi1.com###fwin_dialog_cover
 http://gebi1.com##.offical-account
