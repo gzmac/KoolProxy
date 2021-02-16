@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 1JyDouk+Z9rnCn5yxQ9eeQ
+! Checksum: sYjvLEIq8o0plo90KdkhiA
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -345,6 +345,7 @@
 /newsletter_widget.
 /newsletterbanner3.
 /newsletterbg4.
+/newsletterBundle.
 /newsletterbutton.
 /newslettericon2.
 /newsletteroverlay/*
@@ -5769,6 +5770,7 @@ _vpcookieconsent/
 ###rightNavNewsletter
 ###rightNewsLetterAsset
 ###rr-newsletter-signup
+###rss-newsletter
 ###sailthru-basic-newsletter-form
 ###sailthru-email-form-wrapper
 ###sailthru-newsletters-email-form-wrapper
@@ -6904,6 +6906,7 @@ _vpcookieconsent/
 ##.plugin-newsletter__inner
 ##.pmc-newsletter
 ##.pop-subscribe
+##.popin-newsletter
 ##.popinNewsletter-content
 ##.popinNewsletter-overlay
 ##.popup-newsletter
@@ -8257,6 +8260,7 @@ _vpcookieconsent/
 ##div[class^="backToTop_"]
 ##div[ng-click^="animateToTop"]
 ##div[onclick^="scrollToTop"]
+##div[title="Go to top"]
 ##div[title="Scroll Back to Top"]
 ##div[title="Scroll To Top"]
 ##div[title="Scroll to Top"]
@@ -12191,6 +12195,8 @@ _vpcookieconsent/
 ##.bg-facebook
 ##.bg-facebook-blue
 ##.bg-googleplus
+##.bg-icon-linkedin
+##.bg-icon-twitter
 ##.bg-linkedin
 ##.bg-pinterest
 ##.bg-tumblr-blue
@@ -17671,6 +17677,7 @@ _vpcookieconsent/
 ##.share_bottom
 ##.share_bottons
 ##.share_box
+##.share_box_content_wrapper
 ##.share_box_text
 ##.share_box_to_scrool
 ##.share_boxes_box_block_b_wraper
@@ -29271,6 +29278,7 @@ _vpcookieconsent/
 ##.ccp-overlay-fullscreen
 ##.ccpa-banner-container
 ##.ccpa-consent-bar
+##.ccpa-notice-wrapper
 ##.ccpa-popup
 ##.ccwrap
 ##.cczcook_banner-wrapper
@@ -31608,6 +31616,7 @@ _vpcookieconsent/
 ##.fc-cookies
 ##.fcs-cookie-component
 ##.feedback-message.cookie
+##.feld-cookienotice
 ##.festival-cookie
 ##.fg-cookiesdirective
 ##.fhCookieLaw
@@ -31870,6 +31879,7 @@ _vpcookieconsent/
 ##.gdpr_note
 ##.gdpr_notice_container
 ##.gdpr_overlay
+##.gdpr_popup
 ##.gdpr_popup_wrap
 ##.gdpr_theme_anonymous
 ##.gdprbar
@@ -35305,6 +35315,7 @@ _vpcookieconsent/
 ||9to5terminal.com/push.js
 ||alerts.ndtv.com^
 ||alerts.thedailystar.net^
+||alibaba.com/sw.js
 ||annahar.com/assets/js/notifications.js
 ||bdstatic.com/linksubmit/push.js
 ||hindustantimes.com^*/ht-notification-
@@ -41752,6 +41763,7 @@ zien.tv###cbar
 ubs.com###cboxContent
 evaair.com,play.tv,ubs.com###cboxOverlay
 ipaddress.com###cc
+armorgames.com###cc-alert
 yellow.place###cc-bar
 skargards.com###cc_dialog
 disclose.tv###ccc-login-signup
@@ -42082,6 +42094,7 @@ makeprintable.com##.banner-hints
 nuget.org##.banner-notice
 23andme.com,tunnelbear.com##.banner-wrap
 worthpoint.com##.bannerContainer
+deno.land##.bg-black
 caymanchem.com##.bg-darker-gray
 bagigia.com##.bica-content
 seikowatches.com##.blk-Disclaimer
