@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: fV8VvZW4m5wJ6tCIgDdPHg
+! Checksum: zSmruI2Dul9k+XHk6S9u6A
 ! Version: 202011060931
 ! Title: Fanboy's Annoyance List
 ! Last modified: 06 Nov 2020 09:31 UTC
@@ -29590,6 +29590,7 @@ _vpcookieconsent/
 ##.cookie-approvement
 ##.cookie-area
 ##.cookie-assistant
+##.cookie-attention
 ##.cookie-back
 ##.cookie-background
 ##.cookie-ban
@@ -32672,6 +32673,7 @@ _vpcookieconsent/
 ##.navigation-notification__cookiebar
 ##.nazar-cookies-message
 ##.nb-cookie
+##.nbd-cookie-wrapper
 ##.nbn-cookie-info
 ##.nbsCookieNotice
 ##.ncgWeAreUsingCookies
@@ -38253,6 +38255,7 @@ pressherald.com##.related-call
 food52.com##.related-content
 firstwefeast.com##.related-stories
 worldstarhiphop.com##.relatedList
+kickstarter.com##.relative.z2
 ink361.com##.removeAds
 ink361.com##.removeAdsBlock
 networkworld.com##.resalert
@@ -39695,6 +39698,7 @@ irishtimes.com##.pull-out-cta_dark
 portseurope.com##.pum-container
 guidingtech.com##.push-line-top
 forward.com##.pwa-modal-section
+kickstarter.com##.px0.py8
 australianforeignaffairs.com,quarterlyessay.com.au##.qe-news--inline
 weather.com##.quarter-page-toast
 qz.com##.quartz.context-default
@@ -40243,10 +40247,12 @@ mail.ru##.ph-balloo
 estadao.com.br##.push-body
 flvto.biz##.push-offer
 ! Mobile app Notifications
+windy.com###open-in-app
 cbsnews.com,yelp.com###smart-banner
 dailymail.co.uk,m.jpost.com###smartBanner
 2br.co.uk,deviantart.com,dw.com,eurosport.com,nzherald.co.nz,photobucket.com,spiegel.de###smartbanner
 indianexpress.com##.app-btn
+ebay.com##.app-download-banner
 sportskeeda.com##.app-download-modal
 9gag.com##.download-app-container
 9gag.com##.get-the-app-banner
@@ -42094,6 +42100,7 @@ makeprintable.com##.banner-hints
 nuget.org##.banner-notice
 23andme.com,tunnelbear.com##.banner-wrap
 worthpoint.com##.bannerContainer
+huffpost.com##.bf-toaster
 deno.land##.bg-black
 caymanchem.com##.bg-darker-gray
 bagigia.com##.bica-content
@@ -44726,6 +44733,7 @@ bioapotheke.de###landing_page_popup
 bmw.de###layerWrapper
 gorreri.de###loggedbar
 literaturuebersetzer.de###mCCForm
+fh-muenster.de###matomo-wrapper
 emax-haustechnik.de###mediameetsFacebookPixel--notification
 funpot.net###message
 winfuture.de,winfuture.mobi###message_id
@@ -45866,6 +45874,7 @@ drweb.ru##.SHOWIT-msg_showed
 ngnovoros.ru##._1TNYbgH
 oreluniver.ru##.accept
 bancaintesa.ru##.agreement-substrate
+rshb.ru##.alert
 podrozerowerowe.info##.appriseOuter
 podrozerowerowe.info##.appriseOverlay
 tvguru.ru##.c-modal
@@ -45881,6 +45890,7 @@ landrover.ru##.notificationBars
 kamkabel.ru##.panel_152_wp
 pegast.ru##.pgs-top
 66.ru##.t-i-agree
+aliexpress.ru##div[class^="styles_wrapper_"]
 !
 ! ---------- Serbian ----------
 !
@@ -47083,7 +47093,7 @@ bosch-mobility-solutions.com#@#.m-cookie
 bosch-mobility-solutions.com#@#.m-cookie-intro
 makelaarsland.nl#@#.m-cookie-notice
 theverge.com#@#.m-privacy-consent
-brsspa.it,burberry.com,canadaswonderland.com,gct.com,herbritts.com,oattravel.com,pentestpartners.com,piaggiogroup.com#@#.mod_cookies
+brsspa.it,burberry.com,canadaswonderland.com,ecosuperior.org,gct.com,herbritts.com,oattravel.com,pentestpartners.com,piaggiogroup.com#@#.mod_cookies
 elring.ae,elring.cn,elring.com,elring.com.tr,elring.de,elring.fr,elring.it,elring.pl,elring.pt,elring.ru,multimediago.pl,ticket.io#@#.modal-cookie
 betway.it#@#.module-cookie
 ramics-conference.org#@#.nf-form-content
@@ -47161,7 +47171,7 @@ yoigo.com#@#thor-cookies
 @@||gravityrd-services.com^$domain=hotstar.com
 @@||huffpost.com/images/social/benefits/signup/
 @@||images.taboola.com/taboola/$image,domain=indiatimes.com
-@@||intuitcdn.net^*/ScrollToPlugin.min.js$script,turbotaxonline.intuit.com
+@@||intuitcdn.net^*/ScrollToPlugin.min.js$script,domain=turbotaxonline.intuit.com
 @@||jamendo.com/images/libs/social/
 @@||klout.com/static/images/*icon
 @@||l.yimg.com/zz/combo?*social
