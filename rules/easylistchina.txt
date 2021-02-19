@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Vynwmp88E9mXnAY6+fGnHA
-! Version: 202102180022
+! Checksum: 4gqzqbzTSKK6s0dwOwhz5g
+! Version: 202102190022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -568,6 +568,7 @@
 ||https://xq12.com^$third-party
 ||https://xsu.cc^$third-party
 ||https://xtgreat.com^$third-party
+||https://xuchuang.com^$third-party
 ||https://xzdchl.com^$third-party
 ||https://yabo168.cc^$third-party
 ||https://ydcpc.com^$third-party
@@ -3296,6 +3297,7 @@
 ||https://lzep.cn/ep/sda/
 ||https://lzk.hl.cn/lctp/
 ||https://lzyysw.com/upload/
+||https://m.jsr9.com^*.js
 ||https://m.kankanwu.com/js/
 ||https://m.lelekan.com/sp/
 ||https://m.mianbao99.com/js/detail.js
@@ -4832,6 +4834,8 @@
 ||https://zhenjiang365.cn/bbsatt/day_120827/1208271004af7c25b6e3d4fa1d.gif
 ||https://zhev.com.cn/file/weixin/
 ||https://zhgmeitu.xyz/images/*.gif
+||https://zhibo.me/js/fd.js
+||https://zhibo.me/js/kh.js
 ||https://zhibo8.cc/js/adv-slide-toggle.js
 ||https://zhiboba.org/gg_js/
 ||https://zhibok8.com/images/*.gif
@@ -6081,10 +6085,12 @@
 ||http://aafuck.xyz^$third-party
 ||http://aasyy.com^
 ||http://aazcio.cn^
+||http://abcdlm.com^
 ||http://abie14.top^
 ||http://acasys88.cn^
 ||http://acgbase.com^$third-party
 ||http://achicih.gitee.io^$third-party
+||http://acptkgp.com^
 ||http://acs86.com^$third-party
 ||http://ad-plus.cn^$third-party
 ||http://ad-survey.com^$third-party
@@ -7654,6 +7660,7 @@
 ||http://szrk3.com^
 ||http://sztbjs.com^
 ||http://szvr.com^$third-party
+||http://szxhybj.com^
 ||http://szxiuchang.com^
 ||http://szxpsg.com^
 ||http://szxzytech.com^
@@ -8039,6 +8046,7 @@
 ||http://xu7b.com^
 ||http://xuanmeiguoji.com^
 ||http://xuanmin.wang^
+||http://xuchuang.com^$third-party
 ||http://xuehelei.com^
 ||http://xueyongbao.com^
 ||http://xugsh.cn^
@@ -11326,6 +11334,7 @@
 ||http://lzk.hl.cn/lctp/
 ||http://lzyysw.com/upload/
 ||http://m.aty.sohu.com^
+||http://m.jsr9.com^*.js
 ||http://m.kankanwu.com/js/
 ||http://m.lelekan.com/sp/
 ||http://m.mianbao99.com/js/detail.js
@@ -13019,6 +13028,8 @@
 ||http://zhenjiang365.cn/bbsatt/day_120827/1208271004af7c25b6e3d4fa1d.gif
 ||http://zhev.com.cn/file/weixin/
 ||http://zhgmeitu.xyz/images/*.gif
+||http://zhibo.me/js/fd.js
+||http://zhibo.me/js/kh.js
 ||http://zhibo8.cc/js/adv-slide-toggle.js
 ||http://zhiboba.org/gg_js/
 ||http://zhibok8.com/images/*.gif
@@ -17589,7 +17600,7 @@ https://chiphell.com###diy2 + div
 https://gpshk.cc,oneplusbbs.com,wstx.com,xiaot.com###diy4
 https://2fzb.com###diy5
 https://cbber.com,xiaot.com###diy_chart
-https://2fzdao.com###diy_cmn1
+https://2fzd.com,2fzdao.com###diy_cmn1
 https://chinafix.com###diy_col_1-3
 https://elecfans.com###diy_company
 https://5imx.com###diy_mxad02
@@ -18189,6 +18200,7 @@ https://163.com###r_mkaolaadv
 https://360.com###rainbow-cat-screen
 https://appinn.com###ranshownow
 https://game2.cn###rb
+https://moe.best###rcm_sidebar
 https://tiboo.cn###read_hd1
 https://chinaqking.com###readerServiceDIV
 https://pujia8.com,sdgundam.cn###recommend
@@ -18948,6 +18960,7 @@ https://11px.cn##.ag
 https://weiyun001.com##.agency-list
 https://13mv.com,xoiof.com##.aggd
 https://33lc.com##.ags
+https://moe.best##.alert
 https://wigcw.cn##.alert-block
 https://wdzj.com##.alert-box-pop
 https://siku11.com##.alert-danger
@@ -20197,6 +20210,7 @@ https://baidu.com##.manual-spread
 https://zhainanba.org##.marauto > p[style="text-align: left;"]
 https://fun48.com##.margin-big-bottom
 https://wa59.com##.marginrl
+https://moe.best##.markdown-body + div[style="text-align:center;margin-top:40px"]
 https://fx110.com##.matrix-banner
 https://oschina.net##.mayun-jj
 https://itavcn.com##.mb_right > .mt8:nth-child(3)
@@ -23940,7 +23954,7 @@ http://chiphell.com###diy2 + div
 http://gpshk.cc,oneplusbbs.com,wstx.com,xiaot.com###diy4
 http://2fzb.com###diy5
 http://cbber.com,xiaot.com###diy_chart
-http://2fzdao.com###diy_cmn1
+http://2fzd.com,2fzdao.com###diy_cmn1
 http://chinafix.com###diy_col_1-3
 http://elecfans.com###diy_company
 http://5imx.com###diy_mxad02
@@ -24540,6 +24554,7 @@ http://163.com###r_mkaolaadv
 http://360.com###rainbow-cat-screen
 http://appinn.com###ranshownow
 http://game2.cn###rb
+http://moe.best###rcm_sidebar
 http://tiboo.cn###read_hd1
 http://chinaqking.com###readerServiceDIV
 http://pujia8.com,sdgundam.cn###recommend
@@ -25299,6 +25314,7 @@ http://11px.cn##.ag
 http://weiyun001.com##.agency-list
 http://13mv.com,xoiof.com##.aggd
 http://33lc.com##.ags
+http://moe.best##.alert
 http://wigcw.cn##.alert-block
 http://wdzj.com##.alert-box-pop
 http://siku11.com##.alert-danger
@@ -26548,6 +26564,7 @@ http://baidu.com##.manual-spread
 http://zhainanba.org##.marauto > p[style="text-align: left;"]
 http://fun48.com##.margin-big-bottom
 http://wa59.com##.marginrl
+http://moe.best##.markdown-body + div[style="text-align:center;margin-top:40px"]
 http://fx110.com##.matrix-banner
 http://oschina.net##.mayun-jj
 http://itavcn.com##.mb_right > .mt8:nth-child(3)
