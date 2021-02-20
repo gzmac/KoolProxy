@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 4gqzqbzTSKK6s0dwOwhz5g
-! Version: 202102190022
+! Checksum: nrtEIYS2KZp8KleXMsXD6g
+! Version: 202102200022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -7146,6 +7146,7 @@
 ||http://log.interest.mix.sina.com.cn^
 ||http://lolmp4.com^$third-party
 ||http://longchengtg.com^
+||http://longdidi.top^
 ||http://loveconer.com^
 ||http://lovestyl.com^
 ||http://lovexia.top^
@@ -13670,6 +13671,7 @@
 ||http://luolikong.net^$third-party
 ||http://luoshenbest.cn^
 ||http://lv.myapks.com^
+||http://lynr.com^
 ||http://lyz.radio366.com^
 ||http://m1.100how.com^
 ||http://m1.27com.com^
@@ -18286,6 +18288,7 @@ https://5izyw.com###sidebar > .box-b img
 https://iyejie.com###sidebar > .widget:first-child
 https://ainuody.com###sidebar > .widget:nth-child(-n+6)
 https://appinn.com###sidebar > .widget_text:first-child
+https://ruyo.net###sidebar > :not(:first-child):not(:last-child):not([id^="recent-posts"])
 https://jiecao123.com###sidebar > a
 https://fuliba.net###sidebar > div:first-child
 https://fuliba.net###sidebar > div:last-child
@@ -21497,7 +21500,7 @@ https://aibing.cc##a[href^="https://aibing.cc/go/"]
 https://yahoo.com##a[href^="https://beap.gemini.yahoo.com/"] + .NoTextDecoration
 https://oschina.net##a[href^="https://citiccard.wjx.cn/"]
 https://acfun.cn##a[href^="https://click.dsp.com/"]
-https://github.com##a[href^="https://cloud.tencent.com/"]
+https://github.com##a[href^="https://cloud.tencent.com/redirect."] > img
 https://chongbuluo.com##a[href^="https://cn.udacity.com/"]
 https://tzfile.com##a[href^="https://d.oo14.com/"]
 https://3dmgame.com##a[href^="https://down.hyds360.com/"] > div[style]
@@ -24640,6 +24643,7 @@ http://5izyw.com###sidebar > .box-b img
 http://iyejie.com###sidebar > .widget:first-child
 http://ainuody.com###sidebar > .widget:nth-child(-n+6)
 http://appinn.com###sidebar > .widget_text:first-child
+http://ruyo.net###sidebar > :not(:first-child):not(:last-child):not([id^="recent-posts"])
 http://jiecao123.com###sidebar > a
 http://fuliba.net###sidebar > div:first-child
 http://fuliba.net###sidebar > div:last-child
@@ -27851,7 +27855,7 @@ http://aibing.cc##a[href^="https://aibing.cc/go/"]
 http://yahoo.com##a[href^="https://beap.gemini.yahoo.com/"] + .NoTextDecoration
 http://oschina.net##a[href^="https://citiccard.wjx.cn/"]
 http://acfun.cn##a[href^="https://click.dsp.com/"]
-http://github.com##a[href^="https://cloud.tencent.com/"]
+http://github.com##a[href^="https://cloud.tencent.com/redirect."] > img
 http://chongbuluo.com##a[href^="https://cn.udacity.com/"]
 http://tzfile.com##a[href^="https://d.oo14.com/"]
 http://3dmgame.com##a[href^="https://down.hyds360.com/"] > div[style]
