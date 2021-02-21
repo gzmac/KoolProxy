@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: aKgy9VcHzKyZB4ObuuldoA
-! Version: 202102200000
+! Checksum: fukK9zKWM2YcTXGhZ8ur1g
+! Version: 202102210000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-02-20 00:00 UTC
+! Last modified: 2021-02-21 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6186,6 +6186,7 @@ https://lbry.tv##.nag
 https://buzzfeednews.com##.newsblock-tips
 https://propublica.org##.promo-bar__link-wrapper
 https://apkmirror.com##.promotedApp
+https://stuff.co.nz##.spade_3g.spade_3f.spade_3e
 https://goodmorningamerica.com##.sticky-footer
 https://newsweek.com##.subscribe-block-wrapper
 https://time.com##.subscription-cta
@@ -7141,7 +7142,9 @@ https://spiegel.de##.spezialbalken
 https://phonearena.com##.spot_disclaimer
 https://500px.com,raprnb.com,the-line-up.com,theisraelwire.com,thestack.com,xredmedia.com##.spu-bg
 https://500px.com,androidsage.com##.spu-box
+https://flaunt.com##.sqs-popup-overlay
 https://superdataresearch.com##.sqs-slide
+https://flaunt.com##.sqs-slide-container
 https://superdataresearch.com##.sqs-slide-layer
 https://theprepared.org##.sqs-slide-layer-content
 https://timesofoman.com##.stayUpdated
@@ -9496,6 +9499,7 @@ https://3dslash.net##.floatPopup
 https://maltatoday.com.mt##.floating-bar
 https://novantas.com##.foobar-container
 https://doubleviking.com,fallentitans.com##.footer
+https://clausporto.com##.footer-fixed-bar
 https://swipe.io##.footer-notice
 https://hackerone.com##.footer-popup
 https://whimn.com.au##.footer-statements
@@ -16958,6 +16962,7 @@ http://lbry.tv##.nag
 http://buzzfeednews.com##.newsblock-tips
 http://propublica.org##.promo-bar__link-wrapper
 http://apkmirror.com##.promotedApp
+http://stuff.co.nz##.spade_3g.spade_3f.spade_3e
 http://goodmorningamerica.com##.sticky-footer
 http://newsweek.com##.subscribe-block-wrapper
 http://time.com##.subscription-cta
@@ -17913,7 +17918,9 @@ http://spiegel.de##.spezialbalken
 http://phonearena.com##.spot_disclaimer
 http://500px.com,raprnb.com,the-line-up.com,theisraelwire.com,thestack.com,xredmedia.com##.spu-bg
 http://500px.com,androidsage.com##.spu-box
+http://flaunt.com##.sqs-popup-overlay
 http://superdataresearch.com##.sqs-slide
+http://flaunt.com##.sqs-slide-container
 http://superdataresearch.com##.sqs-slide-layer
 http://theprepared.org##.sqs-slide-layer-content
 http://timesofoman.com##.stayUpdated
@@ -20269,6 +20276,7 @@ http://3dslash.net##.floatPopup
 http://maltatoday.com.mt##.floating-bar
 http://novantas.com##.foobar-container
 http://doubleviking.com,fallentitans.com##.footer
+http://clausporto.com##.footer-fixed-bar
 http://swipe.io##.footer-notice
 http://hackerone.com##.footer-popup
 http://whimn.com.au##.footer-statements
