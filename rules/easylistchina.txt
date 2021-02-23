@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 3+QEZaFe0J+OJeUrKS4tMw
-! Version: 202102210022
+! Checksum: WhRDE/3bE0IoguD+oz2B9w
+! Version: 202102230022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -3048,6 +3048,7 @@
 ||https://jxcn.cn/js/hotpic_
 ||https://jxdown.com/statics/js/all.js
 ||https://jxnews.com.cn/assets/js/dspshow.js
+||https://jxnews.com.cn/first/js/home/index_ad
 ||https://jxnews.com.cn^*_ad_
 ||https://jyacht.com/flash/marina.swf
 ||https://jyfw.cn/gonggong/jiayu/cf_
@@ -3385,6 +3386,7 @@
 ||https://miguyu.com/AD/
 ||https://mikanani.me/images/Masha/
 ||https://mikuclub.cn/down/pub/
+||https://mikuclub.it/pub/
 ||https://mil.news.sina.com.cn/iframe/109/2012/1024/photo.html
 ||https://mil.news.sina.com.cn/iframe/109/2013/1015/hotpic.html
 ||https://milimili.tv/js/loadjs/jquery
@@ -5496,6 +5498,7 @@
 ||https://sinaimg.cn/large/007drMcOly1gfnqzv8a7ij30xc02nwfr.jpg
 ||https://mydrivers.com/2021/www/nianhuojie.png
 ||https://sinaimg.cn^*/yyy_pop
+||https://tiexue.net/pic/tx_1220.jpg
 ||https://3158.cn^*_analyser.
 ||https://pstatp.com/toutiao/push.js
 ||https://lnd.com.cn/sys/real_calc.js
@@ -7005,6 +7008,7 @@
 ||http://juhepen.com^$third-party
 ||http://jujumuqu123.com^
 ||http://junfull.com^
+||http://jungbey.xyz^
 ||http://junkucm.com^
 ||http://junnew.com^$third-party
 ||http://jusha.com^$third-party
@@ -8178,6 +8182,7 @@
 ||http://ysjwj.com^
 ||http://ysm.ezprice.net^$third-party
 ||http://ysnj74ed.com^
+||http://ytop8.com^
 ||http://yuanhsu.com^$third-party
 ||http://yuanmengbi.com^
 ||http://yuanyanglw.com^
@@ -11082,6 +11087,7 @@
 ||http://jxcn.cn/js/hotpic_
 ||http://jxdown.com/statics/js/all.js
 ||http://jxnews.com.cn/assets/js/dspshow.js
+||http://jxnews.com.cn/first/js/home/index_ad
 ||http://jxnews.com.cn^*_ad_
 ||http://jyacht.com/flash/marina.swf
 ||http://jyfw.cn/gonggong/jiayu/cf_
@@ -11443,6 +11449,7 @@
 ||http://mikanani.me/images/Masha/
 ||http://mikecrm.com^$domain=bjkd365.com
 ||http://mikuclub.cn/down/pub/
+||http://mikuclub.it/pub/
 ||http://mil.news.sina.com.cn/iframe/109/2012/1024/photo.html
 ||http://mil.news.sina.com.cn/iframe/109/2013/1015/hotpic.html
 ||http://milimili.tv/js/loadjs/jquery
@@ -13353,6 +13360,7 @@
 ||http://aaa.tumanyi.com^
 ||http://ab.cnbanbao.com^
 ||http://abc.douguo.com^
+||http://abc.rwpt.top^
 ||http://abcdcfasda.gushiwen.cn^
 ||http://abcj.dooccn.com^
 ||http://abds.pingpingw.com^
@@ -14535,6 +14543,7 @@
 ||http://cityd.xyz^
 ||http://cityf.xyz^
 ||http://cjh9.cn^
+||http://cjyjqw.cn^
 ||http://ckaiv.com^
 ||http://ckikq.com^
 ||http://ckjyck.qxs.la^
@@ -14607,6 +14616,7 @@
 ||http://dacedsfa.cn^
 ||http://dachadu.cn^
 ||http://dadawm.cc^
+||http://dadedaxue.com^
 ||http://dailiq.cn^
 ||http://daima.dsxdn.com^
 ||http://daizhankj.cn^
@@ -15340,6 +15350,7 @@
 ||http://luxoshopde.com^
 ||http://luyouxi.cn^
 ||http://lvkuaizi.com^
+||http://lvsechufang.com^
 ||http://lwlscy.com^
 ||http://lxind.cn^
 ||http://ly5200.cn^
@@ -15752,6 +15763,7 @@
 ||http://sgyebd.com^
 ||http://shangyingwm.com^
 ||http://shanprint.com^
+||http://shantelope.com^
 ||http://shanyuebrowser.com^
 ||http://shaque.vip^
 ||http://shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
@@ -16399,6 +16411,7 @@
 ||http://zhongfujiaoyu.cn^
 ||http://zhongwangmy.cn^
 ||http://zhouqin520.top^
+||http://zhuanquxian.com^
 ||http://zhuanrangyun.cn^
 ||http://zhuanyule.cn^
 ||http://zhuifood.top^
@@ -16417,6 +16430,7 @@
 ||http://zizidi.com^
 ||http://zjhrondo.cn^
 ||http://zjksgl.com^
+||http://zjlfqf.com^
 ||http://zjuwjdc.com^
 ||http://zjxrg.top^
 ||http://zkba9.cn^
@@ -16914,6 +16928,7 @@
 ||http://sinaimg.cn/large/007drMcOly1gfnqzv8a7ij30xc02nwfr.jpg
 ||http://mydrivers.com/2021/www/nianhuojie.png
 ||http://sinaimg.cn^*/yyy_pop
+||http://tiexue.net/pic/tx_1220.jpg
 ||http://3158.cn^*_analyser.
 ||http://pstatp.com/toutiao/push.js
 ||http://pv.cheshi.com^
@@ -18881,6 +18896,7 @@ https://1kkk.com,dm5.com,dm5.hk##.adform_2
 https://xineurope.com##.adft
 https://11px.cn##.adg
 https://92wy.com##.adhengfu
+https://159i.com##.adi
 https://jxdbg.com##.adindex
 https://huanqiu.com##.adindexList
 https://13tv.top,sina.com##.aditem
@@ -20837,6 +20853,7 @@ https://cnbeta.com##.sub-title
 https://07073.com##.subarea_ad
 https://cam4.tw##.subfoot-section
 https://etest8.com##.subtop2right
+https://ltn.com.tw##.suggest_full .C5
 https://17house.com##.suiping
 https://qingdaonews.com##.surround
 https://vdianying.cc##.swiper-container
@@ -20972,7 +20989,7 @@ https://10jqka.com.cn##.top-ad-box
 https://baidu.com##.top-ad-cont
 https://ziyuanba.com##.top-ad-img
 https://vansky.com##.top-ad-link
-https://nanfengyl.com##.top-ad-txt
+https://nanfengyl.com,ziyuanba.com##.top-ad-txt
 https://leiphone.com,sina.com.cn##.top-banner
 https://baidu.com##.top-banner-ad-wrap
 https://10jqka.com.cn##.top-bar-fl > .top-hot
@@ -21458,6 +21475,7 @@ https://bigear.cn##a[href^="/?module=dantian&"]
 https://77222.cn##a[href^="/aa/"]
 https://sdgundam.cn##a[href^="/aclk/"]
 https://x6d.com##a[href^="/ad.php?"]
+https://ziyuanba.com##a[href^="/ago."]
 https://liuli.pw##a[href^="/gg2/"]
 https://96weixin.com##a[href^="/show/ads/"]
 https://5dm.tv##a[href^="/sina/"]
@@ -22639,6 +22657,7 @@ https://ali213.net#@#.subscribe-container
 https://5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
+https://wenku.baidu.com##.header-wrapper > .fixed-activity-bar
 https://faayoo.com###footer_fd
 https://faayoo.com##.qr_code
 https://gebi1.com###fwin_dialog
@@ -25236,6 +25255,7 @@ http://1kkk.com,dm5.com,dm5.hk##.adform_2
 http://xineurope.com##.adft
 http://11px.cn##.adg
 http://92wy.com##.adhengfu
+http://159i.com##.adi
 http://jxdbg.com##.adindex
 http://huanqiu.com##.adindexList
 http://13tv.top,sina.com##.aditem
@@ -27192,6 +27212,7 @@ http://cnbeta.com##.sub-title
 http://07073.com##.subarea_ad
 http://cam4.tw##.subfoot-section
 http://etest8.com##.subtop2right
+http://ltn.com.tw##.suggest_full .C5
 http://17house.com##.suiping
 http://qingdaonews.com##.surround
 http://vdianying.cc##.swiper-container
@@ -27327,7 +27348,7 @@ http://10jqka.com.cn##.top-ad-box
 http://baidu.com##.top-ad-cont
 http://ziyuanba.com##.top-ad-img
 http://vansky.com##.top-ad-link
-http://nanfengyl.com##.top-ad-txt
+http://nanfengyl.com,ziyuanba.com##.top-ad-txt
 http://leiphone.com,sina.com.cn##.top-banner
 http://baidu.com##.top-banner-ad-wrap
 http://10jqka.com.cn##.top-bar-fl > .top-hot
@@ -27813,6 +27834,7 @@ http://bigear.cn##a[href^="/?module=dantian&"]
 http://77222.cn##a[href^="/aa/"]
 http://sdgundam.cn##a[href^="/aclk/"]
 http://x6d.com##a[href^="/ad.php?"]
+http://ziyuanba.com##a[href^="/ago."]
 http://liuli.pw##a[href^="/gg2/"]
 http://96weixin.com##a[href^="/show/ads/"]
 http://5dm.tv##a[href^="/sina/"]
@@ -28994,6 +29016,7 @@ http://ali213.net#@#.subscribe-container
 http://5dm.tv#@#.tm-share-this
 http://laohu8.com#@#.tweet-article
 http://fqsousou.com,kengso.com#@#.user-share
+http://wenku.baidu.com##.header-wrapper > .fixed-activity-bar
 http://faayoo.com###footer_fd
 http://faayoo.com##.qr_code
 http://gebi1.com###fwin_dialog
