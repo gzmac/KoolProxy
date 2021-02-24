@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jG5B6uMkISiASazKIsGM9Q
-! Version: 202102230000
+! Checksum: xigfXSdpDHh1zoPeVhk5Gg
+! Version: 202102240000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-02-23 00:00 UTC
+! Last modified: 2021-02-24 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -402,6 +402,7 @@
 ||https://js.intercomcdn.com/audio/
 ||https://livechatinc.com/widget/static/media/
 ||https://reamaze.com/audio/
+||https://static.widget.trengo.eu/assets/$media
 ||https://tidiochat.com^$media
 ||https://zdassets.com/web_widget/$media
 ||https://taboola.com^$third-party
@@ -810,6 +811,7 @@
 ||https://cookiescript.info^$third-party
 ||https://dmgmediaprivacy.co.uk^$third-party
 ||https://donkeymob.com^$third-party
+||https://ecookie.nl^$third-party
 ||https://gdpr-service.herokuapp.com^$third-party
 ||https://global.mgr.consensu.org^$third-party
 ||https://hs-banner.com^$third-party
@@ -1794,6 +1796,7 @@
 ||http://js.intercomcdn.com/audio/
 ||http://livechatinc.com/widget/static/media/
 ||http://reamaze.com/audio/
+||http://static.widget.trengo.eu/assets/$media
 ||http://tidiochat.com^$media
 ||http://zdassets.com/web_widget/$media
 ||http://taboola.com^$third-party
@@ -2215,6 +2218,7 @@
 ||http://cookiescript.info^$third-party
 ||http://dmgmediaprivacy.co.uk^$third-party
 ||http://donkeymob.com^$third-party
+||http://ecookie.nl^$third-party
 ||http://gdpr-service.herokuapp.com^$third-party
 ||http://gdpr.studybreakmedia.com^
 ||http://global.mgr.consensu.org^$third-party
@@ -9559,6 +9563,7 @@ https://forums.freebsd.org##.js-notices
 https://itv.com##.js-site-alert
 https://itv.com##.js-site-alert-content
 https://cgtn.com##.js-tools-dialog
+https://avontyres.com##.koekjesbalk
 https://archdaily.com##.kth-toast
 https://lexus.co.uk,lexus.eu##.l-disclaimer
 https://addgene.org##.l-dismissible-msg
@@ -13045,7 +13050,7 @@ https://epaka.pl#@#.fa-facebook
 https://teslarati.com#@#.fa-facebook-square
 https://insomnia.gr#@#.fa-share
 https://hackmd.io,qrdesign.net#@#.fa-share-alt
-https://bitbucket.org,ebuddy.com,foodora.at,foodora.ca,foodora.com.au,foodora.de,foodora.fi,foodora.fr,foodora.nl,foodora.no,foodora.se,geekli.st,getyounity.com,globalcitizen.org,musixmatch.com,plug.dj,swiatebookow.pl#@#.facebook-button
+https://bitbucket.org,ebuddy.com,etoro.com,foodora.at,foodora.ca,foodora.com.au,foodora.de,foodora.fi,foodora.fr,foodora.nl,foodora.no,foodora.se,geekli.st,getyounity.com,globalcitizen.org,musixmatch.com,plug.dj,swiatebookow.pl#@#.facebook-button
 https://getyounity.com,login.aliexpress.com,vimeo.com#@#.facebook-icon
 https://thehunt.com#@#.facebook-link
 https://songkick.com#@#.facebook-share
@@ -13285,7 +13290,7 @@ https://gallerix.asia,gallerix.org#@#.social-tumblr
 https://4players.de,chrisblattman.com,deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-twitter
 https://medialeaks.ru#@#.social-widgets
 https://bronchiectasisandntminitiative.org,copdfoundation.org,viralnova.com#@#.social-wrap
-https://chess-online.com,dreuz.info,foxnews.com,manager.paczkomaty.pl#@#.social-wrapper
+https://chess-online.com,dreuz.info,etoro.com,foxnews.com,manager.paczkomaty.pl#@#.social-wrapper
 https://coub.com#@#.socialBlock
 https://runescape.com,study.163.com#@#.socialBox
 https://ceneo.pl,showmax.com#@#.socialBtns
@@ -20336,6 +20341,7 @@ http://forums.freebsd.org##.js-notices
 http://itv.com##.js-site-alert
 http://itv.com##.js-site-alert-content
 http://cgtn.com##.js-tools-dialog
+http://avontyres.com##.koekjesbalk
 http://archdaily.com##.kth-toast
 http://lexus.co.uk,lexus.eu##.l-disclaimer
 http://addgene.org##.l-dismissible-msg
@@ -23823,7 +23829,7 @@ http://epaka.pl#@#.fa-facebook
 http://teslarati.com#@#.fa-facebook-square
 http://insomnia.gr#@#.fa-share
 http://hackmd.io,qrdesign.net#@#.fa-share-alt
-http://bitbucket.org,ebuddy.com,foodora.at,foodora.ca,foodora.com.au,foodora.de,foodora.fi,foodora.fr,foodora.nl,foodora.no,foodora.se,geekli.st,getyounity.com,globalcitizen.org,musixmatch.com,plug.dj,swiatebookow.pl#@#.facebook-button
+http://bitbucket.org,ebuddy.com,etoro.com,foodora.at,foodora.ca,foodora.com.au,foodora.de,foodora.fi,foodora.fr,foodora.nl,foodora.no,foodora.se,geekli.st,getyounity.com,globalcitizen.org,musixmatch.com,plug.dj,swiatebookow.pl#@#.facebook-button
 http://getyounity.com,login.aliexpress.com,vimeo.com#@#.facebook-icon
 http://thehunt.com#@#.facebook-link
 http://songkick.com#@#.facebook-share
@@ -24063,7 +24069,7 @@ http://gallerix.asia,gallerix.org#@#.social-tumblr
 http://4players.de,chrisblattman.com,deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-twitter
 http://medialeaks.ru#@#.social-widgets
 http://bronchiectasisandntminitiative.org,copdfoundation.org,viralnova.com#@#.social-wrap
-http://chess-online.com,dreuz.info,foxnews.com,manager.paczkomaty.pl#@#.social-wrapper
+http://chess-online.com,dreuz.info,etoro.com,foxnews.com,manager.paczkomaty.pl#@#.social-wrapper
 http://coub.com#@#.socialBlock
 http://runescape.com,study.163.com#@#.socialBox
 http://ceneo.pl,showmax.com#@#.socialBtns
