@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xigfXSdpDHh1zoPeVhk5Gg
-! Version: 202102240000
+! Checksum: 4mIkWGpoMBLU+xOTMyGL3w
+! Version: 202102250000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-02-24 00:00 UTC
+! Last modified: 2021-02-25 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -9295,6 +9295,7 @@ https://hotukdeals.com###softMessages-list
 https://eumostwanted.eu###sortingPreference
 https://amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.es,amazon.fr,amazon.in,amazon.it###sp-cc
 https://openweather.co.uk###stick-footer-panel
+https://tesco.com###sticky-bar-wrapper
 https://ffonts.net,whatfontis.com###sticky-popup
 https://firefoxosdevices.org###storage-notice
 https://cars.co.za###terms-and-conditions
@@ -11564,18 +11565,19 @@ https://promotionbasis.de###c_test_box
 https://ggg-film.de###ca-layer
 https://systane.de###caBanner
 https://pschyrembel.de###cbAlert
-https://deutsche-handwerks-zeitung.de,handwerk-magazin.de###cc-box
+https://deutsche-handwerks-zeitung.de,handwerk-magazin.de,trendaward.de###cc-box
 https://hosteurope.de###cche
 https://badkissingen.de,wuerzburg.de###chint
 https://jmmgc.com###cnotice
 https://adventskalender-gewinnspiele.de,happy-spots.de,kirmes-in-deutschland.de,stadtfeste-in-deutschland.de,weihnachtsmaerkte-in-deutschland.de,weinfeste-in-deutschland.de###cono
 https://kunstnet.de,notebookinfo.de,zitatezumnachdenken.com###consent
+https://der-farang.com###consent_overlay
 https://renault-koenig.de###cook
 https://alternative-zu.de,baskets-jena.de,bauernzeitung.ch,bookingsuedtirol.com,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,lvr.de,ruhrbarone.de,shop-apotheke.com###cookie
 https://brf.be###cookieDashboard
 https://bambergfacts.de###cookiebar-007
 https://0rechner.de###cookieconsentmodal
-https://abload.de,autoampel.de,blockfloete.eu,cewe-print.de,deutscher-sex.com,dynamo-fanshop.de,elegant.be,firma5.com,livetrakway.de,scm-handball.de,telspy.org,tonies.de,tti.at,ufpro.de,uni-muenster.de###cookies
+https://abload.de,autoampel.de,blockfloete.eu,cewe-print.de,deutscher-sex.com,dynamo-fanshop.de,elegant.be,firma5.com,lebenundtod.com,livetrakway.de,scm-handball.de,telspy.org,tonies.de,tti.at,ufpro.de,uni-muenster.de###cookies
 https://start-nrw.de###cpopup
 https://ruegenwalder.de###csdialogbd
 https://ruegenwalder.de###csdialogmd2
@@ -11623,6 +11625,7 @@ https://berentzen-gruppe.de###notifications
 https://manikowski.de###notify2
 https://fxgrow.de###openModal2
 https://xn--allestrungen-9ib.de###overlay
+https://happyweekend-club.com###page
 https://picdumps.com###pcdc
 https://uni-greifswald.de###piwik-flyin
 https://reddingo.ch###policy
@@ -12258,7 +12261,7 @@ https://fastalp.biz###policy
 https://aeroporto.catania.it,bapr.it,saverioriotto.it###policy_id
 https://informacatania.it,tuodi.it###popup
 https://voloweb.it###popupDivC
-https://alceosalentino.it,chemistresearch.it,cinquantamila.it,compitoinclasse.org,metroservices.it###privacy
+https://alceosalentino.it,chemistresearch.it,cinquantamila.it,compitoinclasse.org,metroservices.it,tastoeffeuno.it###privacy
 https://testisemplificati.com###privacy-modal
 https://jusan.it###privacy-popup
 https://coni.it###privacy-wrapper
@@ -13402,6 +13405,7 @@ https://aixfoam.com,aixfoam.de,aixfoam.dk,aixfoam.fi,aixfoam.fr,aixfoam.nl,aixfo
 https://aixfoam.com,aixfoam.de,aixfoam.dk,aixfoam.fi,aixfoam.fr,aixfoam.nl,aixfoam.se#@##cc-notification-wrapper
 https://bing.com#@##cc_container
 https://youtube.com#@##consent-bump
+https://dnb.no#@##consent-modal
 https://consent.yahoo.com,paypal.com#@##consent.consent
 https://dnb.no#@##consentContainer
 https://sandisk.ae,sandisk.cn,sandisk.co.jp,sandisk.co.kr,sandisk.co.uk,sandisk.com,sandisk.com.au,sandisk.com.br,sandisk.com.tr,sandisk.com.tw,sandisk.de,sandisk.es,sandisk.fr,sandisk.hk,sandisk.id,sandisk.in,sandisk.it,sandisk.nl,sandisk.sg,wacom.com#@##consent_blackbar
@@ -20073,6 +20077,7 @@ http://hotukdeals.com###softMessages-list
 http://eumostwanted.eu###sortingPreference
 http://amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.de,amazon.es,amazon.fr,amazon.in,amazon.it###sp-cc
 http://openweather.co.uk###stick-footer-panel
+http://tesco.com###sticky-bar-wrapper
 http://ffonts.net,whatfontis.com###sticky-popup
 http://firefoxosdevices.org###storage-notice
 http://cars.co.za###terms-and-conditions
@@ -22343,18 +22348,19 @@ http://promotionbasis.de###c_test_box
 http://ggg-film.de###ca-layer
 http://systane.de###caBanner
 http://pschyrembel.de###cbAlert
-http://deutsche-handwerks-zeitung.de,handwerk-magazin.de###cc-box
+http://deutsche-handwerks-zeitung.de,handwerk-magazin.de,trendaward.de###cc-box
 http://hosteurope.de###cche
 http://badkissingen.de,wuerzburg.de###chint
 http://jmmgc.com###cnotice
 http://adventskalender-gewinnspiele.de,happy-spots.de,kirmes-in-deutschland.de,stadtfeste-in-deutschland.de,weihnachtsmaerkte-in-deutschland.de,weinfeste-in-deutschland.de###cono
 http://kunstnet.de,notebookinfo.de,zitatezumnachdenken.com###consent
+http://der-farang.com###consent_overlay
 http://renault-koenig.de###cook
 http://alternative-zu.de,baskets-jena.de,bauernzeitung.ch,bookingsuedtirol.com,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,lvr.de,ruhrbarone.de,shop-apotheke.com###cookie
 http://brf.be###cookieDashboard
 http://bambergfacts.de###cookiebar-007
 http://0rechner.de###cookieconsentmodal
-http://abload.de,autoampel.de,blockfloete.eu,cewe-print.de,deutscher-sex.com,dynamo-fanshop.de,elegant.be,firma5.com,livetrakway.de,scm-handball.de,telspy.org,tonies.de,tti.at,ufpro.de,uni-muenster.de###cookies
+http://abload.de,autoampel.de,blockfloete.eu,cewe-print.de,deutscher-sex.com,dynamo-fanshop.de,elegant.be,firma5.com,lebenundtod.com,livetrakway.de,scm-handball.de,telspy.org,tonies.de,tti.at,ufpro.de,uni-muenster.de###cookies
 http://start-nrw.de###cpopup
 http://ruegenwalder.de###csdialogbd
 http://ruegenwalder.de###csdialogmd2
@@ -22402,6 +22408,7 @@ http://berentzen-gruppe.de###notifications
 http://manikowski.de###notify2
 http://fxgrow.de###openModal2
 http://xn--allestrungen-9ib.de###overlay
+http://happyweekend-club.com###page
 http://picdumps.com###pcdc
 http://uni-greifswald.de###piwik-flyin
 http://reddingo.ch###policy
@@ -23037,7 +23044,7 @@ http://fastalp.biz###policy
 http://aeroporto.catania.it,bapr.it,saverioriotto.it###policy_id
 http://informacatania.it,tuodi.it###popup
 http://voloweb.it###popupDivC
-http://alceosalentino.it,chemistresearch.it,cinquantamila.it,compitoinclasse.org,metroservices.it###privacy
+http://alceosalentino.it,chemistresearch.it,cinquantamila.it,compitoinclasse.org,metroservices.it,tastoeffeuno.it###privacy
 http://testisemplificati.com###privacy-modal
 http://jusan.it###privacy-popup
 http://coni.it###privacy-wrapper
@@ -24181,6 +24188,7 @@ http://aixfoam.com,aixfoam.de,aixfoam.dk,aixfoam.fi,aixfoam.fr,aixfoam.nl,aixfoa
 http://aixfoam.com,aixfoam.de,aixfoam.dk,aixfoam.fi,aixfoam.fr,aixfoam.nl,aixfoam.se#@##cc-notification-wrapper
 http://bing.com#@##cc_container
 http://youtube.com#@##consent-bump
+http://dnb.no#@##consent-modal
 http://consent.yahoo.com,paypal.com#@##consent.consent
 http://dnb.no#@##consentContainer
 http://sandisk.ae,sandisk.cn,sandisk.co.jp,sandisk.co.kr,sandisk.co.uk,sandisk.com,sandisk.com.au,sandisk.com.br,sandisk.com.tr,sandisk.com.tw,sandisk.de,sandisk.es,sandisk.fr,sandisk.hk,sandisk.id,sandisk.in,sandisk.it,sandisk.nl,sandisk.sg,wacom.com#@##consent_blackbar
