@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4mIkWGpoMBLU+xOTMyGL3w
-! Version: 202102250000
+! Checksum: /QBEf15mAlMkMp34gJZ98A
+! Version: 202102260000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-02-25 00:00 UTC
+! Last modified: 2021-02-26 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -403,6 +403,7 @@
 ||https://livechatinc.com/widget/static/media/
 ||https://reamaze.com/audio/
 ||https://static.widget.trengo.eu/assets/$media
+||https://tawk.to/*/audio/
 ||https://tidiochat.com^$media
 ||https://zdassets.com/web_widget/$media
 ||https://taboola.com^$third-party
@@ -1797,6 +1798,7 @@
 ||http://livechatinc.com/widget/static/media/
 ||http://reamaze.com/audio/
 ||http://static.widget.trengo.eu/assets/$media
+||http://tawk.to/*/audio/
 ||http://tidiochat.com^$media
 ||http://zdassets.com/web_widget/$media
 ||http://taboola.com^$third-party
@@ -12277,6 +12279,7 @@ https://cataniaoggi.it###thepriv
 https://sia.eu###toast
 https://cippy.it###toast-container
 https://luxuryzone.it###top-notification-container
+https://isweb.it###trace-form
 https://scuolerimini.it###upper_div
 https://puglialive.net###visitor_info
 https://farmacieaperte.it###warning-popup
@@ -23060,6 +23063,7 @@ http://cataniaoggi.it###thepriv
 http://sia.eu###toast
 http://cippy.it###toast-container
 http://luxuryzone.it###top-notification-container
+http://isweb.it###trace-form
 http://scuolerimini.it###upper_div
 http://puglialive.net###visitor_info
 http://farmacieaperte.it###warning-popup
