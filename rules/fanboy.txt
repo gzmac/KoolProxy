@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /QBEf15mAlMkMp34gJZ98A
-! Version: 202102260000
+! Checksum: Iz+MGU6xenOqUeEiupGCDQ
+! Version: 202102270000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-02-26 00:00 UTC
+! Last modified: 2021-02-27 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -5624,7 +5624,6 @@ https://pressherald.com##.related-call
 https://food52.com##.related-content
 https://firstwefeast.com##.related-stories
 https://worldstarhiphop.com##.relatedList
-https://kickstarter.com##.relative.z2
 https://ink361.com##.removeAds
 https://ink361.com##.removeAdsBlock
 https://networkworld.com##.resalert
@@ -10952,6 +10951,7 @@ https://auto-motor-und-sport.de##a[is-google-trigger]
 https://presseportal.de##div[id^="facebook_fanbox_"]
 https://stadt-bremerhaven.de##div[style="background: #f8f8f8; padding:20px;margin:0 0 10px -20px;width: 593px;"]
 https://jetzt.de##.social-channels
+https://bz-berlin.de##.social-media-icons
 https://pcwelt.de##.social_media_buttons
 https://spiegel.de##.social-bar
 https://focus.de##.socFbLikeShare
@@ -11593,6 +11593,7 @@ https://elektrotresen.de,fliesenoutlet.com,stw.berlin###disclaimer
 https://carl-walther.de###disclaimer-bar
 https://novasol.at###disclosure-container
 https://fool.de###dogfish
+https://computerwelt.at###dr_blocking_div
 https://strabag-pfs.de###dsgvo
 https://mail.de###euccBanner
 https://autokostencheck.de###footerSlideContainer
@@ -11685,7 +11686,7 @@ https://infiniti.at,infiniti.ch,infiniti.de##.c_128
 https://syfit.de##.c_cont
 https://juedische-allgemeine.de##.cc
 https://herrenausstatter.de##.ce-container
-https://aeesuisse.ch##.ce_rsce_oneo_fixed_note
+https://aeesuisse.ch,bluesnews.de##.ce_rsce_oneo_fixed_note
 https://tobias-bauer.de##.ce_rsce_swissy_fixed_note
 https://oper-wuppertal.de##.ci-container
 https://massivum.de##.cn_box
@@ -16406,7 +16407,6 @@ http://pressherald.com##.related-call
 http://food52.com##.related-content
 http://firstwefeast.com##.related-stories
 http://worldstarhiphop.com##.relatedList
-http://kickstarter.com##.relative.z2
 http://ink361.com##.removeAds
 http://ink361.com##.removeAdsBlock
 http://networkworld.com##.resalert
@@ -21735,6 +21735,7 @@ http://auto-motor-und-sport.de##a[is-google-trigger]
 http://presseportal.de##div[id^="facebook_fanbox_"]
 http://stadt-bremerhaven.de##div[style="background: #f8f8f8; padding:20px;margin:0 0 10px -20px;width: 593px;"]
 http://jetzt.de##.social-channels
+http://bz-berlin.de##.social-media-icons
 http://pcwelt.de##.social_media_buttons
 http://spiegel.de##.social-bar
 http://focus.de##.socFbLikeShare
@@ -22377,6 +22378,7 @@ http://elektrotresen.de,fliesenoutlet.com,stw.berlin###disclaimer
 http://carl-walther.de###disclaimer-bar
 http://novasol.at###disclosure-container
 http://fool.de###dogfish
+http://computerwelt.at###dr_blocking_div
 http://strabag-pfs.de###dsgvo
 http://mail.de###euccBanner
 http://autokostencheck.de###footerSlideContainer
@@ -22469,7 +22471,7 @@ http://infiniti.at,infiniti.ch,infiniti.de##.c_128
 http://syfit.de##.c_cont
 http://juedische-allgemeine.de##.cc
 http://herrenausstatter.de##.ce-container
-http://aeesuisse.ch##.ce_rsce_oneo_fixed_note
+http://aeesuisse.ch,bluesnews.de##.ce_rsce_oneo_fixed_note
 http://tobias-bauer.de##.ce_rsce_swissy_fixed_note
 http://oper-wuppertal.de##.ci-container
 http://massivum.de##.cn_box
