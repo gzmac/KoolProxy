@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: CWE1hoBppZ6iuP9SufzZ9A
-! Version: 202103010022
+! Checksum: imhIC+VcMfeQ/YpLIZnOGA
+! Version: 202103020012
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1815,6 +1815,7 @@
 ||https://bqiapp.com/api/config/ad?
 ||https://brand.sogou.com/micro?yyid=
 ||https://bs.baidu.com/app-ads%
+||https://bt.cn/bbs/newsimg/
 ||https://bt121.net/ats/
 ||https://bt888bf.com/da.aspx
 ||https://btbt.tv/dd/
@@ -4946,7 +4947,6 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
-||https://bt.cn/bbs/newsimg/
 ||https://17ce.com^*_$image
 ||https://69t49.com/floating/layer.js
 ||https://alicdn.com/img/ibank/*_!!2210231227621-0-cib.
@@ -6293,6 +6293,7 @@
 ||http://blogdaka.cc^
 ||http://blogdaka.xyz^
 ||http://bloggerads.net^$third-party
+||http://bmbaike.cn^
 ||http://bmw100.cn^$third-party
 ||http://bnq86.com^
 ||http://bnuni.com^$third-party
@@ -6365,6 +6366,7 @@
 ||http://chapm.com^$third-party
 ||http://charlesfc.com^
 ||http://chaxinyong.net^
+||http://chayayeon.com^
 ||http://che0.com^$third-party
 ||http://chehuanjie.com^
 ||http://chenghangtech.com^
@@ -9693,6 +9695,7 @@
 ||http://bqiapp.com/api/config/ad?
 ||http://brand.sogou.com/micro?yyid=
 ||http://bs.baidu.com/app-ads%
+||http://bt.cn/bbs/newsimg/
 ||http://bt121.net/ats/
 ||http://bt888bf.com/da.aspx
 ||http://btbt.tv/dd/
@@ -13186,7 +13189,6 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
-||http://bt.cn/bbs/newsimg/
 ||http://17ce.com^*_$image
 ||http://3336672.com^
 ||http://3337729.com^
@@ -14757,6 +14759,7 @@
 ||http://enq5ur.cn^
 ||http://epanr.com^
 ||http://epcqyac.cn^
+||http://erhfnv.cn^
 ||http://erkesi.cn^
 ||http://erocw.com^
 ||http://esuzm.cn^
@@ -14812,6 +14815,7 @@
 ||http://fjtzjy.com^
 ||http://fjylcy.com^
 ||http://fkkse.com^
+||http://fkm2wv.cn^
 ||http://flbmfc.com^
 ||http://fll007.com^
 ||http://fnpet.cn^
@@ -15408,6 +15412,7 @@
 ||http://maoyumao.net^
 ||http://maro30.com^
 ||http://matchjia.cn^
+||http://mavuz.com^
 ||http://maxoi.cn^
 ||http://mbusdw.cn^
 ||http://mcjjibr.cn^
@@ -17465,6 +17470,7 @@ https://sogou.com###appRedPackageAd
 https://dmzj.com###app_home_ad
 https://dmzj.com###app_manhua
 https://hao123.com###append
+https://913e.com###appnote
 https://jdbbs.com###archy5
 https://txahz.com###archy_ad2
 https://wx.sina.com.cn###artibody > .article-video
@@ -17799,6 +17805,7 @@ https://apk.tw###focus
 https://fuliba2020.net,fulibus.net,wuzuowei.net###focusslide
 https://bitauto.com###folieAdNews
 https://w3school.com.cn###foogz
+https://913e.com###footad_913e
 https://wdzj.com###footbanner
 https://jxedt.com###footer
 https://ttzmz.vip###footer > div[style]
@@ -19493,6 +19500,7 @@ https://qingdaonews.com##.da30050
 https://qingdaonews.com##.da66050
 https://zhangxinxu.com##.da_bottom
 https://12580sky.com,xbyuan.com##.dad
+https://159i.com##.dai
 https://lenovo.com.cn##.daily-hotwords
 https://map.baidu.com##.damoce-search-item
 https://acfun.cn##.danmu-activity
@@ -19851,6 +19859,7 @@ https://eastday.com##.golden_adv_1
 https://eastday.com##.golden_adv_2
 https://awaker.cn##.good-price
 https://mail.pchome.com.tw##.good_ad
+https://jandan.net##.goods2-list
 https://56.com##.goods_show
 https://techbang.com##.google-dfp
 https://i-part.com.tw##.googleAD160x600
@@ -23826,6 +23835,7 @@ http://sogou.com###appRedPackageAd
 http://dmzj.com###app_home_ad
 http://dmzj.com###app_manhua
 http://hao123.com###append
+http://913e.com###appnote
 http://jdbbs.com###archy5
 http://txahz.com###archy_ad2
 http://wx.sina.com.cn###artibody > .article-video
@@ -24160,6 +24170,7 @@ http://apk.tw###focus
 http://fuliba2020.net,fulibus.net,wuzuowei.net###focusslide
 http://bitauto.com###folieAdNews
 http://w3school.com.cn###foogz
+http://913e.com###footad_913e
 http://wdzj.com###footbanner
 http://jxedt.com###footer
 http://ttzmz.vip###footer > div[style]
@@ -25854,6 +25865,7 @@ http://qingdaonews.com##.da30050
 http://qingdaonews.com##.da66050
 http://zhangxinxu.com##.da_bottom
 http://12580sky.com,xbyuan.com##.dad
+http://159i.com##.dai
 http://lenovo.com.cn##.daily-hotwords
 http://map.baidu.com##.damoce-search-item
 http://acfun.cn##.danmu-activity
@@ -26212,6 +26224,7 @@ http://eastday.com##.golden_adv_1
 http://eastday.com##.golden_adv_2
 http://awaker.cn##.good-price
 http://mail.pchome.com.tw##.good_ad
+http://jandan.net##.goods2-list
 http://56.com##.goods_show
 http://techbang.com##.google-dfp
 http://i-part.com.tw##.googleAD160x600

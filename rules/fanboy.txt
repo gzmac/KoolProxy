@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: h8Im0PHpM1NuxMi+y5yUrw
-! Version: 202103010000
+! Checksum: 24ykObcgx+nDnfs1Dbehvw
+! Version: 202103020000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-01 00:00 UTC
+! Last modified: 2021-03-02 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2351,6 +2351,7 @@
 ||http://ewnews.com^*/newsletter.
 ||http://forms.windowsitpro.com^
 ||http://fortune.com^*/OO-NL_
+||http://gn-flagpoles.api.bbci.co.uk^
 ||http://goodhousekeeping.co.za^*/subscribe-
 ||http://goodhousekeeping.co.za^*/subscribe.
 ||http://ibtimes.co.in^*/newsletter.js
@@ -6192,6 +6193,7 @@ https://propublica.org##.module-donate
 https://newsweek.com##.msub
 https://lbry.tv##.nag
 https://buzzfeednews.com##.newsblock-tips
+https://shmoop.com##.no-ads
 https://propublica.org##.promo-bar__link-wrapper
 https://apkmirror.com##.promotedApp
 https://stuff.co.nz##.spade_3g.spade_3f.spade_3e
@@ -7574,6 +7576,7 @@ https://airship.com##.PushNotification
 https://reddit.com##.XPromoInFeed
 https://aliexpress.com##._3KrBP
 https://chicagotribune.com##.met-flyout
+https://wowhead.com##.notifications-dialog
 https://post-gazette.com##.pg-notifybox
 https://9to5google.com,9to5mac.com,electrek.co##.push-notify
 https://food.com##.pushdown-message
@@ -9172,6 +9175,7 @@ https://wattsindustries.com###header1_overlay2
 https://eutelsat.com###header_higher
 https://trendsmap.com###header_message
 https://fitzpatrickreferrals.co.uk###hellobar
+https://heroesprofile.com###heroesprofile-alert
 https://goodsstall.co.uk###hideme
 https://exchange.uk.com###ibox
 https://flatme.it###ic
@@ -12287,7 +12291,7 @@ https://sky.it###soundbox_cookie
 https://amazon.it###sp-cc
 https://digimobil.it###sticky-popup
 https://beniculturali.it,nlite.it,sigmastudio.it###system-message
-https://cataniaoggi.it###thepriv
+https://agronline.it,cataniaoggi.it###thepriv
 https://sia.eu###toast
 https://cippy.it###toast-container
 https://luxuryzone.it###top-notification-container
@@ -13262,7 +13266,7 @@ https://funnyordie.com#@#.social-bar-container
 https://adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,galaxydata.ru,ivid.it,laziopress.it,onovini.com,rta24.eu,salentolive24.com,saydigi-tech.com,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
 https://bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 https://chess.com#@#.social-btns
-https://4shared.com,disqus.com,everli.com,fastcompany.com,golem.de,nu.nl#@#.social-button
+https://4shared.com,bestbuy.com,disqus.com,everli.com,fastcompany.com,golem.de,nu.nl#@#.social-button
 https://adevarul.ro,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,bilingua.io,cheezburger.com,musixmatch.com,nu.nl,ozy.com,tipranks.com#@#.social-buttons
 https://ironstudios.com,pioneer-iot.com,velox.net.ua,workroom-myata.ru#@#.social-circle
 https://readyrefresh.com#@#.social-col
@@ -16986,6 +16990,7 @@ http://propublica.org##.module-donate
 http://newsweek.com##.msub
 http://lbry.tv##.nag
 http://buzzfeednews.com##.newsblock-tips
+http://shmoop.com##.no-ads
 http://propublica.org##.promo-bar__link-wrapper
 http://apkmirror.com##.promotedApp
 http://stuff.co.nz##.spade_3g.spade_3f.spade_3e
@@ -18368,6 +18373,7 @@ http://airship.com##.PushNotification
 http://reddit.com##.XPromoInFeed
 http://aliexpress.com##._3KrBP
 http://chicagotribune.com##.met-flyout
+http://wowhead.com##.notifications-dialog
 http://post-gazette.com##.pg-notifybox
 http://9to5google.com,9to5mac.com,electrek.co##.push-notify
 http://food.com##.pushdown-message
@@ -19967,6 +19973,7 @@ http://wattsindustries.com###header1_overlay2
 http://eutelsat.com###header_higher
 http://trendsmap.com###header_message
 http://fitzpatrickreferrals.co.uk###hellobar
+http://heroesprofile.com###heroesprofile-alert
 http://goodsstall.co.uk###hideme
 http://exchange.uk.com###ibox
 http://flatme.it###ic
@@ -23083,7 +23090,7 @@ http://sky.it###soundbox_cookie
 http://amazon.it###sp-cc
 http://digimobil.it###sticky-popup
 http://beniculturali.it,nlite.it,sigmastudio.it###system-message
-http://cataniaoggi.it###thepriv
+http://agronline.it,cataniaoggi.it###thepriv
 http://sia.eu###toast
 http://cippy.it###toast-container
 http://luxuryzone.it###top-notification-container
@@ -24058,7 +24065,7 @@ http://funnyordie.com#@#.social-bar-container
 http://adgully.com,chillitorun.pl,ecoustics.com,espansionetv.it,flyertalk.com,galaxydata.ru,ivid.it,laziopress.it,onovini.com,rta24.eu,salentolive24.com,saydigi-tech.com,stw24.pl,torrechannel.it,vonguru.fr,wahl-o-mat.de#@#.social-bottom
 http://bitbucket.org,foodit.com,paypal.com,tvspielfilm.de#@#.social-box
 http://chess.com#@#.social-btns
-http://4shared.com,disqus.com,everli.com,fastcompany.com,golem.de,nu.nl#@#.social-button
+http://4shared.com,bestbuy.com,disqus.com,everli.com,fastcompany.com,golem.de,nu.nl#@#.social-button
 http://adevarul.ro,airbnb.cat,airbnb.com,airbnb.de,airbnb.it,bilingua.io,cheezburger.com,musixmatch.com,nu.nl,ozy.com,tipranks.com#@#.social-buttons
 http://ironstudios.com,pioneer-iot.com,velox.net.ua,workroom-myata.ru#@#.social-circle
 http://readyrefresh.com#@#.social-col
