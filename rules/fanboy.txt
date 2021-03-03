@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 24ykObcgx+nDnfs1Dbehvw
-! Version: 202103020000
+! Checksum: 7z6eGEF6ff88MMDBjx2B/w
+! Version: 202103030000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-02 00:00 UTC
+! Last modified: 2021-03-03 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11586,6 +11586,7 @@ https://deutsche-handwerks-zeitung.de,handwerk-magazin.de,trendaward.de###cc-box
 https://hosteurope.de###cche
 https://badkissingen.de,wuerzburg.de###chint
 https://jmmgc.com###cnotice
+https://aktienportal1.de,eifelzeitung.de,ep1.de###coPolicyMain
 https://adventskalender-gewinnspiele.de,happy-spots.de,kirmes-in-deutschland.de,stadtfeste-in-deutschland.de,weihnachtsmaerkte-in-deutschland.de,weinfeste-in-deutschland.de###cono
 https://kunstnet.de,notebookinfo.de,zitatezumnachdenken.com###consent
 https://der-farang.com###consent_overlay
@@ -11757,6 +11758,7 @@ https://receiver.de,steckdosenleiste.org##.legalAdvice
 https://aktionspreis.de##.leiste_vollstaendig
 https://echo-online.de,giessener-anzeiger.de##.lightbox-overlay
 https://echo-online.de,giessener-anzeiger.de##.lightbox-skin
+https://lokalportal.de##.lp_snack-bar__container
 https://wirklichweiterkommen.de##.lsa-dialog
 https://jobmensa.de##.m-usermessage
 https://uhu.de##.message
@@ -22385,6 +22387,7 @@ http://deutsche-handwerks-zeitung.de,handwerk-magazin.de,trendaward.de###cc-box
 http://hosteurope.de###cche
 http://badkissingen.de,wuerzburg.de###chint
 http://jmmgc.com###cnotice
+http://aktienportal1.de,eifelzeitung.de,ep1.de###coPolicyMain
 http://adventskalender-gewinnspiele.de,happy-spots.de,kirmes-in-deutschland.de,stadtfeste-in-deutschland.de,weihnachtsmaerkte-in-deutschland.de,weinfeste-in-deutschland.de###cono
 http://kunstnet.de,notebookinfo.de,zitatezumnachdenken.com###consent
 http://der-farang.com###consent_overlay
@@ -22556,6 +22559,7 @@ http://receiver.de,steckdosenleiste.org##.legalAdvice
 http://aktionspreis.de##.leiste_vollstaendig
 http://echo-online.de,giessener-anzeiger.de##.lightbox-overlay
 http://echo-online.de,giessener-anzeiger.de##.lightbox-skin
+http://lokalportal.de##.lp_snack-bar__container
 http://wirklichweiterkommen.de##.lsa-dialog
 http://jobmensa.de##.m-usermessage
 http://uhu.de##.message
