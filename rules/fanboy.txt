@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tbt8NM5R7wLITWpK0oKLmw
-! Version: 202103040000
+! Checksum: LVEH9Tllv6x6/6dZEP3K9Q
+! Version: 202103050000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-04 00:00 UTC
+! Last modified: 2021-03-05 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -13321,7 +13321,7 @@ https://gallerix.asia,gallerix.org#@#.social-tumblr
 https://4players.de,chrisblattman.com,deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-twitter
 https://medialeaks.ru#@#.social-widgets
 https://bronchiectasisandntminitiative.org,copdfoundation.org,viralnova.com#@#.social-wrap
-https://chess-online.com,dreuz.info,etoro.com,foxnews.com,manager.paczkomaty.pl#@#.social-wrapper
+https://chess-online.com,dreuz.info,etoro.com,foxnews.com,ilgiorno.it,ilrestodelcarlino.it,lanazione.it,manager.paczkomaty.pl,quotidiano.net#@#.social-wrapper
 https://coub.com#@#.socialBlock
 https://runescape.com,study.163.com#@#.socialBox
 https://ceneo.pl,showmax.com#@#.socialBtns
@@ -24123,7 +24123,7 @@ http://gallerix.asia,gallerix.org#@#.social-tumblr
 http://4players.de,chrisblattman.com,deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-twitter
 http://medialeaks.ru#@#.social-widgets
 http://bronchiectasisandntminitiative.org,copdfoundation.org,viralnova.com#@#.social-wrap
-http://chess-online.com,dreuz.info,etoro.com,foxnews.com,manager.paczkomaty.pl#@#.social-wrapper
+http://chess-online.com,dreuz.info,etoro.com,foxnews.com,ilgiorno.it,ilrestodelcarlino.it,lanazione.it,manager.paczkomaty.pl,quotidiano.net#@#.social-wrapper
 http://coub.com#@#.socialBlock
 http://runescape.com,study.163.com#@#.socialBox
 http://ceneo.pl,showmax.com#@#.socialBtns
