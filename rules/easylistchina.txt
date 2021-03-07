@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: vaK5wjoSP9yopzhRYPQiKw
-! Version: 202103060022
+! Checksum: fngrP2YkGKHRdRWNPjF2vA
+! Version: 202103070022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4953,6 +4953,8 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://alicdn.com/kf/H2f43d53d17c74471a2a9e00bc10c5c99j.jpg
+||https://ahuys.cc/Runtime/js/
 ||https://17ce.com^*_$image
 ||https://69t49.com/floating/layer.js
 ||https://alicdn.com/img/ibank/*_!!2210231227621-0-cib.
@@ -5661,6 +5663,7 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://gg.miued.com^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -13200,6 +13203,8 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://alicdn.com/kf/H2f43d53d17c74471a2a9e00bc10c5c99j.jpg
+||http://ahuys.cc/Runtime/js/
 ||http://17ce.com^*_$image
 ||http://3336672.com^
 ||http://3337729.com^
@@ -14079,6 +14084,11 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://linkjingkeji.com^
+||http://anhaochem.com^
+||http://wzjs1.oss-accelerate.aliyuncs.com^
+||http://feizailin.com^
+||http://uu7ey6.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
 ||http://0234408.cn^
@@ -17241,6 +17251,8 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://159i.com##.ad
+https://fzdm.com##[style="width:100%;height:auto;min-height:120px;position:relative;display:block;"]
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -18056,7 +18068,7 @@ https://hao.360.cn,hao.360.com###left_float
 https://sina.com.cn###left_focus_ad
 https://timeon.cn###leftadv
 https://hao123.com###leftbannerv2
-https://5izyw.com###leftbottbox
+https://xc6b.com###leftbottbox
 https://wed114.cn###leftdiv
 https://leagueofmovie.com###leftfixedad
 https://www.wenxuecity.com###leftside
@@ -18319,7 +18331,7 @@ https://cpd.com.cn###right_adt
 https://discuss.com.hk,uwants.com###right_column
 https://uc123.com###right_elevator
 https://gmw.cn###rightad1 + .contentColumnRight
-https://5izyw.com###rightbottbox
+https://xc6b.com###rightbottbox
 https://wed114.cn###rightdiv
 https://leagueofmovie.com###rightfixedad
 https://ixueyi.com,shangxueba.com###rightfloatdiv
@@ -18373,7 +18385,7 @@ https://ck101.com###sideAds1
 https://ifeng.com###sideBar[class^="box_"]
 https://2345.com###sideCat
 https://hao.360.com###sidebar
-https://5izyw.com###sidebar > .box-b img
+https://xc6b.com###sidebar > .box-b img
 https://iyejie.com###sidebar > .widget:first-child
 https://ainuody.com###sidebar > .widget:nth-child(-n+6)
 https://appinn.com###sidebar > .widget_text:first-child
@@ -18764,7 +18776,7 @@ https://2345.com,hao774.com##.act-search-tab
 https://2345.com##.act-yguang
 https://teachinghand.com##.actions__wrapper
 https://rising.cn##.activity-ad
-https://5izyw.com##.activity-box
+https://xc6b.com##.activity-box
 https://hao.rising.cn##.activity-gt
 https://zuimeia.com##.activity-poster:not([href*="zuimeia."])
 https://2345.com##.activity-skin-rtrig
@@ -19365,7 +19377,7 @@ https://hao.rising.cn##.channel-adimg
 https://eeskill.com##.channel-featured-adv
 https://enread.com##.channel-nav > .back
 https://douban.com##.channel_promo
-https://5izyw.com##.chao_ggw
+https://xc6b.com##.chao_ggw
 https://xianliao.me##.chat-content__ads
 https://longzhu.com##.chatroom-ap
 https://2345.com,hao774.com##.chc-dzoem
@@ -21513,7 +21525,7 @@ https://ithome.com##a[href="/html/363216.htm"]
 https://ziqiangxuetang.com##a[href="/j/coding/"]
 https://ziqiangxuetang.com##a[href="/j/coding/"] + .w-text-red
 https://bilibili.com##a[href="/video/av8587236/?tg"]
-https://5izyw.com##a[href="http://61.160.236.52"]
+https://xc6b.com##a[href="http://61.160.236.52"]
 https://moyu16.com##a[href="http://71979.com"]
 https://cari.com.my##a[href="http://banner.cari.com.my/daybanner/?page=promotion"]
 https://ccav1.com##a[href="http://duan.es/1v"]
@@ -23611,6 +23623,8 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://159i.com##.ad
+http://fzdm.com##[style="width:100%;height:auto;min-height:120px;position:relative;display:block;"]
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -24426,7 +24440,7 @@ http://hao.360.cn,hao.360.com###left_float
 http://sina.com.cn###left_focus_ad
 http://timeon.cn###leftadv
 http://hao123.com###leftbannerv2
-http://5izyw.com###leftbottbox
+http://xc6b.com###leftbottbox
 http://wed114.cn###leftdiv
 http://leagueofmovie.com###leftfixedad
 http://www.wenxuecity.com###leftside
@@ -24689,7 +24703,7 @@ http://cpd.com.cn###right_adt
 http://discuss.com.hk,uwants.com###right_column
 http://uc123.com###right_elevator
 http://gmw.cn###rightad1 + .contentColumnRight
-http://5izyw.com###rightbottbox
+http://xc6b.com###rightbottbox
 http://wed114.cn###rightdiv
 http://leagueofmovie.com###rightfixedad
 http://ixueyi.com,shangxueba.com###rightfloatdiv
@@ -24743,7 +24757,7 @@ http://ck101.com###sideAds1
 http://ifeng.com###sideBar[class^="box_"]
 http://2345.com###sideCat
 http://hao.360.com###sidebar
-http://5izyw.com###sidebar > .box-b img
+http://xc6b.com###sidebar > .box-b img
 http://iyejie.com###sidebar > .widget:first-child
 http://ainuody.com###sidebar > .widget:nth-child(-n+6)
 http://appinn.com###sidebar > .widget_text:first-child
@@ -25134,7 +25148,7 @@ http://2345.com,hao774.com##.act-search-tab
 http://2345.com##.act-yguang
 http://teachinghand.com##.actions__wrapper
 http://rising.cn##.activity-ad
-http://5izyw.com##.activity-box
+http://xc6b.com##.activity-box
 http://hao.rising.cn##.activity-gt
 http://zuimeia.com##.activity-poster:not([href*="zuimeia."])
 http://2345.com##.activity-skin-rtrig
@@ -25735,7 +25749,7 @@ http://hao.rising.cn##.channel-adimg
 http://eeskill.com##.channel-featured-adv
 http://enread.com##.channel-nav > .back
 http://douban.com##.channel_promo
-http://5izyw.com##.chao_ggw
+http://xc6b.com##.chao_ggw
 http://xianliao.me##.chat-content__ads
 http://longzhu.com##.chatroom-ap
 http://2345.com,hao774.com##.chc-dzoem
@@ -27883,7 +27897,7 @@ http://ithome.com##a[href="/html/363216.htm"]
 http://ziqiangxuetang.com##a[href="/j/coding/"]
 http://ziqiangxuetang.com##a[href="/j/coding/"] + .w-text-red
 http://bilibili.com##a[href="/video/av8587236/?tg"]
-http://5izyw.com##a[href="http://61.160.236.52"]
+http://xc6b.com##a[href="http://61.160.236.52"]
 http://moyu16.com##a[href="http://71979.com"]
 http://cari.com.my##a[href="http://banner.cari.com.my/daybanner/?page=promotion"]
 http://ccav1.com##a[href="http://duan.es/1v"]
