@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 64spD4jDPz4wTZN1xjMqnQ
-! Version: 202103070000
+! Checksum: 2qsORCrThsh4HLj9DUi33A
+! Version: 202103080000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-07 00:00 UTC
+! Last modified: 2021-03-08 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4848,6 +4848,7 @@ https://economist.com##.ec-product-events-block
 https://webmd.com##.ed_disclaimer
 https://usatoday.com##.editorialPromo
 https://edugeek.net##.eg-ics-rss-64px
+https://auctions.yahoo.co.jp##.elTreasureBox
 https://nzherald.co.nz##.element-action-button
 https://classicalite.com,musictimes.com##.element-tooltips
 https://motherjones.com##.elsewhere-follow-light
@@ -9471,6 +9472,8 @@ https://bankofengland.co.uk,cityoflondon.police.uk##.container-notifications
 https://antoineonline.com##.container-overlay
 https://18virginsex.com,altervista.org,anglianwater.co.uk,ask.fm,callcredit.co.uk,calvertjournal.com,crazydomains.co.uk,derwaldhof.com,dw.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,gheed.com,gooddollar.org,hempel.co.uk,hempelyacht.com,here.com,hud.ac.uk,jaguarlandrover.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mclaren.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mydraw.com,mysurveylab.com,nationalcircus.org.uk,natwest.com,npl.co.uk,octotree.io,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,redditinc.com,roalddahl.com,rowenta.com,samsunghealthcare.com,sense.org.uk,sheldrickwildlifetrust.org,silverlake.com,sleek-mag.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,trailfinders.com,twitchstrike.com,unicheck.com,virgin-atlantic.com,wannawork.com##.cookie
 https://deezer.com##.cookie-banner
+https://geeksforgeeks.org##.cookie-consent
+https://7news.com.au##.cookie-consent--normal
 https://theatlantic.com##.cookie-disclaimer
 https://bitfeed.co##.cookiebanner
 https://austrian.com,austrianairlines.ag,austriantechnik.at##.cop
@@ -12722,6 +12725,7 @@ https://freemeteo.rs###cookies
 https://infiniti.co.rs##.c_128
 https://lidl.rs##.notification
 https://siea.sk###cac
+https://digitel.sk###cookies
 https://etrend.sk###disclaimer
 https://hpobchod.sk###hpmGmtT
 https://akcneletaky.sk###infoCoo
@@ -13495,8 +13499,8 @@ https://bosch-mobility-solutions.com#@##m-cookie-overlay
 https://17track.net#@##modal-gdpr
 https://faberkabel.de#@##modalCookie
 https://thesocialmedwork.com#@##notice-cookie-block
-https://gq-magazine.co.uk#@##onetrust-banner-sdk
-https://gq-magazine.co.uk#@##onetrust-consent-sdk
+https://gq-magazine.co.uk,mail.com#@##onetrust-banner-sdk
+https://gq-magazine.co.uk,mail.com#@##onetrust-consent-sdk
 https://api.newsguardtech.com,rockpapershotgun.com#@##optanon
 https://theverge.com#@##privacy-consent
 https://readthedocs.io,sportdiver.com#@##privacy-policy
@@ -15650,6 +15654,7 @@ http://economist.com##.ec-product-events-block
 http://webmd.com##.ed_disclaimer
 http://usatoday.com##.editorialPromo
 http://edugeek.net##.eg-ics-rss-64px
+http://auctions.yahoo.co.jp##.elTreasureBox
 http://nzherald.co.nz##.element-action-button
 http://classicalite.com,musictimes.com##.element-tooltips
 http://motherjones.com##.elsewhere-follow-light
@@ -20274,6 +20279,8 @@ http://bankofengland.co.uk,cityoflondon.police.uk##.container-notifications
 http://antoineonline.com##.container-overlay
 http://18virginsex.com,altervista.org,anglianwater.co.uk,ask.fm,callcredit.co.uk,calvertjournal.com,crazydomains.co.uk,derwaldhof.com,dw.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,gheed.com,gooddollar.org,hempel.co.uk,hempelyacht.com,here.com,hud.ac.uk,jaguarlandrover.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mclaren.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mydraw.com,mysurveylab.com,nationalcircus.org.uk,natwest.com,npl.co.uk,octotree.io,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,redditinc.com,roalddahl.com,rowenta.com,samsunghealthcare.com,sense.org.uk,sheldrickwildlifetrust.org,silverlake.com,sleek-mag.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,trailfinders.com,twitchstrike.com,unicheck.com,virgin-atlantic.com,wannawork.com##.cookie
 http://deezer.com##.cookie-banner
+http://geeksforgeeks.org##.cookie-consent
+http://7news.com.au##.cookie-consent--normal
 http://theatlantic.com##.cookie-disclaimer
 http://bitfeed.co##.cookiebanner
 http://austrian.com,austrianairlines.ag,austriantechnik.at##.cop
@@ -23526,6 +23533,7 @@ http://freemeteo.rs###cookies
 http://infiniti.co.rs##.c_128
 http://lidl.rs##.notification
 http://siea.sk###cac
+http://digitel.sk###cookies
 http://etrend.sk###disclaimer
 http://hpobchod.sk###hpmGmtT
 http://akcneletaky.sk###infoCoo
@@ -24299,8 +24307,8 @@ http://bosch-mobility-solutions.com#@##m-cookie-overlay
 http://17track.net#@##modal-gdpr
 http://faberkabel.de#@##modalCookie
 http://thesocialmedwork.com#@##notice-cookie-block
-http://gq-magazine.co.uk#@##onetrust-banner-sdk
-http://gq-magazine.co.uk#@##onetrust-consent-sdk
+http://gq-magazine.co.uk,mail.com#@##onetrust-banner-sdk
+http://gq-magazine.co.uk,mail.com#@##onetrust-consent-sdk
 http://api.newsguardtech.com,rockpapershotgun.com#@##optanon
 http://theverge.com#@##privacy-consent
 http://readthedocs.io,sportdiver.com#@##privacy-policy
