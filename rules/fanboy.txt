@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /cdH8HoKDlyzXITXRzBNIQ
-! Version: 202103090000
+! Checksum: xjkrQcT8gfWtZIGLPGUWJw
+! Version: 202103100000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-09 00:00 UTC
+! Last modified: 2021-03-10 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -8958,6 +8958,8 @@ https://lifewire.com###button-pinterest-image
 https://pcmag.com###enhancedsharer
 https://dailymail.co.uk###floatingShare
 https://arstechnica.com###follow-us
+https://yandex.com###shareButton
+https://yandex.com###shareContent
 https://dailymail.co.uk###shareCountBottom
 https://reuters.com##.SocialTool_social-button
 https://pcgames-download.net##.addthis_toolbox
@@ -9419,6 +9421,7 @@ https://argaam.com##.argaam-policy
 https://linkedin.com##.artdeco-global-alert
 https://leo.org##.as-oil
 https://businessinsider.com##.as-oil-content-overlay
+https://activision.com##.atvi-privacy-policy-module
 https://which.co.uk##.b_g
 https://chess24.com##.background
 https://uber.com##.banner--bottom
@@ -10366,7 +10369,7 @@ https://eprice.it###moveUp
 https://gazzetta.it###multifunctionBar-container
 https://callipo.com###nav_up
 https://sacecomponents.com###neko-to-top
-https://gamblingitalia.com,lacnews24.it,lintellettualedissidente.it,misya.info,monitorimmobiliare.it,radiospeaker.it,rivistastudio.com,silhouettedonna.it,soldioggi.it,sscnapoli.it,termometropolitico.it,terranuova.it,valgardena.it###newsletter
+https://gamblingitalia.com,lacnews24.it,lintellettualedissidente.it,misya.info,monitorimmobiliare.it,radiospeaker.it,rivistastudio.com,silhouettedonna.it,soldioggi.it,sscnapoli.it,termometropolitico.com,termometropolitico.it,terranuova.it,valgardena.it###newsletter
 https://distribuzionemoderna.info###nsl
 https://lasicilia.it###overbox_ticker_newsstand
 https://it.hisamitsu###pageTop
@@ -11213,7 +11216,7 @@ https://dueruote.it###segui
 https://comune.cagliari.it###segui_hp
 https://termometropolitico.it###seguici
 https://wikihow.it###sf
-https://canavesenews.it,gazzetta.it,torinonews24.it###share
+https://canavesenews.it,gazzetta.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it,torinonews24.it###share
 https://goodmorningnews.it###short-url
 https://deejay.it###slider
 https://autobelle.it,bancadipiacenza.it,canavesenews.it,creditocooperativo.it,fotografidigitali.it,gianlucadimarzio.com,ilsecoloxix.it,lavoro.gov.it,meteogiornale.it,meteovista.it,navigaweb.net,optimagazine.com,optimaitalia.com,radioitalia.it,rasom.it,salute.gov.it,superwheels.net,unibo.it,virginactive.it###social
@@ -13616,7 +13619,7 @@ https://vtimes.io#@#.cookies-modal__background
 https://alko.fi#@#.cookies-open
 https://diy.com#@#.cookies-policy
 https://tatilsepeti.com#@#.cookies.active
-https://milliman.com#@#.cookiesModal
+https://delhaize.be,milliman.com#@#.cookiesModal
 https://m.oe24.at#@#.cookiesOverlay2
 https://m.oe24.at#@#.cookiesOverlay2Box
 https://hublot.com#@#.cookies_consent-show
@@ -13686,6 +13689,7 @@ https://litebit.eu#@#div[class*="CookieConsent"]
 https://telenor.se#@#div[class*="cookie-consent-modal_"]
 https://ee.co.uk,monese.com#@#div[class^="cookie-banner"]
 https://dovoba.de#@#div[class^="cookie-consent_"]
+https://coolblue.be#@#div[class^="cookie-notification_"]
 https://birramenabrea.com,cnwl.nhs.uk,marketerplus.pl,myspeed.pl#@#div[data-cookie]
 https://timeout.com#@#div[data-module="cookie_banner"]
 https://konarzewski.com.pl,unicode.org#@#div[data-nconvert-cookie]
@@ -19771,6 +19775,8 @@ http://lifewire.com###button-pinterest-image
 http://pcmag.com###enhancedsharer
 http://dailymail.co.uk###floatingShare
 http://arstechnica.com###follow-us
+http://yandex.com###shareButton
+http://yandex.com###shareContent
 http://dailymail.co.uk###shareCountBottom
 http://reuters.com##.SocialTool_social-button
 http://pcgames-download.net##.addthis_toolbox
@@ -20232,6 +20238,7 @@ http://argaam.com##.argaam-policy
 http://linkedin.com##.artdeco-global-alert
 http://leo.org##.as-oil
 http://businessinsider.com##.as-oil-content-overlay
+http://activision.com##.atvi-privacy-policy-module
 http://which.co.uk##.b_g
 http://chess24.com##.background
 http://uber.com##.banner--bottom
@@ -21179,7 +21186,7 @@ http://eprice.it###moveUp
 http://gazzetta.it###multifunctionBar-container
 http://callipo.com###nav_up
 http://sacecomponents.com###neko-to-top
-http://gamblingitalia.com,lacnews24.it,lintellettualedissidente.it,misya.info,monitorimmobiliare.it,radiospeaker.it,rivistastudio.com,silhouettedonna.it,soldioggi.it,sscnapoli.it,termometropolitico.it,terranuova.it,valgardena.it###newsletter
+http://gamblingitalia.com,lacnews24.it,lintellettualedissidente.it,misya.info,monitorimmobiliare.it,radiospeaker.it,rivistastudio.com,silhouettedonna.it,soldioggi.it,sscnapoli.it,termometropolitico.com,termometropolitico.it,terranuova.it,valgardena.it###newsletter
 http://distribuzionemoderna.info###nsl
 http://lasicilia.it###overbox_ticker_newsstand
 http://it.hisamitsu###pageTop
@@ -22026,7 +22033,7 @@ http://dueruote.it###segui
 http://comune.cagliari.it###segui_hp
 http://termometropolitico.it###seguici
 http://wikihow.it###sf
-http://canavesenews.it,gazzetta.it,torinonews24.it###share
+http://canavesenews.it,gazzetta.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it,torinonews24.it###share
 http://goodmorningnews.it###short-url
 http://deejay.it###slider
 http://autobelle.it,bancadipiacenza.it,canavesenews.it,creditocooperativo.it,fotografidigitali.it,gianlucadimarzio.com,ilsecoloxix.it,lavoro.gov.it,meteogiornale.it,meteovista.it,navigaweb.net,optimagazine.com,optimaitalia.com,radioitalia.it,rasom.it,salute.gov.it,superwheels.net,unibo.it,virginactive.it###social
@@ -24430,7 +24437,7 @@ http://vtimes.io#@#.cookies-modal__background
 http://alko.fi#@#.cookies-open
 http://diy.com#@#.cookies-policy
 http://tatilsepeti.com#@#.cookies.active
-http://milliman.com#@#.cookiesModal
+http://delhaize.be,milliman.com#@#.cookiesModal
 http://m.oe24.at#@#.cookiesOverlay2
 http://m.oe24.at#@#.cookiesOverlay2Box
 http://hublot.com#@#.cookies_consent-show
@@ -24500,6 +24507,7 @@ http://litebit.eu#@#div[class*="CookieConsent"]
 http://telenor.se#@#div[class*="cookie-consent-modal_"]
 http://ee.co.uk,monese.com#@#div[class^="cookie-banner"]
 http://dovoba.de#@#div[class^="cookie-consent_"]
+http://coolblue.be#@#div[class^="cookie-notification_"]
 http://birramenabrea.com,cnwl.nhs.uk,marketerplus.pl,myspeed.pl#@#div[data-cookie]
 http://timeout.com#@#div[data-module="cookie_banner"]
 http://konarzewski.com.pl,unicode.org#@#div[data-nconvert-cookie]
