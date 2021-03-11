@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xjkrQcT8gfWtZIGLPGUWJw
-! Version: 202103100000
+! Checksum: 2nVgY4pGM63WNAXXhsqLYA
+! Version: 202103110000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-10 00:00 UTC
+! Last modified: 2021-03-11 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -179,6 +179,7 @@
 ||https://jobvite.com/widget20.js$third-party
 ||https://js.brow.si^$third-party
 ||https://jugglu.com^$third-party
+||https://justanswer.com^$third-party
 ||https://kaango.com/feCustomWidgetDisplay/$third-party
 ||https://knowd.com^$third-party
 ||https://leadacity.net^$third-party
@@ -1573,6 +1574,7 @@
 ||http://jobvite.com/widget20.js$third-party
 ||http://js.brow.si^$third-party
 ||http://jugglu.com^$third-party
+||http://justanswer.com^$third-party
 ||http://kaango.com/feCustomWidgetDisplay/$third-party
 ||http://knowd.com^$third-party
 ||http://leadacity.net^$third-party
