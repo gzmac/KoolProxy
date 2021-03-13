@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ray551H5KEgAowNjnoFxyA
-! Version: 202103120000
+! Checksum: Ba4t7qEyOPmqJ+uc26tJkw
+! Version: 202103130000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-12 00:00 UTC
+! Last modified: 2021-03-13 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11355,7 +11355,7 @@ https://ilmeteo.net##.siguenos-reducido
 https://assopoker.com##.singlemeta
 https://finanzaonline.com,teleborsa.it,tempostretto.it##.soc
 https://quickparking.it##.soc-icon-container
-https://affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,aztesti.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,creditosportivo.it,deabyday.tv,dequo.it,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,giornaledibrescia.it,globalist.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,omnialyrics.it,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
+https://affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,aztesti.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,creditosportivo.it,deabyday.tv,dequo.it,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,gediwatch.it,giornaledibrescia.it,globalist.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,omnialyrics.it,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
 https://citroenselect.it##.social-network
 https://davinotti.com##.social__variant
 https://investireoggi.it##.social_menu
@@ -12718,6 +12718,7 @@ https://linux-info.ru###trumpet_message
 https://drweb.ru##.SHOWIT-msg_showed
 https://ngnovoros.ru##._1TNYbgH
 https://oreluniver.ru##.accept
+https://volia.com##.agreeCookie\.component__cookieWrapper
 https://bancaintesa.ru##.agreement-substrate
 https://rshb.ru##.alert
 https://podrozerowerowe.info##.appriseOuter
@@ -12938,7 +12939,7 @@ https://aklinizikesfedin.com,bancobpm.it,channelnewsasia.com,ew.com,indiatimes.c
 https://krasnodar.ru#@#.scrollTop
 https://hyperoptic.com,playtech.co.nz,porozmawiajmyoit.pl,scan.co.uk#@#.scroll_top:not(body):not(html)
 https://ltn.com.tw,theuptake.org#@#.scrolltop:not(body):not(html)
-https://ap.www.namecheap.com#@#.scrolltotop
+https://ap.www.namecheap.com,arbitr.gov.ua#@#.scrolltotop
 https://chorus.co.nz,jdpower.com#@#.scrollup:not(body):not(html)
 https://dualshockers.com#@#.socialfooter
 https://blackboat.com#@#.sqs-announcement-bar
@@ -22175,7 +22176,7 @@ http://ilmeteo.net##.siguenos-reducido
 http://assopoker.com##.singlemeta
 http://finanzaonline.com,teleborsa.it,tempostretto.it##.soc
 http://quickparking.it##.soc-icon-container
-http://affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,aztesti.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,creditosportivo.it,deabyday.tv,dequo.it,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,giornaledibrescia.it,globalist.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,omnialyrics.it,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
+http://affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,aztesti.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,creditosportivo.it,deabyday.tv,dequo.it,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,gediwatch.it,giornaledibrescia.it,globalist.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,omnialyrics.it,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
 http://citroenselect.it##.social-network
 http://davinotti.com##.social__variant
 http://investireoggi.it##.social_menu
@@ -23539,6 +23540,7 @@ http://linux-info.ru###trumpet_message
 http://drweb.ru##.SHOWIT-msg_showed
 http://ngnovoros.ru##._1TNYbgH
 http://oreluniver.ru##.accept
+http://volia.com##.agreeCookie\.component__cookieWrapper
 http://bancaintesa.ru##.agreement-substrate
 http://rshb.ru##.alert
 http://podrozerowerowe.info##.appriseOuter
@@ -23759,7 +23761,7 @@ http://aklinizikesfedin.com,bancobpm.it,channelnewsasia.com,ew.com,indiatimes.co
 http://krasnodar.ru#@#.scrollTop
 http://hyperoptic.com,playtech.co.nz,porozmawiajmyoit.pl,scan.co.uk#@#.scroll_top:not(body):not(html)
 http://ltn.com.tw,theuptake.org#@#.scrolltop:not(body):not(html)
-http://ap.www.namecheap.com#@#.scrolltotop
+http://ap.www.namecheap.com,arbitr.gov.ua#@#.scrolltotop
 http://chorus.co.nz,jdpower.com#@#.scrollup:not(body):not(html)
 http://dualshockers.com#@#.socialfooter
 http://blackboat.com#@#.sqs-announcement-bar
