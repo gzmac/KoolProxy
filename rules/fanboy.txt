@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ba4t7qEyOPmqJ+uc26tJkw
-! Version: 202103130000
+! Checksum: XtyVC3hc6+TIJ/4JeCDk9w
+! Version: 202103140000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-13 00:00 UTC
+! Last modified: 2021-03-14 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -3782,6 +3782,7 @@ https://regator.com###newPostProfileShares
 https://benjaminkerensa.com###news-bar
 https://techpounce.com###news-bar-plus
 https://wonderwall.msn.com###newsStrip
+https://boomlive.in###news_on_exit
 https://gossipcop.com###newsform
 https://theatlantic.com###newsstands
 https://rdnewsnow.com###next-article
@@ -7441,7 +7442,7 @@ https://hamodia.com##.btp
 https://getdroidtips.com##.btp-top
 https://gamestop.com##.bttbtn
 https://diplo.de##.c-top-link--default
-https://alarabiya.net,aurecongroup.com,caltex.co.za,drivesouth.co.nz,gasoline-station.com,millenniumpost.in,pastebin.com,rti.org.tw,sammobile.com,secondnexus.com,shine.cn,suninternational.com,unifiedlayers.com,wifi.id##.cd-top
+https://alarabiya.net,aurecongroup.com,boomlive.in,caltex.co.za,drivesouth.co.nz,gasoline-station.com,millenniumpost.in,pastebin.com,rti.org.tw,sammobile.com,secondnexus.com,shine.cn,suninternational.com,unifiedlayers.com,wifi.id##.cd-top
 https://tricri.org##.chevron
 https://publy.com##.cmsmasters_theme_icon_slide_top
 https://crunchyroll.com##.cr-expo-banner
@@ -13310,7 +13311,7 @@ https://lifetimetv.pl#@#.social-feed
 https://ally.com#@#.social-footer
 https://deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-google
 https://attn.com,wonderhowto.com#@#.social-header
-https://counterpunch.org,staysafeonline.org#@#.social-hide
+https://counterpunch.org,standupamerica.com,staysafeonline.org#@#.social-hide
 https://deathandtaxesmag.com,gofugyourself.com,hostinger.ae,hostinger.com.br,hostinger.com.ua,hostinger.fr,hostinger.in.th,hostinger.it,hostinger.kr,hostinger.lt,hostinger.my,hostinger.ph,hostinger.pl,hostinger.pt,hostinger.ro,hostinger.ru,hostinger.vn,hostinger.web.tr,spin.com,stereogum.com,vibe.com#@#.social-holder
 https://battle.net,ok.ru,speedtest.net,udemy.com,washingtonexaminer.com#@#.social-icon
 https://deathandtaxesmag.com,experttur.com,gofugyourself.com,ourweigh.in,spin.com,stereogum.com,vibe.com,viewbug.com#@#.social-icons
@@ -14602,6 +14603,7 @@ http://regator.com###newPostProfileShares
 http://benjaminkerensa.com###news-bar
 http://techpounce.com###news-bar-plus
 http://wonderwall.msn.com###newsStrip
+http://boomlive.in###news_on_exit
 http://gossipcop.com###newsform
 http://theatlantic.com###newsstands
 http://rdnewsnow.com###next-article
@@ -18261,7 +18263,7 @@ http://hamodia.com##.btp
 http://getdroidtips.com##.btp-top
 http://gamestop.com##.bttbtn
 http://diplo.de##.c-top-link--default
-http://alarabiya.net,aurecongroup.com,caltex.co.za,drivesouth.co.nz,gasoline-station.com,millenniumpost.in,pastebin.com,rti.org.tw,sammobile.com,secondnexus.com,shine.cn,suninternational.com,unifiedlayers.com,wifi.id##.cd-top
+http://alarabiya.net,aurecongroup.com,boomlive.in,caltex.co.za,drivesouth.co.nz,gasoline-station.com,millenniumpost.in,pastebin.com,rti.org.tw,sammobile.com,secondnexus.com,shine.cn,suninternational.com,unifiedlayers.com,wifi.id##.cd-top
 http://tricri.org##.chevron
 http://publy.com##.cmsmasters_theme_icon_slide_top
 http://crunchyroll.com##.cr-expo-banner
@@ -24132,7 +24134,7 @@ http://lifetimetv.pl#@#.social-feed
 http://ally.com#@#.social-footer
 http://deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-google
 http://attn.com,wonderhowto.com#@#.social-header
-http://counterpunch.org,staysafeonline.org#@#.social-hide
+http://counterpunch.org,standupamerica.com,staysafeonline.org#@#.social-hide
 http://deathandtaxesmag.com,gofugyourself.com,hostinger.ae,hostinger.com.br,hostinger.com.ua,hostinger.fr,hostinger.in.th,hostinger.it,hostinger.kr,hostinger.lt,hostinger.my,hostinger.ph,hostinger.pl,hostinger.pt,hostinger.ro,hostinger.ru,hostinger.vn,hostinger.web.tr,spin.com,stereogum.com,vibe.com#@#.social-holder
 http://battle.net,ok.ru,speedtest.net,udemy.com,washingtonexaminer.com#@#.social-icon
 http://deathandtaxesmag.com,experttur.com,gofugyourself.com,ourweigh.in,spin.com,stereogum.com,vibe.com,viewbug.com#@#.social-icons
