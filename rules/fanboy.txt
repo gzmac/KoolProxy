@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: COWla8bqTJJrPlw8Q3fb3g
-! Version: 202103160000
+! Checksum: 1IIwrmnVesIZU9Uzg8jDfQ
+! Version: 202103170000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-16 00:00 UTC
+! Last modified: 2021-03-17 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12017,6 +12017,7 @@ https://nacesty.cz###term-of-use
 https://marusik.cz##.CA
 https://therapia.cz##.CC_wrap
 https://valka.cz##.alert
+https://unitrex.eu##.annoyerBar
 https://uni-max.cz##.bar-Info
 https://infiniti.cz##.c_128
 https://rychloseznamka.cz##.cok
@@ -22847,6 +22848,7 @@ http://nacesty.cz###term-of-use
 http://marusik.cz##.CA
 http://therapia.cz##.CC_wrap
 http://valka.cz##.alert
+http://unitrex.eu##.annoyerBar
 http://uni-max.cz##.bar-Info
 http://infiniti.cz##.c_128
 http://rychloseznamka.cz##.cok
