@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1IIwrmnVesIZU9Uzg8jDfQ
-! Version: 202103170000
+! Checksum: 684M1pRiskh2DOL81wTatg
+! Version: 202103180000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-17 00:00 UTC
+! Last modified: 2021-03-18 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2577,7 +2577,7 @@
 ||http://emerse.com/consent.js
 ||http://freedoflondon.com/Styles/dialog-popup/jquery-ui.js
 ||http://freetls.fastly.net/main/sd-cmp-$domain=spanishdict.com
-||http://fundingchoicesmessages.google.com^$domain=apkmirror.com|gameblog.fr|smallseotools.com|telegram.hr|wordreference.com
+||http://fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|gameblog.fr|smallseotools.com|telegram.hr|wordreference.com
 ||http://gdpr.internetbrands.com^
 ||http://gdpr.prisa.com^
 ||http://government-and-constitution.org/js/consent.js
@@ -9448,6 +9448,7 @@ https://abplive.in##.blur-bg
 https://studocu.com##.bottom-bar-enter-active
 https://ofisitebg.com##.bottom-freezed-bar
 https://robertsspaceindustries.com##.bottom-notif-bar
+https://yubico.com##.bottom-pop-up-container
 https://cointelegraph.com##.bottom-zone
 https://hostkey.com##.bottomMessages
 https://xhamster.com##.bottom_message
@@ -13178,6 +13179,7 @@ https://sap.com#@#.j-social-actions
 https://sap.com#@#.j-social-button
 https://kickstarter.com,tradingview.com#@#.js-follow-user
 https://cgtn.com,nbcnews.com,playosmo.com,trello.com,vimeo.com#@#.js-share
+https://faz.net#@#.js-sharebuttons
 https://lenta.ru#@#.js-topic__socials
 https://alternativeto.net#@#.like-box
 https://darudar.org,fimfiction.net,modworkshop.net,nasaspaceflight.com#@#.like_button
@@ -13344,7 +13346,7 @@ https://infox.ru#@#.social-section
 https://lafeltrinelli.it#@#.social-separator
 https://daenischesbettenlager.at,daenischesbettenlager.de,howtogeek.com,jysk-ks.com,jysk.al,jysk.am,jysk.ba,jysk.be,jysk.bg,jysk.by,jysk.ca,jysk.ch,jysk.co.id,jysk.co.uk,jysk.com,jysk.com.cy,jysk.com.kw,jysk.com.mt,jysk.cz,jysk.dk,jysk.ee,jysk.es,jysk.fi,jysk.fr,jysk.ge,jysk.gr,jysk.hr,jysk.hu,jysk.ie,jysk.it,jysk.kz,jysk.lt,jysk.lv,jysk.md,jysk.me,jysk.mk,jysk.nl,jysk.no,jysk.pl,jysk.pt,jysk.ro,jysk.rs,jysk.se,jysk.si,jysk.sk,jysk.ua,jysk.vn,jyskthailand.com,pisiffik.gl,rumfatalagerinn.is,skemman.fo#@#.social-share
 https://cuisineactuelle.fr,femmeactuelle.fr,matvpratique.com#@#.social-share-count
-https://cosmo.ru,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,songkick.com#@#.social-sharing
+https://cosmo.ru,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,politico.eu,songkick.com#@#.social-sharing
 https://golem.de#@#.social-sidebar
 https://domain.com.au#@#.social-stick
 https://tv-kino.net#@#.social-tab
@@ -20278,6 +20280,7 @@ http://abplive.in##.blur-bg
 http://studocu.com##.bottom-bar-enter-active
 http://ofisitebg.com##.bottom-freezed-bar
 http://robertsspaceindustries.com##.bottom-notif-bar
+http://yubico.com##.bottom-pop-up-container
 http://cointelegraph.com##.bottom-zone
 http://hostkey.com##.bottomMessages
 http://xhamster.com##.bottom_message
@@ -24009,6 +24012,7 @@ http://sap.com#@#.j-social-actions
 http://sap.com#@#.j-social-button
 http://kickstarter.com,tradingview.com#@#.js-follow-user
 http://cgtn.com,nbcnews.com,playosmo.com,trello.com,vimeo.com#@#.js-share
+http://faz.net#@#.js-sharebuttons
 http://lenta.ru#@#.js-topic__socials
 http://alternativeto.net#@#.like-box
 http://darudar.org,fimfiction.net,modworkshop.net,nasaspaceflight.com#@#.like_button
@@ -24175,7 +24179,7 @@ http://infox.ru#@#.social-section
 http://lafeltrinelli.it#@#.social-separator
 http://daenischesbettenlager.at,daenischesbettenlager.de,howtogeek.com,jysk-ks.com,jysk.al,jysk.am,jysk.ba,jysk.be,jysk.bg,jysk.by,jysk.ca,jysk.ch,jysk.co.id,jysk.co.uk,jysk.com,jysk.com.cy,jysk.com.kw,jysk.com.mt,jysk.cz,jysk.dk,jysk.ee,jysk.es,jysk.fi,jysk.fr,jysk.ge,jysk.gr,jysk.hr,jysk.hu,jysk.ie,jysk.it,jysk.kz,jysk.lt,jysk.lv,jysk.md,jysk.me,jysk.mk,jysk.nl,jysk.no,jysk.pl,jysk.pt,jysk.ro,jysk.rs,jysk.se,jysk.si,jysk.sk,jysk.ua,jysk.vn,jyskthailand.com,pisiffik.gl,rumfatalagerinn.is,skemman.fo#@#.social-share
 http://cuisineactuelle.fr,femmeactuelle.fr,matvpratique.com#@#.social-share-count
-http://cosmo.ru,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,songkick.com#@#.social-sharing
+http://cosmo.ru,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,politico.eu,songkick.com#@#.social-sharing
 http://golem.de#@#.social-sidebar
 http://domain.com.au#@#.social-stick
 http://tv-kino.net#@#.social-tab

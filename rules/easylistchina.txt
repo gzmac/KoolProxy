@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: qEbGHVH//G4d8h+tA4s25g
-! Version: 202103170022
+! Checksum: PDBMDhPwh3EOeHg5qJUWrA
+! Version: 202103180022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4538,7 +4538,7 @@
 ||https://xnnews.com.cn/adgl/
 ||https://xnnews.com.cn/Templets/image/zyyy.swf
 ||https://xnnews.com.cn/Templets/js/*link
-||https://xntk.net^*.html
+||https://xntk.org^*.html
 ||https://xp811.com/img/xitong.gif
 ||https://xp85.com/common/images/downad
 ||https://xp85.com/common/js/allpage.js
@@ -4994,8 +4994,6 @@
 ||https://lqmohun.com^$third-party
 ||https://maka.im^$third-party
 ||https://myyxapp.com^$third-party
-||https://pgyzw.com/0
-||https://pgyzw.com/k
 ||https://qianqianxsw.com^*xhtml
 ||https://qianrenge.cc/qian/
 ||https://sangwu8.com/tu/
@@ -5564,7 +5562,6 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
-||http://ysyjg.com^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -6935,6 +6932,7 @@
 ||http://lzzqqc.com^$third-party
 ||http://magictreehouse.cn^
 ||http://magiphone.cn^
+||http://maidagu.com^
 ||http://mainbx.com^
 ||http://mall043.com^
 ||http://mamamiyu.com^$third-party
@@ -7781,6 +7779,7 @@
 ||http://ysjwj.com^
 ||http://ysm.ezprice.net^$third-party
 ||http://ysnj74ed.com^
+||http://ysyjg.com^
 ||http://ytop8.com^
 ||http://yuanhsu.com^$third-party
 ||http://yuanmengbi.com^
@@ -12325,7 +12324,7 @@
 ||http://xnnews.com.cn/adgl/
 ||http://xnnews.com.cn/Templets/image/zyyy.swf
 ||http://xnnews.com.cn/Templets/js/*link
-||http://xntk.net^*.html
+||http://xntk.org^*.html
 ||http://xoimg.com^$domain=18board.com|18p2p.com
 ||http://xp811.com/img/xitong.gif
 ||http://xp85.com/common/images/downad
@@ -12794,6 +12793,7 @@
 ||http://7car.com.cn^
 ||http://80juqing.com^
 ||http://8131.qizhihaotian.cn^
+||http://88.yunqishi.net^
 ||http://91friend.com^$third-party
 ||http://94ab.com^$third-party
 ||http://999d.com^$third-party
@@ -13507,7 +13507,6 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://xinyuanstudio.com^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
 ||http://027whht.com^
@@ -13608,6 +13607,7 @@
 ||http://56space.com^
 ||http://597txtt.com^*.php
 ||http://5dydk.com^
+||http://5fst22.cn^
 ||http://5glyqw.com^
 ||http://5j73de.cn^
 ||http://5mgurg.cn^
@@ -14542,7 +14542,6 @@
 ||http://lousivency.com.cn^
 ||http://lovepets70.com^
 ||http://lownguw.top^
-||http://lq.xsbooktxt.com^
 ||http://lq0s3c.cn^
 ||http://lq1.abcxs.com^
 ||http://lqmohun.com^$third-party
@@ -14714,8 +14713,6 @@
 ||http://pentaxaws.cn^
 ||http://petsfairy.com^
 ||http://petsheying.com^
-||http://pgyzw.com/0
-||http://pgyzw.com/k
 ||http://phoenixnk.cn^
 ||http://photo.*.html?tk=$script,third-party
 ||http://phpape.com^
@@ -14801,6 +14798,7 @@
 ||http://qzyiming.cn^
 ||http://qzylyp.com^
 ||http://r3wd6.cn^
+||http://r890x3.com^
 ||http://raeqqe.cn^
 ||http://ranqibio.com^
 ||http://rbywg.com^
@@ -14907,6 +14905,7 @@
 ||http://statstat888.com^
 ||http://stdst.cn^
 ||http://stevenblue.cn^
+||http://stm65i8.com^
 ||http://subshall.cn^
 ||http://sugarpuff.net^
 ||http://suitmatters.cn^
@@ -15169,6 +15168,7 @@
 ||http://xinheshengmce.com^
 ||http://xinqiannv.com^
 ||http://xintaizhaoming.com^
+||http://xinyuanstudio.com^
 ||http://xiuqixuan.cn^
 ||http://xixizaix.cn^
 ||http://xjhjtz.cn^
@@ -16107,7 +16107,6 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://moerats.com##DIV[style="box-shadow: 1px 1px 5px 5px rgba(17, 150, 196, 0.35);border-radius: 15px;"]
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -17603,6 +17602,7 @@ https://outlook.live.com##.__Microsoft_Owa_MessageListAds_ListView_templates_cs_
 https://tools.2345.com##._hb-box + .mod
 https://pincong.rocks##.a-a
 https://gamer.com.tw##.a-mercy-d:not([href*=".gamer."])
+https://159i.com##.a1.style25
 https://159i.com##.a1d
 https://159i.com##.a2d
 https://159i.com##.a3d
@@ -19832,6 +19832,7 @@ https://affyun.com##.text
 https://affyun.com##.text ~ a
 https://chineseinla.com##.text-ads-col
 https://baidu.com##.text-advertise
+https://vpsmm.com##.text-center
 https://fastadmin.net##.text-center > .carousel
 https://baidu.com##.text-link-ads
 https://yorkbbs.ca##.textNewsBorder
@@ -19937,7 +19938,6 @@ https://afzhan.com##.topRightAdv
 https://hao123.cn##.top_2_2
 https://51wangdai.com##.top_AD
 https://pjtime.com##.top_R
-https://duba.com##.top_ad_ban
 https://duba.com,newduba.cn##.top_ad_tmall
 https://40407.com,lzep.cn,qudong.com,xitong8.com,xt700.com##.top_banner
 https://cngold.org##.top_bigad
@@ -20605,6 +20605,7 @@ https://chinatimes.com##div[class*="googlead_"]
 https://hz66.com##div[class*="lb_gg"]
 https://steamcn.com##div[class*="liz_"]
 https://keylol.com,steamcn.com##div[class*="rnd_"]
+https://vpsmm.com##div[class*="sidebar"]
 https://wenku.baidu.com##div[class*="tiger-"][class*="-dialog"]
 https://cosxcos.cc##div[class*="yy"]
 https://ifeng.com##div[class="adbox02"]
@@ -20814,7 +20815,6 @@ https://www.rkanr.com##div[id^="rkrCp"]
 https://eol.cn##div[id^="s1_"]
 https://secretmine.net##div[id^="secre-"]
 https://vpsmm.com##div[id^="side"]
-https://vpsmm.com##div[id^="sidebar"]
 https://159i.com##div[id^="sidebar"] > :not(form)
 https://mjzj.com##div[id^="sidebar-top-carouse"]
 https://douyu.com##div[id^="sign_p_"]
@@ -20868,6 +20868,7 @@ https://lawtv.com.cn##div[style=" width:664px; height:260px;  margin-top:10px;"]
 https://nowscore.com##div[style="background-color:#F0F0F0;line-height:25px;height:25px;text-align:center"]
 https://dizhanw.com,jiangjunzy.com##div[style="background: #fff;padding:5px;"]
 https://xilu.com##div[style="border-right:1px solid red; width:629px;height:300px; margin-top:10px;overflow:hidden;"]
+https://moerats.com##div[style="box-shadow: 1px 1px 5px 5px rgba(17, 150, 196, 0.35);border-radius: 15px;"]
 https://housefindeasy.com##div[style="display:inline-block; vertical-align:top; font-size:12px; margin-top:2px"]
 https://housefindeasy.com##div[style="display:inline-block; vertical-align:top; font-size:12px; margin-top:2px"] + div[style="display:inline-block"]
 https://exam58.com##div[style="float: none;  width: 305px; height: 254px; text-align: center"]
@@ -21081,7 +21082,6 @@ https://bilibili.com##span[style*="height:"][data-loc-id]
 https://typecho.wiki##span[style="height: 17px;margin-left: 10px;background: #000;border: 1px solid #000;"]
 https://yivian.com##span[style^="color: #ff0000;"]
 https://159i.com##style + div[align="center"]
-https://159i.com##style + div[align="center"] > .style13
 https://power.baidu.com,zhidao.baidu.com##style[id*="s-m"] + div[id^="m"]
 https://udn.com##table[bgcolor="#FFFFFF"][width="298"][height="375"]
 https://my0511.com##table[bordercolor="#C0C0C0"][border="1"]
@@ -22480,7 +22480,6 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://moerats.com##DIV[style="box-shadow: 1px 1px 5px 5px rgba(17, 150, 196, 0.35);border-radius: 15px;"]
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -23976,6 +23975,7 @@ http://outlook.live.com##.__Microsoft_Owa_MessageListAds_ListView_templates_cs_x
 http://tools.2345.com##._hb-box + .mod
 http://pincong.rocks##.a-a
 http://gamer.com.tw##.a-mercy-d:not([href*=".gamer."])
+http://159i.com##.a1.style25
 http://159i.com##.a1d
 http://159i.com##.a2d
 http://159i.com##.a3d
@@ -26205,6 +26205,7 @@ http://affyun.com##.text
 http://affyun.com##.text ~ a
 http://chineseinla.com##.text-ads-col
 http://baidu.com##.text-advertise
+http://vpsmm.com##.text-center
 http://fastadmin.net##.text-center > .carousel
 http://baidu.com##.text-link-ads
 http://yorkbbs.ca##.textNewsBorder
@@ -26310,7 +26311,6 @@ http://afzhan.com##.topRightAdv
 http://hao123.cn##.top_2_2
 http://51wangdai.com##.top_AD
 http://pjtime.com##.top_R
-http://duba.com##.top_ad_ban
 http://duba.com,newduba.cn##.top_ad_tmall
 http://40407.com,lzep.cn,qudong.com,xitong8.com,xt700.com##.top_banner
 http://cngold.org##.top_bigad
@@ -26978,6 +26978,7 @@ http://chinatimes.com##div[class*="googlead_"]
 http://hz66.com##div[class*="lb_gg"]
 http://steamcn.com##div[class*="liz_"]
 http://keylol.com,steamcn.com##div[class*="rnd_"]
+http://vpsmm.com##div[class*="sidebar"]
 http://wenku.baidu.com##div[class*="tiger-"][class*="-dialog"]
 http://cosxcos.cc##div[class*="yy"]
 http://ifeng.com##div[class="adbox02"]
@@ -27187,7 +27188,6 @@ http://www.rkanr.com##div[id^="rkrCp"]
 http://eol.cn##div[id^="s1_"]
 http://secretmine.net##div[id^="secre-"]
 http://vpsmm.com##div[id^="side"]
-http://vpsmm.com##div[id^="sidebar"]
 http://159i.com##div[id^="sidebar"] > :not(form)
 http://mjzj.com##div[id^="sidebar-top-carouse"]
 http://douyu.com##div[id^="sign_p_"]
@@ -27241,6 +27241,7 @@ http://lawtv.com.cn##div[style=" width:664px; height:260px;  margin-top:10px;"]
 http://nowscore.com##div[style="background-color:#F0F0F0;line-height:25px;height:25px;text-align:center"]
 http://dizhanw.com,jiangjunzy.com##div[style="background: #fff;padding:5px;"]
 http://xilu.com##div[style="border-right:1px solid red; width:629px;height:300px; margin-top:10px;overflow:hidden;"]
+http://moerats.com##div[style="box-shadow: 1px 1px 5px 5px rgba(17, 150, 196, 0.35);border-radius: 15px;"]
 http://housefindeasy.com##div[style="display:inline-block; vertical-align:top; font-size:12px; margin-top:2px"]
 http://housefindeasy.com##div[style="display:inline-block; vertical-align:top; font-size:12px; margin-top:2px"] + div[style="display:inline-block"]
 http://exam58.com##div[style="float: none;  width: 305px; height: 254px; text-align: center"]
@@ -27454,7 +27455,6 @@ http://bilibili.com##span[style*="height:"][data-loc-id]
 http://typecho.wiki##span[style="height: 17px;margin-left: 10px;background: #000;border: 1px solid #000;"]
 http://yivian.com##span[style^="color: #ff0000;"]
 http://159i.com##style + div[align="center"]
-http://159i.com##style + div[align="center"] > .style13
 http://power.baidu.com,zhidao.baidu.com##style[id*="s-m"] + div[id^="m"]
 http://udn.com##table[bgcolor="#FFFFFF"][width="298"][height="375"]
 http://my0511.com##table[bordercolor="#C0C0C0"][border="1"]
