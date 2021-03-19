@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 684M1pRiskh2DOL81wTatg
-! Version: 202103180000
+! Checksum: 63f2ICiCj8UIIB+Th9dBJw
+! Version: 202103190000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-18 00:00 UTC
+! Last modified: 2021-03-19 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6283,6 +6283,7 @@ https://breitbart.com###cin_slideup_w
 https://sciencenews.org,sinya.com.tw,westhawaiitoday.com###colorbox
 https://monthlyreview.org###connect
 https://thewrap.com###content-bottom-sidebar
+https://academictimes.com###cover
 https://dallasnews.com###ctaNewsletterLightbox
 https://telecompaper.com###ctl00_MainPlaceHolder_HeadlineRegistersMain1_Update1
 https://guidedoc.com###curtain
@@ -10726,6 +10727,7 @@ https://pli-petronas.pt##.ui-widget-overlay
 https://uc.pt##.warning-bar
 https://castroelectronica.pt##div[style="height: 35px; background:#2a2a2a; position:absolute; width:100%; top:0; z-index: 999999;"]
 https://capital.ro###lastmin
+https://fundatiacaleavictoriei.ro###newsletter
 https://zf.ro###scrollTop
 https://antena3.ro###slidebox
 https://dcnews.ro###sliding
@@ -11651,7 +11653,7 @@ https://autokostencheck.de###footerSlideContainer
 https://pokewiki.de###gl-topbar-bg
 https://aida.de###hfas782aj
 https://pfarrverband-koenigslutter.de###hinweis
-https://cb500.net,grammophon-platten.de,heim-und-haustiere.de,schwedisch-translator.de,sirutor-und-compur.de,wumpus-gollum-forum.de###hinweise
+https://arznei-news.de,cb500.net,grammophon-platten.de,heim-und-haustiere.de,psylex.de,schwedisch-translator.de,sirutor-und-compur.de,wumpus-gollum-forum.de###hinweise
 https://d-secour.de###importantMessages
 https://bongu.de###infoBar
 https://gruene-bundestag.de###info_message
@@ -11695,6 +11697,7 @@ https://gab-umweltservice.de###rcpm
 https://netbet.de###sec-banner-div
 https://sightseeing-kontor.de###sk-info
 https://mydealz.de,preisjaeger.at###softMessages-list
+https://soldesign.de###solbox
 https://amazon.de###sp-cc
 https://urteile-gesetze.de###stickyFooter
 https://camp-firefox.de,soeren-hentzschel.at###storage-notice
@@ -12740,7 +12743,7 @@ https://lisa.ru##.disclamer
 https://ozon.ru##.i4
 https://friday.ru##.information
 https://patee.ru##.informer2
-https://kinoby.ru##.message-alert
+https://iblitzmods.ru,kinoby.ru##.message-alert
 https://shophair.ru##.modal_popup_sessid_box
 https://landrover.ru##.notificationBars
 https://kamkabel.ru##.panel_152_wp
@@ -13230,7 +13233,8 @@ https://speedtest.net#@#.share-body
 https://gala.fr#@#.share-bottom
 https://belgafiles.com,dakine.com,linkedin.com,way2sms.com#@#.share-box
 https://bitly.com,framestr.com,nytimes.com#@#.share-btn
-https://cnet.com,kcrw.com,vimeo.com#@#.share-button
+https://cnet.com,honestcoffeeguide.com,kcrw.com,vimeo.com#@#.share-button
+https://honestcoffeeguide.com#@#.share-button-container
 https://bandcamp.com,bleacherreport.com,distractify.com,naekranie.pl,thedodo.com#@#.share-buttons
 https://podbean.com#@#.share-content
 https://mediafire.com#@#.share-facebook
@@ -17114,6 +17118,7 @@ http://breitbart.com###cin_slideup_w
 http://sciencenews.org,sinya.com.tw,westhawaiitoday.com###colorbox
 http://monthlyreview.org###connect
 http://thewrap.com###content-bottom-sidebar
+http://academictimes.com###cover
 http://dallasnews.com###ctaNewsletterLightbox
 http://telecompaper.com###ctl00_MainPlaceHolder_HeadlineRegistersMain1_Update1
 http://guidedoc.com###curtain
@@ -21558,6 +21563,7 @@ http://pli-petronas.pt##.ui-widget-overlay
 http://uc.pt##.warning-bar
 http://castroelectronica.pt##div[style="height: 35px; background:#2a2a2a; position:absolute; width:100%; top:0; z-index: 999999;"]
 http://capital.ro###lastmin
+http://fundatiacaleavictoriei.ro###newsletter
 http://zf.ro###scrollTop
 http://antena3.ro###slidebox
 http://dcnews.ro###sliding
@@ -22484,7 +22490,7 @@ http://autokostencheck.de###footerSlideContainer
 http://pokewiki.de###gl-topbar-bg
 http://aida.de###hfas782aj
 http://pfarrverband-koenigslutter.de###hinweis
-http://cb500.net,grammophon-platten.de,heim-und-haustiere.de,schwedisch-translator.de,sirutor-und-compur.de,wumpus-gollum-forum.de###hinweise
+http://arznei-news.de,cb500.net,grammophon-platten.de,heim-und-haustiere.de,psylex.de,schwedisch-translator.de,sirutor-und-compur.de,wumpus-gollum-forum.de###hinweise
 http://d-secour.de###importantMessages
 http://bongu.de###infoBar
 http://gruene-bundestag.de###info_message
@@ -22528,6 +22534,7 @@ http://gab-umweltservice.de###rcpm
 http://netbet.de###sec-banner-div
 http://sightseeing-kontor.de###sk-info
 http://mydealz.de,preisjaeger.at###softMessages-list
+http://soldesign.de###solbox
 http://amazon.de###sp-cc
 http://urteile-gesetze.de###stickyFooter
 http://camp-firefox.de,soeren-hentzschel.at###storage-notice
@@ -23573,7 +23580,7 @@ http://lisa.ru##.disclamer
 http://ozon.ru##.i4
 http://friday.ru##.information
 http://patee.ru##.informer2
-http://kinoby.ru##.message-alert
+http://iblitzmods.ru,kinoby.ru##.message-alert
 http://shophair.ru##.modal_popup_sessid_box
 http://landrover.ru##.notificationBars
 http://kamkabel.ru##.panel_152_wp
@@ -24063,7 +24070,8 @@ http://speedtest.net#@#.share-body
 http://gala.fr#@#.share-bottom
 http://belgafiles.com,dakine.com,linkedin.com,way2sms.com#@#.share-box
 http://bitly.com,framestr.com,nytimes.com#@#.share-btn
-http://cnet.com,kcrw.com,vimeo.com#@#.share-button
+http://cnet.com,honestcoffeeguide.com,kcrw.com,vimeo.com#@#.share-button
+http://honestcoffeeguide.com#@#.share-button-container
 http://bandcamp.com,bleacherreport.com,distractify.com,naekranie.pl,thedodo.com#@#.share-buttons
 http://podbean.com#@#.share-content
 http://mediafire.com#@#.share-facebook
