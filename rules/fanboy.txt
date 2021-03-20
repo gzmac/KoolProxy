@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 63f2ICiCj8UIIB+Th9dBJw
-! Version: 202103190000
+! Checksum: /DgNQbBHNn1g4qi69VLgFQ
+! Version: 202103200000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-19 00:00 UTC
+! Last modified: 2021-03-20 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12276,6 +12276,7 @@ https://cassaforense.it,cfnews.it###cassaforense-cookies
 https://blogmamma.it###cbox-notice
 https://radiozammu.it###ccM
 https://centrometeolombardo.com###cc_div
+https://emanuelaursino.it###cke_plc
 https://eismoinfo.lt###consent
 https://ecodallecitta.it###contenuto_consenso
 https://spesasicura.com###cook
@@ -13217,7 +13218,7 @@ https://needlenthread.com#@#.pinterest1
 https://pinterest.com#@#.pinterestComponentShare
 https://marieclaire.ru#@#.pinterestShare
 https://privatecore.com#@#.post-fb
-https://23-59.com.ua,dietetycy.org.pl,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,thewire.in,tidssonen.no,truepundit.com,velodaily.ru#@#.post-share-container
+https://23-59.com.ua,dietetycy.org.pl,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,thewire.in,tidssonen.no,truepundit.com,vanillamagazine.it,velodaily.ru#@#.post-share-container
 https://imgur.com#@#.post-share-panel
 https://reddit.com#@#.post-sharing
 https://guildwars2.com#@#.post-social
@@ -23113,6 +23114,7 @@ http://cassaforense.it,cfnews.it###cassaforense-cookies
 http://blogmamma.it###cbox-notice
 http://radiozammu.it###ccM
 http://centrometeolombardo.com###cc_div
+http://emanuelaursino.it###cke_plc
 http://eismoinfo.lt###consent
 http://ecodallecitta.it###contenuto_consenso
 http://spesasicura.com###cook
@@ -24054,7 +24056,7 @@ http://needlenthread.com#@#.pinterest1
 http://pinterest.com#@#.pinterestComponentShare
 http://marieclaire.ru#@#.pinterestShare
 http://privatecore.com#@#.post-fb
-http://23-59.com.ua,dietetycy.org.pl,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,thewire.in,tidssonen.no,truepundit.com,velodaily.ru#@#.post-share-container
+http://23-59.com.ua,dietetycy.org.pl,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,thewire.in,tidssonen.no,truepundit.com,vanillamagazine.it,velodaily.ru#@#.post-share-container
 http://imgur.com#@#.post-share-panel
 http://reddit.com#@#.post-sharing
 http://guildwars2.com#@#.post-social

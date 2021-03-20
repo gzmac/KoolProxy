@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: oHNOYvxo955o1sNNLjEkbw
-! Version: 202103190022
+! Checksum: m08Pz503/YegIxRVbBi30Q
+! Version: 202103200022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -5032,6 +5032,9 @@
 ||https://zwdu.com/static/scripts/1.js
 ||https://zwdu.com/static/scripts/common.
 ||https://playno1.club/uppic/
+||https://alicdn.com/img/ibank/*_!!2208043467212-
+||https://alicdn.com/kf/U17649ef1f91e4b428152e709d33aed775.jpg
+||https://jsdelivr.net/gh/*/960x60.
 ||https://22588888.com^$popup
 ||https://2481e.com^$popup
 ||https://693836.com^$popup
@@ -7247,6 +7250,7 @@
 ||http://shouwangba.cn^
 ||http://shouyouyou.com^
 ||http://show.kc.taotaosou.com^
+||http://shtiesen.cn^
 ||http://shuake.ink^
 ||http://shuangshiyihightgo.top^
 ||http://shucaihangjia.com^
@@ -13622,6 +13626,7 @@
 ||http://5glyqw.com^
 ||http://5j73de.cn^
 ||http://5mgurg.cn^
+||http://5nf0ec.cn^
 ||http://5p68n.cn^
 ||http://5q63n.cn^
 ||http://5q68n.cn^
@@ -14112,6 +14117,7 @@
 ||http://fkm2wv.cn^
 ||http://flbmfc.com^
 ||http://fll007.com^
+||http://fnbocll.cn^
 ||http://fnwll.cn^
 ||http://focuscat.com^
 ||http://fouas.com^
@@ -14805,6 +14811,7 @@
 ||http://qyttl.cn^
 ||http://qzbxfs.com^
 ||http://qzdaren.com^
+||http://qzmixun.com^
 ||http://qzqyw.cn^
 ||http://qzyiming.cn^
 ||http://qzylyp.com^
@@ -14995,6 +15002,7 @@
 ||http://tnl808z.cn^
 ||http://tochgw.com^
 ||http://tongbuchi.com^
+||http://tonghao.ltd^
 ||http://tongjiwo.com^
 ||http://topazedu.com^
 ||http://topvcbank.com^
@@ -15266,6 +15274,7 @@
 ||http://yikuaiqian.com.cn^
 ||http://yimai51.cn^
 ||http://yimeize.cn^
+||http://yingfulook.cn^
 ||http://yingjiawm.com^
 ||http://yingyeping.com^
 ||http://yinlt.com^
@@ -15424,6 +15433,13 @@
 ||http://zzsno1.com^
 ||http://zzxhx.com^
 ||http://playno1.club/uppic/
+||http://3337785.com^
+||http://alicdn.com/img/ibank/*_!!2208043467212-
+||http://alicdn.com/kf/U17649ef1f91e4b428152e709d33aed775.jpg
+||http://huizeyoupin.com^
+||http://jsdelivr.net/gh/*/960x60.
+||http://wrkdih.com^
+||http://137.175.18.113^
 ||http://rjno1.com^$csp=script-src 'self' *;style-src
 ||http://hy-dy.cn^
 ||http://liveappgirl.net^
@@ -21464,8 +21480,6 @@ https://ddooo.com#?#span:-abp-has(>p:-abp-contains(高速))
 https://ddooo.com#?#ul:-abp-has(>dd:-abp-contains(高速))
 https://dlkoo.cc##ins[id^="tanxssp-outer-conmm_"]
 https://dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
-https://flyv.tv##vg-pause-ads
-https://ifvod.tv##vg-pause-ads
 https://fuliba.net,uliba.net###focusslide
 https://fuliba2020.net,landiannews.com,uliba.net##.widget_custom_html
 https://fuliba.net##.widget_custom_html:first-child
@@ -27838,8 +27852,6 @@ http://ddooo.com#?#span:-abp-has(>p:-abp-contains(高速))
 http://ddooo.com#?#ul:-abp-has(>dd:-abp-contains(高速))
 http://dlkoo.cc##ins[id^="tanxssp-outer-conmm_"]
 http://dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
-http://flyv.tv##vg-pause-ads
-http://ifvod.tv##vg-pause-ads
 http://fuliba.net,uliba.net###focusslide
 http://fuliba2020.net,landiannews.com,uliba.net##.widget_custom_html
 http://fuliba.net##.widget_custom_html:first-child
