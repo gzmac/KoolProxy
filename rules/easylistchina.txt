@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: m08Pz503/YegIxRVbBi30Q
-! Version: 202103200022
+! Checksum: N6x5A+vgULEIFgDNiXYCQw
+! Version: 202103210022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -2993,10 +2993,10 @@
 ||https://js.tlt.cn/js/
 ||https://js0573.com/images/cus/
 ||https://jsdelivr.net/gh/*/%E7%89%9B960-80.gif
+||https://jsdelivr.net/gh/*/960-100.
 ||https://jsdelivr.net/gh/*/960-80.gif
 ||https://jsdelivr.net/gh/801qq/qweasd@main/960x100.gif
 ||https://jsdelivr.net/gh/a901361/
-||https://jsdelivr.net/gh/pj716/cdn@main/960-100.gif
 ||https://jsdelivr.net/gh/sex169hub/
 ||https://jsdelivr.net/gh/supfree/supfree/top.gif
 ||https://jsdelivr.net/gh/voocdn/static/www/QlZ2twef.js
@@ -3594,6 +3594,7 @@
 ||https://pharmnet.com.cn/cnbanner/
 ||https://pharmnet.com.cn/js/float_div.js
 ||https://phbkm.com/js/
+||https://php.cn/ad1.
 ||https://php1.cn/uploads/huayun.jpg
 ||https://phpernote.com/ali
 ||https://phpstudyimg.com/all/hrl.gif
@@ -10634,12 +10635,12 @@
 ||http://js.tlt.cn/js/
 ||http://js0573.com/images/cus/
 ||http://jsdelivr.net/gh/*/%E7%89%9B960-80.gif
+||http://jsdelivr.net/gh/*/960-100.
 ||http://jsdelivr.net/gh/*/960-80.gif
 ||http://jsdelivr.net/gh/801qq/qweasd@main/960x100.gif
 ||http://jsdelivr.net/gh/a901361/
 ||http://jsdelivr.net/gh/cdnjsdelivr001/182cdn*.js
 ||http://jsdelivr.net/gh/fzdm/st*/js/fzwap-
-||http://jsdelivr.net/gh/pj716/cdn@main/960-100.gif
 ||http://jsdelivr.net/gh/sex169hub/
 ||http://jsdelivr.net/gh/supfree/supfree/top.gif
 ||http://jsdelivr.net/gh/voocdn/static/www/QlZ2twef.js
@@ -11283,6 +11284,7 @@
 ||http://pharmnet.com.cn/cnbanner/
 ||http://pharmnet.com.cn/js/float_div.js
 ||http://phbkm.com/js/
+||http://php.cn/ad1.
 ||http://php1.cn/uploads/huayun.jpg
 ||http://phpad.cqnews.net^
 ||http://phpernote.com/ali
@@ -12893,6 +12895,7 @@
 ||http://adccoo.cn^
 ||http://adjb.5nd.com^
 ||http://ag1.zuszw.com^
+||http://aijiamao.top^
 ||http://aili.com^$third-party
 ||http://aiwen.cc^
 ||http://al.newxue.com^
@@ -13154,6 +13157,7 @@
 ||http://inone517.com^
 ||http://ios.426g.com^
 ||http://ishuoshuo.com^
+||http://isu.weidianyuedu.com^
 ||http://iy.com.cn^$third-party
 ||http://j.baminw.cn^
 ||http://j.diangon.com^
@@ -14839,6 +14843,7 @@
 ||http://rqvfewi.cn^
 ||http://ruyidk.com^
 ||http://ruyiqufu.com^
+||http://rvsosm.cn^
 ||http://rxconkz.cn^
 ||http://rxxdq.cn^
 ||http://rzlib.net^
@@ -20227,6 +20232,7 @@ https://19lou.com##.zx-link
 https://17house.com##.zx_xrhb
 https://12580sky.com#?#li[class]:-abp-has(> .mark > h3 > a:-abp-contains(/广告|推荐/))
 https://159i.com#?#.style15:-abp-has(> img[src="//159i.com/images/arrow3.gif"])
+https://159i.com#?#:-abp-has(> img[src*="gif"])
 https://2345.com#?#.pic:-abp-has(a[href^="http://g.wan."])
 https://3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>.openBox-container)
 https://3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>div[id$="_1"]+div[id$="_5"])
@@ -20447,7 +20453,6 @@ https://wn789.com##a[href^="http"]:not([href*="://www.wn789."]) > img
 https://ilvruan.com##a[href^="http"]:not([href*="ilvruan"]) > img
 https://stock87.com##a[href^="http"]:not([href*="stock87."]) > img[src*="uploadfiles/image/"]
 https://wnacg.com,wnacg.org##a[href^="http"]:not([href*="wnacg."]) img
-https://vpsmm.com##a[href^="http"]:not([href^="https://www.vpsmm.com/"])
 https://107cine.com##a[href^="http://107cine.com/ads/"]
 https://hepuwang.com##a[href^="http://ad."]
 https://m.nownews.com##a[href^="http://ad1.nownews.com"]
@@ -20542,6 +20547,7 @@ https://houdao.com##a[style^="background:url"]
 https://html-js.com##a[style^="margin-top:20px;"]
 https://dybee.tv##a[style^="position: fixed;bottom:"]
 https://chchzhan.com,xxizhan.com##a[style^="position:fixed;z-index:"]
+https://vpsmm.com##a[target="_blank"]
 https://nfstar.net##a[target="_blank"] > .img-responsive
 https://1090ys2.com##a[target="_blank"] > img[src*="alicdn.com"]
 https://aishoujizy.com,xd0.com##a[target="_blank"] > img[src^="/upload/1/"]
@@ -20593,6 +20599,7 @@ https://cnbeta.com#?#.items-area > .item:-abp-has(> dl > dt > a[href^="http"]:no
 https://cnzol.com#?#li:-abp-has(> a[href*="/un/"])
 https://cnzol.com#?#li:-abp-has(> a[href*="mmtp.net"])
 https://cnzol.com#?#li:-abp-has(> a[href*="tu."])
+https://vpsmm.com##div > a > img
 https://bitauto.com##div > ins[data-type="ad_play"]
 https://324324.cn##div > script ~ a
 https://win0168.com##div.item
@@ -21151,6 +21158,7 @@ https://gpcxw.com##table[width="960"][height="90"]
 https://yxfdc.com##table[width="980"] > tbody > tr > td[height="70"]
 https://zuanke8.com##tbody[id^="normalthread_"] + tbody > tr > td[colspan="5"]
 https://51credit.com,ck101.com,hkepc.com##tbody[id^="normalthread_"] + tbody:not([id])
+https://vpsmm.com##td > a
 https://xici.net##td.doc_sign
 https://cartomad.com,cartonmad.com,cartoonmad.com,comicnad.com##td[align="center"][height="102"]
 https://sinoca.com##td[align="center"][height="90"]
@@ -26599,6 +26607,7 @@ http://19lou.com##.zx-link
 http://17house.com##.zx_xrhb
 http://12580sky.com#?#li[class]:-abp-has(> .mark > h3 > a:-abp-contains(/广告|推荐/))
 http://159i.com#?#.style15:-abp-has(> img[src="//159i.com/images/arrow3.gif"])
+http://159i.com#?#:-abp-has(> img[src*="gif"])
 http://2345.com#?#.pic:-abp-has(a[href^="http://g.wan."])
 http://3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>.openBox-container)
 http://3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>div[id$="_1"]+div[id$="_5"])
@@ -26819,7 +26828,6 @@ http://wn789.com##a[href^="http"]:not([href*="://www.wn789."]) > img
 http://ilvruan.com##a[href^="http"]:not([href*="ilvruan"]) > img
 http://stock87.com##a[href^="http"]:not([href*="stock87."]) > img[src*="uploadfiles/image/"]
 http://wnacg.com,wnacg.org##a[href^="http"]:not([href*="wnacg."]) img
-http://vpsmm.com##a[href^="http"]:not([href^="https://www.vpsmm.com/"])
 http://107cine.com##a[href^="http://107cine.com/ads/"]
 http://hepuwang.com##a[href^="http://ad."]
 http://m.nownews.com##a[href^="http://ad1.nownews.com"]
@@ -26914,6 +26922,7 @@ http://houdao.com##a[style^="background:url"]
 http://html-js.com##a[style^="margin-top:20px;"]
 http://dybee.tv##a[style^="position: fixed;bottom:"]
 http://chchzhan.com,xxizhan.com##a[style^="position:fixed;z-index:"]
+http://vpsmm.com##a[target="_blank"]
 http://nfstar.net##a[target="_blank"] > .img-responsive
 http://1090ys2.com##a[target="_blank"] > img[src*="alicdn.com"]
 http://aishoujizy.com,xd0.com##a[target="_blank"] > img[src^="/upload/1/"]
@@ -26965,6 +26974,7 @@ http://cnbeta.com#?#.items-area > .item:-abp-has(> dl > dt > a[href^="http"]:not
 http://cnzol.com#?#li:-abp-has(> a[href*="/un/"])
 http://cnzol.com#?#li:-abp-has(> a[href*="mmtp.net"])
 http://cnzol.com#?#li:-abp-has(> a[href*="tu."])
+http://vpsmm.com##div > a > img
 http://bitauto.com##div > ins[data-type="ad_play"]
 http://324324.cn##div > script ~ a
 http://win0168.com##div.item
@@ -27523,6 +27533,7 @@ http://gpcxw.com##table[width="960"][height="90"]
 http://yxfdc.com##table[width="980"] > tbody > tr > td[height="70"]
 http://zuanke8.com##tbody[id^="normalthread_"] + tbody > tr > td[colspan="5"]
 http://51credit.com,ck101.com,hkepc.com##tbody[id^="normalthread_"] + tbody:not([id])
+http://vpsmm.com##td > a
 http://xici.net##td.doc_sign
 http://cartomad.com,cartonmad.com,cartoonmad.com,comicnad.com##td[align="center"][height="102"]
 http://sinoca.com##td[align="center"][height="90"]
