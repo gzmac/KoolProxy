@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: b0oLyGUuO2OcXVUaG6Jbag
-! Version: 202103210000
+! Checksum: 8unL1LG6tslQKSBvm1L6OQ
+! Version: 202103220000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-21 00:00 UTC
+! Last modified: 2021-03-22 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1016,6 +1016,7 @@
 ||https://alibaba.com/sw.js
 ||https://annahar.com/assets/js/notifications.js
 ||https://bdstatic.com/linksubmit/push.js
+||https://gadgetsnow.com/sw.cms
 ||https://hindustantimes.com^*/ht-notification-
 ||https://indiatimes.com/pn/
 ||https://irishtimes.com/assets/js/notify.js
@@ -2444,6 +2445,7 @@
 ||http://alibaba.com/sw.js
 ||http://annahar.com/assets/js/notifications.js
 ||http://bdstatic.com/linksubmit/push.js
+||http://gadgetsnow.com/sw.cms
 ||http://hindustantimes.com^*/ht-notification-
 ||http://indiatimes.com/pn/
 ||http://irishtimes.com/assets/js/notify.js
@@ -9190,6 +9192,7 @@ https://dlford.io###floating-footer
 https://tellows-au.com,tellows-fi.com,tellows-ng.com,tellows-tr.com,tellows.asia,tellows.at,tellows.be,tellows.co,tellows.co.nz,tellows.co.uk,tellows.co.za,tellows.com,tellows.com.br,tellows.cz,tellows.de,tellows.dk,tellows.es,tellows.fr,tellows.gr,tellows.hu,tellows.in,tellows.it,tellows.jp,tellows.mx,tellows.net,tellows.nl,tellows.org,tellows.pl,tellows.pt,tellows.ru,tellows.se,tellows.tw###floating-header
 https://yodiz.com###footMsgYodiz
 https://motorsport.com###footer
+https://tuasaude.com###footerWidgets
 https://frosmo.com###frosmoPopup
 https://teamcoco.com###ft
 https://perimeterx.com###gatsby-focus-wrapper > div > .open
@@ -11662,6 +11665,7 @@ https://gruene-bundestag.de###info_message
 https://haehnchengrillstation.de,inovartis.eu,kanzlei-mueller-wuppertal.de,lankes-zirndorf.de###infobar
 https://krombacher.de###js-tracking-notice
 https://art-studios-inprogress.de###kb-container
+https://buecher.de###klaro
 https://bioapotheke.de###landing_page_popup
 https://bmw.de###layerWrapper
 https://gorreri.de###loggedbar
@@ -11720,7 +11724,7 @@ https://pizza.de##._1h1x
 https://pizza.de##._3HiJ
 https://dewilgo.de##.activebar-container
 https://afs.de##.afs_coi
-https://24h-pflege-check.de,baden-wuerttemberg.de,discounto.de,elektroaktivisten.de,fotocommunity.de,mantel.com,stylevamp.de,tchncs.de##.alert
+https://24h-pflege-check.de,baden-wuerttemberg.de,discounto.de,elektroaktivisten.de,fotocommunity.de,mantel.com,newhome.ch,stylevamp.de,tchncs.de##.alert
 https://ajs-bw.de,erleben-im-alltag.de,gestaltamwerk.de,kbaur-gmbh.com,novaline.de,tokuweb.de,tus-almena.de##.alertbanner
 https://mjamjam-petfood.de##.allover
 https://naturenergieplus.de##.announcement
@@ -11971,7 +11975,7 @@ https://huffingtonpost.fr##.popup-overlay
 https://directours.com,explicite.info##.privacy
 https://stihl.fr##.privacyTop
 https://burgerking.fr##.sc-hGoxap
-https://magasinsdeco.fr,recreatisse.com##.spu-bg
+https://assuropoil.fr,magasinsdeco.fr,recreatisse.com##.spu-bg
 https://vinted.fr##.sticky-footer
 https://efax.fr##.stickyFooter
 https://tupperware.fr##.topRibbon
@@ -12166,6 +12170,7 @@ https://vertaa.fi##.cg-89.cg-97
 https://jenkki.fi##.container-agree
 https://kitchentime.fi,makujakauppa.fi##.cookie
 https://blogit.fi,ilmainensanakirja.fi,telsu.fi##.cookies
+https://scandinavianphoto.fi##.cq.kx
 https://matkahuolto.fi##.css-jlvvqa
 https://ifolor.fi##.dialogBanner--align-bottom
 https://vr.fi##.headerContents > .infoMessages
@@ -12430,7 +12435,7 @@ https://prelex.it##.rstboxes
 https://juzaphoto.com##.s_bluebox
 https://ogrtorino.it##.sc-dxgOiQ
 https://larrysmith.it##.scroll-banner
-https://teleradiopadrepio.it##.spu-bg
+https://bancacrs.it,teleradiopadrepio.it##.spu-bg
 https://close-up.it##.stickyFooter
 https://bmwautoclubitalia.it##.t657__wrapper
 https://boxannunci.com##.terms
@@ -13220,7 +13225,7 @@ https://needlenthread.com#@#.pinterest1
 https://pinterest.com#@#.pinterestComponentShare
 https://marieclaire.ru#@#.pinterestShare
 https://privatecore.com#@#.post-fb
-https://23-59.com.ua,dietetycy.org.pl,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,thewire.in,tidssonen.no,truepundit.com,vanillamagazine.it,velodaily.ru#@#.post-share-container
+https://23-59.com.ua,dietetycy.org.pl,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,pruszkow.pl,thewire.in,tidssonen.no,truepundit.com,vanillamagazine.it,velodaily.ru#@#.post-share-container
 https://imgur.com#@#.post-share-panel
 https://reddit.com#@#.post-sharing
 https://guildwars2.com#@#.post-social
@@ -13473,6 +13478,7 @@ https://epolisbari.com#@##accept_cookie
 https://aixfoam.com,aixfoam.de,aixfoam.dk,aixfoam.fi,aixfoam.fr,aixfoam.nl,aixfoam.se#@##cc-notification
 https://aixfoam.com,aixfoam.de,aixfoam.dk,aixfoam.fi,aixfoam.fr,aixfoam.nl,aixfoam.se#@##cc-notification-wrapper
 https://bing.com#@##cc_container
+https://datakauppa.fi#@##cliSettingsPopup
 https://youtube.com#@##consent-bump
 https://dnb.no#@##consent-modal
 https://consent.yahoo.com,paypal.com#@##consent.consent
@@ -13485,7 +13491,7 @@ https://airam.fi,biotechusa.hu,hscollective.org,litebit.eu#@##cookie-consent
 https://analog.com#@##cookie-consent-container
 https://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@##cookie-container
 https://skuola.net#@##cookie-dialog
-https://calciomercato.napoli.it,clever-zoeger.de,ddz24.eu,lewento.de,theorie-musik.de,wiadomosci-lodz.pl#@##cookie-law-info-bar
+https://calciomercato.napoli.it,clever-zoeger.de,datakauppa.fi,ddz24.eu,lewento.de,theorie-musik.de,wiadomosci-lodz.pl#@##cookie-law-info-bar
 https://penny.hu,pennymarket.it#@##cookie-message
 https://bokadirekt.se,zlm.nl#@##cookie-modal
 https://makelaarsland.nl#@##cookie-notice
@@ -13530,6 +13536,7 @@ https://n26.com#@##gdpr-notice
 https://pekao.com.pl#@##gdpr-popup
 https://mirjan24.pl#@##gdpr:not(body):not(html)
 https://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@##gdpr_popin
+https://taloon.com#@##gdprpopup
 https://ansa.it,capital.it,huffingtonpost.it,m2o.it,rockol.it,video.deejay.it,video.espresso.repubblica.it,video.ilsecoloxix.it,video.lanuovasardegna.it,video.lastampa.it,video.rep.repubblica.it,video.repubblica.it#@##iubenda-cs-banner
 https://krone.at#@##krn-privacy-center
 https://bosch-mobility-solutions.com#@##m-cookie-overlay
@@ -20027,6 +20034,7 @@ http://dlford.io###floating-footer
 http://tellows-au.com,tellows-fi.com,tellows-ng.com,tellows-tr.com,tellows.asia,tellows.at,tellows.be,tellows.co,tellows.co.nz,tellows.co.uk,tellows.co.za,tellows.com,tellows.com.br,tellows.cz,tellows.de,tellows.dk,tellows.es,tellows.fr,tellows.gr,tellows.hu,tellows.in,tellows.it,tellows.jp,tellows.mx,tellows.net,tellows.nl,tellows.org,tellows.pl,tellows.pt,tellows.ru,tellows.se,tellows.tw###floating-header
 http://yodiz.com###footMsgYodiz
 http://motorsport.com###footer
+http://tuasaude.com###footerWidgets
 http://frosmo.com###frosmoPopup
 http://teamcoco.com###ft
 http://perimeterx.com###gatsby-focus-wrapper > div > .open
@@ -22500,6 +22508,7 @@ http://gruene-bundestag.de###info_message
 http://haehnchengrillstation.de,inovartis.eu,kanzlei-mueller-wuppertal.de,lankes-zirndorf.de###infobar
 http://krombacher.de###js-tracking-notice
 http://art-studios-inprogress.de###kb-container
+http://buecher.de###klaro
 http://bioapotheke.de###landing_page_popup
 http://bmw.de###layerWrapper
 http://gorreri.de###loggedbar
@@ -22558,7 +22567,7 @@ http://pizza.de##._1h1x
 http://pizza.de##._3HiJ
 http://dewilgo.de##.activebar-container
 http://afs.de##.afs_coi
-http://24h-pflege-check.de,baden-wuerttemberg.de,discounto.de,elektroaktivisten.de,fotocommunity.de,mantel.com,stylevamp.de,tchncs.de##.alert
+http://24h-pflege-check.de,baden-wuerttemberg.de,discounto.de,elektroaktivisten.de,fotocommunity.de,mantel.com,newhome.ch,stylevamp.de,tchncs.de##.alert
 http://ajs-bw.de,erleben-im-alltag.de,gestaltamwerk.de,kbaur-gmbh.com,novaline.de,tokuweb.de,tus-almena.de##.alertbanner
 http://mjamjam-petfood.de##.allover
 http://naturenergieplus.de##.announcement
@@ -22809,7 +22818,7 @@ http://huffingtonpost.fr##.popup-overlay
 http://directours.com,explicite.info##.privacy
 http://stihl.fr##.privacyTop
 http://burgerking.fr##.sc-hGoxap
-http://magasinsdeco.fr,recreatisse.com##.spu-bg
+http://assuropoil.fr,magasinsdeco.fr,recreatisse.com##.spu-bg
 http://vinted.fr##.sticky-footer
 http://efax.fr##.stickyFooter
 http://tupperware.fr##.topRibbon
@@ -23004,6 +23013,7 @@ http://vertaa.fi##.cg-89.cg-97
 http://jenkki.fi##.container-agree
 http://kitchentime.fi,makujakauppa.fi##.cookie
 http://blogit.fi,ilmainensanakirja.fi,telsu.fi##.cookies
+http://scandinavianphoto.fi##.cq.kx
 http://matkahuolto.fi##.css-jlvvqa
 http://ifolor.fi##.dialogBanner--align-bottom
 http://vr.fi##.headerContents > .infoMessages
@@ -23268,7 +23278,7 @@ http://prelex.it##.rstboxes
 http://juzaphoto.com##.s_bluebox
 http://ogrtorino.it##.sc-dxgOiQ
 http://larrysmith.it##.scroll-banner
-http://teleradiopadrepio.it##.spu-bg
+http://bancacrs.it,teleradiopadrepio.it##.spu-bg
 http://close-up.it##.stickyFooter
 http://bmwautoclubitalia.it##.t657__wrapper
 http://boxannunci.com##.terms
@@ -24058,7 +24068,7 @@ http://needlenthread.com#@#.pinterest1
 http://pinterest.com#@#.pinterestComponentShare
 http://marieclaire.ru#@#.pinterestShare
 http://privatecore.com#@#.post-fb
-http://23-59.com.ua,dietetycy.org.pl,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,thewire.in,tidssonen.no,truepundit.com,vanillamagazine.it,velodaily.ru#@#.post-share-container
+http://23-59.com.ua,dietetycy.org.pl,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,pruszkow.pl,thewire.in,tidssonen.no,truepundit.com,vanillamagazine.it,velodaily.ru#@#.post-share-container
 http://imgur.com#@#.post-share-panel
 http://reddit.com#@#.post-sharing
 http://guildwars2.com#@#.post-social
@@ -24311,6 +24321,7 @@ http://epolisbari.com#@##accept_cookie
 http://aixfoam.com,aixfoam.de,aixfoam.dk,aixfoam.fi,aixfoam.fr,aixfoam.nl,aixfoam.se#@##cc-notification
 http://aixfoam.com,aixfoam.de,aixfoam.dk,aixfoam.fi,aixfoam.fr,aixfoam.nl,aixfoam.se#@##cc-notification-wrapper
 http://bing.com#@##cc_container
+http://datakauppa.fi#@##cliSettingsPopup
 http://youtube.com#@##consent-bump
 http://dnb.no#@##consent-modal
 http://consent.yahoo.com,paypal.com#@##consent.consent
@@ -24323,7 +24334,7 @@ http://airam.fi,biotechusa.hu,hscollective.org,litebit.eu#@##cookie-consent
 http://analog.com#@##cookie-consent-container
 http://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@##cookie-container
 http://skuola.net#@##cookie-dialog
-http://calciomercato.napoli.it,clever-zoeger.de,ddz24.eu,lewento.de,theorie-musik.de,wiadomosci-lodz.pl#@##cookie-law-info-bar
+http://calciomercato.napoli.it,clever-zoeger.de,datakauppa.fi,ddz24.eu,lewento.de,theorie-musik.de,wiadomosci-lodz.pl#@##cookie-law-info-bar
 http://penny.hu,pennymarket.it#@##cookie-message
 http://bokadirekt.se,zlm.nl#@##cookie-modal
 http://makelaarsland.nl#@##cookie-notice
@@ -24368,6 +24379,7 @@ http://n26.com#@##gdpr-notice
 http://pekao.com.pl#@##gdpr-popup
 http://mirjan24.pl#@##gdpr:not(body):not(html)
 http://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@##gdpr_popin
+http://taloon.com#@##gdprpopup
 http://ansa.it,capital.it,huffingtonpost.it,m2o.it,rockol.it,video.deejay.it,video.espresso.repubblica.it,video.ilsecoloxix.it,video.lanuovasardegna.it,video.lastampa.it,video.rep.repubblica.it,video.repubblica.it#@##iubenda-cs-banner
 http://krone.at#@##krn-privacy-center
 http://bosch-mobility-solutions.com#@##m-cookie-overlay
