@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8unL1LG6tslQKSBvm1L6OQ
-! Version: 202103220000
+! Checksum: bodoW+FwKeydwFjIJl9HpQ
+! Version: 202103230000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-22 00:00 UTC
+! Last modified: 2021-03-23 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -9387,6 +9387,7 @@ https://leti.com##.NoticesBox
 https://freeagent.com##.Notification
 https://jaguar.co.uk,landrover.co.uk##.NotificationBar
 https://userstyles.org##.NotificationLine
+https://powercolor.com##.Privacy
 https://fashionmodeldirectory.com##.PrivacyNotice
 https://accobrands.com##.Promotional-corner
 https://huawei.com##.ReadPolicy
@@ -20229,6 +20230,7 @@ http://leti.com##.NoticesBox
 http://freeagent.com##.Notification
 http://jaguar.co.uk,landrover.co.uk##.NotificationBar
 http://userstyles.org##.NotificationLine
+http://powercolor.com##.Privacy
 http://fashionmodeldirectory.com##.PrivacyNotice
 http://accobrands.com##.Promotional-corner
 http://huawei.com##.ReadPolicy
