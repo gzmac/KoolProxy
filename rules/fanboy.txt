@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bodoW+FwKeydwFjIJl9HpQ
-! Version: 202103230000
+! Checksum: MG/+IdpOGg1BjCNivNKNjw
+! Version: 202103240000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-23 00:00 UTC
+! Last modified: 2021-03-24 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1026,6 +1026,7 @@
 ||https://ultimedia.com/js/common/notification.js
 ||https://yahoo.com/manifest_desktop_
 ||https://ad-hoc-news.de/js/push.js
+||https://agazeta.com.br/assets/javascript/notification.js
 ||https://dcnews.ro/sm-
 ||https://flashscore.fr^*/build/notifications.
 ||https://horoscope.fr/notifications/
@@ -2456,6 +2457,7 @@
 ||http://ultimedia.com/js/common/notification.js
 ||http://yahoo.com/manifest_desktop_
 ||http://ad-hoc-news.de/js/push.js
+||http://agazeta.com.br/assets/javascript/notification.js
 ||http://dcnews.ro/sm-
 ||http://flashscore.fr^*/build/notifications.
 ||http://horoscope.fr/notifications/
@@ -6212,8 +6214,10 @@ https://buzzfeednews.com##.newsblock-tips
 https://shmoop.com##.no-ads
 https://propublica.org##.promo-bar__link-wrapper
 https://apkmirror.com##.promotedApp
+https://indiatimes.com##.relInsightsYellowNotification1
 https://stuff.co.nz##.spade_3g.spade_3f.spade_3e
 https://goodmorningamerica.com##.sticky-footer
+https://indiatimes.com##.stickyBand
 https://newsweek.com##.subscribe-block-wrapper
 https://time.com##.subscription-cta
 https://stuff.co.nz##.support-brief-container
@@ -6442,6 +6446,7 @@ https://thegolfnewsnet.com###popup-box-gfcr-1
 https://space.com,tomshardware.co.uk,tomshardware.com###popup-modal
 https://thrillist.com###popup-signup
 https://peoplesworld.org###popupModal
+https://winaero.com###post-subscribe
 https://worldreligionnews.com###post_footer_promo
 https://dw.com###promio-pym-container
 https://scientificamerican.com###promo-header
@@ -7306,6 +7311,7 @@ https://minds.com##M-MODAL
 https://zerohedge.com##[class^="ExitModalNewsletter_"]
 https://zerohedge.com##[class^="MidArticleNewsletter_"]
 https://zerohedge.com##[class^="SidebarNewsletter_"]
+https://swarajyamag.com##[class^="email-subscribe-"]
 https://chicksonright.com##[data-name="Subscribe"]
 https://rollingstone.com##[href="/subscribe-more/"]
 https://visualcapitalist.com##[href="https://www.visualcapitalist.com/subscribe"]
@@ -7627,6 +7633,7 @@ https://sportskeeda.com##.app-download-modal
 https://9gag.com##.download-app-container
 https://9gag.com##.get-the-app-banner
 https://independent.co.uk##.inline-prompt
+https://india.com##.open-app
 https://sportskeeda.com##.sidebar-app-download
 https://imgur.com,sowetanlive.co.za##.smartbanner
 https://reddit.com##.upsell_banner
@@ -8869,6 +8876,7 @@ https://portableapps.com##[alt="twitter"]
 https://newyorker.com##[class*="ArticleSocial"]
 https://wsj.com##[class*="share-tool"]
 https://newyorker.com##[class*="socialShare"]
+https://swarajyamag.com##[class^="blank-m__story-social"]
 https://msnbc.com##[class^="share__"]
 https://cnn.com##[class^="social-sharestyles"]
 https://scientificamerican.com##[data-mobile-context-nav-tab="share"]
@@ -9273,6 +9281,7 @@ https://novapdf.com###novapdf_accept_cookies
 https://professionalbatterychargers.com###nscmsboxboxsimple
 https://spreaker.com###nt_container
 https://northwell.edu###nwh_footer_banner_legal
+https://msn.com,rockpapershotgun.com###onetrust-consent-sdk
 https://play-cricket.com###openglobal_privacy_widget
 https://accenture.com###optanon-minimize-wrapper
 https://harvester.co.uk###optin-optout
@@ -9428,7 +9437,7 @@ https://marsh.com##.alt-opt-secure
 https://codesignal.com##.analytics-banner
 https://wowhead.com##.announcement
 https://civilsociety.co.uk##.announcement-banner
-https://soundcloud.com##.announcements
+https://commsec.com.au,soundcloud.com##.announcements
 https://leo.org##.app-footer-content
 https://start.me##.app__message
 https://mubi.com##.appear-enter-done
@@ -9794,7 +9803,7 @@ https://hotukdeals.com##.softMessages-item
 https://trunews.com##.sp-overlay
 https://thermofisher.com##.specialMsg
 https://spreadshirt.com##.sprd-consent
-https://adventure-team.eu,certum.eu,opentuition.com##.spu-bg
+https://adventure-team.eu,certum.eu,conference2go.com,opentuition.com##.spu-bg
 https://adventure-team.eu,certum.eu##.spu-box
 https://spox.com##.spxcib
 https://bonsaipartners.eu##.sqs-slide-layer-content
@@ -9932,7 +9941,6 @@ https://smallseotools.com###cookie-bar
 https://eteknix.com###cookie-law-info-bar
 https://depositfiles.com,dfiles.eu,dfiles.ru###cookie_popup
 https://tweaktown.com###cookies_footer_sec
-https://msn.com###onetrust-consent-sdk
 https://shirtsofcotton.com###udtDark
 https://bild.de,welt.de##.as-oil
 https://icq.com##.ca_wrap
@@ -12332,7 +12340,7 @@ https://voloweb.it###popupDivC
 https://alceosalentino.it,chemistresearch.it,cinquantamila.it,compitoinclasse.org,metroservices.it,tastoeffeuno.it###privacy
 https://testisemplificati.com###privacy-modal
 https://jusan.it###privacy-popup
-https://coni.it###privacy-wrapper
+https://coni.it,federnuoto.it###privacy-wrapper
 https://pagomeno.it###privacyBanner
 https://cinquantamila.corriere.it,cinquantamila.it###privacy_advisor
 https://samaritansonlus.org###sB_injected
@@ -12651,7 +12659,7 @@ https://patronite.pl##.rodo-height
 https://pbsbank.pl,scanner.com.pl##.rstboxes
 https://yogenfruz.pl##.shotimoo
 https://megawrzuta.pl##.slickModal
-https://80dni.pl,ap-goal.pl,badaniaprenatalne.pl,bellpolska.com.pl,bezprawaanirusz.pl,businesstraveller.pl,careego.pl,centrum-terapii.pl,clubdelux.pt,codzienniefit.pl,ecochemia.pl,erif.pl,esportnow.pl,faktykonopne.pl,haft.com.pl,infokonsument.pl,instalnet.pl,intercyza-blog.pl,investjourney.pl,ironsky.pl,jasnastronamocy.info,jmdi.pl,kamienieogrodowe.com,karmopedia.pl,kartanauczycielablog.pl,konsalnet.pl,leszekbloch.pl,madameedith.com,mamysprawy.pl,maxbus.com.pl,mhtm.pl,naszesprawy.eu,naszwybir.pl,nowasprzedaz.pl,osiedlenatura.com.pl,pandrwal.pl,piekarniabialogon.pl,pierwsze-kroki.com,poloniawroclaw.pl,predathor.pl,programistanaswoim.pl,przedawnione.pl,przedsiebiorcza.com,przedszkolankowo.pl,przesył-energii.pl,radiowarszawa.com.pl,rauhanpuolustajat.org,sds-automatyka.pl,spkomandytowa.pl,stanprawnynieruchomosci.pl,studiosante.pl,szkoleniamaciolek.com,teatr-capitol.pl,towsrodku.pl,wars.pl,warunki-zabudowy.com.pl,wspolnotakrzyzasmolec.pl,yasumi.pl,zabieganamama.com,zatorland.pl,zsm.edu.pl,zuch.media##.spu-bg
+https://80dni.pl,ap-goal.pl,badaniaprenatalne.pl,bellpolska.com.pl,bezprawaanirusz.pl,businesstraveller.pl,careego.pl,centrum-terapii.pl,certum.pl,clubdelux.pt,codzienniefit.pl,ecochemia.pl,erif.pl,esportnow.pl,faktykonopne.pl,haft.com.pl,infokonsument.pl,instalnet.pl,intercyza-blog.pl,investjourney.pl,ironsky.pl,jasnastronamocy.info,jmdi.pl,kamienieogrodowe.com,karmopedia.pl,kartanauczycielablog.pl,konsalnet.pl,leszekbloch.pl,madameedith.com,mamysprawy.pl,maxbus.com.pl,mhtm.pl,naszesprawy.eu,naszwybir.pl,nowasprzedaz.pl,osiedlenatura.com.pl,pandrwal.pl,piekarniabialogon.pl,pierwsze-kroki.com,poloniawroclaw.pl,predathor.pl,programistanaswoim.pl,przedawnione.pl,przedsiebiorcza.com,przedszkolankowo.pl,przesył-energii.pl,radiowarszawa.com.pl,rauhanpuolustajat.org,sds-automatyka.pl,spkomandytowa.pl,stanprawnynieruchomosci.pl,studiosante.pl,suwalki.pl,szkoleniamaciolek.com,teatr-capitol.pl,towsrodku.pl,wars.pl,warunki-zabudowy.com.pl,wspolnotakrzyzasmolec.pl,yasumi.pl,zabieganamama.com,zatorland.pl,zsm.edu.pl,zuch.media##.spu-bg
 https://spotlight.pl##.statement-container
 https://konsbud-hifi.com.pl##.sticky-footer
 https://szybkopraca.pl##.toast
@@ -17054,8 +17062,10 @@ http://buzzfeednews.com##.newsblock-tips
 http://shmoop.com##.no-ads
 http://propublica.org##.promo-bar__link-wrapper
 http://apkmirror.com##.promotedApp
+http://indiatimes.com##.relInsightsYellowNotification1
 http://stuff.co.nz##.spade_3g.spade_3f.spade_3e
 http://goodmorningamerica.com##.sticky-footer
+http://indiatimes.com##.stickyBand
 http://newsweek.com##.subscribe-block-wrapper
 http://time.com##.subscription-cta
 http://stuff.co.nz##.support-brief-container
@@ -17284,6 +17294,7 @@ http://thegolfnewsnet.com###popup-box-gfcr-1
 http://space.com,tomshardware.co.uk,tomshardware.com###popup-modal
 http://thrillist.com###popup-signup
 http://peoplesworld.org###popupModal
+http://winaero.com###post-subscribe
 http://worldreligionnews.com###post_footer_promo
 http://dw.com###promio-pym-container
 http://scientificamerican.com###promo-header
@@ -18148,6 +18159,7 @@ http://minds.com##M-MODAL
 http://zerohedge.com##[class^="ExitModalNewsletter_"]
 http://zerohedge.com##[class^="MidArticleNewsletter_"]
 http://zerohedge.com##[class^="SidebarNewsletter_"]
+http://swarajyamag.com##[class^="email-subscribe-"]
 http://chicksonright.com##[data-name="Subscribe"]
 http://rollingstone.com##[href="/subscribe-more/"]
 http://visualcapitalist.com##[href="https://www.visualcapitalist.com/subscribe"]
@@ -18469,6 +18481,7 @@ http://sportskeeda.com##.app-download-modal
 http://9gag.com##.download-app-container
 http://9gag.com##.get-the-app-banner
 http://independent.co.uk##.inline-prompt
+http://india.com##.open-app
 http://sportskeeda.com##.sidebar-app-download
 http://imgur.com,sowetanlive.co.za##.smartbanner
 http://reddit.com##.upsell_banner
@@ -19711,6 +19724,7 @@ http://portableapps.com##[alt="twitter"]
 http://newyorker.com##[class*="ArticleSocial"]
 http://wsj.com##[class*="share-tool"]
 http://newyorker.com##[class*="socialShare"]
+http://swarajyamag.com##[class^="blank-m__story-social"]
 http://msnbc.com##[class^="share__"]
 http://cnn.com##[class^="social-sharestyles"]
 http://scientificamerican.com##[data-mobile-context-nav-tab="share"]
@@ -20116,6 +20130,7 @@ http://novapdf.com###novapdf_accept_cookies
 http://professionalbatterychargers.com###nscmsboxboxsimple
 http://spreaker.com###nt_container
 http://northwell.edu###nwh_footer_banner_legal
+http://msn.com,rockpapershotgun.com###onetrust-consent-sdk
 http://play-cricket.com###openglobal_privacy_widget
 http://accenture.com###optanon-minimize-wrapper
 http://harvester.co.uk###optin-optout
@@ -20271,7 +20286,7 @@ http://marsh.com##.alt-opt-secure
 http://codesignal.com##.analytics-banner
 http://wowhead.com##.announcement
 http://civilsociety.co.uk##.announcement-banner
-http://soundcloud.com##.announcements
+http://commsec.com.au,soundcloud.com##.announcements
 http://leo.org##.app-footer-content
 http://start.me##.app__message
 http://mubi.com##.appear-enter-done
@@ -20637,7 +20652,7 @@ http://hotukdeals.com##.softMessages-item
 http://trunews.com##.sp-overlay
 http://thermofisher.com##.specialMsg
 http://spreadshirt.com##.sprd-consent
-http://adventure-team.eu,certum.eu,opentuition.com##.spu-bg
+http://adventure-team.eu,certum.eu,conference2go.com,opentuition.com##.spu-bg
 http://adventure-team.eu,certum.eu##.spu-box
 http://spox.com##.spxcib
 http://bonsaipartners.eu##.sqs-slide-layer-content
@@ -20775,7 +20790,6 @@ http://smallseotools.com###cookie-bar
 http://eteknix.com###cookie-law-info-bar
 http://depositfiles.com,dfiles.eu,dfiles.ru###cookie_popup
 http://tweaktown.com###cookies_footer_sec
-http://msn.com###onetrust-consent-sdk
 http://shirtsofcotton.com###udtDark
 http://bild.de,welt.de##.as-oil
 http://icq.com##.ca_wrap
@@ -23176,7 +23190,7 @@ http://voloweb.it###popupDivC
 http://alceosalentino.it,chemistresearch.it,cinquantamila.it,compitoinclasse.org,metroservices.it,tastoeffeuno.it###privacy
 http://testisemplificati.com###privacy-modal
 http://jusan.it###privacy-popup
-http://coni.it###privacy-wrapper
+http://coni.it,federnuoto.it###privacy-wrapper
 http://pagomeno.it###privacyBanner
 http://cinquantamila.corriere.it,cinquantamila.it###privacy_advisor
 http://samaritansonlus.org###sB_injected
@@ -23495,7 +23509,7 @@ http://patronite.pl##.rodo-height
 http://pbsbank.pl,scanner.com.pl##.rstboxes
 http://yogenfruz.pl##.shotimoo
 http://megawrzuta.pl##.slickModal
-http://80dni.pl,ap-goal.pl,badaniaprenatalne.pl,bellpolska.com.pl,bezprawaanirusz.pl,businesstraveller.pl,careego.pl,centrum-terapii.pl,clubdelux.pt,codzienniefit.pl,ecochemia.pl,erif.pl,esportnow.pl,faktykonopne.pl,haft.com.pl,infokonsument.pl,instalnet.pl,intercyza-blog.pl,investjourney.pl,ironsky.pl,jasnastronamocy.info,jmdi.pl,kamienieogrodowe.com,karmopedia.pl,kartanauczycielablog.pl,konsalnet.pl,leszekbloch.pl,madameedith.com,mamysprawy.pl,maxbus.com.pl,mhtm.pl,naszesprawy.eu,naszwybir.pl,nowasprzedaz.pl,osiedlenatura.com.pl,pandrwal.pl,piekarniabialogon.pl,pierwsze-kroki.com,poloniawroclaw.pl,predathor.pl,programistanaswoim.pl,przedawnione.pl,przedsiebiorcza.com,przedszkolankowo.pl,przesył-energii.pl,radiowarszawa.com.pl,rauhanpuolustajat.org,sds-automatyka.pl,spkomandytowa.pl,stanprawnynieruchomosci.pl,studiosante.pl,szkoleniamaciolek.com,teatr-capitol.pl,towsrodku.pl,wars.pl,warunki-zabudowy.com.pl,wspolnotakrzyzasmolec.pl,yasumi.pl,zabieganamama.com,zatorland.pl,zsm.edu.pl,zuch.media##.spu-bg
+http://80dni.pl,ap-goal.pl,badaniaprenatalne.pl,bellpolska.com.pl,bezprawaanirusz.pl,businesstraveller.pl,careego.pl,centrum-terapii.pl,certum.pl,clubdelux.pt,codzienniefit.pl,ecochemia.pl,erif.pl,esportnow.pl,faktykonopne.pl,haft.com.pl,infokonsument.pl,instalnet.pl,intercyza-blog.pl,investjourney.pl,ironsky.pl,jasnastronamocy.info,jmdi.pl,kamienieogrodowe.com,karmopedia.pl,kartanauczycielablog.pl,konsalnet.pl,leszekbloch.pl,madameedith.com,mamysprawy.pl,maxbus.com.pl,mhtm.pl,naszesprawy.eu,naszwybir.pl,nowasprzedaz.pl,osiedlenatura.com.pl,pandrwal.pl,piekarniabialogon.pl,pierwsze-kroki.com,poloniawroclaw.pl,predathor.pl,programistanaswoim.pl,przedawnione.pl,przedsiebiorcza.com,przedszkolankowo.pl,przesył-energii.pl,radiowarszawa.com.pl,rauhanpuolustajat.org,sds-automatyka.pl,spkomandytowa.pl,stanprawnynieruchomosci.pl,studiosante.pl,suwalki.pl,szkoleniamaciolek.com,teatr-capitol.pl,towsrodku.pl,wars.pl,warunki-zabudowy.com.pl,wspolnotakrzyzasmolec.pl,yasumi.pl,zabieganamama.com,zatorland.pl,zsm.edu.pl,zuch.media##.spu-bg
 http://spotlight.pl##.statement-container
 http://konsbud-hifi.com.pl##.sticky-footer
 http://szybkopraca.pl##.toast
