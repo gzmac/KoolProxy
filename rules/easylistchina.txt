@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: GkMKWfm1nZCJWoofGs6mCA
-! Version: 202103240022
+! Checksum: VXQF/WgHD9qcqNWAVO0cZQ
+! Version: 202103250012
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4871,6 +4871,8 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://gdzidong.com/static/js/plugin.js
+||https://dy6d.com/js/hf
 ||https://17ce.com^*_$image
 ||https://69t49.com/floating/layer.js
 ||https://alicdn.com/img/ibank/*_!!2210231227621-0-cib.
@@ -5431,6 +5433,7 @@
 ||https://tiexue.net/pic/tx_1220.jpg
 ||https://gushiwen.org/getTicket.aspx
 ||https://51cto.com/edu/center/js/interaction_iframe.js
+||https://360doc.com/js/showarticle.js
 ||https://3158.cn^*_analyser.
 ||https://pstatp.com/toutiao/push.js
 ||https://lnd.com.cn/sys/real_calc.js
@@ -5577,7 +5580,9 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
-||http://zhengyahong.cn^
+||http://lixiaodie.com^
+||http://cdhhbyy.cn^
+||http://55kk.tv^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -7867,6 +7872,7 @@
 ||http://zhandi.cc^$third-party
 ||http://zhangkc.com^
 ||http://zhangranfilm.com^
+||http://zhengyahong.cn^
 ||http://zhengyejixie.com^
 ||http://zhichi08.com^
 ||http://zhihei.com^
@@ -12706,6 +12712,8 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://gdzidong.com/static/js/plugin.js
+||http://dy6d.com/js/hf
 ||http://17ce.com^*_$image
 ||http://3336672.com^
 ||http://3337729.com^
@@ -13554,6 +13562,8 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://dalianruosen.com^
+||http://u98ql6o.top^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
 ||http://027whht.com^
@@ -15908,6 +15918,7 @@
 ||http://tiexue.net/pic/tx_1220.jpg
 ||http://gushiwen.org/getTicket.aspx
 ||http://51cto.com/edu/center/js/interaction_iframe.js
+||http://360doc.com/js/showarticle.js
 ||http://3158.cn^*_analyser.
 ||http://pstatp.com/toutiao/push.js
 ||http://pv.cheshi.com^
@@ -16169,8 +16180,10 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://vpsmm.com##DIV[id^="saxidexbar"]
-https://159i.com#?#:-abp-has(> img+a)
+https://sou-yun.cn###ads_index_2
+https://vpsmm.com##.col-lg-8 + STYLE + DIV
+https://vpsmm.com##BODY > STYLE + DIV + DIV + DIV
+https://bjcxqd.com##.box-vdgd
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -20266,6 +20279,7 @@ https://19lou.com##.zx-link
 https://17house.com##.zx_xrhb
 https://12580sky.com#?#li[class]:-abp-has(> .mark > h3 > a:-abp-contains(/广告|推荐/))
 https://159i.com#?#.style15:-abp-has(> img[src="//159i.com/images/arrow3.gif"])
+https://159i.com#?#:-abp-has(> img+a)
 https://159i.com#?#:-abp-has(> img[src*="gif"])
 https://2345.com#?#.pic:-abp-has(a[href^="http://g.wan."])
 https://3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>.openBox-container)
@@ -20885,6 +20899,7 @@ https://kshot.com##div[id^="read_m_yytf"]
 https://image.baidu.com##div[id^="relecom"]
 https://www.rkanr.com##div[id^="rkrCp"]
 https://eol.cn##div[id^="s1_"]
+https://vpsmm.com##div[id^="saxidexbar"]
 https://secretmine.net##div[id^="secre-"]
 https://vpsmm.com##div[id^="side"]
 https://159i.com##div[id^="sidebar"] > :not(form)
@@ -21657,6 +21672,9 @@ https://ali213.net#@#.subscribe-container
 https://5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
+https://huaban.com##.hb-ad
+https://ifsp.tv##.video-page-right
+https://meijumi.me###app_left
 https://baidu.com##.opening-season-dialog
 https://iqihang.com##.xf_right
 https://qianlima.com###bg
@@ -22553,8 +22571,10 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://vpsmm.com##DIV[id^="saxidexbar"]
-http://159i.com#?#:-abp-has(> img+a)
+http://sou-yun.cn###ads_index_2
+http://vpsmm.com##.col-lg-8 + STYLE + DIV
+http://vpsmm.com##BODY > STYLE + DIV + DIV + DIV
+http://bjcxqd.com##.box-vdgd
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -26650,6 +26670,7 @@ http://19lou.com##.zx-link
 http://17house.com##.zx_xrhb
 http://12580sky.com#?#li[class]:-abp-has(> .mark > h3 > a:-abp-contains(/广告|推荐/))
 http://159i.com#?#.style15:-abp-has(> img[src="//159i.com/images/arrow3.gif"])
+http://159i.com#?#:-abp-has(> img+a)
 http://159i.com#?#:-abp-has(> img[src*="gif"])
 http://2345.com#?#.pic:-abp-has(a[href^="http://g.wan."])
 http://3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>.openBox-container)
@@ -27270,6 +27291,7 @@ http://kshot.com##div[id^="read_m_yytf"]
 http://image.baidu.com##div[id^="relecom"]
 http://www.rkanr.com##div[id^="rkrCp"]
 http://eol.cn##div[id^="s1_"]
+http://vpsmm.com##div[id^="saxidexbar"]
 http://secretmine.net##div[id^="secre-"]
 http://vpsmm.com##div[id^="side"]
 http://159i.com##div[id^="sidebar"] > :not(form)
@@ -28042,6 +28064,9 @@ http://ali213.net#@#.subscribe-container
 http://5dm.tv#@#.tm-share-this
 http://laohu8.com#@#.tweet-article
 http://fqsousou.com,kengso.com#@#.user-share
+http://huaban.com##.hb-ad
+http://ifsp.tv##.video-page-right
+http://meijumi.me###app_left
 http://baidu.com##.opening-season-dialog
 http://iqihang.com##.xf_right
 http://qianlima.com###bg

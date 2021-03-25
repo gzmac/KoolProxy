@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MG/+IdpOGg1BjCNivNKNjw
-! Version: 202103240000
+! Checksum: rxCL8oerogwuV6aEmZJCuA
+! Version: 202103250000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-24 00:00 UTC
+! Last modified: 2021-03-25 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6082,11 +6082,13 @@ https://itwire.com##a[href="http://www.itwire.com/subscribe-now"]
 https://threatpost.com##a[href="https://threatpost.com/survey/"]
 https://lifeslittlemysteries.com##a[href^="http://click.linksynergy.com/"]
 https://realitytvworld.com##a[href^="http://websurvey.burstmedia.com/"]
+https://amp-reddit-com.cdn.ampproject.org##a[href^="https://reddit.app.link"]
 https://csmonitor.com,details.com##a[href^="https://w1.buysub.com/"]
 https://watchseries-online.ch##a[title="Go Up"]
 https://stuff.co.nz##app-sticky-container
 https://translate.google.co.nz,translate.google.co.uk,translate.google.com,translate.google.com.au,translate.google.de,translate.google.es,translate.google.fr##body > header#gb > div.gb_se > div.gb_g
 https://google.com##button[id^="gbpwm_"]
+https://amp-reddit-com.cdn.ampproject.org,amp.reddit.com##div[class^="AppSelectorModal"]
 https://apnews.com##div[class^="Component-apps-"]
 https://bloombergquint.com##div[class^="more-on-this-topic"]
 https://dailymail.co.uk##div[class^="nextBtn-"]
@@ -16930,11 +16932,13 @@ http://itwire.com##a[href="http://www.itwire.com/subscribe-now"]
 http://threatpost.com##a[href="https://threatpost.com/survey/"]
 http://lifeslittlemysteries.com##a[href^="http://click.linksynergy.com/"]
 http://realitytvworld.com##a[href^="http://websurvey.burstmedia.com/"]
+http://amp-reddit-com.cdn.ampproject.org##a[href^="https://reddit.app.link"]
 http://csmonitor.com,details.com##a[href^="https://w1.buysub.com/"]
 http://watchseries-online.ch##a[title="Go Up"]
 http://stuff.co.nz##app-sticky-container
 http://translate.google.co.nz,translate.google.co.uk,translate.google.com,translate.google.com.au,translate.google.de,translate.google.es,translate.google.fr##body > header#gb > div.gb_se > div.gb_g
 http://google.com##button[id^="gbpwm_"]
+http://amp-reddit-com.cdn.ampproject.org,amp.reddit.com##div[class^="AppSelectorModal"]
 http://apnews.com##div[class^="Component-apps-"]
 http://bloombergquint.com##div[class^="more-on-this-topic"]
 http://dailymail.co.uk##div[class^="nextBtn-"]
