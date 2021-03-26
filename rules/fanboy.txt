@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rxCL8oerogwuV6aEmZJCuA
-! Version: 202103250000
+! Checksum: WnhpBKf5Qky/vHwsmL+UKg
+! Version: 202103260000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-25 00:00 UTC
+! Last modified: 2021-03-26 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6188,6 +6188,7 @@ https://alternet.org###kindest-container
 https://insidethegames.biz###top-story-alert
 https://theweek.com###us77-test
 https://independent.co.uk###vouchercodes
+https://imgur.com##.EmeraldBanner
 https://out.com##.bean-house-promo
 https://wired.com##.cm-footer-container
 https://foxnews.com##.commenting-nation-promo
@@ -7639,6 +7640,7 @@ https://india.com##.open-app
 https://sportskeeda.com##.sidebar-app-download
 https://imgur.com,sowetanlive.co.za##.smartbanner
 https://reddit.com##.upsell_banner
+https://barandbench.com##div[class^="header-two-m__download-links_"]
 https://schufa.de###AC_layout
 https://pcb.cc###Cntnr6
 https://softwares-serials.in###FTslide
@@ -8921,6 +8923,7 @@ https://dallasnews.com##div[class^="app_social-media"]
 https://la-croix.com##div[class^="follow_"]
 https://engadget.com##div[class^="o-social_nav"]
 https://today.com##div[class^="share_"]
+https://barandbench.com##div[class^="social-share-"]
 https://dailymail.co.uk,thisismoney.co.uk##div[class^="socialContainer-"]
 https://fortune.com##div[class^="socialList_"]
 https://nbcnews.com##div[class^="socialShareWrapper_"]
@@ -9715,6 +9718,7 @@ https://norma-ammunition.com##.on-screen-messages
 https://suncorp.com.au##.one-pixel-margin-bottom.sg-Box
 https://wpengine.com##.opt-in-modal
 https://origin.com##.origin-sitestripe
+https://flashscore.co.uk,flashscore.com##.otPlaceholder
 https://ratemyprofessors.com##.overlay
 https://youronlinechoices.com##.p15
 https://geberit.com##.page-hint-box
@@ -9943,6 +9947,7 @@ https://smallseotools.com###cookie-bar
 https://eteknix.com###cookie-law-info-bar
 https://depositfiles.com,dfiles.eu,dfiles.ru###cookie_popup
 https://tweaktown.com###cookies_footer_sec
+https://tf1.fr###tc-privacy-wrapper
 https://shirtsofcotton.com###udtDark
 https://bild.de,welt.de##.as-oil
 https://icq.com##.ca_wrap
@@ -17038,6 +17043,7 @@ http://alternet.org###kindest-container
 http://insidethegames.biz###top-story-alert
 http://theweek.com###us77-test
 http://independent.co.uk###vouchercodes
+http://imgur.com##.EmeraldBanner
 http://out.com##.bean-house-promo
 http://wired.com##.cm-footer-container
 http://foxnews.com##.commenting-nation-promo
@@ -18489,6 +18495,7 @@ http://india.com##.open-app
 http://sportskeeda.com##.sidebar-app-download
 http://imgur.com,sowetanlive.co.za##.smartbanner
 http://reddit.com##.upsell_banner
+http://barandbench.com##div[class^="header-two-m__download-links_"]
 http://schufa.de###AC_layout
 http://pcb.cc###Cntnr6
 http://softwares-serials.in###FTslide
@@ -19771,6 +19778,7 @@ http://dallasnews.com##div[class^="app_social-media"]
 http://la-croix.com##div[class^="follow_"]
 http://engadget.com##div[class^="o-social_nav"]
 http://today.com##div[class^="share_"]
+http://barandbench.com##div[class^="social-share-"]
 http://dailymail.co.uk,thisismoney.co.uk##div[class^="socialContainer-"]
 http://fortune.com##div[class^="socialList_"]
 http://nbcnews.com##div[class^="socialShareWrapper_"]
@@ -20566,6 +20574,7 @@ http://norma-ammunition.com##.on-screen-messages
 http://suncorp.com.au##.one-pixel-margin-bottom.sg-Box
 http://wpengine.com##.opt-in-modal
 http://origin.com##.origin-sitestripe
+http://flashscore.co.uk,flashscore.com##.otPlaceholder
 http://ratemyprofessors.com##.overlay
 http://youronlinechoices.com##.p15
 http://geberit.com##.page-hint-box
@@ -20794,6 +20803,7 @@ http://smallseotools.com###cookie-bar
 http://eteknix.com###cookie-law-info-bar
 http://depositfiles.com,dfiles.eu,dfiles.ru###cookie_popup
 http://tweaktown.com###cookies_footer_sec
+http://tf1.fr###tc-privacy-wrapper
 http://shirtsofcotton.com###udtDark
 http://bild.de,welt.de##.as-oil
 http://icq.com##.ca_wrap
