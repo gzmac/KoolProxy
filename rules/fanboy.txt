@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WnhpBKf5Qky/vHwsmL+UKg
-! Version: 202103260000
+! Checksum: cgP9sBdcYqVrDmugIlAGHg
+! Version: 202103270050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-26 00:00 UTC
+! Last modified: 2021-03-27 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2583,7 +2583,7 @@
 ||http://emerse.com/consent.js
 ||http://freedoflondon.com/Styles/dialog-popup/jquery-ui.js
 ||http://freetls.fastly.net/main/sd-cmp-$domain=spanishdict.com
-||http://fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|gameblog.fr|smallseotools.com|telegram.hr|wordreference.com
+||http://fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|gameblog.fr|phonearena.com|smallseotools.com|telegram.hr|wordreference.com
 ||http://gdpr.internetbrands.com^
 ||http://gdpr.prisa.com^
 ||http://government-and-constitution.org/js/consent.js
@@ -9499,6 +9499,7 @@ https://kbs.co.kr##.chrome_pick
 https://stayinwales.co.uk##.ckinfo-panel
 https://singular.com.cy##.cm-notification-container
 https://cnn.com##.cnn-toast--tos
+https://vivo.com##.common_prompt-privacy-bg
 https://browardpalmbeach.com,dallasobserver.com,houstonpress.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.compliance
 https://riversidecompany.com##.compliance-banner
 https://razer.com##.component-sticky-dialog
@@ -12303,7 +12304,7 @@ https://emanuelaursino.it###cke_plc
 https://eismoinfo.lt###consent
 https://ecodallecitta.it###contenuto_consenso
 https://spesasicura.com###cook
-https://aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
+https://aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,extramagazine.eu,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
 https://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,musictory.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 https://telea1.it###cooky_content
 https://majani.it###cs-banner
@@ -13656,7 +13657,7 @@ https://postnl.nl,vandebron.nl#@#.cookiebar-container
 https://postnl.nl#@#.cookiebar-message
 https://cnvinternationaal.nl#@#.cookiebar:not(body):not(html)
 https://hardware.info#@#.cookiecontainer
-https://siemens-home.bsh-group.com#@#.cookielaw-setcookiepolicy-form
+https://balay.es,bosch-home.at,bosch-home.be,bosch-home.com,bosch-home.dk,bosch-home.es,bosch-home.fi,bosch-home.fr,bosch-home.lt,bosch-home.lu,bosch-home.nl,bosch-home.no,bosch-home.ro,bosch-home.se,bsh-group.com,constructa.com,home-connect.com,neff-home.com#@#.cookielaw-setcookiepolicy-form
 https://mymuesli.com,zoom.earth#@#.cookies-consent
 https://amarujala.com#@#.cookies-container
 https://bankmillennium.pl#@#.cookies-info
@@ -13699,7 +13700,7 @@ https://capstan.fr#@#.js-cookie-container
 https://bd-advocaten.nl#@#.js-cookie-container:not(body):not(html)
 https://saxion.edu,unileverfoodsolutions.com.br,unileverfoodsolutions.com.tr,unileverfoodsolutions.it#@#.js-cookie-wall
 https://mymuesli.com#@#.js-cookies-consent
-https://siemens-home.bsh-group.com#@#.js-setcookiepolicy
+https://balay.es,bosch-home.at,bosch-home.be,bosch-home.com,bosch-home.dk,bosch-home.es,bosch-home.fi,bosch-home.fr,bosch-home.lt,bosch-home.lu,bosch-home.nl,bosch-home.no,bosch-home.ro,bosch-home.se,bsh-group.com,constructa.com,home-connect.com,neff-home.com#@#.js-setcookiepolicy
 https://bosch-mobility-solutions.com#@#.m-cookie
 https://bosch-mobility-solutions.com#@#.m-cookie-intro
 https://makelaarsland.nl#@#.m-cookie-notice
@@ -13710,7 +13711,7 @@ https://betway.it#@#.module-cookie
 https://ramics-conference.org#@#.nf-form-content
 https://aklagare.se,boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz,pokemon.com,shopstyle.com,thenextweb.com#@#.no-cookies
 https://nzpost.co.nz##.notification.cookies:not(body):not(html)
-https://bosch-home.com,siemens-home.bsh-group.com#@#.o-cookielaw
+https://balay.es,bosch-home.at,bosch-home.be,bosch-home.com,bosch-home.dk,bosch-home.es,bosch-home.fi,bosch-home.fr,bosch-home.lt,bosch-home.lu,bosch-home.nl,bosch-home.no,bosch-home.ro,bosch-home.se,bsh-group.com,constructa.com,home-connect.com,neff-home.com#@#.o-cookielaw
 https://api.newsguardtech.com,rockpapershotgun.com#@#.optanon-alert-box-wrapper
 https://pieseauto.ro#@#.page-cookies
 https://spotify.com#@#.privacy-modal
@@ -20355,6 +20356,7 @@ http://kbs.co.kr##.chrome_pick
 http://stayinwales.co.uk##.ckinfo-panel
 http://singular.com.cy##.cm-notification-container
 http://cnn.com##.cnn-toast--tos
+http://vivo.com##.common_prompt-privacy-bg
 http://browardpalmbeach.com,dallasobserver.com,houstonpress.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.compliance
 http://riversidecompany.com##.compliance-banner
 http://razer.com##.component-sticky-dialog
@@ -23160,7 +23162,7 @@ http://emanuelaursino.it###cke_plc
 http://eismoinfo.lt###consent
 http://ecodallecitta.it###contenuto_consenso
 http://spesasicura.com###cook
-http://aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
+http://aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,extramagazine.eu,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
 http://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,musictory.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 http://telea1.it###cooky_content
 http://majani.it###cs-banner
@@ -24513,7 +24515,7 @@ http://postnl.nl,vandebron.nl#@#.cookiebar-container
 http://postnl.nl#@#.cookiebar-message
 http://cnvinternationaal.nl#@#.cookiebar:not(body):not(html)
 http://hardware.info#@#.cookiecontainer
-http://siemens-home.bsh-group.com#@#.cookielaw-setcookiepolicy-form
+http://balay.es,bosch-home.at,bosch-home.be,bosch-home.com,bosch-home.dk,bosch-home.es,bosch-home.fi,bosch-home.fr,bosch-home.lt,bosch-home.lu,bosch-home.nl,bosch-home.no,bosch-home.ro,bosch-home.se,bsh-group.com,constructa.com,home-connect.com,neff-home.com#@#.cookielaw-setcookiepolicy-form
 http://mymuesli.com,zoom.earth#@#.cookies-consent
 http://amarujala.com#@#.cookies-container
 http://bankmillennium.pl#@#.cookies-info
@@ -24556,7 +24558,7 @@ http://capstan.fr#@#.js-cookie-container
 http://bd-advocaten.nl#@#.js-cookie-container:not(body):not(html)
 http://saxion.edu,unileverfoodsolutions.com.br,unileverfoodsolutions.com.tr,unileverfoodsolutions.it#@#.js-cookie-wall
 http://mymuesli.com#@#.js-cookies-consent
-http://siemens-home.bsh-group.com#@#.js-setcookiepolicy
+http://balay.es,bosch-home.at,bosch-home.be,bosch-home.com,bosch-home.dk,bosch-home.es,bosch-home.fi,bosch-home.fr,bosch-home.lt,bosch-home.lu,bosch-home.nl,bosch-home.no,bosch-home.ro,bosch-home.se,bsh-group.com,constructa.com,home-connect.com,neff-home.com#@#.js-setcookiepolicy
 http://bosch-mobility-solutions.com#@#.m-cookie
 http://bosch-mobility-solutions.com#@#.m-cookie-intro
 http://makelaarsland.nl#@#.m-cookie-notice
@@ -24567,7 +24569,7 @@ http://betway.it#@#.module-cookie
 http://ramics-conference.org#@#.nf-form-content
 http://aklagare.se,boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz,pokemon.com,shopstyle.com,thenextweb.com#@#.no-cookies
 http://nzpost.co.nz##.notification.cookies:not(body):not(html)
-http://bosch-home.com,siemens-home.bsh-group.com#@#.o-cookielaw
+http://balay.es,bosch-home.at,bosch-home.be,bosch-home.com,bosch-home.dk,bosch-home.es,bosch-home.fi,bosch-home.fr,bosch-home.lt,bosch-home.lu,bosch-home.nl,bosch-home.no,bosch-home.ro,bosch-home.se,bsh-group.com,constructa.com,home-connect.com,neff-home.com#@#.o-cookielaw
 http://api.newsguardtech.com,rockpapershotgun.com#@#.optanon-alert-box-wrapper
 http://pieseauto.ro#@#.page-cookies
 http://spotify.com#@#.privacy-modal
