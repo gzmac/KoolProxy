@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cgP9sBdcYqVrDmugIlAGHg
-! Version: 202103270050
+! Checksum: 2/ft62PL1Csn9GveYb8iGw
+! Version: 202103280050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-27 00:50 UTC
+! Last modified: 2021-03-28 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -9357,6 +9357,7 @@ https://openweather.co.uk###stick-footer-panel
 https://tesco.com###sticky-bar-wrapper
 https://ffonts.net,whatfontis.com###sticky-popup
 https://firefoxosdevices.org###storage-notice
+https://google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###taw > div > [data-ved]
 https://cars.co.za###terms-and-conditions
 https://classicalradio.com,di.fm,jazzradio.com,radiotunes.com,rockradio.com,zenradio.com###terms-message-region
 https://bpsa.co.uk###terms_container
@@ -12771,6 +12772,7 @@ https://patee.ru##.informer2
 https://iblitzmods.ru,kinoby.ru##.message-alert
 https://shophair.ru##.modal_popup_sessid_box
 https://landrover.ru##.notificationBars
+https://lamoda.ru,lamoda.ua##.page > [class*="widget"]
 https://kamkabel.ru##.panel_152_wp
 https://pegast.ru##.pgs-top
 https://66.ru##.t-i-agree
@@ -20214,6 +20216,7 @@ http://openweather.co.uk###stick-footer-panel
 http://tesco.com###sticky-bar-wrapper
 http://ffonts.net,whatfontis.com###sticky-popup
 http://firefoxosdevices.org###storage-notice
+http://google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###taw > div > [data-ved]
 http://cars.co.za###terms-and-conditions
 http://classicalradio.com,di.fm,jazzradio.com,radiotunes.com,rockradio.com,zenradio.com###terms-message-region
 http://bpsa.co.uk###terms_container
@@ -23629,6 +23632,7 @@ http://patee.ru##.informer2
 http://iblitzmods.ru,kinoby.ru##.message-alert
 http://shophair.ru##.modal_popup_sessid_box
 http://landrover.ru##.notificationBars
+http://lamoda.ru,lamoda.ua##.page > [class*="widget"]
 http://kamkabel.ru##.panel_152_wp
 http://pegast.ru##.pgs-top
 http://66.ru##.t-i-agree
