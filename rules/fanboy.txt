@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2/ft62PL1Csn9GveYb8iGw
-! Version: 202103280050
+! Checksum: rKI1Otcz4hWFxWFaKueb1A
+! Version: 202103290050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-28 00:50 UTC
+! Last modified: 2021-03-29 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1092,7 +1092,6 @@
 ||https://marketingsherpa.com/Zlatko/facebook.jpg
 ||https://marketingsherpa.com/Zlatko/in.jpg
 ||https://moltenusa.com/images/com_connecton.gif
-||https://monova.org/ajax/get_lightbox_content
 ||https://mybetting.co.uk/facebook.png
 ||https://mybetting.co.uk/twitter.png
 ||https://naturalnews.com/getviews2.
@@ -2526,7 +2525,6 @@
 ||http://marketingsherpa.com/Zlatko/in.jpg
 ||http://media-imdb.com/images*/facebook-$domain=imdb.com
 ||http://moltenusa.com/images/com_connecton.gif
-||http://monova.org/ajax/get_lightbox_content
 ||http://mybetting.co.uk/facebook.png
 ||http://mybetting.co.uk/twitter.png
 ||http://naturalnews.com/getviews2.
@@ -6653,6 +6651,7 @@ https://etonline.com##.block-ctd-mapp
 https://ibtimes.com##.block-ibtimes-newsletters
 https://americamagazine.org##.block-mailchimp-signup
 https://ncronline.org##.block-ncr-api-emailmarketing
+https://thehill.com##.block-thehill-signup
 https://asiaone.com##.block-webform
 https://esquire.com##.body-tip
 https://allevents.in##.bottom-right-subscribe
@@ -8433,7 +8432,6 @@ https://disclose.tv,sendatext.co##.lb_overlay
 https://classybro.com##.lbx_content
 https://classybro.com##.lbx_overlay
 https://yourweather.co.uk##.liCompartir
-https://monova.org##.lightbox
 https://base64decode.org,base64encode.org,theshovel.com.au##.like
 https://labour.org.nz,nzfirst.org.nz##.like-page
 https://addictivetips.com##.like-this
@@ -17511,6 +17509,7 @@ http://etonline.com##.block-ctd-mapp
 http://ibtimes.com##.block-ibtimes-newsletters
 http://americamagazine.org##.block-mailchimp-signup
 http://ncronline.org##.block-ncr-api-emailmarketing
+http://thehill.com##.block-thehill-signup
 http://asiaone.com##.block-webform
 http://esquire.com##.body-tip
 http://allevents.in##.bottom-right-subscribe
@@ -19291,7 +19290,6 @@ http://disclose.tv,sendatext.co##.lb_overlay
 http://classybro.com##.lbx_content
 http://classybro.com##.lbx_overlay
 http://yourweather.co.uk##.liCompartir
-http://monova.org##.lightbox
 http://base64decode.org,base64encode.org,theshovel.com.au##.like
 http://labour.org.nz,nzfirst.org.nz##.like-page
 http://addictivetips.com##.like-this
