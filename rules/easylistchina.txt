@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: y6t7FRcw6b2YB1eBHgViNg
-! Version: 202103290042
+! Checksum: F0cnr3kY6d7bC8j8Xb6Iiw
+! Version: 202103300042
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4940,7 +4940,6 @@
 ||https://zhongkaowu.com^$third-party
 ||https://zxw51.com^$third-party
 ||https://jsdelivr.net/gh/bde4admin/*/js/common.
-||https://bingfeng.tw/data/attachment/common/cf/$rewrite=abp-resource:1x1-transparent-gif
 ||https://hechaocheng.cn^$third-party
 ||https://uux79.com^$third-party
 ||https://camspic.com/imguang/*.gif
@@ -12750,6 +12749,7 @@
 ||http://avgle.topgirlsdating.com^$domain=avgle.com
 ||http://jads.co^$domain=avgle.com
 ||http://olmsoneenh.info^$domain=avgle.com
+||http://wdfhl.weidianyuedu.com^
 ||http://003store.com^
 ||http://0512s.com^$third-party
 ||http://1.01fy.cn^
@@ -13464,7 +13464,6 @@
 ||http://zxw51.com^$third-party
 ||http://bde4.cc^$csp=script-src 'self' * 'unsafe-inline'
 ||http://jsdelivr.net/gh/bde4admin/*/js/common.$domain=bde4.cc
-||http://bingfeng.tw/data/attachment/common/cf/$rewrite=abp-resource:1x1-transparent-gif,domain=bingfeng.tw
 ||http://1711811.com^
 ||http://18dusun.com^
 ||http://2013sh.com^
@@ -13570,6 +13569,8 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://gts991.com^
+||http://zgchaye123.com^
 ||http://nkzjc.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -21524,6 +21525,7 @@ https://bejson.com##div[id^="shuangshi"]
 https://bejson.com##img[src^="data"]
 https://bde4.cc###ayx
 https://bingfeng.tw##.wow-ad-link
+https://bingfeng.tw###adbt
 https://bingfeng.tw##div[style="position: fixed; left: 0px; top: 0px; width: 100%; height: 100%; z-index: 999;"]
 https://btzhongzifuli.com,cililianbt.org,maomaobt.cc,sousoucili.com,zhainanzhongzi.cc##.photos
 https://2c2.website,2p8.space,adultgao.com,caopop.com,caoporn.com,caouoo.com,caox.cc,gao1.cc,h3e.pw,h3y.pw,k88.club,me88.pw,p5p.space,se88.space,t2p.space,tb001.xyz,te88.pw,vwan.xyz,xhao1.com##div[style="margin-top:5px;margin-bottom:5px;"]:first-child
@@ -27901,6 +27903,7 @@ http://bejson.com##div[id^="shuangshi"]
 http://bejson.com##img[src^="data"]
 http://bde4.cc###ayx
 http://bingfeng.tw##.wow-ad-link
+http://bingfeng.tw###adbt
 http://bingfeng.tw##div[style="position: fixed; left: 0px; top: 0px; width: 100%; height: 100%; z-index: 999;"]
 http://btzhongzifuli.com,cililianbt.org,maomaobt.cc,sousoucili.com,zhainanzhongzi.cc##.photos
 http://2c2.website,2p8.space,adultgao.com,caopop.com,caoporn.com,caouoo.com,caox.cc,gao1.cc,h3e.pw,h3y.pw,k88.club,me88.pw,p5p.space,se88.space,t2p.space,tb001.xyz,te88.pw,vwan.xyz,xhao1.com##div[style="margin-top:5px;margin-bottom:5px;"]:first-child

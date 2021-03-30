@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rKI1Otcz4hWFxWFaKueb1A
-! Version: 202103290050
+! Checksum: lARukIm4fJghdqWr//3GKg
+! Version: 202103300050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-29 00:50 UTC
+! Last modified: 2021-03-30 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6200,6 +6200,7 @@ https://peoplesworld.org##.donate_strip
 https://nzherald.co.nz##.down.premium-toaster
 https://dealnews.com##.engagement
 https://dealnews.com##.engagement-container
+https://aeon.co##.footer-banner
 https://propublica.org##.fundraising-letter-inline
 https://artnews.com##.get-the-magazine__outer
 https://npr.org##.global-modal
@@ -6845,6 +6846,7 @@ https://independent.co.uk,standard.co.uk##.gigya-signup
 https://usatoday.com##.gnt_m_nls
 https://usatoday.com##.gnt_m_th_em
 https://aubizbuysell.com.au,nzbizbuysell.co.nz,nzcommercial.co.nz,nzfranchises.co.nz##.green-box-fern
+https://freshplaza.com##.grey_background
 https://wonkette.com##.grwf2-wrapper
 https://globalvoices.org##.gv-mailchimp-form-container
 https://garyvaynerchuk.com##.gv-widget-mailinglist
@@ -6897,6 +6899,7 @@ https://digg.com##.js--promo-bottom
 https://theguardian.com##.js-aside-slot-container
 https://indiatimes.com##.js-common-hook
 https://linuxjournal.com##.js-form-item-email
+https://datacenterdynamics.com##.js-mktoFormBlock
 https://gamespot.com##.js-nlsub
 https://highya.com##.js-swimingBlock-stoper
 https://avclub.com,deadspin.com,gizmodo.com,jalopnik.com,kotaku.com,lifehacker.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_modal_exit_intent
@@ -7604,6 +7607,7 @@ https://fiercecable.com###pusher-ad
 https://airship.com##.PushNotification
 https://reddit.com##.XPromoInFeed
 https://aliexpress.com##._3KrBP
+https://manutd.com##.custom-popup
 https://chicagotribune.com##.met-flyout
 https://wowhead.com##.notifications-dialog
 https://post-gazette.com##.pg-notifybox
@@ -8041,6 +8045,7 @@ https://avon.com,businessinsider.com,designboom.com,highstakesdb.com,hurriyetdai
 https://tasteofhome.com##.TOH-follow-us
 https://citizentv.co.ke##.Telegram
 https://ocaholic.co.uk##.a2a_counter
+https://datacenterdynamics.com##.a2a_default_style
 https://forwardprogressives.com,ocaholic.ch##.a2a_kit
 https://ocaholic.co.uk##.a2a_svg
 https://imdb.com##.ab_facebook
@@ -9395,6 +9400,7 @@ https://itsfoss.com##.CampaignType--floating
 https://perforce.com##.EUc
 https://tjc.co.uk##.GDPR
 https://fwg-vg-linz.de##.Mrku11502
+https://bbb.org##.MuiDrawer-root
 https://freewebsitetemplates.com,wilderssecurity.com##.Notices
 https://leti.com##.NoticesBox
 https://freeagent.com##.Notification
@@ -9744,6 +9750,7 @@ https://process.st##.pookie
 https://aboardtheworld.com##.popmake
 https://beiersdorf.com,efootwear.eu##.popup
 https://replicon.com##.popup-container
+https://fulhamfc.com##.popup-wrapper
 https://smartclient.com##.popupPolicies
 https://abplive.in##.popup_desktop
 https://cnn.com##.popup_tosEdition
@@ -9874,6 +9881,7 @@ https://xvideos.com##.x-message
 https://dideo.ir##.youtube-terms-banner
 https://youtube.com##.yt-consent
 https://yahoo.com##.yucs-eprivacy
+https://burnleyfootballclub.com##.z-30.bottom-0
 https://pizzahut.co.uk##.z-600
 https://ethereumprice.org##.zxc-msg
 https://theaustralian.com.au##CAAS-MESSAGE-PANEL
@@ -9920,6 +9928,7 @@ https://onlinetvrecorder.com##div[id^="d1"]
 https://globecast.com##div[id^="icegram_message_"]
 https://dumont.de,knowyourmeme.com##div[id^="sp_message_id"]
 https://mashable.com##div[style*="background: rgb(255, 255, 255)"]
+https://androidpolice.com,apkmirror.com,gameblog.fr,phonearena.com,smallseotools.com,telegram.hr,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 https://plarium.com##div[style*="position: fixed;"]
 https://cplusplus.com##div[style="background:#eed;padding:10px;margin:0;text-align:center;border-bottom:1px solid #446"]
 https://flazio.com##div[style="z-index:9998; position: fixed;bottom: 0;left: 0;width: 100%;background: #208ac8;color: #f1f3f5;font-size: 12px;padding: 12px 0px;text-align: center;"]
@@ -9956,6 +9965,7 @@ https://mirror.co.uk##.captify-widget
 https://flattr.com,thebarchive.com##.cc_banner
 https://indiatimes.com##.consent-popup
 https://hypable.com##.cookie-bar
+https://metro.style##.cookie-modal
 https://mashable.com##.cookie-notice
 https://allmusic.com##.cookie-policy-box
 https://msn.com##.cookieBanner
@@ -12170,7 +12180,6 @@ https://inmicsnebula.fi###alert-message-7
 https://atea.fi###cookie
 https://dna.fi###dna-gdpr-info
 https://kotimaa24.fi###kotimaa-cookie-notification
-https://telia.fi###lekaneBanner_privacyAnnouncement
 https://napsu.fi###napsu_cc
 https://sentraali.fi###popmake-4055
 https://pihlajalinna.fi###root > div[aria-live="polite"][role="alert"]
@@ -12186,18 +12195,16 @@ https://vertaa.fi##.cg-89.cg-97
 https://jenkki.fi##.container-agree
 https://kitchentime.fi,makujakauppa.fi##.cookie
 https://blogit.fi,ilmainensanakirja.fi,telsu.fi##.cookies
-https://scandinavianphoto.fi##.cq.kx
 https://matkahuolto.fi##.css-jlvvqa
 https://ifolor.fi##.dialogBanner--align-bottom
 https://vr.fi##.headerContents > .infoMessages
 https://lidl.fi,pelit.fi,telia.fi##.notification
-https://helmet.fi##.notifier_warning
 https://suomi24.fi##.s24_cc_banner-wrapper
 https://terveystalo.com##.st-consent-banner
 https://lehtodigital.fi##[class^="__ld_cookie_"]
 https://sttinfo.fi##[class^="styledBarNotification__BarNotificationWrapper"]
-https://vapaasana.swedishforum.net##div[class^="conteneur"][class$="IE"] ~ style ~ div[id]:not([class])
 https://dplay.fi##div[class^="notification"]
+https://scandinavianphoto.fi##div[style="opacity: 1; height: 77px;"]
 https://linnunrata.org##div[style^="position:fixed;right:0;top:0;"]
 https://heal-link.gr###alert
 https://hmerologio.gr###sid-container
@@ -12760,6 +12767,7 @@ https://bancaintesa.ru##.agreement-substrate
 https://rshb.ru##.alert
 https://podrozerowerowe.info##.appriseOuter
 https://podrozerowerowe.info##.appriseOverlay
+https://likeni.ru##.bottom-popup
 https://tvguru.ru##.c-modal
 https://hashrating.com##.cookie
 https://glavred.info,unian.net##.cookies
@@ -17058,6 +17066,7 @@ http://peoplesworld.org##.donate_strip
 http://nzherald.co.nz##.down.premium-toaster
 http://dealnews.com##.engagement
 http://dealnews.com##.engagement-container
+http://aeon.co##.footer-banner
 http://propublica.org##.fundraising-letter-inline
 http://artnews.com##.get-the-magazine__outer
 http://npr.org##.global-modal
@@ -17703,6 +17712,7 @@ http://independent.co.uk,standard.co.uk##.gigya-signup
 http://usatoday.com##.gnt_m_nls
 http://usatoday.com##.gnt_m_th_em
 http://aubizbuysell.com.au,nzbizbuysell.co.nz,nzcommercial.co.nz,nzfranchises.co.nz##.green-box-fern
+http://freshplaza.com##.grey_background
 http://wonkette.com##.grwf2-wrapper
 http://globalvoices.org##.gv-mailchimp-form-container
 http://garyvaynerchuk.com##.gv-widget-mailinglist
@@ -17755,6 +17765,7 @@ http://digg.com##.js--promo-bottom
 http://theguardian.com##.js-aside-slot-container
 http://indiatimes.com##.js-common-hook
 http://linuxjournal.com##.js-form-item-email
+http://datacenterdynamics.com##.js-mktoFormBlock
 http://gamespot.com##.js-nlsub
 http://highya.com##.js-swimingBlock-stoper
 http://avclub.com,deadspin.com,gizmodo.com,jalopnik.com,kotaku.com,lifehacker.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_modal_exit_intent
@@ -18462,6 +18473,7 @@ http://fiercecable.com###pusher-ad
 http://airship.com##.PushNotification
 http://reddit.com##.XPromoInFeed
 http://aliexpress.com##._3KrBP
+http://manutd.com##.custom-popup
 http://chicagotribune.com##.met-flyout
 http://wowhead.com##.notifications-dialog
 http://post-gazette.com##.pg-notifybox
@@ -18899,6 +18911,7 @@ http://avon.com,businessinsider.com,designboom.com,highstakesdb.com,hurriyetdail
 http://tasteofhome.com##.TOH-follow-us
 http://citizentv.co.ke##.Telegram
 http://ocaholic.co.uk##.a2a_counter
+http://datacenterdynamics.com##.a2a_default_style
 http://forwardprogressives.com,ocaholic.ch##.a2a_kit
 http://ocaholic.co.uk##.a2a_svg
 http://imdb.com##.ab_facebook
@@ -20254,6 +20267,7 @@ http://itsfoss.com##.CampaignType--floating
 http://perforce.com##.EUc
 http://tjc.co.uk##.GDPR
 http://fwg-vg-linz.de##.Mrku11502
+http://bbb.org##.MuiDrawer-root
 http://freewebsitetemplates.com,wilderssecurity.com##.Notices
 http://leti.com##.NoticesBox
 http://freeagent.com##.Notification
@@ -20603,6 +20617,7 @@ http://process.st##.pookie
 http://aboardtheworld.com##.popmake
 http://beiersdorf.com,efootwear.eu##.popup
 http://replicon.com##.popup-container
+http://fulhamfc.com##.popup-wrapper
 http://smartclient.com##.popupPolicies
 http://abplive.in##.popup_desktop
 http://cnn.com##.popup_tosEdition
@@ -20733,6 +20748,7 @@ http://xvideos.com##.x-message
 http://dideo.ir##.youtube-terms-banner
 http://youtube.com##.yt-consent
 http://yahoo.com##.yucs-eprivacy
+http://burnleyfootballclub.com##.z-30.bottom-0
 http://pizzahut.co.uk##.z-600
 http://ethereumprice.org##.zxc-msg
 http://theaustralian.com.au##CAAS-MESSAGE-PANEL
@@ -20779,6 +20795,7 @@ http://onlinetvrecorder.com##div[id^="d1"]
 http://globecast.com##div[id^="icegram_message_"]
 http://dumont.de,knowyourmeme.com##div[id^="sp_message_id"]
 http://mashable.com##div[style*="background: rgb(255, 255, 255)"]
+http://androidpolice.com,apkmirror.com,gameblog.fr,phonearena.com,smallseotools.com,telegram.hr,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 http://plarium.com##div[style*="position: fixed;"]
 http://cplusplus.com##div[style="background:#eed;padding:10px;margin:0;text-align:center;border-bottom:1px solid #446"]
 http://flazio.com##div[style="z-index:9998; position: fixed;bottom: 0;left: 0;width: 100%;background: #208ac8;color: #f1f3f5;font-size: 12px;padding: 12px 0px;text-align: center;"]
@@ -20815,6 +20832,7 @@ http://mirror.co.uk##.captify-widget
 http://flattr.com,thebarchive.com##.cc_banner
 http://indiatimes.com##.consent-popup
 http://hypable.com##.cookie-bar
+http://metro.style##.cookie-modal
 http://mashable.com##.cookie-notice
 http://allmusic.com##.cookie-policy-box
 http://msn.com##.cookieBanner
@@ -23030,7 +23048,6 @@ http://inmicsnebula.fi###alert-message-7
 http://atea.fi###cookie
 http://dna.fi###dna-gdpr-info
 http://kotimaa24.fi###kotimaa-cookie-notification
-http://telia.fi###lekaneBanner_privacyAnnouncement
 http://napsu.fi###napsu_cc
 http://sentraali.fi###popmake-4055
 http://pihlajalinna.fi###root > div[aria-live="polite"][role="alert"]
@@ -23046,18 +23063,16 @@ http://vertaa.fi##.cg-89.cg-97
 http://jenkki.fi##.container-agree
 http://kitchentime.fi,makujakauppa.fi##.cookie
 http://blogit.fi,ilmainensanakirja.fi,telsu.fi##.cookies
-http://scandinavianphoto.fi##.cq.kx
 http://matkahuolto.fi##.css-jlvvqa
 http://ifolor.fi##.dialogBanner--align-bottom
 http://vr.fi##.headerContents > .infoMessages
 http://lidl.fi,pelit.fi,telia.fi##.notification
-http://helmet.fi##.notifier_warning
 http://suomi24.fi##.s24_cc_banner-wrapper
 http://terveystalo.com##.st-consent-banner
 http://lehtodigital.fi##[class^="__ld_cookie_"]
 http://sttinfo.fi##[class^="styledBarNotification__BarNotificationWrapper"]
-http://vapaasana.swedishforum.net##div[class^="conteneur"][class$="IE"] ~ style ~ div[id]:not([class])
 http://dplay.fi##div[class^="notification"]
+http://scandinavianphoto.fi##div[style="opacity: 1; height: 77px;"]
 http://linnunrata.org##div[style^="position:fixed;right:0;top:0;"]
 http://heal-link.gr###alert
 http://hmerologio.gr###sid-container
@@ -23620,6 +23635,7 @@ http://bancaintesa.ru##.agreement-substrate
 http://rshb.ru##.alert
 http://podrozerowerowe.info##.appriseOuter
 http://podrozerowerowe.info##.appriseOverlay
+http://likeni.ru##.bottom-popup
 http://tvguru.ru##.c-modal
 http://hashrating.com##.cookie
 http://glavred.info,unian.net##.cookies
