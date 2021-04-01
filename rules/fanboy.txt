@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lARukIm4fJghdqWr//3GKg
-! Version: 202103300050
+! Checksum: l3YwgkZrvF5dwc6lhWAo6Q
+! Version: 202104010050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-03-30 00:50 UTC
+! Last modified: 2021-04-01 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6971,6 +6971,7 @@ https://cybersecurityventures.com##.mpc-callout
 https://msmagazine.com##.ms-actions
 https://motorsport.com##.ms-footer_top
 https://msnbc.com##.msnbcDaily__footer
+https://itweb.co.za##.mt-3.itw-noprint
 https://ft.com##.n-sliding-popup
 https://nature.com##.nature-briefing
 https://nypost.com##.nav-header--email
@@ -7607,6 +7608,7 @@ https://fiercecable.com###pusher-ad
 https://airship.com##.PushNotification
 https://reddit.com##.XPromoInFeed
 https://aliexpress.com##._3KrBP
+https://investing.com##.allow-notifications-popup-wrapper
 https://manutd.com##.custom-popup
 https://chicagotribune.com##.met-flyout
 https://wowhead.com##.notifications-dialog
@@ -9335,6 +9337,7 @@ https://ricochet.com###ricochet-cookie-bar
 https://honeygain.com###root > div + div + div:last-child
 https://cote.co.uk###root > div > .fixed
 https://mywot.com###root > div > div[direction="up"][style*="transform"]
+https://zomato.com###root > div:first-child:not(:only-child)
 https://honeygain.com###root > footer ~ div
 https://wrigleys.co.uk###rpcm
 https://tenuser.com###rsp
@@ -12026,6 +12029,7 @@ https://on.cc###acceptDisclaimer
 https://ctm.net###portalheader\:cookiepanel
 https://drweb.cn##.SHOWIT-msg_showed
 https://infiniti.com.tw##.c_128
+https://u-car.com.tw##.privacyforsite
 https://ghetaldus.hr,zkl.hr###cookies
 https://mojkvart.hr###dcw1
 https://jax.hr###notice
@@ -12379,7 +12383,7 @@ https://rivistastudio.com##.SCK_Banner
 https://abruzzo24ore.tv,abruzzoindependent.it,capoluogo.com,economia24ore.it,energiarinnovabile.org,fosse-biologiche.it,gossip24ore.it,il24ore.it,ilmeteo24ore.it,matrimony.it,occhioallook.it,recensioni.tv,tuttosport24ore.it##._CL_main
 https://arbitrobancariofinanziario.it##.abf-no-cookie::after
 https://meteoeradar.it##.active
-https://agenziagiovani.it,assocarta.it,cassoni-usati.it,farmenspa.it,salvaunbambino.it##.activebar-container
+https://agenziagiovani.it,assocarta.it,cassoni-usati.it,culturagiapponese.it,farmenspa.it,salvaunbambino.it##.activebar-container
 https://cafassoefigli.it,dirigentindustria.it,essofuelfinder.it,faperme.it,pagellapolitica.it,playinfinity.it,saperesalute.it,siemens.it,trivago.it,tufanogomme.com,uabstyle.it,voglioviverecosi.com##.alert
 https://intimerie.com##.alert-info
 https://bakecaincontrii.com##.alert-secondary
@@ -12992,7 +12996,7 @@ https://blackboat.com#@#.sqs-announcement-bar
 https://xhamster.com#@#.subscribe-block
 https://humblebundle.com#@#.subscribe-box
 https://oneplus.com,stackexchange.com#@#.subscribe-container
-https://rapidgrab.pl#@#.subscribe-form
+https://last.fm,rapidgrab.pl#@#.subscribe-form
 https://oreilly.com,twit.tv#@#.subscribe-panel
 https://batenka.ru#@#.subscribe-popup
 https://redflagdeals.com,wtfast.com#@#.subscribe_box
@@ -13386,7 +13390,7 @@ https://cuisineactuelle.fr,femmeactuelle.fr,matvpratique.com#@#.social-share-cou
 https://cosmo.ru,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,politico.eu,songkick.com#@#.social-sharing
 https://golem.de#@#.social-sidebar
 https://domain.com.au#@#.social-stick
-https://tv-kino.net#@#.social-tab
+https://sanmarinortv.sm,tv-kino.net#@#.social-tab
 https://hdfcbank.com#@#.social-title
 https://golem.de#@#.social-tools
 https://gamesrepublic.com,gopojie.net#@#.social-top:not(html):not(body)
@@ -13606,6 +13610,7 @@ https://zeist.hu.nl#@#.cookie-block
 https://lg.com#@#.cookie-check
 https://zwijsen.nl#@#.cookie-consent-container
 https://zwijsen.nl#@#.cookie-consent-content
+https://artyferia.pl#@#.cookie-consent-show
 https://dovoba.de#@#.cookie-consent-v2
 https://zwijsen.nl#@#.cookie-consent-wrapper
 https://airam.fi,codra.net,dovoba.de,medicinenet.com,meinebank.de#@#.cookie-consent:not(body):not(html)
@@ -17837,6 +17842,7 @@ http://cybersecurityventures.com##.mpc-callout
 http://msmagazine.com##.ms-actions
 http://motorsport.com##.ms-footer_top
 http://msnbc.com##.msnbcDaily__footer
+http://itweb.co.za##.mt-3.itw-noprint
 http://ft.com##.n-sliding-popup
 http://nature.com##.nature-briefing
 http://nypost.com##.nav-header--email
@@ -18473,6 +18479,7 @@ http://fiercecable.com###pusher-ad
 http://airship.com##.PushNotification
 http://reddit.com##.XPromoInFeed
 http://aliexpress.com##._3KrBP
+http://investing.com##.allow-notifications-popup-wrapper
 http://manutd.com##.custom-popup
 http://chicagotribune.com##.met-flyout
 http://wowhead.com##.notifications-dialog
@@ -20202,6 +20209,7 @@ http://ricochet.com###ricochet-cookie-bar
 http://honeygain.com###root > div + div + div:last-child
 http://cote.co.uk###root > div > .fixed
 http://mywot.com###root > div > div[direction="up"][style*="transform"]
+http://zomato.com###root > div:first-child:not(:only-child)
 http://honeygain.com###root > footer ~ div
 http://wrigleys.co.uk###rpcm
 http://tenuser.com###rsp
@@ -22894,6 +22902,7 @@ http://on.cc###acceptDisclaimer
 http://ctm.net###portalheader\:cookiepanel
 http://drweb.cn##.SHOWIT-msg_showed
 http://infiniti.com.tw##.c_128
+http://u-car.com.tw##.privacyforsite
 http://ghetaldus.hr,zkl.hr###cookies
 http://mojkvart.hr###dcw1
 http://jax.hr###notice
@@ -23247,7 +23256,7 @@ http://rivistastudio.com##.SCK_Banner
 http://abruzzo24ore.tv,abruzzoindependent.it,capoluogo.com,economia24ore.it,energiarinnovabile.org,fosse-biologiche.it,gossip24ore.it,il24ore.it,ilmeteo24ore.it,matrimony.it,occhioallook.it,recensioni.tv,tuttosport24ore.it##._CL_main
 http://arbitrobancariofinanziario.it##.abf-no-cookie::after
 http://meteoeradar.it##.active
-http://agenziagiovani.it,assocarta.it,cassoni-usati.it,farmenspa.it,salvaunbambino.it##.activebar-container
+http://agenziagiovani.it,assocarta.it,cassoni-usati.it,culturagiapponese.it,farmenspa.it,salvaunbambino.it##.activebar-container
 http://cafassoefigli.it,dirigentindustria.it,essofuelfinder.it,faperme.it,pagellapolitica.it,playinfinity.it,saperesalute.it,siemens.it,trivago.it,tufanogomme.com,uabstyle.it,voglioviverecosi.com##.alert
 http://intimerie.com##.alert-info
 http://bakecaincontrii.com##.alert-secondary
@@ -23860,7 +23869,7 @@ http://blackboat.com#@#.sqs-announcement-bar
 http://xhamster.com#@#.subscribe-block
 http://humblebundle.com#@#.subscribe-box
 http://oneplus.com,stackexchange.com#@#.subscribe-container
-http://rapidgrab.pl#@#.subscribe-form
+http://last.fm,rapidgrab.pl#@#.subscribe-form
 http://oreilly.com,twit.tv#@#.subscribe-panel
 http://batenka.ru#@#.subscribe-popup
 http://redflagdeals.com,wtfast.com#@#.subscribe_box
@@ -24254,7 +24263,7 @@ http://cuisineactuelle.fr,femmeactuelle.fr,matvpratique.com#@#.social-share-coun
 http://cosmo.ru,last.fm,lastfm.com.br,lastfm.com.tr,lastfm.de,lastfm.es,lastfm.fr,lastfm.it,lastfm.jp,lastfm.pl,lastfm.ru,lastfm.se,politico.eu,songkick.com#@#.social-sharing
 http://golem.de#@#.social-sidebar
 http://domain.com.au#@#.social-stick
-http://tv-kino.net#@#.social-tab
+http://sanmarinortv.sm,tv-kino.net#@#.social-tab
 http://hdfcbank.com#@#.social-title
 http://golem.de#@#.social-tools
 http://gamesrepublic.com,gopojie.net#@#.social-top:not(html):not(body)
@@ -24474,6 +24483,7 @@ http://zeist.hu.nl#@#.cookie-block
 http://lg.com#@#.cookie-check
 http://zwijsen.nl#@#.cookie-consent-container
 http://zwijsen.nl#@#.cookie-consent-content
+http://artyferia.pl#@#.cookie-consent-show
 http://dovoba.de#@#.cookie-consent-v2
 http://zwijsen.nl#@#.cookie-consent-wrapper
 http://airam.fi,codra.net,dovoba.de,medicinenet.com,meinebank.de#@#.cookie-consent:not(body):not(html)
