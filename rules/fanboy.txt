@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: l3YwgkZrvF5dwc6lhWAo6Q
-! Version: 202104010050
+! Checksum: nYUZo3r+faEzJfI/oHQqnA
+! Version: 202104020100
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-01 00:50 UTC
+! Last modified: 2021-04-02 01:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6209,6 +6209,7 @@ https://miaminewtimes.com##.ia-support
 https://metservice.com##.img-responsive-container
 https://wired.com##.journey-unit
 https://time.com##.magazine-outer
+https://euobserver.com##.membership-upsell
 https://propublica.org##.module-donate
 https://newsweek.com##.msub
 https://lbry.tv##.nag
@@ -12428,6 +12429,7 @@ https://supernordicskipass.it##.infPr
 https://vienormali.it##.info
 https://altroconsumo.it##.info-banner
 https://orgoglionerd.it##.irpclw
+https://bofrost.it##.iziModal-overlay
 https://estendo.it##.jconfirm
 https://estendo.it##.jconfirm-cell
 https://blogfree.net,forumfree.it##.jnote
@@ -12453,6 +12455,7 @@ https://coopvoce.it##.only-scroll
 https://rubner.com##.page__notification
 https://nh-hotels.it##.politicaRewards
 https://ecoage.it,edilvetta.it,naegele.it,nigiara.it,okpedia.it##.privacy
+https://oggi-in-tv.it##.privacy-msg
 https://smtvsanmarino.sm##.privacy-top
 https://italradio.org##.privacyStatement
 https://idoctors.it##.privacy_bottom
@@ -17080,6 +17083,7 @@ http://miaminewtimes.com##.ia-support
 http://metservice.com##.img-responsive-container
 http://wired.com##.journey-unit
 http://time.com##.magazine-outer
+http://euobserver.com##.membership-upsell
 http://propublica.org##.module-donate
 http://newsweek.com##.msub
 http://lbry.tv##.nag
@@ -23301,6 +23305,7 @@ http://supernordicskipass.it##.infPr
 http://vienormali.it##.info
 http://altroconsumo.it##.info-banner
 http://orgoglionerd.it##.irpclw
+http://bofrost.it##.iziModal-overlay
 http://estendo.it##.jconfirm
 http://estendo.it##.jconfirm-cell
 http://blogfree.net,forumfree.it##.jnote
@@ -23326,6 +23331,7 @@ http://coopvoce.it##.only-scroll
 http://rubner.com##.page__notification
 http://nh-hotels.it##.politicaRewards
 http://ecoage.it,edilvetta.it,naegele.it,nigiara.it,okpedia.it##.privacy
+http://oggi-in-tv.it##.privacy-msg
 http://smtvsanmarino.sm##.privacy-top
 http://italradio.org##.privacyStatement
 http://idoctors.it##.privacy_bottom
