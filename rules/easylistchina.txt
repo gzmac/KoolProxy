@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: LT0Nr68amPP2mz2EFyl7PA
-! Version: 202104020042
+! Checksum: QVH5KqvI0bYXfNlRN665mQ
+! Version: 202104030042
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -3236,7 +3236,6 @@
 ||https://loli.net/2020/07/10/wMqf6ivLVZc92UY.png
 ||https://loli.net/2020/07/13/b1gRsV4OutfYhvp.gif
 ||https://loli.net/2020/07/25/pRqtQvjgE74SzaW.gif
-||https://loli.net/2020/08/05/6orxItEVzlTjKam.png
 ||https://loli.net/2020/08/31/j6NV3wFeIxCtnBX.gif
 ||https://loli.net/2020/09/04/Wx3MdOVvsTPwIlE.gif
 ||https://loli.net/2020/10/26/cSHbJifFgNoyaz8.png
@@ -4403,7 +4402,6 @@
 ||https://whnews.cn/wh_public/xuxu/
 ||https://wholehk.com/atttuop.js
 ||https://wholehk.com/ptpptt.js
-||https://whsir.com/image/aliyun
 ||https://wigcw.cn/20180109150051.png
 ||https://wigcw.cn/240X355.jpg
 ||https://williamlong.info/script/sidebar.js
@@ -4531,7 +4529,6 @@
 ||https://xinshijue6080.com/Runtime/js/
 ||https://xinshijueba.com/js/home/
 ||https://xinshijuecn.com/js/home/
-||https://xinshuige.com/static/images/115AD.jpg
 ||https://xinwenren.com/index.php?m=poster&
 ||https://xinyi.com/Public/config/Couplet/Index39.js
 ||https://xinyi.com/Public/config/Couplet/Index40.js
@@ -10924,7 +10921,6 @@
 ||http://loli.net/2020/07/10/wMqf6ivLVZc92UY.png
 ||http://loli.net/2020/07/13/b1gRsV4OutfYhvp.gif
 ||http://loli.net/2020/07/25/pRqtQvjgE74SzaW.gif
-||http://loli.net/2020/08/05/6orxItEVzlTjKam.png
 ||http://loli.net/2020/08/31/j6NV3wFeIxCtnBX.gif
 ||http://loli.net/2020/09/04/Wx3MdOVvsTPwIlE.gif
 ||http://loli.net/2020/10/26/cSHbJifFgNoyaz8.png
@@ -12220,7 +12216,6 @@
 ||http://whnews.cn/wh_public/xuxu/
 ||http://wholehk.com/atttuop.js
 ||http://wholehk.com/ptpptt.js
-||http://whsir.com/image/aliyun
 ||http://wigcw.cn/20180109150051.png
 ||http://wigcw.cn/240X355.jpg
 ||http://williamlong.info/script/sidebar.js
@@ -12358,7 +12353,6 @@
 ||http://xinshijue6080.com/Runtime/js/
 ||http://xinshijueba.com/js/home/
 ||http://xinshijuecn.com/js/home/
-||http://xinshuige.com/static/images/115AD.jpg
 ||http://xinwenren.com/index.php?m=poster&
 ||http://xinyi.com/Public/config/Couplet/Index39.js
 ||http://xinyi.com/Public/config/Couplet/Index40.js
@@ -13578,6 +13572,7 @@
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
 ||http://lylifa.com^
+||http://jpqgxy.com^
 ||http://gssdsj.com^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -16215,6 +16210,7 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://whsir.com##A[href*=".aliyun.com"]
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -22596,6 +22592,7 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://whsir.com##A[href*=".aliyun.com"]
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2

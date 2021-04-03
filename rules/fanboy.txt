@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nYUZo3r+faEzJfI/oHQqnA
-! Version: 202104020100
+! Checksum: Q1Ffm8ma6gCPPwIi9nbJdA
+! Version: 202104030050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-02 01:00 UTC
+! Last modified: 2021-04-03 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6217,6 +6217,8 @@ https://buzzfeednews.com##.newsblock-tips
 https://shmoop.com##.no-ads
 https://propublica.org##.promo-bar__link-wrapper
 https://apkmirror.com##.promotedApp
+https://racingtv.com##.promotion__asset
+https://racingtv.com##.promotion__overlay
 https://indiatimes.com##.relInsightsYellowNotification1
 https://stuff.co.nz##.spade_3g.spade_3f.spade_3e
 https://goodmorningamerica.com##.sticky-footer
@@ -8034,6 +8036,7 @@ https://techimperia.com##.FooterLeft.paddingright0
 https://quora.com##.FooterSignupForm
 https://cnn.com##.Footer__aside
 https://socialblade.com##.GoogleButton
+https://gadgetsnow.com##.KkbaU
 https://thegrio.com##.Modal
 https://alwaght.com##.NewSoial
 https://weeklystandard.com##.Page-social
@@ -17091,6 +17094,8 @@ http://buzzfeednews.com##.newsblock-tips
 http://shmoop.com##.no-ads
 http://propublica.org##.promo-bar__link-wrapper
 http://apkmirror.com##.promotedApp
+http://racingtv.com##.promotion__asset
+http://racingtv.com##.promotion__overlay
 http://indiatimes.com##.relInsightsYellowNotification1
 http://stuff.co.nz##.spade_3g.spade_3f.spade_3e
 http://goodmorningamerica.com##.sticky-footer
@@ -18908,6 +18913,7 @@ http://techimperia.com##.FooterLeft.paddingright0
 http://quora.com##.FooterSignupForm
 http://cnn.com##.Footer__aside
 http://socialblade.com##.GoogleButton
+http://gadgetsnow.com##.KkbaU
 http://thegrio.com##.Modal
 http://alwaght.com##.NewSoial
 http://weeklystandard.com##.Page-social
