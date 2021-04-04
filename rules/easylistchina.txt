@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: QVH5KqvI0bYXfNlRN665mQ
-! Version: 202104030042
+! Checksum: yDyBr3l/klHGO//Hbz5ZSQ
+! Version: 202104040052
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -3009,7 +3009,6 @@
 ||https://jsdelivr.net/gh/sex169hub/
 ||https://jsdelivr.net/gh/supfree/supfree/top.gif
 ||https://jsdelivr.net/gh/voocdn/static/www/QlZ2twef.js
-||https://jsjinfu.com/maizhan/js/age.js
 ||https://json.cn/js/aliWindow.js
 ||https://jstucdn.com/g3/
 ||https://jstucdn.com/js/goovis.js
@@ -10681,7 +10680,6 @@
 ||http://jsdelivr.net/gh/sex169hub/
 ||http://jsdelivr.net/gh/supfree/supfree/top.gif
 ||http://jsdelivr.net/gh/voocdn/static/www/QlZ2twef.js
-||http://jsjinfu.com/maizhan/js/age.js
 ||http://json.cn/js/aliWindow.js
 ||http://jstucdn.com/g3/
 ||http://jstucdn.com/js/goovis.js
@@ -12750,7 +12748,6 @@
 ||http://avgle.topgirlsdating.com^$domain=avgle.com
 ||http://jads.co^$domain=avgle.com
 ||http://olmsoneenh.info^$domain=avgle.com
-||http://qiyegongqiu1.qiyegongqiu.com^
 ||http://003store.com^
 ||http://0512s.com^$third-party
 ||http://1.01fy.cn^
@@ -13326,6 +13323,7 @@
 ||http://qifake.com^
 ||http://qiji1.jdwx.info^
 ||http://qiyeb.iaskbus.com^
+||http://qiyegongqiu1.qiyegongqiu.com^
 ||http://qizhihaotian.com^*.js
 ||http://ql.uzuzuz.com^
 ||http://qpb.sohu.com^
@@ -13571,9 +13569,7 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://lylifa.com^
-||http://jpqgxy.com^
-||http://gssdsj.com^
+||http://hougonw.com^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
 ||http://027whht.com^
@@ -14254,6 +14250,7 @@
 ||http://grjs08.com^
 ||http://grtnahd.cn^
 ||http://grubfast.com^
+||http://gssdsj.com^
 ||http://gtchong.com^
 ||http://gtifund.cn^
 ||http://gtnde.com^
@@ -14489,6 +14486,7 @@
 ||http://jollyspring.com^
 ||http://jotrening.com^
 ||http://jpg1.oss-cn-beijing.aliyuncs.com^
+||http://jpqgxy.com^
 ||http://jqhevyf.cn^
 ||http://jqpvv.cn^
 ||http://jskang.cn^
@@ -14637,6 +14635,7 @@
 ||http://lychangxu.cn^
 ||http://lyczhb.com^
 ||http://lyjz001.com^
+||http://lylifa.com^
 ||http://lzida.com^
 ||http://lzytt.com^
 ||http://m06nev.com^
@@ -14842,6 +14841,7 @@
 ||http://qianrenge.cc/qian/
 ||http://qianyuntengyue.com^
 ||http://qiaopiguniang.com^
+||http://qichetuoyun.com.cn^
 ||http://qiditrade.com^
 ||http://qilungroup.cn^
 ||http://qinchugudao.com^
@@ -16210,7 +16210,6 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://whsir.com##A[href*=".aliyun.com"]
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -20384,7 +20383,7 @@ https://9ht.com##a[href*=".360.cn/"]
 https://cnzol.com##a[href*=".91comics.com/"]
 https://163.com,bilibili.com,longzhu.com##a[href*=".admaster."]
 https://itboth.com,itkeyword.com##a[href*=".aliyun."]
-https://boke112.com,dzbhdm.com,mzh.ren,techweb.com.cn##a[href*=".aliyun.com"]
+https://boke112.com,dzbhdm.com,mzh.ren,techweb.com.cn,whsir.com##a[href*=".aliyun.com"]
 https://github.com##a[href*=".aliyun.com/minisite/goods?"]
 https://mydrivers.com##a[href*=".ashx?to="]
 https://zhanqi.tv##a[href*=".bfun.cn/ad."]:not([href*=".zhanqi."])
@@ -21159,6 +21158,7 @@ https://mydrivers.com#?#.news_info > p:last-of-type + div:-abp-has(> br + a)
 https://mydrivers.com#?#.news_info > p:last-of-type + div:-abp-has(> div > a)
 https://mydrivers.com#?#.news_info > p:last-of-type:-abp-has(> br + a)
 https://mydrivers.com#?#.news_info > p:nth-last-of-type(2):-abp-has(> br + a)
+https://mypianku.net##nav + div
 https://news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(广告))
 https://news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
 https://nfmovies.com#?#div[id]:-abp-has(>img[onclick="openurl()"])
@@ -22592,7 +22592,6 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://whsir.com##A[href*=".aliyun.com"]
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -26766,7 +26765,7 @@ http://9ht.com##a[href*=".360.cn/"]
 http://cnzol.com##a[href*=".91comics.com/"]
 http://163.com,bilibili.com,longzhu.com##a[href*=".admaster."]
 http://itboth.com,itkeyword.com##a[href*=".aliyun."]
-http://boke112.com,dzbhdm.com,mzh.ren,techweb.com.cn##a[href*=".aliyun.com"]
+http://boke112.com,dzbhdm.com,mzh.ren,techweb.com.cn,whsir.com##a[href*=".aliyun.com"]
 http://github.com##a[href*=".aliyun.com/minisite/goods?"]
 http://mydrivers.com##a[href*=".ashx?to="]
 http://zhanqi.tv##a[href*=".bfun.cn/ad."]:not([href*=".zhanqi."])
@@ -27542,6 +27541,7 @@ http://mydrivers.com#?#.news_info > p:last-of-type + div:-abp-has(> br + a)
 http://mydrivers.com#?#.news_info > p:last-of-type + div:-abp-has(> div > a)
 http://mydrivers.com#?#.news_info > p:last-of-type:-abp-has(> br + a)
 http://mydrivers.com#?#.news_info > p:nth-last-of-type(2):-abp-has(> br + a)
+http://mypianku.net##nav + div
 http://news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(广告))
 http://news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
 http://nfmovies.com#?#div[id]:-abp-has(>img[onclick="openurl()"])
