@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3sHx534/2EneIsQzyrk+sQ
-! Version: 202104040100
+! Checksum: QoFRG3PC9yDsFCF/Fo0Wwg
+! Version: 202104050050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-04 01:00 UTC
+! Last modified: 2021-04-05 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6226,6 +6226,7 @@ https://racingtv.com##.promotion__asset
 https://racingtv.com##.promotion__overlay
 https://indiatimes.com##.relInsightsYellowNotification1
 https://stuff.co.nz##.spade_3g.spade_3f.spade_3e
+https://bleepingcomputer.com##.stackcommerce-widget
 https://goodmorningamerica.com##.sticky-footer
 https://indiatimes.com##.stickyBand
 https://newsweek.com##.subscribe-block-wrapper
@@ -7353,6 +7354,7 @@ https://axios.com##div[class^="StreamCap__promoContainer"]
 https://dallasnews.com##div[class^="app_cta-newsletter"]
 https://euronews.com##div[class^="mailmunch-"]
 https://livemint.com##div[class^="newslettersub"]
+https://macrumors.com##div[class^="subscribe-"]
 https://bloombergquint.com##div[class^="subscription-"]
 https://engadget.com##div[data-component="NewsletterCard"]
 https://fastcompany.com##div[id$="newsletter"]
@@ -12460,6 +12462,7 @@ https://jaguar.it,landrover.it##.notificationBars
 https://tupperware.it##.notificationBox
 https://fieraforli.it##.ns-box
 https://coopvoce.it##.only-scroll
+https://flashscore.it##.otPlaceholder
 https://rubner.com##.page__notification
 https://nh-hotels.it##.politicaRewards
 https://ecoage.it,edilvetta.it,naegele.it,nigiara.it,okpedia.it##.privacy
@@ -13508,9 +13511,10 @@ https://intersport.dk,intersport.es,intersport.nl#@##CookiePopup
 https://sportdiver.com#@##CybotCookiebotDialog
 https://online.no,telenor.no#@##__tealiumGDPRcpPrefs
 https://mediamarkt.de,online.no,saturn.de,telenor.no#@##__tealiumGDPRecModal
+https://downdetector.com#@##_evh-button
 https://la7.it#@##_evh-ric
 https://popsugar.co.uk#@##_evidon-background
-https://popsugar.co.uk#@##_evidon-barrier-wrapper
+https://downdetector.com,popsugar.co.uk#@##_evidon-barrier-wrapper
 https://etonline.com,popsugar.co.uk,popsugar.com,popsugar.com.au#@##_evidon_banner
 https://aboutcookies.org#@##aboutcookies
 https://franziskaner-weissbier.de,xmradio.nl#@##accept-cookies
@@ -17105,6 +17109,7 @@ http://racingtv.com##.promotion__asset
 http://racingtv.com##.promotion__overlay
 http://indiatimes.com##.relInsightsYellowNotification1
 http://stuff.co.nz##.spade_3g.spade_3f.spade_3e
+http://bleepingcomputer.com##.stackcommerce-widget
 http://goodmorningamerica.com##.sticky-footer
 http://indiatimes.com##.stickyBand
 http://newsweek.com##.subscribe-block-wrapper
@@ -18232,6 +18237,7 @@ http://axios.com##div[class^="StreamCap__promoContainer"]
 http://dallasnews.com##div[class^="app_cta-newsletter"]
 http://euronews.com##div[class^="mailmunch-"]
 http://livemint.com##div[class^="newslettersub"]
+http://macrumors.com##div[class^="subscribe-"]
 http://bloombergquint.com##div[class^="subscription-"]
 http://engadget.com##div[data-component="NewsletterCard"]
 http://fastcompany.com##div[id$="newsletter"]
@@ -23341,6 +23347,7 @@ http://jaguar.it,landrover.it##.notificationBars
 http://tupperware.it##.notificationBox
 http://fieraforli.it##.ns-box
 http://coopvoce.it##.only-scroll
+http://flashscore.it##.otPlaceholder
 http://rubner.com##.page__notification
 http://nh-hotels.it##.politicaRewards
 http://ecoage.it,edilvetta.it,naegele.it,nigiara.it,okpedia.it##.privacy
@@ -24389,9 +24396,10 @@ http://intersport.dk,intersport.es,intersport.nl#@##CookiePopup
 http://sportdiver.com#@##CybotCookiebotDialog
 http://online.no,telenor.no#@##__tealiumGDPRcpPrefs
 http://mediamarkt.de,online.no,saturn.de,telenor.no#@##__tealiumGDPRecModal
+http://downdetector.com#@##_evh-button
 http://la7.it#@##_evh-ric
 http://popsugar.co.uk#@##_evidon-background
-http://popsugar.co.uk#@##_evidon-barrier-wrapper
+http://downdetector.com,popsugar.co.uk#@##_evidon-barrier-wrapper
 http://etonline.com,popsugar.co.uk,popsugar.com,popsugar.com.au#@##_evidon_banner
 http://aboutcookies.org#@##aboutcookies
 http://franziskaner-weissbier.de,xmradio.nl#@##accept-cookies
