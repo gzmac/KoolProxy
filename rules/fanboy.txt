@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QoFRG3PC9yDsFCF/Fo0Wwg
-! Version: 202104050050
+! Checksum: Koojip8c/TGpZ2k2HuU4Lw
+! Version: 202104060050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-05 00:50 UTC
+! Last modified: 2021-04-06 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -13204,6 +13204,7 @@ https://bysimple.co#@#.footer-socials
 https://gorod.mos.ru#@#.footer__social
 https://adme.ru#@#.gallery-social
 https://vk.com#@#.group_share
+https://zont-online.ru#@#.header_social
 https://ulrichesch.de#@#.headersocial:not(body):not(html)
 https://oneplus.net#@#.ico-facebook
 https://wpolityce.pl#@#.icon-facebook-official
@@ -24089,6 +24090,7 @@ http://bysimple.co#@#.footer-socials
 http://gorod.mos.ru#@#.footer__social
 http://adme.ru#@#.gallery-social
 http://vk.com#@#.group_share
+http://zont-online.ru#@#.header_social
 http://ulrichesch.de#@#.headersocial:not(body):not(html)
 http://oneplus.net#@#.ico-facebook
 http://wpolityce.pl#@#.icon-facebook-official
