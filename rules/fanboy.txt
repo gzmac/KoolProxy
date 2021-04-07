@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Koojip8c/TGpZ2k2HuU4Lw
-! Version: 202104060050
+! Checksum: rSeAl6Suygk9ZeGtQWpBDA
+! Version: 202104070050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-06 00:50 UTC
+! Last modified: 2021-04-07 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6567,6 +6567,8 @@ https://news-medical.net###topic-notification-signup-box
 https://taskandpurpose.com###tpCTAModalContainer
 https://blog.bettercloud.com###trends
 https://thewrap.com###tw-newsletter-signup
+https://howtogeek.com###v2campaignpopup
+https://howtogeek.com###v2campaignpopup_backdrop
 https://visi.co.za###visi-signup
 https://forbiddenknowledgetv.net###vlog-module-0-0
 https://thrillist.com###vortex-overlay
@@ -6894,6 +6896,7 @@ https://routesonline.com##.infoBlock
 https://citylab.com,theatlantic.com##.injector-promo
 https://sandiegouniontribune.com##.inline_embedded
 https://americaninno.com##.inno-newsletter--box
+https://howtogeek.com##.inpage-clean-style
 https://spglobal.com##.inset-cta
 https://itweb.co.za##.itw-subscribe
 https://thenewcivilrightsmovement.com##.join
@@ -7645,9 +7648,10 @@ https://cbsnews.com,yelp.com###smart-banner
 https://dailymail.co.uk,m.jpost.com###smartBanner
 https://2br.co.uk,deviantart.com,dw.com,eurosport.com,nzherald.co.nz,photobucket.com,spiegel.de###smartbanner
 https://reddit.com##.AppSelectorModal__body
-https://indianexpress.com##.app-btn
+https://financialexpress.com,indianexpress.com##.app-btn
 https://ebay.com##.app-download-banner
 https://sportskeeda.com##.app-download-modal
+https://cricbuzz.com##.cbz-leaderboard-banner
 https://9gag.com##.download-app-container
 https://9gag.com##.get-the-app-banner
 https://independent.co.uk##.inline-prompt
@@ -17451,6 +17455,8 @@ http://news-medical.net###topic-notification-signup-box
 http://taskandpurpose.com###tpCTAModalContainer
 http://blog.bettercloud.com###trends
 http://thewrap.com###tw-newsletter-signup
+http://howtogeek.com###v2campaignpopup
+http://howtogeek.com###v2campaignpopup_backdrop
 http://visi.co.za###visi-signup
 http://forbiddenknowledgetv.net###vlog-module-0-0
 http://thrillist.com###vortex-overlay
@@ -17778,6 +17784,7 @@ http://routesonline.com##.infoBlock
 http://citylab.com,theatlantic.com##.injector-promo
 http://sandiegouniontribune.com##.inline_embedded
 http://americaninno.com##.inno-newsletter--box
+http://howtogeek.com##.inpage-clean-style
 http://spglobal.com##.inset-cta
 http://itweb.co.za##.itw-subscribe
 http://thenewcivilrightsmovement.com##.join
@@ -18529,9 +18536,10 @@ http://cbsnews.com,yelp.com###smart-banner
 http://dailymail.co.uk,m.jpost.com###smartBanner
 http://2br.co.uk,deviantart.com,dw.com,eurosport.com,nzherald.co.nz,photobucket.com,spiegel.de###smartbanner
 http://reddit.com##.AppSelectorModal__body
-http://indianexpress.com##.app-btn
+http://financialexpress.com,indianexpress.com##.app-btn
 http://ebay.com##.app-download-banner
 http://sportskeeda.com##.app-download-modal
+http://cricbuzz.com##.cbz-leaderboard-banner
 http://9gag.com##.download-app-container
 http://9gag.com##.get-the-app-banner
 http://independent.co.uk##.inline-prompt
