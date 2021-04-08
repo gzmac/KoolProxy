@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rSeAl6Suygk9ZeGtQWpBDA
-! Version: 202104070050
+! Checksum: cJ95n00vaYP9WlUrjTp2AQ
+! Version: 202104080050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-07 00:50 UTC
+! Last modified: 2021-04-08 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -5177,6 +5177,7 @@ https://medium.com##.js-promoCardWrapper
 https://avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_commerce-inset-permalink
 https://haaretz.com##.jumping-jack-wrapper
 https://itwire.com##.jwDisqusArticleCounter
+https://thefastmode.com##.k2_channel_banner_square
 https://rent-a-home.com.au,yahoo.com##.k_float
 https://sfgate.com##.kaango
 https://techrepublic.com##.keep-up
@@ -7643,6 +7644,7 @@ https://fanpage.it##.overlay-content-wrapper
 https://mail.ru##.ph-balloo
 https://estadao.com.br##.push-body
 https://flvto.biz##.push-offer
+https://thefastmode.com###ChromeAppPromotion
 https://windy.com###open-in-app
 https://cbsnews.com,yelp.com###smart-banner
 https://dailymail.co.uk,m.jpost.com###smartBanner
@@ -8261,6 +8263,7 @@ https://qz.com##.facebook-message
 https://lovefilm.com##.facebook-title
 https://cracked.com##.facebookLogo
 https://singularityhub.com##.facebook_connect
+https://thefastmode.com##.facebook_plugin
 https://doomclan.tv##.fame-icons
 https://gillette.com##.fan
 https://beverlyhillsmagazine.com,conservativepost.com,usatoday.com##.fancybox-overlay
@@ -8832,6 +8835,7 @@ https://slate.com##.twitter > .twitter
 https://thedailybeast.com##.twitter-search
 https://eurosport.fr##.twitter-tweet
 https://cracked.com##.twitterLogo
+https://thefastmode.com##.twitter_plugin
 https://browserleaks.com,idigitaltimes.com,indiatimes.com,medicaldaily.com,ndtv.com##.twt
 https://hp.com##.ul_media_links
 https://hypable.com##.us_floating
@@ -9919,7 +9923,6 @@ https://spotify.com##div > div[aria-live="polite"]
 https://transamerica.com##div.bannerAlert--isHidden
 https://yahoo.com##div.js-applet-view-container-main > div.fixed-win[style^="background:"]
 https://tacobell.co.uk##div[am-cookie]
-https://patreon.com##div[aria-describedby^="BannerContent"]
 https://revolut.com##div[class*="StyledCookiesBanner"]
 https://quora.com##div[class*="flex_wrapper"][class*="gray_ultralight"]
 https://inc.com##div[class*="privacyPolicyPopup"]
@@ -9941,6 +9944,7 @@ https://deliveroo.ie##div[class^="orderweb__"]
 https://buffer.com##div[class^="style__Banner-"]
 https://tunein.com##div[class^="violator__container"]
 https://youtube.com##div[class^="ytd-consent"]
+https://patreon.com##div[data-tag="cookie-disclosure"]
 https://tunein.com##div[data-testid="gdpr-violatorContainer-true"]
 https://onlinetvrecorder.com##div[id^="d1"]
 https://globecast.com##div[id^="icegram_message_"]
@@ -12303,6 +12307,7 @@ https://jiosaavn.com##.site-message-container
 https://volaparkingorio.it###AeroparkVerona_cookie_advice
 https://oraridiapertura24.it###CCcont
 https://controcampus.it###Controcampus_cookie_advice
+https://amicidicasa.it###G_info
 https://vistaprint.it###MarketingText
 https://ludomedia.it###UIAvvisiUtente
 https://corriere.it,gazzetta.it###\5f evh-ric
@@ -13417,7 +13422,7 @@ https://gallerix.asia,gallerix.org#@#.social-tumblr
 https://4players.de,chrisblattman.com,deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-twitter
 https://medialeaks.ru#@#.social-widgets
 https://bronchiectasisandntminitiative.org,copdfoundation.org,viralnova.com#@#.social-wrap
-https://chess-online.com,dreuz.info,etoro.com,foxnews.com,ilgiorno.it,ilrestodelcarlino.it,lanazione.it,manager.paczkomaty.pl,quotidiano.net#@#.social-wrapper
+https://archivebay.com,chess-online.com,dreuz.info,etoro.com,foxnews.com,ilgiorno.it,ilrestodelcarlino.it,lanazione.it,manager.paczkomaty.pl,quotidiano.net#@#.social-wrapper
 https://coub.com#@#.socialBlock
 https://runescape.com,study.163.com#@#.socialBox
 https://ceneo.pl,showmax.com#@#.socialBtns
@@ -13616,7 +13621,7 @@ https://openfiber.it,supertennis.tv#@#.cc-banner
 https://bing.com,czuczu.pl,experian.com,supertennis.tv#@#.cc-container
 https://morningstar.ca,mysoapbox.com,tangerine.ca#@#.cc_container
 https://onet.pl#@#.cmp-app_gdpr
-https://arnes.si,consent.yahoo.com,lawrievetgroup.co.uk,oath.com#@#.consent-container
+https://arnes.si,consent.yahoo.com,lawrievetgroup.co.uk,oath.com,telenordigital.com#@#.consent-container
 https://consent.yahoo.com,lawrievetgroup.co.uk,payments.amazon.ca,payments.amazon.co.jp,payments.amazon.co.uk,payments.amazon.com,payments.amazon.com.au,payments.amazon.com.br,payments.amazon.de,payments.amazon.es,payments.amazon.fr,payments.amazon.in,payments.amazon.it,simplii.com#@#.consent-wrapper
 https://svenskhalsokost.se#@#.cookie-accept
 https://boursorama.com,nuxeo.com#@#.cookie-banner
@@ -13751,7 +13756,7 @@ https://spotify.com#@#.privacy-modal
 https://google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.by,google.com.bz,google.com.cn,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.jo,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.ru,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tn,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.ve,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hk,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.it.ao,google.je,google.jo,google.jp,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.ne.jp,google.ng,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tl,google.tm,google.tn,google.to,google.tt,google.us,google.vg,google.vu,google.ws#@#.privacyBar
 https://metallica.com#@#.privacy_policy_message_box
 https://online.no,telenor.no#@#.privacy_prompt
-https://referencerecordings.com,studio100.it,taxelocale6.ro,tko.pl#@#.pum[data-popmake*="cookies"]
+https://handies.com,referencerecordings.com,studio100.it,taxelocale6.ro,tko.pl#@#.pum[data-popmake*="cookies"]
 https://jyllands-posten.dk#@#.qc-cmp-showing
 https://jyllands-posten.dk#@#.qc-cmp-ui-container
 https://motofaktor.pl#@#.rodo-accept
@@ -16065,6 +16070,7 @@ http://medium.com##.js-promoCardWrapper
 http://avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_commerce-inset-permalink
 http://haaretz.com##.jumping-jack-wrapper
 http://itwire.com##.jwDisqusArticleCounter
+http://thefastmode.com##.k2_channel_banner_square
 http://rent-a-home.com.au,yahoo.com##.k_float
 http://sfgate.com##.kaango
 http://techrepublic.com##.keep-up
@@ -18531,6 +18537,7 @@ http://fanpage.it##.overlay-content-wrapper
 http://mail.ru##.ph-balloo
 http://estadao.com.br##.push-body
 http://flvto.biz##.push-offer
+http://thefastmode.com###ChromeAppPromotion
 http://windy.com###open-in-app
 http://cbsnews.com,yelp.com###smart-banner
 http://dailymail.co.uk,m.jpost.com###smartBanner
@@ -19149,6 +19156,7 @@ http://qz.com##.facebook-message
 http://lovefilm.com##.facebook-title
 http://cracked.com##.facebookLogo
 http://singularityhub.com##.facebook_connect
+http://thefastmode.com##.facebook_plugin
 http://doomclan.tv##.fame-icons
 http://gillette.com##.fan
 http://beverlyhillsmagazine.com,conservativepost.com,usatoday.com##.fancybox-overlay
@@ -19720,6 +19728,7 @@ http://slate.com##.twitter > .twitter
 http://thedailybeast.com##.twitter-search
 http://eurosport.fr##.twitter-tweet
 http://cracked.com##.twitterLogo
+http://thefastmode.com##.twitter_plugin
 http://browserleaks.com,idigitaltimes.com,indiatimes.com,medicaldaily.com,ndtv.com##.twt
 http://hp.com##.ul_media_links
 http://hypable.com##.us_floating
@@ -20808,7 +20817,6 @@ http://spotify.com##div > div[aria-live="polite"]
 http://transamerica.com##div.bannerAlert--isHidden
 http://yahoo.com##div.js-applet-view-container-main > div.fixed-win[style^="background:"]
 http://tacobell.co.uk##div[am-cookie]
-http://patreon.com##div[aria-describedby^="BannerContent"]
 http://revolut.com##div[class*="StyledCookiesBanner"]
 http://quora.com##div[class*="flex_wrapper"][class*="gray_ultralight"]
 http://inc.com##div[class*="privacyPolicyPopup"]
@@ -20830,6 +20838,7 @@ http://deliveroo.ie##div[class^="orderweb__"]
 http://buffer.com##div[class^="style__Banner-"]
 http://tunein.com##div[class^="violator__container"]
 http://youtube.com##div[class^="ytd-consent"]
+http://patreon.com##div[data-tag="cookie-disclosure"]
 http://tunein.com##div[data-testid="gdpr-violatorContainer-true"]
 http://onlinetvrecorder.com##div[id^="d1"]
 http://globecast.com##div[id^="icegram_message_"]
@@ -23193,6 +23202,7 @@ http://jiosaavn.com##.site-message-container
 http://volaparkingorio.it###AeroparkVerona_cookie_advice
 http://oraridiapertura24.it###CCcont
 http://controcampus.it###Controcampus_cookie_advice
+http://amicidicasa.it###G_info
 http://vistaprint.it###MarketingText
 http://ludomedia.it###UIAvvisiUtente
 http://corriere.it,gazzetta.it###\5f evh-ric
@@ -24307,7 +24317,7 @@ http://gallerix.asia,gallerix.org#@#.social-tumblr
 http://4players.de,chrisblattman.com,deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-twitter
 http://medialeaks.ru#@#.social-widgets
 http://bronchiectasisandntminitiative.org,copdfoundation.org,viralnova.com#@#.social-wrap
-http://chess-online.com,dreuz.info,etoro.com,foxnews.com,ilgiorno.it,ilrestodelcarlino.it,lanazione.it,manager.paczkomaty.pl,quotidiano.net#@#.social-wrapper
+http://archivebay.com,chess-online.com,dreuz.info,etoro.com,foxnews.com,ilgiorno.it,ilrestodelcarlino.it,lanazione.it,manager.paczkomaty.pl,quotidiano.net#@#.social-wrapper
 http://coub.com#@#.socialBlock
 http://runescape.com,study.163.com#@#.socialBox
 http://ceneo.pl,showmax.com#@#.socialBtns
@@ -24506,7 +24516,7 @@ http://openfiber.it,supertennis.tv#@#.cc-banner
 http://bing.com,czuczu.pl,experian.com,supertennis.tv#@#.cc-container
 http://morningstar.ca,mysoapbox.com,tangerine.ca#@#.cc_container
 http://onet.pl#@#.cmp-app_gdpr
-http://arnes.si,consent.yahoo.com,lawrievetgroup.co.uk,oath.com#@#.consent-container
+http://arnes.si,consent.yahoo.com,lawrievetgroup.co.uk,oath.com,telenordigital.com#@#.consent-container
 http://consent.yahoo.com,lawrievetgroup.co.uk,payments.amazon.ca,payments.amazon.co.jp,payments.amazon.co.uk,payments.amazon.com,payments.amazon.com.au,payments.amazon.com.br,payments.amazon.de,payments.amazon.es,payments.amazon.fr,payments.amazon.in,payments.amazon.it,simplii.com#@#.consent-wrapper
 http://svenskhalsokost.se#@#.cookie-accept
 http://boursorama.com,nuxeo.com#@#.cookie-banner
@@ -24641,7 +24651,7 @@ http://spotify.com#@#.privacy-modal
 http://google.ac,google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.by,google.com.bz,google.com.cn,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.jo,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.ru,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tn,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.ve,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hk,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.it.ao,google.je,google.jo,google.jp,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.ne.jp,google.ng,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tl,google.tm,google.tn,google.to,google.tt,google.us,google.vg,google.vu,google.ws#@#.privacyBar
 http://metallica.com#@#.privacy_policy_message_box
 http://online.no,telenor.no#@#.privacy_prompt
-http://referencerecordings.com,studio100.it,taxelocale6.ro,tko.pl#@#.pum[data-popmake*="cookies"]
+http://handies.com,referencerecordings.com,studio100.it,taxelocale6.ro,tko.pl#@#.pum[data-popmake*="cookies"]
 http://jyllands-posten.dk#@#.qc-cmp-showing
 http://jyllands-posten.dk#@#.qc-cmp-ui-container
 http://motofaktor.pl#@#.rodo-accept
