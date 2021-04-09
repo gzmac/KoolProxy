@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cJ95n00vaYP9WlUrjTp2AQ
-! Version: 202104080050
+! Checksum: aOQRh0/b8YA09cfgzr1c8w
+! Version: 202104090050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-08 00:50 UTC
+! Last modified: 2021-04-09 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -789,6 +789,7 @@
 ||https://ccmp.eu^$third-party
 ||https://civiccomputing.com^*=cookie$third-party
 ||https://clickio.mgr.consensu.org^$third-party
+||https://clickiocdn.com/t/cmp/$third-party
 ||https://consensu.org/gdpr/$third-party
 ||https://consent.dk^$third-party
 ||https://consent.truste.com^$third-party
@@ -1367,6 +1368,7 @@
 ||https://sanoma.fi^*/sccm-c.js
 ||https://sanoma.fi^*/sccm.js
 ||https://bastabugie.it/it/cookies.js
+||https://beautydea.it^*/consent_$script
 ||https://cippy.it/Scripts/toastr.js
 ||https://cms24.it/js/kekse.js
 ||https://cookierulez.sqrt64.it^$third-party
@@ -2200,6 +2202,7 @@
 ||http://ccpa-script.psg.nexstardigital.net^
 ||http://civiccomputing.com^*=cookie$third-party
 ||http://clickio.mgr.consensu.org^$third-party
+||http://clickiocdn.com/t/cmp/$third-party
 ||http://cmp.network-n.com^
 ||http://cmp.nextday.media^
 ||http://consensu.org/gdpr/$third-party
@@ -2840,6 +2843,7 @@
 ||http://sanoma.fi^*/sccm-c.js
 ||http://sanoma.fi^*/sccm.js
 ||http://bastabugie.it/it/cookies.js
+||http://beautydea.it^*/consent_$script
 ||http://cippy.it/Scripts/toastr.js
 ||http://cms24.it/js/kekse.js
 ||http://cookie.aerostatonet.it^
@@ -6289,6 +6293,7 @@ https://motherjones.com###bottom_adhesion
 https://broadwayworld.com###bounceModal
 https://business-standard.com###box
 https://maxim.com###boxes-box-maxim_newsletter
+https://mobihealthnews.com###boxes-box-subsctiption_middle
 https://iafrica.com,marijuanamoment.net,thebaffler.com###boxzilla-overlay
 https://tmz.com###browser-notifications-prompt
 https://telesurenglish.net###bulletin
@@ -6897,7 +6902,6 @@ https://routesonline.com##.infoBlock
 https://citylab.com,theatlantic.com##.injector-promo
 https://sandiegouniontribune.com##.inline_embedded
 https://americaninno.com##.inno-newsletter--box
-https://howtogeek.com##.inpage-clean-style
 https://spglobal.com##.inset-cta
 https://itweb.co.za##.itw-subscribe
 https://thenewcivilrightsmovement.com##.join
@@ -7132,6 +7136,7 @@ https://1015soul.com,927theblock.com,92q.com,955thelou.com,boomcolumbus.com,boom
 https://blackamericaweb.com,metro.co.uk,thepoliticalinsider.com##.sailthru-signup-widget
 https://medicinenet.com##.sc-modal
 https://nationalreview.com##.scrolling-share
+https://gallup.com##.section--callout
 https://thejc.com##.section-subscribe
 https://sega.co.uk##.sega-central-newsletter
 https://searchenginejournal.com##.sej-subscribe-form
@@ -7217,7 +7222,7 @@ https://fansided.com,lastnighton.com,netflixlife.com,winteriscoming.net##.sub-fo
 https://irishtimes.com##.sub-prompt
 https://investmentnews.com##.subPopupTop
 https://stlucianewsonline.com##.subscr
-https://al-shabaka.org,android.gs,attn.com,bamargera.com,bet.com,bizjournals.com,blackagendareport.com,boardingarea.com,briefly.co.za,broadwayworld.com,businesstech.co.za,caloriesecrets.net,catonmat.net,cbn.com,cheeserank.com,chicagomag.com,classicalite.com,cnet.com,dailycaller.com,dailyfeed.co.uk,defenseone.com,devicemag.com,ebayinkblog.com,ehow.com,foxnews.com,freep.com,freshersworld.com,fromthegrapevine.com,gellerreport.com,gimmesomeoven.com,gizmag.com,gotquestions.org,greece-is.com,hpcwire.com,huffpost.com,indiatimes.com,infowars.com,intoday.in,intomobile.com,irishpost.com,labnol.org,lamag.com,laweekly.com,list25.com,livescience.com,messynessychic.com,miaminewtimes.com,mpr.org,mumbrella.com.au,mybroadband.co.za,mygaming.co.za,naij.com,naija.ng,nationalgeographic.com,ndtv.com,newatlas.com,news.usc.edu,newsarama.com,newsclick.in,newsmaxtv.com,newsroom.co.nz,nymag.com,outerplaces.com,pando.com,pandodaily.com,parentherald.com,pba.org,pedestrian.tv,people.com,petapixel.com,phonearena.com,politicsweb.co.za,poundsterlinglive.com,propertyobserver.com.au,rabble.ca,rbth.com,readwriteweb.com,recipetineats.com,savedelete.com,searchengineland.com,seroundtable.com,skiptomylou.org,snopes.com,space.com,spacenews.com,spoonuniversity.com,statescoop.com,stream.org,svpino.com,techeye.net,ted.com,teenchatdecoder.com,theaircurrent.com,theatlantic.com,thecollegefix.com,thefinancialbrand.com,thehill.com,themoscowtimes.com,therichest.org,thinq.co.uk,tourismupdate.co.za,trust.org,tuko.co.ke,tutsplus.com,tv.com,twice.com,udreview.com,upworthy.com,usatoday.com,usnews.com,vagabomb.com,variety.com,wackymania.com,wccftech.com,westword.com,windows7news.com,winhelponline.com,wired.co.uk##.subscribe
+https://al-shabaka.org,android.gs,attn.com,bamargera.com,bet.com,bizjournals.com,blackagendareport.com,boardingarea.com,briefly.co.za,broadwayworld.com,businesstech.co.za,caloriesecrets.net,catonmat.net,cbn.com,cheeserank.com,chicagomag.com,classicalite.com,cnet.com,dailycaller.com,dailyfeed.co.uk,defenseone.com,devicemag.com,ebayinkblog.com,ehow.com,foxnews.com,freep.com,freshersworld.com,fromthegrapevine.com,gellerreport.com,gimmesomeoven.com,gizmag.com,gotquestions.org,greece-is.com,hindustantimes.com,hpcwire.com,huffpost.com,indiatimes.com,infowars.com,intoday.in,intomobile.com,irishpost.com,labnol.org,lamag.com,laweekly.com,list25.com,livescience.com,messynessychic.com,miaminewtimes.com,mpr.org,mumbrella.com.au,mybroadband.co.za,mygaming.co.za,naij.com,naija.ng,nationalgeographic.com,ndtv.com,newatlas.com,news.usc.edu,newsarama.com,newsclick.in,newsmaxtv.com,newsroom.co.nz,nymag.com,outerplaces.com,pando.com,pandodaily.com,parentherald.com,pba.org,pedestrian.tv,people.com,petapixel.com,phonearena.com,politicsweb.co.za,poundsterlinglive.com,propertyobserver.com.au,rabble.ca,rbth.com,readwriteweb.com,recipetineats.com,savedelete.com,searchengineland.com,seroundtable.com,skiptomylou.org,snopes.com,space.com,spacenews.com,spoonuniversity.com,statescoop.com,stream.org,svpino.com,techeye.net,ted.com,teenchatdecoder.com,theaircurrent.com,theatlantic.com,thecollegefix.com,thefinancialbrand.com,thehill.com,themoscowtimes.com,therichest.org,thinq.co.uk,tourismupdate.co.za,trust.org,tuko.co.ke,tutsplus.com,tv.com,twice.com,udreview.com,upworthy.com,usatoday.com,usnews.com,vagabomb.com,variety.com,wackymania.com,wccftech.com,westword.com,windows7news.com,winhelponline.com,wired.co.uk##.subscribe
 https://digg.com##.subscribe-bar
 https://breakingnews.ie##.subscribe-box-articles
 https://albawaba.com,rt.com,sport360.com##.subscribe-btn
@@ -7344,6 +7349,7 @@ https://stuff.co.nz##div[class$="-pointer"]
 https://stuff.co.nz##div[class$="_pointer"]
 https://theplayerstribune.com##div[class*="NewsletterWrapper"]
 https://dailymail.co.uk##div[class*="floater-"]
+https://howtogeek.com##div[class*="inpage"]
 https://producthunt.com##div[class*="subscribeToNewsletter"]
 https://usnews.com##div[class="KioskFirstClass__Container-"]
 https://legacy.com##div[class^="ArticleBody__BodyDescription_"] > p[style="text-align: center;"]
@@ -9402,6 +9408,7 @@ https://toughnickel.com###tos_update_band
 https://ergonbike.com###tracking-modal
 https://stingray.com###tracking-popup
 https://skylinewebcams.com###trigCookie
+https://censor.net###usage_notice
 https://busybeeblog.com###user_disclaimer
 https://iboysoft.com###user_popup
 https://bunkerworld.com###userprompt
@@ -9609,6 +9616,7 @@ https://f-secure.com##.fs-consent
 https://cgtn.com##.g-dialog
 https://scaleway.com##.gLLeaT
 https://themeflood.com##.gatewayContainer
+https://gallup.com##.gcb_35556
 https://aviationweek.com##.gdpr
 https://downloadcrew.com##.ginger_banner
 https://ingwb.com##.glass
@@ -13215,6 +13223,7 @@ https://adme.ru#@#.gallery-social
 https://vk.com#@#.group_share
 https://zont-online.ru#@#.header_social
 https://ulrichesch.de#@#.headersocial:not(body):not(html)
+https://letsknowthings.com#@#.hide-social
 https://oneplus.net#@#.ico-facebook
 https://wpolityce.pl#@#.icon-facebook-official
 https://lockerdome.com#@#.icon-facebook2
@@ -17182,6 +17191,7 @@ http://motherjones.com###bottom_adhesion
 http://broadwayworld.com###bounceModal
 http://business-standard.com###box
 http://maxim.com###boxes-box-maxim_newsletter
+http://mobihealthnews.com###boxes-box-subsctiption_middle
 http://iafrica.com,marijuanamoment.net,thebaffler.com###boxzilla-overlay
 http://tmz.com###browser-notifications-prompt
 http://telesurenglish.net###bulletin
@@ -17790,7 +17800,6 @@ http://routesonline.com##.infoBlock
 http://citylab.com,theatlantic.com##.injector-promo
 http://sandiegouniontribune.com##.inline_embedded
 http://americaninno.com##.inno-newsletter--box
-http://howtogeek.com##.inpage-clean-style
 http://spglobal.com##.inset-cta
 http://itweb.co.za##.itw-subscribe
 http://thenewcivilrightsmovement.com##.join
@@ -18025,6 +18034,7 @@ http://1015soul.com,927theblock.com,92q.com,955thelou.com,boomcolumbus.com,boomi
 http://blackamericaweb.com,metro.co.uk,thepoliticalinsider.com##.sailthru-signup-widget
 http://medicinenet.com##.sc-modal
 http://nationalreview.com##.scrolling-share
+http://gallup.com##.section--callout
 http://thejc.com##.section-subscribe
 http://sega.co.uk##.sega-central-newsletter
 http://searchenginejournal.com##.sej-subscribe-form
@@ -18110,7 +18120,7 @@ http://fansided.com,lastnighton.com,netflixlife.com,winteriscoming.net##.sub-foo
 http://irishtimes.com##.sub-prompt
 http://investmentnews.com##.subPopupTop
 http://stlucianewsonline.com##.subscr
-http://al-shabaka.org,android.gs,attn.com,bamargera.com,bet.com,bizjournals.com,blackagendareport.com,boardingarea.com,briefly.co.za,broadwayworld.com,businesstech.co.za,caloriesecrets.net,catonmat.net,cbn.com,cheeserank.com,chicagomag.com,classicalite.com,cnet.com,dailycaller.com,dailyfeed.co.uk,defenseone.com,devicemag.com,ebayinkblog.com,ehow.com,foxnews.com,freep.com,freshersworld.com,fromthegrapevine.com,gellerreport.com,gimmesomeoven.com,gizmag.com,gotquestions.org,greece-is.com,hpcwire.com,huffpost.com,indiatimes.com,infowars.com,intoday.in,intomobile.com,irishpost.com,labnol.org,lamag.com,laweekly.com,list25.com,livescience.com,messynessychic.com,miaminewtimes.com,mpr.org,mumbrella.com.au,mybroadband.co.za,mygaming.co.za,naij.com,naija.ng,nationalgeographic.com,ndtv.com,newatlas.com,news.usc.edu,newsarama.com,newsclick.in,newsmaxtv.com,newsroom.co.nz,nymag.com,outerplaces.com,pando.com,pandodaily.com,parentherald.com,pba.org,pedestrian.tv,people.com,petapixel.com,phonearena.com,politicsweb.co.za,poundsterlinglive.com,propertyobserver.com.au,rabble.ca,rbth.com,readwriteweb.com,recipetineats.com,savedelete.com,searchengineland.com,seroundtable.com,skiptomylou.org,snopes.com,space.com,spacenews.com,spoonuniversity.com,statescoop.com,stream.org,svpino.com,techeye.net,ted.com,teenchatdecoder.com,theaircurrent.com,theatlantic.com,thecollegefix.com,thefinancialbrand.com,thehill.com,themoscowtimes.com,therichest.org,thinq.co.uk,tourismupdate.co.za,trust.org,tuko.co.ke,tutsplus.com,tv.com,twice.com,udreview.com,upworthy.com,usatoday.com,usnews.com,vagabomb.com,variety.com,wackymania.com,wccftech.com,westword.com,windows7news.com,winhelponline.com,wired.co.uk##.subscribe
+http://al-shabaka.org,android.gs,attn.com,bamargera.com,bet.com,bizjournals.com,blackagendareport.com,boardingarea.com,briefly.co.za,broadwayworld.com,businesstech.co.za,caloriesecrets.net,catonmat.net,cbn.com,cheeserank.com,chicagomag.com,classicalite.com,cnet.com,dailycaller.com,dailyfeed.co.uk,defenseone.com,devicemag.com,ebayinkblog.com,ehow.com,foxnews.com,freep.com,freshersworld.com,fromthegrapevine.com,gellerreport.com,gimmesomeoven.com,gizmag.com,gotquestions.org,greece-is.com,hindustantimes.com,hpcwire.com,huffpost.com,indiatimes.com,infowars.com,intoday.in,intomobile.com,irishpost.com,labnol.org,lamag.com,laweekly.com,list25.com,livescience.com,messynessychic.com,miaminewtimes.com,mpr.org,mumbrella.com.au,mybroadband.co.za,mygaming.co.za,naij.com,naija.ng,nationalgeographic.com,ndtv.com,newatlas.com,news.usc.edu,newsarama.com,newsclick.in,newsmaxtv.com,newsroom.co.nz,nymag.com,outerplaces.com,pando.com,pandodaily.com,parentherald.com,pba.org,pedestrian.tv,people.com,petapixel.com,phonearena.com,politicsweb.co.za,poundsterlinglive.com,propertyobserver.com.au,rabble.ca,rbth.com,readwriteweb.com,recipetineats.com,savedelete.com,searchengineland.com,seroundtable.com,skiptomylou.org,snopes.com,space.com,spacenews.com,spoonuniversity.com,statescoop.com,stream.org,svpino.com,techeye.net,ted.com,teenchatdecoder.com,theaircurrent.com,theatlantic.com,thecollegefix.com,thefinancialbrand.com,thehill.com,themoscowtimes.com,therichest.org,thinq.co.uk,tourismupdate.co.za,trust.org,tuko.co.ke,tutsplus.com,tv.com,twice.com,udreview.com,upworthy.com,usatoday.com,usnews.com,vagabomb.com,variety.com,wackymania.com,wccftech.com,westword.com,windows7news.com,winhelponline.com,wired.co.uk##.subscribe
 http://digg.com##.subscribe-bar
 http://breakingnews.ie##.subscribe-box-articles
 http://albawaba.com,rt.com,sport360.com##.subscribe-btn
@@ -18237,6 +18247,7 @@ http://stuff.co.nz##div[class$="-pointer"]
 http://stuff.co.nz##div[class$="_pointer"]
 http://theplayerstribune.com##div[class*="NewsletterWrapper"]
 http://dailymail.co.uk##div[class*="floater-"]
+http://howtogeek.com##div[class*="inpage"]
 http://producthunt.com##div[class*="subscribeToNewsletter"]
 http://usnews.com##div[class="KioskFirstClass__Container-"]
 http://legacy.com##div[class^="ArticleBody__BodyDescription_"] > p[style="text-align: center;"]
@@ -20296,6 +20307,7 @@ http://toughnickel.com###tos_update_band
 http://ergonbike.com###tracking-modal
 http://stingray.com###tracking-popup
 http://skylinewebcams.com###trigCookie
+http://censor.net###usage_notice
 http://busybeeblog.com###user_disclaimer
 http://iboysoft.com###user_popup
 http://bunkerworld.com###userprompt
@@ -20503,6 +20515,7 @@ http://f-secure.com##.fs-consent
 http://cgtn.com##.g-dialog
 http://scaleway.com##.gLLeaT
 http://themeflood.com##.gatewayContainer
+http://gallup.com##.gcb_35556
 http://aviationweek.com##.gdpr
 http://downloadcrew.com##.ginger_banner
 http://ingwb.com##.glass
@@ -24110,6 +24123,7 @@ http://adme.ru#@#.gallery-social
 http://vk.com#@#.group_share
 http://zont-online.ru#@#.header_social
 http://ulrichesch.de#@#.headersocial:not(body):not(html)
+http://letsknowthings.com#@#.hide-social
 http://oneplus.net#@#.ico-facebook
 http://wpolityce.pl#@#.icon-facebook-official
 http://lockerdome.com#@#.icon-facebook2

@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 96HGvL3btkdeQNmoT9xl2g
-! Version: 202104080042
+! Checksum: NmQvdOg6Eg5msonbdIugGg
+! Version: 202104090042
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -3952,6 +3952,8 @@
 ||https://sinaimg.cn/large/5431d036ly1fh6gmu6gxmg20tg02i3yr.gif
 ||https://sinaimg.cn/large/5431d036ly1fhxbxz31nkj20tg02ignm.jpg
 ||https://sinaimg.cn/large/61ac6637gy1go7az1zmucj20pc08cjts.jpg
+||https://sinaimg.cn/large/61ac6637gy1gpciz97x5og21rw0go1kx.gif
+||https://sinaimg.cn/large/61ac6637gy1gpcjble96hg21e00dwaum.gif
 ||https://sinaimg.cn/large/6f8a2832gy1g7qyw7suqjj21400p0ake.jpg
 ||https://sinaimg.cn/large/8c8bd65d
 ||https://sinaimg.cn/large/df8f080agw1f47u58kr42j20dw0dwadl.jpg
@@ -6535,6 +6537,7 @@
 ||http://govgift.com^
 ||http://govhunan.cn^
 ||http://govjiangsu.cn^
+||http://govshenzhen.cn^
 ||http://gowin01.com^
 ||http://gowinxp.com^$third-party
 ||http://gqswg.com^
@@ -6957,6 +6960,7 @@
 ||http://lv55p.cn^
 ||http://lv711.net^$third-party
 ||http://lvehaisen.com^
+||http://lvt1980.cn^
 ||http://lx167.com^$third-party
 ||http://lxqcgj.com^
 ||http://lyadu.com^
@@ -11719,6 +11723,8 @@
 ||http://sinaimg.cn/large/5431d036ly1fh6gmu6gxmg20tg02i3yr.gif
 ||http://sinaimg.cn/large/5431d036ly1fhxbxz31nkj20tg02ignm.jpg
 ||http://sinaimg.cn/large/61ac6637gy1go7az1zmucj20pc08cjts.jpg
+||http://sinaimg.cn/large/61ac6637gy1gpciz97x5og21rw0go1kx.gif
+||http://sinaimg.cn/large/61ac6637gy1gpcjble96hg21e00dwaum.gif
 ||http://sinaimg.cn/large/6f8a2832gy1g7qyw7suqjj21400p0ake.jpg
 ||http://sinaimg.cn/large/8c8bd65d$domain=loldk.com
 ||http://sinaimg.cn/large/df8f080agw1f47u58kr42j20dw0dwadl.jpg
@@ -13674,6 +13680,7 @@
 ||http://517kp.com^
 ||http://519397.com^
 ||http://51dianji.cn^
+||http://51elandt.com^
 ||http://51fishplace.com^
 ||http://51foodsafe.cn^
 ||http://51gpt.com^
@@ -14175,6 +14182,7 @@
 ||http://feiszw.com/style/w.js
 ||http://feizailin.com^
 ||http://fengmishop.cn^
+||http://fengousm.com^
 ||http://ff01s.cn^
 ||http://ffg34fg.877zw.com^
 ||http://ffhre.com^
@@ -14273,6 +14281,7 @@
 ||http://grjs08.com^
 ||http://grtnahd.cn^
 ||http://grubfast.com^
+||http://gslyxny.com^
 ||http://gssdsj.com^
 ||http://gtchong.com^
 ||http://gtifund.cn^
@@ -15129,6 +15138,7 @@
 ||http://u05m.cn^
 ||http://u0r9.cn^
 ||http://u2c8.cn^
+||http://u5wzi0h.cn^
 ||http://u98ql6o.top^
 ||http://uaevivi.top^
 ||http://ubt573.org^
@@ -21732,6 +21742,8 @@ https://ali213.net#@#.subscribe-container
 https://5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
+https://fanyi.sogou.com##.img-banner
+https://fanyi.sogou.com##.survey
 https://huaban.com##.hb-ad
 https://ifsp.tv##.video-page-right
 https://meijumi.me###app_left
@@ -25991,6 +26003,7 @@ http://baobao.baidu.com##.qb-relate-box
 http://qidian.com##.qd-game
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.qipai_thread
 http://czjx8.com##.qktz
+http://717dyi.com##.qptp + *,.vdgd + *,.qpgd + *,a > video
 http://seqing.world,singlove.com,whichav.com,whichav.net,wokao.co##.qq
 http://htcui.com##.qqanimate
 http://phpvar.com##.qrcode-swiper-container
@@ -28124,6 +28137,8 @@ http://ali213.net#@#.subscribe-container
 http://5dm.tv#@#.tm-share-this
 http://laohu8.com#@#.tweet-article
 http://fqsousou.com,kengso.com#@#.user-share
+http://fanyi.sogou.com##.img-banner
+http://fanyi.sogou.com##.survey
 http://huaban.com##.hb-ad
 http://ifsp.tv##.video-page-right
 http://meijumi.me###app_left
