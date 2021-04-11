@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yDZhC1Z0/Bk8OYkHbn8+lQ
-! Version: 202104100050
+! Checksum: I79vz8MMfPaDiKKsYnLSoA
+! Version: 202104110050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-10 00:50 UTC
+! Last modified: 2021-04-11 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2589,7 +2589,7 @@
 ||http://emerse.com/consent.js
 ||http://freedoflondon.com/Styles/dialog-popup/jquery-ui.js
 ||http://freetls.fastly.net/main/sd-cmp-$domain=spanishdict.com
-||http://fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|gameblog.fr|liliputing.com|phonearena.com|smallseotools.com|telegram.hr|wordreference.com
+||http://fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|gameblog.fr|liliputing.com|phonearena.com|quotes.net|smallseotools.com|telegram.hr|wordreference.com
 ||http://gdpr.internetbrands.com^
 ||http://gdpr.prisa.com^
 ||http://government-and-constitution.org/js/consent.js
@@ -9963,7 +9963,6 @@ https://onlinetvrecorder.com##div[id^="d1"]
 https://globecast.com##div[id^="icegram_message_"]
 https://dumont.de,knowyourmeme.com##div[id^="sp_message_id"]
 https://mashable.com##div[style*="background: rgb(255, 255, 255)"]
-https://androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,phonearena.com,smallseotools.com,telegram.hr,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 https://plarium.com##div[style*="position: fixed;"]
 https://cplusplus.com##div[style="background:#eed;padding:10px;margin:0;text-align:center;border-bottom:1px solid #446"]
 https://flazio.com##div[style="z-index:9998; position: fixed;bottom: 0;left: 0;width: 100%;background: #208ac8;color: #f1f3f5;font-size: 12px;padding: 12px 0px;text-align: center;"]
@@ -9983,6 +9982,7 @@ https://satispay.com##p[class^="cookie-banner"]
 https://opentip.kaspersky.com##section[data-t="cks-dsc"] > div > div
 https://truecaller.com##span > .max-w-md.shadow-lg
 https://web.dev##web-snackbar
+https://androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,phonearena.com,quotes.net,smallseotools.com,telegram.hr,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 https://play.google.com##.gb_g:has-text(cookie)
 https://istockphoto.com#?#.warning:-abp-has([data-cookie-type])
 https://play.google.com#?#.gb_g:-abp-contains(cookie)
@@ -12948,7 +12948,7 @@ https://fikriyat.com,sabah.com.tr,turkuvazradyolar.com,yeniasir.com.tr##.veriAlt
 https://fdu.org.ua###pd_popup
 https://i.ua##.Disclaimer
 https://tsn.ua##.c-notification__box
-https://unian.ua##.cookies
+https://dybok.com.ua,unian.ua##.cookies
 https://landrover.ua##.notificationBars
 https://ua-football.com##.policy-mes
 https://kinoafisha.ua##.privacy-modal
@@ -13304,7 +13304,7 @@ https://hootsuite.com#@#.retweet
 https://space.com#@#.search-social
 https://nasa.gov,nosdiario.gal#@#.section-social
 https://californiasunday.com,youtube.com#@#.share-bar
-https://figshare.com,upi.com#@#.share-block
+https://advego.com,figshare.com,upi.com#@#.share-block
 https://speedtest.net#@#.share-body
 https://gala.fr#@#.share-bottom
 https://belgafiles.com,dakine.com,linkedin.com,way2sms.com#@#.share-box
@@ -13554,7 +13554,7 @@ https://consent.yahoo.com,paypal.com#@##consent.consent
 https://dnb.no#@##consentContainer
 https://sandisk.ae,sandisk.cn,sandisk.co.jp,sandisk.co.kr,sandisk.co.uk,sandisk.com,sandisk.com.au,sandisk.com.br,sandisk.com.tr,sandisk.com.tw,sandisk.de,sandisk.es,sandisk.fr,sandisk.hk,sandisk.id,sandisk.in,sandisk.it,sandisk.nl,sandisk.sg,wacom.com#@##consent_blackbar
 https://roussillhotel.com#@##cookie-banner
-https://dm-drogeriemarkt.it#@##cookie-bar
+https://dm-drogeriemarkt.it,okazii.ro#@##cookie-bar
 https://travelchannel.co.uk#@##cookie-body
 https://airam.fi,biotechusa.hu,hscollective.org,litebit.eu#@##cookie-consent
 https://analog.com#@##cookie-consent-container
@@ -13645,7 +13645,7 @@ https://janrain.com,moemax.de,rituals.com,xxxlshop.de#@#.cookie-bar
 https://dashitradio.de,stabila.com#@#.cookie-bar-visible
 https://rituals.com#@#.cookie-bar-wrapper
 https://rituals.com#@#.cookie-bar:not(body)
-https://egmont.com#@#.cookie-bar:not(body):not(html)
+https://egmont.com,okazii.ro#@#.cookie-bar:not(body):not(html)
 https://zeist.hu.nl#@#.cookie-block
 https://lg.com#@#.cookie-check
 https://zwijsen.nl#@#.cookie-consent-container
@@ -13654,7 +13654,7 @@ https://artyferia.pl#@#.cookie-consent-show
 https://dovoba.de#@#.cookie-consent-v2
 https://zwijsen.nl#@#.cookie-consent-wrapper
 https://airam.fi,codra.net,dovoba.de,medicinenet.com,meinebank.de#@#.cookie-consent:not(body):not(html)
-https://bokadirekt.se,danbolig.dk,hongkong.fi,rusta.com,xmradio.nl#@#.cookie-content
+https://bokadirekt.se,danbolig.dk,hongkong.fi,okazii.ro,rusta.com,xmradio.nl#@#.cookie-content
 https://danbolig.dk,mega.io,skuola.net#@#.cookie-dialog
 https://ikks.com#@#.cookie-footer
 https://puzzels.ad.nl,puzzels.bd.nl,puzzels.bndestem.nl,puzzels.destentor.nl,puzzels.ed.nl,puzzels.gelderlander.nl,puzzels.parool.nl,puzzels.pzc.nl,puzzels.trouw.nl,puzzels.tubantia.nl,puzzels.volkskrant.nl#@#.cookie-header
@@ -20866,7 +20866,6 @@ http://onlinetvrecorder.com##div[id^="d1"]
 http://globecast.com##div[id^="icegram_message_"]
 http://dumont.de,knowyourmeme.com##div[id^="sp_message_id"]
 http://mashable.com##div[style*="background: rgb(255, 255, 255)"]
-http://androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,phonearena.com,smallseotools.com,telegram.hr,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 http://plarium.com##div[style*="position: fixed;"]
 http://cplusplus.com##div[style="background:#eed;padding:10px;margin:0;text-align:center;border-bottom:1px solid #446"]
 http://flazio.com##div[style="z-index:9998; position: fixed;bottom: 0;left: 0;width: 100%;background: #208ac8;color: #f1f3f5;font-size: 12px;padding: 12px 0px;text-align: center;"]
@@ -20886,6 +20885,7 @@ http://satispay.com##p[class^="cookie-banner"]
 http://opentip.kaspersky.com##section[data-t="cks-dsc"] > div > div
 http://truecaller.com##span > .max-w-md.shadow-lg
 http://web.dev##web-snackbar
+http://androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,phonearena.com,quotes.net,smallseotools.com,telegram.hr,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 http://play.google.com##.gb_g:has-text(cookie)
 http://istockphoto.com#?#.warning:-abp-has([data-cookie-type])
 http://play.google.com#?#.gb_g:-abp-contains(cookie)
@@ -23852,7 +23852,7 @@ http://fikriyat.com,sabah.com.tr,turkuvazradyolar.com,yeniasir.com.tr##.veriAltB
 http://fdu.org.ua###pd_popup
 http://i.ua##.Disclaimer
 http://tsn.ua##.c-notification__box
-http://unian.ua##.cookies
+http://dybok.com.ua,unian.ua##.cookies
 http://landrover.ua##.notificationBars
 http://ua-football.com##.policy-mes
 http://kinoafisha.ua##.privacy-modal
@@ -24208,7 +24208,7 @@ http://hootsuite.com#@#.retweet
 http://space.com#@#.search-social
 http://nasa.gov,nosdiario.gal#@#.section-social
 http://californiasunday.com,youtube.com#@#.share-bar
-http://figshare.com,upi.com#@#.share-block
+http://advego.com,figshare.com,upi.com#@#.share-block
 http://speedtest.net#@#.share-body
 http://gala.fr#@#.share-bottom
 http://belgafiles.com,dakine.com,linkedin.com,way2sms.com#@#.share-box
@@ -24458,7 +24458,7 @@ http://consent.yahoo.com,paypal.com#@##consent.consent
 http://dnb.no#@##consentContainer
 http://sandisk.ae,sandisk.cn,sandisk.co.jp,sandisk.co.kr,sandisk.co.uk,sandisk.com,sandisk.com.au,sandisk.com.br,sandisk.com.tr,sandisk.com.tw,sandisk.de,sandisk.es,sandisk.fr,sandisk.hk,sandisk.id,sandisk.in,sandisk.it,sandisk.nl,sandisk.sg,wacom.com#@##consent_blackbar
 http://roussillhotel.com#@##cookie-banner
-http://dm-drogeriemarkt.it#@##cookie-bar
+http://dm-drogeriemarkt.it,okazii.ro#@##cookie-bar
 http://travelchannel.co.uk#@##cookie-body
 http://airam.fi,biotechusa.hu,hscollective.org,litebit.eu#@##cookie-consent
 http://analog.com#@##cookie-consent-container
@@ -24549,7 +24549,7 @@ http://janrain.com,moemax.de,rituals.com,xxxlshop.de#@#.cookie-bar
 http://dashitradio.de,stabila.com#@#.cookie-bar-visible
 http://rituals.com#@#.cookie-bar-wrapper
 http://rituals.com#@#.cookie-bar:not(body)
-http://egmont.com#@#.cookie-bar:not(body):not(html)
+http://egmont.com,okazii.ro#@#.cookie-bar:not(body):not(html)
 http://zeist.hu.nl#@#.cookie-block
 http://lg.com#@#.cookie-check
 http://zwijsen.nl#@#.cookie-consent-container
@@ -24558,7 +24558,7 @@ http://artyferia.pl#@#.cookie-consent-show
 http://dovoba.de#@#.cookie-consent-v2
 http://zwijsen.nl#@#.cookie-consent-wrapper
 http://airam.fi,codra.net,dovoba.de,medicinenet.com,meinebank.de#@#.cookie-consent:not(body):not(html)
-http://bokadirekt.se,danbolig.dk,hongkong.fi,rusta.com,xmradio.nl#@#.cookie-content
+http://bokadirekt.se,danbolig.dk,hongkong.fi,okazii.ro,rusta.com,xmradio.nl#@#.cookie-content
 http://danbolig.dk,mega.io,skuola.net#@#.cookie-dialog
 http://ikks.com#@#.cookie-footer
 http://puzzels.ad.nl,puzzels.bd.nl,puzzels.bndestem.nl,puzzels.destentor.nl,puzzels.ed.nl,puzzels.gelderlander.nl,puzzels.parool.nl,puzzels.pzc.nl,puzzels.trouw.nl,puzzels.tubantia.nl,puzzels.volkskrant.nl#@#.cookie-header
