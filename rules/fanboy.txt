@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: I79vz8MMfPaDiKKsYnLSoA
-! Version: 202104110050
+! Checksum: wCUIER575d4BXsjVjdgSMQ
+! Version: 202104120050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-11 00:50 UTC
+! Last modified: 2021-04-12 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1854,6 +1854,7 @@
 ||http://push.daksham.in^$third-party
 ||http://push.delivery^$third-party
 ||http://push.esputnik.com^
+||http://push.knd.ro^
 ||http://push.rent^$third-party
 ||http://push.rollout.io^$third-party
 ||http://push.world^$third-party
@@ -5484,7 +5485,7 @@ https://thepostgame.com##.pager-flyout
 https://bbc.co.uk##.pagetools
 https://wired.com##.paginate
 https://wired.com##.paginate-box
-https://clevelandjewishnews.com,kptv.com##.paging-link
+https://clevelandjewishnews.com,kmov.com,kptv.com##.paging-link
 https://themittani.com##.pane-3
 https://atheistrepublic.com##.pane-aweber-webform
 https://itworld.com##.pane-itw-blocks-itw-ad10-itjobs
@@ -7669,6 +7670,7 @@ https://independent.co.uk##.inline-prompt
 https://india.com##.open-app
 https://sportskeeda.com##.sidebar-app-download
 https://imgur.com,sowetanlive.co.za##.smartbanner
+https://inquisitr.com##.stay-in-touch
 https://reddit.com##.upsell_banner
 https://barandbench.com##div[class^="header-two-m__download-links_"]
 https://schufa.de###AC_layout
@@ -9185,7 +9187,7 @@ https://gpuopen.com###colophon
 https://evaair.com,play.tv###colorbox
 https://shadertoy.com###compliance
 https://msn.com###conditionalbanner
-https://alarabiya.net,find-dvd.co.uk,ft.com,heathrowexpress.com,holition.com,mapcarta.com,nperf.com###consent
+https://alarabiya.net,digminecraft.com,find-dvd.co.uk,ft.com,heathrowexpress.com,holition.com,mapcarta.com,nperf.com###consent
 https://netcraft.com###consent-form
 https://c21stores.com###consent-tracking
 https://predesto.com###consent-wrapper
@@ -9551,7 +9553,7 @@ https://xing.com##.consent_wrapper
 https://cityoflondon.gov.uk##.container-floating-notifications
 https://bankofengland.co.uk,cityoflondon.police.uk##.container-notifications
 https://antoineonline.com##.container-overlay
-https://18virginsex.com,altervista.org,anglianwater.co.uk,ask.fm,callcredit.co.uk,calvertjournal.com,crazydomains.co.uk,derwaldhof.com,dw.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,gheed.com,gooddollar.org,hempel.co.uk,hempelyacht.com,here.com,hud.ac.uk,jaguarlandrover.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mclaren.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mydraw.com,mysurveylab.com,nationalcircus.org.uk,natwest.com,npl.co.uk,octotree.io,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,redditinc.com,roalddahl.com,rowenta.com,samsunghealthcare.com,sense.org.uk,sheldrickwildlifetrust.org,silverlake.com,sleek-mag.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,trailfinders.com,twitchstrike.com,unicheck.com,virgin-atlantic.com,wannawork.com##.cookie
+https://18virginsex.com,altervista.org,anglianwater.co.uk,ask.fm,callcredit.co.uk,calvertjournal.com,crazydomains.co.uk,derwaldhof.com,dw.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,gheed.com,gooddollar.org,hempel.co.uk,hempelyacht.com,here.com,hud.ac.uk,jaguarlandrover.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mclaren.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mydraw.com,mysurveylab.com,nationalcircus.org.uk,natwest.com,npl.co.uk,octotree.io,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,redditinc.com,roalddahl.com,rowenta.com,samsunghealthcare.com,sense.org.uk,sheldrickwildlifetrust.org,silverlake.com,sleek-mag.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,trailfinders.com,twitchstrike.com,unicheck.com,virgin-atlantic.com,wannawork.com,ytddownloader.com##.cookie
 https://deezer.com##.cookie-banner
 https://geeksforgeeks.org##.cookie-consent
 https://7news.com.au##.cookie-consent--normal
@@ -13616,7 +13618,7 @@ https://gq-magazine.co.uk,mail.com#@##onetrust-banner-sdk
 https://gq-magazine.co.uk,mail.com#@##onetrust-consent-sdk
 https://api.newsguardtech.com,rockpapershotgun.com#@##optanon
 https://theverge.com#@##privacy-consent
-https://readthedocs.io,sportdiver.com#@##privacy-policy
+https://ilpiemontetivaccina.it,readthedocs.io,sportdiver.com#@##privacy-policy
 https://dcinside.com,totalwar.com#@##privacy_policy
 https://repostuj.pl#@##rodo-modal
 https://forgeandfortune.com#@##toasts > #toastsWrapper
@@ -16386,7 +16388,7 @@ http://thepostgame.com##.pager-flyout
 http://bbc.co.uk##.pagetools
 http://wired.com##.paginate
 http://wired.com##.paginate-box
-http://clevelandjewishnews.com,kptv.com##.paging-link
+http://clevelandjewishnews.com,kmov.com,kptv.com##.paging-link
 http://themittani.com##.pane-3
 http://atheistrepublic.com##.pane-aweber-webform
 http://itworld.com##.pane-itw-blocks-itw-ad10-itjobs
@@ -18571,6 +18573,7 @@ http://independent.co.uk##.inline-prompt
 http://india.com##.open-app
 http://sportskeeda.com##.sidebar-app-download
 http://imgur.com,sowetanlive.co.za##.smartbanner
+http://inquisitr.com##.stay-in-touch
 http://reddit.com##.upsell_banner
 http://barandbench.com##div[class^="header-two-m__download-links_"]
 http://schufa.de###AC_layout
@@ -20088,7 +20091,7 @@ http://gpuopen.com###colophon
 http://evaair.com,play.tv###colorbox
 http://shadertoy.com###compliance
 http://msn.com###conditionalbanner
-http://alarabiya.net,find-dvd.co.uk,ft.com,heathrowexpress.com,holition.com,mapcarta.com,nperf.com###consent
+http://alarabiya.net,digminecraft.com,find-dvd.co.uk,ft.com,heathrowexpress.com,holition.com,mapcarta.com,nperf.com###consent
 http://netcraft.com###consent-form
 http://c21stores.com###consent-tracking
 http://predesto.com###consent-wrapper
@@ -20454,7 +20457,7 @@ http://xing.com##.consent_wrapper
 http://cityoflondon.gov.uk##.container-floating-notifications
 http://bankofengland.co.uk,cityoflondon.police.uk##.container-notifications
 http://antoineonline.com##.container-overlay
-http://18virginsex.com,altervista.org,anglianwater.co.uk,ask.fm,callcredit.co.uk,calvertjournal.com,crazydomains.co.uk,derwaldhof.com,dw.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,gheed.com,gooddollar.org,hempel.co.uk,hempelyacht.com,here.com,hud.ac.uk,jaguarlandrover.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mclaren.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mydraw.com,mysurveylab.com,nationalcircus.org.uk,natwest.com,npl.co.uk,octotree.io,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,redditinc.com,roalddahl.com,rowenta.com,samsunghealthcare.com,sense.org.uk,sheldrickwildlifetrust.org,silverlake.com,sleek-mag.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,trailfinders.com,twitchstrike.com,unicheck.com,virgin-atlantic.com,wannawork.com##.cookie
+http://18virginsex.com,altervista.org,anglianwater.co.uk,ask.fm,callcredit.co.uk,calvertjournal.com,crazydomains.co.uk,derwaldhof.com,dw.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,gheed.com,gooddollar.org,hempel.co.uk,hempelyacht.com,here.com,hud.ac.uk,jaguarlandrover.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mclaren.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mydraw.com,mysurveylab.com,nationalcircus.org.uk,natwest.com,npl.co.uk,octotree.io,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,redditinc.com,roalddahl.com,rowenta.com,samsunghealthcare.com,sense.org.uk,sheldrickwildlifetrust.org,silverlake.com,sleek-mag.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,trailfinders.com,twitchstrike.com,unicheck.com,virgin-atlantic.com,wannawork.com,ytddownloader.com##.cookie
 http://deezer.com##.cookie-banner
 http://geeksforgeeks.org##.cookie-consent
 http://7news.com.au##.cookie-consent--normal
@@ -24520,7 +24523,7 @@ http://gq-magazine.co.uk,mail.com#@##onetrust-banner-sdk
 http://gq-magazine.co.uk,mail.com#@##onetrust-consent-sdk
 http://api.newsguardtech.com,rockpapershotgun.com#@##optanon
 http://theverge.com#@##privacy-consent
-http://readthedocs.io,sportdiver.com#@##privacy-policy
+http://ilpiemontetivaccina.it,readthedocs.io,sportdiver.com#@##privacy-policy
 http://dcinside.com,totalwar.com#@##privacy_policy
 http://repostuj.pl#@##rodo-modal
 http://forgeandfortune.com#@##toasts > #toastsWrapper
