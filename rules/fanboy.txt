@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wCUIER575d4BXsjVjdgSMQ
-! Version: 202104120050
+! Checksum: 5EQHGXsoh/aE5rZBpMT33w
+! Version: 202104130050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-12 00:50 UTC
+! Last modified: 2021-04-13 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -492,6 +492,7 @@
 ||https://spacepush.ru^$third-party
 ||https://topswp.com^$third-party
 ||https://ucfeed.ru^$third-party
+||https://viafoura.net/push_handlers.js
 ||https://webpush.jp^$third-party
 ||https://webpushr.com^$third-party
 ||https://webpushs.com^$third-party
@@ -1900,6 +1901,7 @@
 ||http://spacepush.ru^$third-party
 ||http://topswp.com^$third-party
 ||http://ucfeed.ru^$third-party
+||http://viafoura.net/push_handlers.js
 ||http://webpush.jp^$third-party
 ||http://webpushr.com^$third-party
 ||http://webpushs.com^$third-party
@@ -10618,7 +10620,7 @@ https://mole24.it##.sib_signup_form
 https://ilfattoquotidiano.it##.side-arrow
 https://motori.net,siciliaoggi.com,siciliapress.it,tavoloeditoriradio.it##.sm-up-container
 https://calciomercato.com,sky.it##.smartbanner
-https://ilnotiziario.net##.spu-bg
+https://ilnotiziario.net,laluce.news##.spu-bg
 https://suedtirol.info##.sticky-overlay__content--nl-popup
 https://ilglobo.com.au,ilpost.it,lafiamma.com.au##.subscribe
 https://2night.it##.subscribe-article
@@ -12510,6 +12512,7 @@ https://ingdirect.it##.topalertbanner
 https://emma-materasso.it##.ucn-block
 https://cattolica.it##.vgg
 https://prime.widiba.it##.wd-primepublic__cookie__content
+https://koucla.it##.xcb
 https://aicanet.it,eurojackpot.it,venetobanca.it##.yui3-widget-modal
 https://credimi.com##div[class^="CookieBar-"]
 https://relaxbanking.it##div[class^="cookies-consent-banner"]
@@ -21522,7 +21525,7 @@ http://mole24.it##.sib_signup_form
 http://ilfattoquotidiano.it##.side-arrow
 http://motori.net,siciliaoggi.com,siciliapress.it,tavoloeditoriradio.it##.sm-up-container
 http://calciomercato.com,sky.it##.smartbanner
-http://ilnotiziario.net##.spu-bg
+http://ilnotiziario.net,laluce.news##.spu-bg
 http://suedtirol.info##.sticky-overlay__content--nl-popup
 http://ilglobo.com.au,ilpost.it,lafiamma.com.au##.subscribe
 http://2night.it##.subscribe-article
@@ -23415,6 +23418,7 @@ http://ingdirect.it##.topalertbanner
 http://emma-materasso.it##.ucn-block
 http://cattolica.it##.vgg
 http://prime.widiba.it##.wd-primepublic__cookie__content
+http://koucla.it##.xcb
 http://aicanet.it,eurojackpot.it,venetobanca.it##.yui3-widget-modal
 http://credimi.com##div[class^="CookieBar-"]
 http://relaxbanking.it##div[class^="cookies-consent-banner"]
