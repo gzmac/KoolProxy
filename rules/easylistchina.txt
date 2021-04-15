@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: wWkmdbe7VGVDKWj/hNQppA
-! Version: 202104140042
+! Checksum: 4O+q696Xgy8yy4I/yekYgw
+! Version: 202104150042
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1353,6 +1353,7 @@
 ||https://aichuangfu.cn/jquery/
 ||https://aifei0755.net/123/
 ||https://ainuody.com/wp-content/uploads/2017/07/%E5%85
+||https://aipp99.com/haose/
 ||https://airav.cc/AirADPic/
 ||https://airav.cc/iframe/
 ||https://airav.cc/static/js/*_ad.js
@@ -8697,6 +8698,7 @@
 ||http://aichuangfu.cn/jquery/
 ||http://aifei0755.net/123/
 ||http://ainuody.com/wp-content/uploads/2017/07/%E5%85
+||http://aipp99.com/haose/
 ||http://airav.cc/AirADPic/
 ||http://airav.cc/iframe/
 ||http://airav.cc/static/js/*_ad.js
@@ -13434,6 +13436,7 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://flctbg.com^
 ||http://027whht.com^
 ||http://0316dieroxiemzfjwmapk.xyz^
 ||http://0323wqpioutyuencsamxsd.xyz^
@@ -15016,6 +15019,7 @@
 ||http://xjsytoy.com^
 ||http://xkqpco.com^
 ||http://xl4z7.cn^
+||http://xlhwzx.cn^
 ||http://xmcxz.com^
 ||http://xmljx.cn^
 ||http://xmseaside.com^
@@ -15171,6 +15175,7 @@
 ||http://zgjjkk.com^
 ||http://zgjkv.com^
 ||http://zgncpjyw.cn^
+||http://zgnieka.cn^
 ||http://zgsxhx.com^
 ||http://zhangdujia.com^
 ||http://zhangshiyuan.com^
@@ -17265,8 +17270,8 @@ https://160.com###w-advertisement
 https://160.com###w-btn-advertisement
 https://zqzq.com###wAdTop1
 https://zqzq.com###wAdTop2
-https://weishangshijie.com###wad_left
-https://weishangshijie.com###wad_right
+https://weishangshijie.cn###wad_left
+https://weishangshijie.cn###wad_right
 https://21ic.com###warp_con
 https://chineseinla.com###weixin_ads2
 https://fububu.com###wendibu
@@ -17683,7 +17688,6 @@ https://gamme.com.tw##.adread
 https://appinn.com##.ads-m
 https://360.cn##.ads-pic
 https://shejidaren.com##.ads-post-foot
-https://weishangshijie.com##.ads228_1_r
 https://5icool.org##.ads300_show
 https://eeyy.cc##.ads650
 https://cntronics.com##.ads970-90
@@ -18631,9 +18635,10 @@ https://winning11cn.com##.hdc > div > div[align="center"]
 https://mtrend.cn##.hdlist
 https://ali213.net##.head-left
 https://hkepc.com##.headBanner
-https://weishangshijie.com##.head_0905
+https://weishangshijie.cn##.head_0905
 https://jmw.com.cn##.head_1b
 https://jmw.com.cn##.head_3
+https://weishangshijie.cn##.head_imgwl
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.head_middle > div[class]:first-child
 https://zhiding.cn##.headads
 https://biz.ifeng.com##.header
@@ -19139,8 +19144,6 @@ https://chinaz.com##.newsMainBox-textad
 https://afzhan.com##.newsRightAdv
 https://ifeng.com##.news_ADbox
 https://m.baidu.com##.news_ad
-https://weishangshijie.com##.news_ads1200
-https://weishangshijie.com##.news_ads_1028
 https://jia360.com##.news_adv:nth-child(3)
 https://aguitar.cn##.news_b
 https://zhcw.com##.news_blanck
@@ -19159,7 +19162,6 @@ https://gamersky.com##.ngg_down
 https://chongdiantou.com##.nice-sales
 https://mamecn.com##.njjGsxzLeft > dl > .cont1
 https://mamecn.com##.njjGsxzRight
-https://weishangshijie.com##.nleft_ads
 https://dyhjw.com##.nn_link
 https://wallstreetcn.com##.node-main-ad
 https://zhicheng.com##.normal-banner
@@ -19899,6 +19901,7 @@ https://shm.com.cn##.w1000.surround
 https://pc841.com##.w1050
 https://516qq.cn##.w1100
 https://pc841.com,ting56.com##.w300
+https://weishangshijie.cn##.w_bzb_1
 https://yahoo.com##.wafer-beacon[data-wf-beacons]
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.wanle_tab_tip
 https://baidu.com##.wapAd
@@ -20483,7 +20486,7 @@ https://yesky.com##div[class^="ad6"]
 https://yesky.com##div[class^="ad7"]
 https://yesky.com##div[class^="ad9"]
 https://ifeng.com##div[class^="adList"]
-https://16668.biz,16668.cc,16668.com,16668.info,16668.net,16668.org,16668tu.com,alibuybuy.com,chewen.com,faloo.com,newhua.com,ph66.com,tv.cntv.cn##div[class^="ad_"]
+https://16668.biz,16668.cc,16668.com,16668.info,16668.net,16668.org,16668tu.com,alibuybuy.com,chewen.com,faloo.com,newhua.com,ph66.com,tv.cntv.cn,weishangshijie.cn##div[class^="ad_"]
 https://uuu9.com##div[class^="ad_140"]
 https://ifeng.com##div[class^="ad_box"]
 https://megatime.com.tw,pchome.com.tw##div[class^="ad_ec"]
@@ -20528,6 +20531,7 @@ https://ifeng.com##div[class^="middleAd"]
 https://msn.cn##div[class^="nativeAd-DS-card"]
 https://nba.hupu.com##div[class^="nba-ad"]
 https://tophub.today##div[class^="ne"]
+https://weishangshijie.cn##div[class^="news_a"]
 https://wasu.cn##div[class^="play_ads"]
 https://ifeng.com##div[class^="pplive"]
 https://ifeng.com##div[class^="ppx_wrap-"]
@@ -23668,8 +23672,8 @@ http://160.com###w-advertisement
 http://160.com###w-btn-advertisement
 http://zqzq.com###wAdTop1
 http://zqzq.com###wAdTop2
-http://weishangshijie.com###wad_left
-http://weishangshijie.com###wad_right
+http://weishangshijie.cn###wad_left
+http://weishangshijie.cn###wad_right
 http://21ic.com###warp_con
 http://chineseinla.com###weixin_ads2
 http://fububu.com###wendibu
@@ -24086,7 +24090,6 @@ http://gamme.com.tw##.adread
 http://appinn.com##.ads-m
 http://360.cn##.ads-pic
 http://shejidaren.com##.ads-post-foot
-http://weishangshijie.com##.ads228_1_r
 http://5icool.org##.ads300_show
 http://eeyy.cc##.ads650
 http://cntronics.com##.ads970-90
@@ -25034,9 +25037,10 @@ http://winning11cn.com##.hdc > div > div[align="center"]
 http://mtrend.cn##.hdlist
 http://ali213.net##.head-left
 http://hkepc.com##.headBanner
-http://weishangshijie.com##.head_0905
+http://weishangshijie.cn##.head_0905
 http://jmw.com.cn##.head_1b
 http://jmw.com.cn##.head_3
+http://weishangshijie.cn##.head_imgwl
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.head_middle > div[class]:first-child
 http://zhiding.cn##.headads
 http://biz.ifeng.com##.header
@@ -25542,8 +25546,6 @@ http://chinaz.com##.newsMainBox-textad
 http://afzhan.com##.newsRightAdv
 http://ifeng.com##.news_ADbox
 http://m.baidu.com##.news_ad
-http://weishangshijie.com##.news_ads1200
-http://weishangshijie.com##.news_ads_1028
 http://jia360.com##.news_adv:nth-child(3)
 http://aguitar.cn##.news_b
 http://zhcw.com##.news_blanck
@@ -25562,7 +25564,6 @@ http://gamersky.com##.ngg_down
 http://chongdiantou.com##.nice-sales
 http://mamecn.com##.njjGsxzLeft > dl > .cont1
 http://mamecn.com##.njjGsxzRight
-http://weishangshijie.com##.nleft_ads
 http://dyhjw.com##.nn_link
 http://wallstreetcn.com##.node-main-ad
 http://zhicheng.com##.normal-banner
@@ -26303,6 +26304,7 @@ http://shm.com.cn##.w1000.surround
 http://pc841.com##.w1050
 http://516qq.cn##.w1100
 http://pc841.com,ting56.com##.w300
+http://weishangshijie.cn##.w_bzb_1
 http://yahoo.com##.wafer-beacon[data-wf-beacons]
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.wanle_tab_tip
 http://baidu.com##.wapAd
@@ -26888,7 +26890,7 @@ http://yesky.com##div[class^="ad6"]
 http://yesky.com##div[class^="ad7"]
 http://yesky.com##div[class^="ad9"]
 http://ifeng.com##div[class^="adList"]
-http://16668.biz,16668.cc,16668.com,16668.info,16668.net,16668.org,16668tu.com,alibuybuy.com,chewen.com,faloo.com,newhua.com,ph66.com,tv.cntv.cn##div[class^="ad_"]
+http://16668.biz,16668.cc,16668.com,16668.info,16668.net,16668.org,16668tu.com,alibuybuy.com,chewen.com,faloo.com,newhua.com,ph66.com,tv.cntv.cn,weishangshijie.cn##div[class^="ad_"]
 http://uuu9.com##div[class^="ad_140"]
 http://ifeng.com##div[class^="ad_box"]
 http://megatime.com.tw,pchome.com.tw##div[class^="ad_ec"]
@@ -26933,6 +26935,7 @@ http://ifeng.com##div[class^="middleAd"]
 http://msn.cn##div[class^="nativeAd-DS-card"]
 http://nba.hupu.com##div[class^="nba-ad"]
 http://tophub.today##div[class^="ne"]
+http://weishangshijie.cn##div[class^="news_a"]
 http://wasu.cn##div[class^="play_ads"]
 http://ifeng.com##div[class^="pplive"]
 http://ifeng.com##div[class^="ppx_wrap-"]

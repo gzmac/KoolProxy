@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nT5VHAbaumVyfoOMYB2S4w
-! Version: 202104140050
+! Checksum: affy2zaWIiBtT2jR/t61DQ
+! Version: 202104150050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-14 00:50 UTC
+! Last modified: 2021-04-15 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -5862,6 +5862,7 @@ https://khou.com##.storytools
 https://networkworld.com##.storytools_nav_twit
 https://npr.org##.storytoolswrap
 https://i4u.com##.stream_item
+https://producthunt.com##.styles_container__3MbyP
 https://catholicherald.co.uk##.sub-content-promo
 https://thesmokinggun.com##.sub-links
 https://thestreet.com##.subHdrLink
@@ -6404,6 +6405,7 @@ https://newstatesman.com,pressgazette.co.uk###itro_popup
 https://ivn.us###ivnnewsletter_widget
 https://aish.com###jewsletter-footer-form
 https://eco-business.com###js-bottom-promo
+https://deadspin.com,gizmodo.com,jezebel.com,kotaku.com,lifehacker.com,theinventory.com,theroot.com,thetakeout.com###js_alerts_sidebar
 https://judicialwatch.org###jwHeaderSignup
 https://kiplinger.com###kip-login
 https://kiplinger.com###kip-today-signup
@@ -9958,7 +9960,6 @@ https://cheddar.com##div[class^="notificationBanner"]
 https://listen.tidal.com##div[class^="notificationWrapper--"]
 https://deliveroo.ie##div[class^="orderweb__"]
 https://buffer.com##div[class^="style__Banner-"]
-https://producthunt.com##div[class^="styles_container_"]
 https://tunein.com##div[class^="violator__container"]
 https://youtube.com##div[class^="ytd-consent"]
 https://patreon.com##div[data-tag="cookie-disclosure"]
@@ -11821,6 +11822,7 @@ https://usz.ch##.consentManagement
 https://dbna.com##.consentbar
 https://borgware.de,buffalo.de,daparto.de,del.org,donaukurier.de,matratzen-concord.de,model-kartei.de,pyur.com,signal-iduna.de,spartanien.de,starcar.de,thegap.at,unumotors.com##.cookie
 https://capcom-germany.de,dtstudyclub.de,insel-sylt.de,medela.de,parfumsclub.de,reifenlehmann.de,selfhost.de,spie.de,svww.de##.cookies
+https://vb-oberberg.de##.darken-layer
 https://stadtwerke-luebz.de##.data-consent
 https://hilzingen.de,wurmberg.de##.datenschutz
 https://die-linke.de,dielinke.berlin,lexus.at,lexus.de##.disclaimer
@@ -12477,7 +12479,7 @@ https://insideevs.it,omnifurgone.it,omnimoto.it##.m1-footer-message
 https://fashionunited.it##.mdc-snackbar__surface
 https://ari.it##.message
 https://monzacalcio.com##.modal
-https://alfasigma.com,elevensports.it,feralpisalo.it,metro.it,monzacalcio.com##.modal-backdrop
+https://alfasigma.com,elevensports.it,feralpisalo.it,meteo.fvg.it,metro.it,monzacalcio.com##.modal-backdrop
 https://informazione.it##.modal-body
 https://telethon.it##.modalMessage
 https://forumcommunity.net,forumfree.it##.note
@@ -13302,7 +13304,7 @@ https://privatecore.com#@#.post-fb
 https://23-59.com.ua,dietetycy.org.pl,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,pruszkow.pl,thewire.in,tidssonen.no,truepundit.com,vanillamagazine.it,velodaily.ru#@#.post-share-container
 https://imgur.com#@#.post-share-panel
 https://reddit.com#@#.post-sharing
-https://guildwars2.com#@#.post-social
+https://ain.ua,guildwars2.com#@#.post-social
 https://vk.com#@#.post_share
 https://supercomfysleep.com#@#.q_social_icon_holder
 https://reddit.com#@#.reddit_button
@@ -16767,6 +16769,7 @@ http://khou.com##.storytools
 http://networkworld.com##.storytools_nav_twit
 http://npr.org##.storytoolswrap
 http://i4u.com##.stream_item
+http://producthunt.com##.styles_container__3MbyP
 http://catholicherald.co.uk##.sub-content-promo
 http://thesmokinggun.com##.sub-links
 http://thestreet.com##.subHdrLink
@@ -17309,6 +17312,7 @@ http://newstatesman.com,pressgazette.co.uk###itro_popup
 http://ivn.us###ivnnewsletter_widget
 http://aish.com###jewsletter-footer-form
 http://eco-business.com###js-bottom-promo
+http://deadspin.com,gizmodo.com,jezebel.com,kotaku.com,lifehacker.com,theinventory.com,theroot.com,thetakeout.com###js_alerts_sidebar
 http://judicialwatch.org###jwHeaderSignup
 http://kiplinger.com###kip-login
 http://kiplinger.com###kip-today-signup
@@ -20864,7 +20868,6 @@ http://cheddar.com##div[class^="notificationBanner"]
 http://listen.tidal.com##div[class^="notificationWrapper--"]
 http://deliveroo.ie##div[class^="orderweb__"]
 http://buffer.com##div[class^="style__Banner-"]
-http://producthunt.com##div[class^="styles_container_"]
 http://tunein.com##div[class^="violator__container"]
 http://youtube.com##div[class^="ytd-consent"]
 http://patreon.com##div[data-tag="cookie-disclosure"]
@@ -22728,6 +22731,7 @@ http://usz.ch##.consentManagement
 http://dbna.com##.consentbar
 http://borgware.de,buffalo.de,daparto.de,del.org,donaukurier.de,matratzen-concord.de,model-kartei.de,pyur.com,signal-iduna.de,spartanien.de,starcar.de,thegap.at,unumotors.com##.cookie
 http://capcom-germany.de,dtstudyclub.de,insel-sylt.de,medela.de,parfumsclub.de,reifenlehmann.de,selfhost.de,spie.de,svww.de##.cookies
+http://vb-oberberg.de##.darken-layer
 http://stadtwerke-luebz.de##.data-consent
 http://hilzingen.de,wurmberg.de##.datenschutz
 http://die-linke.de,dielinke.berlin,lexus.at,lexus.de##.disclaimer
@@ -23384,7 +23388,7 @@ http://insideevs.it,omnifurgone.it,omnimoto.it##.m1-footer-message
 http://fashionunited.it##.mdc-snackbar__surface
 http://ari.it##.message
 http://monzacalcio.com##.modal
-http://alfasigma.com,elevensports.it,feralpisalo.it,metro.it,monzacalcio.com##.modal-backdrop
+http://alfasigma.com,elevensports.it,feralpisalo.it,meteo.fvg.it,metro.it,monzacalcio.com##.modal-backdrop
 http://informazione.it##.modal-body
 http://telethon.it##.modalMessage
 http://forumcommunity.net,forumfree.it##.note
@@ -24209,7 +24213,7 @@ http://privatecore.com#@#.post-fb
 http://23-59.com.ua,dietetycy.org.pl,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,pruszkow.pl,thewire.in,tidssonen.no,truepundit.com,vanillamagazine.it,velodaily.ru#@#.post-share-container
 http://imgur.com#@#.post-share-panel
 http://reddit.com#@#.post-sharing
-http://guildwars2.com#@#.post-social
+http://ain.ua,guildwars2.com#@#.post-social
 http://vk.com#@#.post_share
 http://supercomfysleep.com#@#.q_social_icon_holder
 http://reddit.com#@#.reddit_button
