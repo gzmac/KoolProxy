@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: affy2zaWIiBtT2jR/t61DQ
-! Version: 202104150050
+! Checksum: WyEqrN3eTSzgfHniEfXizg
+! Version: 202104160050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-15 00:50 UTC
+! Last modified: 2021-04-16 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7006,7 +7006,7 @@ https://technologyreview.com##.navbar__item--tertiary--subscribe
 https://mic.com##.new-user-modal
 https://thehindubusinessline.com##.news
 https://healthyceleb.com##.news-form
-https://india.com,sassymamahk.com##.news-letter
+https://autocarindia.com,india.com,sassymamahk.com##.news-letter
 https://presstv.com##.news-signup-container
 https://americamagazine.org##.newsLetterLink
 https://drive.com.au##.newsSubscribe
@@ -7646,6 +7646,7 @@ https://food.com##.pushdown-message
 https://thechivery.com##.wheelio_holder
 https://reddit.com##.xPromoAppStoreFooter
 https://aerzteblatt.de###pushy
+https://formulatv.com###resetUI
 https://romait.it##.alert
 https://ziare.com##.modal-backdrop
 https://ziare.com##.modal__wp
@@ -8307,6 +8308,7 @@ https://aikenstandard.com##.follow-aiken-standard
 https://aol.com##.follow-aol
 https://breakingnews.ie##.follow-bn
 https://ein-herz-fuer-kinder.de##.follow-container
+https://autocarindia.com##.follow-google-news-p
 https://indiancountrytodaymedianetwork.com##.follow-home
 https://talabat.com##.follow-i
 https://radio.com##.follow-link--facebook
@@ -11146,7 +11148,7 @@ https://quebeccoupongratuit.com##.share-site
 https://rtl.fr##.shared-logo
 https://fracademic.com##.smm
 https://lepoint.fr##.snlinks
-https://20minutes.fr,africa1.com,buyindz.com,courrierinternational.com,europages.fr,europe1.fr,gamergen.com,gmx.fr,jeu.video,journaldugeek.com,korben.info,ladepeche.fr,leboncoin.fr,ledevoir.com,lorientlejour.com,methodelafayfemme.fr,misk.tn,petitfute.com,radioorient.com,renaultsport.com,rustica.fr,sudouest.fr##.social
+https://20minutes.fr,africa1.com,buyindz.com,courrierinternational.com,europages.fr,europe1.fr,formulatv.com,gamergen.com,gmx.fr,jeu.video,journaldugeek.com,korben.info,ladepeche.fr,leboncoin.fr,ledevoir.com,lorientlejour.com,methodelafayfemme.fr,misk.tn,petitfute.com,radioorient.com,renaultsport.com,rustica.fr,sudouest.fr##.social
 https://fr.msn.com##.stbp-tbl
 https://telerama.fr##.t12-user-resoc
 https://epochtimes.fr##.tools
@@ -17913,7 +17915,7 @@ http://technologyreview.com##.navbar__item--tertiary--subscribe
 http://mic.com##.new-user-modal
 http://thehindubusinessline.com##.news
 http://healthyceleb.com##.news-form
-http://india.com,sassymamahk.com##.news-letter
+http://autocarindia.com,india.com,sassymamahk.com##.news-letter
 http://presstv.com##.news-signup-container
 http://americamagazine.org##.newsLetterLink
 http://drive.com.au##.newsSubscribe
@@ -18553,6 +18555,7 @@ http://food.com##.pushdown-message
 http://thechivery.com##.wheelio_holder
 http://reddit.com##.xPromoAppStoreFooter
 http://aerzteblatt.de###pushy
+http://formulatv.com###resetUI
 http://romait.it##.alert
 http://ziare.com##.modal-backdrop
 http://ziare.com##.modal__wp
@@ -19214,6 +19217,7 @@ http://aikenstandard.com##.follow-aiken-standard
 http://aol.com##.follow-aol
 http://breakingnews.ie##.follow-bn
 http://ein-herz-fuer-kinder.de##.follow-container
+http://autocarindia.com##.follow-google-news-p
 http://indiancountrytodaymedianetwork.com##.follow-home
 http://talabat.com##.follow-i
 http://radio.com##.follow-link--facebook
@@ -22054,7 +22058,7 @@ http://quebeccoupongratuit.com##.share-site
 http://rtl.fr##.shared-logo
 http://fracademic.com##.smm
 http://lepoint.fr##.snlinks
-http://20minutes.fr,africa1.com,buyindz.com,courrierinternational.com,europages.fr,europe1.fr,gamergen.com,gmx.fr,jeu.video,journaldugeek.com,korben.info,ladepeche.fr,leboncoin.fr,ledevoir.com,lorientlejour.com,methodelafayfemme.fr,misk.tn,petitfute.com,radioorient.com,renaultsport.com,rustica.fr,sudouest.fr##.social
+http://20minutes.fr,africa1.com,buyindz.com,courrierinternational.com,europages.fr,europe1.fr,formulatv.com,gamergen.com,gmx.fr,jeu.video,journaldugeek.com,korben.info,ladepeche.fr,leboncoin.fr,ledevoir.com,lorientlejour.com,methodelafayfemme.fr,misk.tn,petitfute.com,radioorient.com,renaultsport.com,rustica.fr,sudouest.fr##.social
 http://fr.msn.com##.stbp-tbl
 http://telerama.fr##.t12-user-resoc
 http://epochtimes.fr##.tools
