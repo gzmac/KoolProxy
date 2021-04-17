@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WyEqrN3eTSzgfHniEfXizg
-! Version: 202104160050
+! Checksum: 86FSUFFV+YUXpYKu4BLufw
+! Version: 202104170050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-16 00:50 UTC
+! Last modified: 2021-04-17 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10623,7 +10623,7 @@ https://mole24.it##.sib_signup_form
 https://ilfattoquotidiano.it##.side-arrow
 https://motori.net,siciliaoggi.com,siciliapress.it,tavoloeditoriradio.it##.sm-up-container
 https://calciomercato.com,sky.it##.smartbanner
-https://ilnotiziario.net,laluce.news##.spu-bg
+https://ilnotiziario.net,laluce.news,riuscireinborsa.it##.spu-bg
 https://suedtirol.info##.sticky-overlay__content--nl-popup
 https://ilglobo.com.au,ilpost.it,lafiamma.com.au##.subscribe
 https://2night.it##.subscribe-article
@@ -11701,7 +11701,7 @@ https://adventskalender-gewinnspiele.de,happy-spots.de,kirmes-in-deutschland.de,
 https://kunstnet.de,notebookinfo.de,zitatezumnachdenken.com###consent
 https://der-farang.com###consent_overlay
 https://renault-koenig.de###cook
-https://alternative-zu.de,baskets-jena.de,bauernzeitung.ch,bookingsuedtirol.com,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,lvr.de,ruhrbarone.de,shop-apotheke.com###cookie
+https://alternative-zu.de,baskets-jena.de,bauernzeitung.ch,bookingsuedtirol.com,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,goldankauf123.de,lvr.de,ruhrbarone.de,shop-apotheke.com###cookie
 https://brf.be###cookieDashboard
 https://bambergfacts.de###cookiebar-007
 https://0rechner.de###cookieconsentmodal
@@ -11824,7 +11824,6 @@ https://usz.ch##.consentManagement
 https://dbna.com##.consentbar
 https://borgware.de,buffalo.de,daparto.de,del.org,donaukurier.de,matratzen-concord.de,model-kartei.de,pyur.com,signal-iduna.de,spartanien.de,starcar.de,thegap.at,unumotors.com##.cookie
 https://capcom-germany.de,dtstudyclub.de,insel-sylt.de,medela.de,parfumsclub.de,reifenlehmann.de,selfhost.de,spie.de,svww.de##.cookies
-https://vb-oberberg.de##.darken-layer
 https://stadtwerke-luebz.de##.data-consent
 https://hilzingen.de,wurmberg.de##.datenschutz
 https://die-linke.de,dielinke.berlin,lexus.at,lexus.de##.disclaimer
@@ -21533,7 +21532,7 @@ http://mole24.it##.sib_signup_form
 http://ilfattoquotidiano.it##.side-arrow
 http://motori.net,siciliaoggi.com,siciliapress.it,tavoloeditoriradio.it##.sm-up-container
 http://calciomercato.com,sky.it##.smartbanner
-http://ilnotiziario.net,laluce.news##.spu-bg
+http://ilnotiziario.net,laluce.news,riuscireinborsa.it##.spu-bg
 http://suedtirol.info##.sticky-overlay__content--nl-popup
 http://ilglobo.com.au,ilpost.it,lafiamma.com.au##.subscribe
 http://2night.it##.subscribe-article
@@ -22612,7 +22611,7 @@ http://adventskalender-gewinnspiele.de,happy-spots.de,kirmes-in-deutschland.de,s
 http://kunstnet.de,notebookinfo.de,zitatezumnachdenken.com###consent
 http://der-farang.com###consent_overlay
 http://renault-koenig.de###cook
-http://alternative-zu.de,baskets-jena.de,bauernzeitung.ch,bookingsuedtirol.com,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,lvr.de,ruhrbarone.de,shop-apotheke.com###cookie
+http://alternative-zu.de,baskets-jena.de,bauernzeitung.ch,bookingsuedtirol.com,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,goldankauf123.de,lvr.de,ruhrbarone.de,shop-apotheke.com###cookie
 http://brf.be###cookieDashboard
 http://bambergfacts.de###cookiebar-007
 http://0rechner.de###cookieconsentmodal
@@ -22735,7 +22734,6 @@ http://usz.ch##.consentManagement
 http://dbna.com##.consentbar
 http://borgware.de,buffalo.de,daparto.de,del.org,donaukurier.de,matratzen-concord.de,model-kartei.de,pyur.com,signal-iduna.de,spartanien.de,starcar.de,thegap.at,unumotors.com##.cookie
 http://capcom-germany.de,dtstudyclub.de,insel-sylt.de,medela.de,parfumsclub.de,reifenlehmann.de,selfhost.de,spie.de,svww.de##.cookies
-http://vb-oberberg.de##.darken-layer
 http://stadtwerke-luebz.de##.data-consent
 http://hilzingen.de,wurmberg.de##.datenschutz
 http://die-linke.de,dielinke.berlin,lexus.at,lexus.de##.disclaimer
