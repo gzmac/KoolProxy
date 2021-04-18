@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 86FSUFFV+YUXpYKu4BLufw
-! Version: 202104170050
+! Checksum: sDTm6LCPKTCbUFwluuzdHA
+! Version: 202104180050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-17 00:50 UTC
+! Last modified: 2021-04-18 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -5097,7 +5097,7 @@ https://heavy.com##.heavy-mailing-widget-sidebar
 https://cnn.com##.hed_side
 https://nola.com##.helper
 https://sciencenews.cc##.herald-single-sticky
-https://askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.hero-container
+https://askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.hero-box
 https://sciencefocus.com##.highlight
 https://mint.com##.hmenu
 https://businessspectator.com.au##.holder-content-loaded
@@ -5180,6 +5180,7 @@ https://duckduckgo.com##.js-atb-banner-mainmsg
 https://pri.org##.js-cta_prompt
 https://askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.js-dismissable-hero
 https://wellandgood.com##.js-flying
+https://askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.js-freemium-cta
 https://hotukdeals.com##.js-keyword-alerts
 https://wired.com##.js-prefooter-rad
 https://medium.com##.js-promoCardWrapper
@@ -6210,6 +6211,7 @@ https://gq.com##.consumer-marketing-unit--cm-footer
 https://vox.com##.contribute-banner
 https://themoscowtimes.com##.contribute-bar
 https://thejournal.ie##.contribution-prompt
+https://thenextweb.com##.corona-wrapper
 https://rawstory.com##.cp-info-bar
 https://alternet.org##.cp-info-bar-container
 https://peoplesworld.org##.donate_strip
@@ -6803,6 +6805,7 @@ https://economist.com##.exit-pop
 https://jornaldacidadeonline.com.br##.exit-screen
 https://online-convert.com,pdf2go.com,rt.com##.extension-browser
 https://classicalite.com##.f-subscform
+https://newseveryday.com##.f-subscribe
 https://huckberry.com##.fade
 https://slator.com##.fancybox-desktop
 https://christianpost.com##.fancybox-iframe
@@ -8187,6 +8190,7 @@ https://chrome-plugins.org##.buttonfixed
 https://expatexchange.com##.buttons
 https://newsnow.co.uk##.c-article-menu
 https://flava.co.nz,hauraki.co.nz,mixonline.co.nz,nzherald.co.nz,thehits.co.nz,zmonline.com##.c-connect
+https://thenextweb.com##.c-engage
 https://theglobeandmail.com##.c-site-header__buttons
 https://care2.com##.c2fb_share_count
 https://geeky.io##.call-out
@@ -12820,7 +12824,7 @@ https://podrozerowerowe.info##.appriseOverlay
 https://likeni.ru##.bottom-popup
 https://tvguru.ru##.c-modal
 https://hashrating.com##.cookie
-https://glavred.info,unian.net##.cookies
+https://advstreet.ru,glavred.info,unian.net##.cookies
 https://lisa.ru##.disclamer
 https://ozon.ru##.i4
 https://friday.ru##.information
@@ -16005,7 +16009,7 @@ http://heavy.com##.heavy-mailing-widget-sidebar
 http://cnn.com##.hed_side
 http://nola.com##.helper
 http://sciencenews.cc##.herald-single-sticky
-http://askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.hero-container
+http://askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.hero-box
 http://sciencefocus.com##.highlight
 http://mint.com##.hmenu
 http://businessspectator.com.au##.holder-content-loaded
@@ -16088,6 +16092,7 @@ http://duckduckgo.com##.js-atb-banner-mainmsg
 http://pri.org##.js-cta_prompt
 http://askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.js-dismissable-hero
 http://wellandgood.com##.js-flying
+http://askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.js-freemium-cta
 http://hotukdeals.com##.js-keyword-alerts
 http://wired.com##.js-prefooter-rad
 http://medium.com##.js-promoCardWrapper
@@ -17118,6 +17123,7 @@ http://gq.com##.consumer-marketing-unit--cm-footer
 http://vox.com##.contribute-banner
 http://themoscowtimes.com##.contribute-bar
 http://thejournal.ie##.contribution-prompt
+http://thenextweb.com##.corona-wrapper
 http://rawstory.com##.cp-info-bar
 http://alternet.org##.cp-info-bar-container
 http://peoplesworld.org##.donate_strip
@@ -17711,6 +17717,7 @@ http://economist.com##.exit-pop
 http://jornaldacidadeonline.com.br##.exit-screen
 http://online-convert.com,pdf2go.com,rt.com##.extension-browser
 http://classicalite.com##.f-subscform
+http://newseveryday.com##.f-subscribe
 http://huckberry.com##.fade
 http://slator.com##.fancybox-desktop
 http://christianpost.com##.fancybox-iframe
@@ -19095,6 +19102,7 @@ http://chrome-plugins.org##.buttonfixed
 http://expatexchange.com##.buttons
 http://newsnow.co.uk##.c-article-menu
 http://flava.co.nz,hauraki.co.nz,mixonline.co.nz,nzherald.co.nz,thehits.co.nz,zmonline.com##.c-connect
+http://thenextweb.com##.c-engage
 http://theglobeandmail.com##.c-site-header__buttons
 http://care2.com##.c2fb_share_count
 http://geeky.io##.call-out
@@ -23730,7 +23738,7 @@ http://podrozerowerowe.info##.appriseOverlay
 http://likeni.ru##.bottom-popup
 http://tvguru.ru##.c-modal
 http://hashrating.com##.cookie
-http://glavred.info,unian.net##.cookies
+http://advstreet.ru,glavred.info,unian.net##.cookies
 http://lisa.ru##.disclamer
 http://ozon.ru##.i4
 http://friday.ru##.information
