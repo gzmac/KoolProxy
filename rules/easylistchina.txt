@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: q+++1lym/6KErF4MOl1lUw
-! Version: 202104180042
+! Checksum: xs0AIbBMhf3UGSEpWNZJrg
+! Version: 202104190042
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4824,6 +4824,7 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://99kubo.tv/static/img/adsfree.png
 ||https://17ce.com^*_$image
 ||https://69t49.com/floating/layer.js
 ||https://alicdn.com/img/ibank/*_!!2210231227621-0-cib.
@@ -12528,6 +12529,7 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://99kubo.tv/static/img/adsfree.png
 ||http://17ce.com^*_$image
 ||http://3336672.com^
 ||http://3337729.com^
@@ -13362,6 +13364,15 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://adrian.net.cn^
+||http://jituangongsi.cn^
+||http://chkwwg.cn^
+||http://gxdianhua.com^
+||http://tyue.me^
+||http://qdilmak.cn^
+||http://bangdu2.com^
+||http://lexph.com^
+||http://vinuxhome.com^
 ||http://027whht.com^
 ||http://0316dieroxiemzfjwmapk.xyz^
 ||http://0323wqpioutyuencsamxsd.xyz^
@@ -15882,6 +15893,10 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://99kubo.tv##DIV[style="width:970px; height:250px;"]
+https://99kubo.tv##TABLE[width="970"][height="260"]
+https://99kubo.tv#?#div[style*="width"]:-abp-has(> div[style] > img[src="/static/img/adsfree.png"])
+https://bibgame.com##.topicContent > FONT[color="red"]:last-child
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -22264,6 +22279,10 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://99kubo.tv##DIV[style="width:970px; height:250px;"]
+http://99kubo.tv##TABLE[width="970"][height="260"]
+http://99kubo.tv#?#div[style*="width"]:-abp-has(> div[style] > img[src="/static/img/adsfree.png"])
+http://bibgame.com##.topicContent > FONT[color="red"]:last-child
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2

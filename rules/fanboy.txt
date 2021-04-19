@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: sDTm6LCPKTCbUFwluuzdHA
-! Version: 202104180050
+! Checksum: DfDkegm5J70l0XL4DWCS3A
+! Version: 202104190050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-18 00:50 UTC
+! Last modified: 2021-04-19 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -33,7 +33,6 @@
 ||https://amazonaws.com/fby/
 ||https://amazonaws.com/mailmunch/$script
 ||https://amazonaws.com^*/feedback-v2.js
-||https://antenna.is^$third-party
 ||https://apester.com^$third-party
 ||https://api.branch.io^$third-party
 ||https://api.giphy.com^*/related?$third-party
@@ -110,7 +109,6 @@
 ||https://enquoted.com^$third-party
 ||https://eventful.com^$third-party
 ||https://exitintel.com^$third-party
-||https://facebookicon.net^$third-party
 ||https://fark.com/js/$third-party
 ||https://feed.mikle.com^$third-party
 ||https://feedage.com^$third-party
@@ -191,7 +189,6 @@
 ||https://list-manage1.com/subscriber-count?$third-party
 ||https://live4sport.net^$third-party
 ||https://liveintent.com^$third-party
-||https://loyalis.co^$third-party
 ||https://lpages.co/serve-leadbox/$third-party
 ||https://madmimi.com/signups/$third-party
 ||https://magimg.com/random?$third-party
@@ -365,12 +362,10 @@
 ||https://widget.adviceiq.com^$third-party
 ||https://widget.breakingburner.com^$third-party
 ||https://widget.clipix.com^$third-party
-||https://widget.crowdignite.com^$third-party
 ||https://widget.pico.tools^$third-party
 ||https://widget.trustpilot.com^$third-party
 ||https://widget.zoorate.com^$third-party
 ||https://widgets.dzone.com^$third-party
-||https://widgets.seekitlocal.com^$third-party
 ||https://widgets.tapcdn.com^$third-party
 ||https://widgetsplus.com^$third-party
 ||https://wisepops.com^$third-party
@@ -413,7 +408,6 @@
 ||https://amplify.outbrain.com^$third-party
 ||https://hpr.outbrain.com^$third-party
 ||https://newsletter.outbrain.com^$third-party
-||https://odb.outbrain.com^$third-party
 ||https://outbrainimg.com^$third-party
 ||https://sphere.outbrain.com^$third-party
 ||https://widgets.outbrain.com^$third-party
@@ -471,7 +465,6 @@
 ||https://pushnami.com^$third-party
 ||https://pushnews.eu^$third-party
 ||https://pushnotifications.click^$third-party
-||https://pushnotificationx.com^$third-party
 ||https://pushowl.com^$third-party
 ||https://pushpad.xyz^$third-party
 ||https://pushpanda.io^$third-party
@@ -491,7 +484,6 @@
 ||https://snrcdn.net^$third-party
 ||https://spacepush.ru^$third-party
 ||https://topswp.com^$third-party
-||https://ucfeed.ru^$third-party
 ||https://viafoura.net/push_handlers.js
 ||https://webpush.jp^$third-party
 ||https://webpushr.com^$third-party
@@ -511,7 +503,6 @@
 ||https://bosspush.com^$third-party
 ||https://browserpusher.com^$third-party
 ||https://cdn-sitegainer.com^$third-party
-||https://centrpush.com^$third-party
 ||https://cleverpush.com^$third-party
 ||https://copush.com^$third-party
 ||https://cracataum.com^$third-party
@@ -779,7 +770,6 @@
 ||https://yandex.st/share/
 ||https://youtube.com/subscribe_embed?$third-party
 ||https://youtube.com/subscribe_widget$third-party
-||https://ywidgets.awe.sm^$third-party
 ||https://zextit.com/partners/$third-party
 ||https://admiral.mgr.consensu.org^$third-party
 ||https://akamaihd.net/cpmt/
@@ -804,7 +794,6 @@
 ||https://cookieassistant.com^$third-party
 ||https://cookiebot.com^$third-party
 ||https://cookiechoices.org^$third-party
-||https://cookieconsent.silktide.com^$third-party
 ||https://cookiefirst.com^$third-party
 ||https://cookiehub.net^$third-party
 ||https://cookieinformation.com/*/*.js
@@ -843,22 +832,18 @@
 ||https://quantcast.mgr.consensu.org^$third-party
 ||https://scrookie.nl^$third-party
 ||https://sddan.mgr.consensu.org^$third-party
-||https://secureprivacy.ai^$third-party
 ||https://sharethis.mgr.consensu.org^$third-party
 ||https://sibboventures.mgr.consensu.org^$third-party
 ||https://signatu.com^$third-party
 ||https://smartadserver.mgr.consensu.org^$third-party
 ||https://smartcookies.it^$third-party
-||https://societe.mgr.consensu.org^$third-party
 ||https://sourcepoint.mgr.consensu.org^$third-party
-||https://tarteaucitron.ml^$third-party
 ||https://thirdfloor.it^$third-party
 ||https://thisisdone.com/gdpr/$third-party
 ||https://truendo.com^$third-party
 ||https://trustarc.com^$third-party
 ||https://uniconsent.mgr.consensu.org^$third-party
 ||https://usercentrics.eu^$third-party
-||https://vendorlist.consensu.org^$third-party
 ||https://volksbund-cookie.de^$third-party
 ||https://widget.clym-sdk.net^$third-party
 ||https://wpcc.io^$third-party
@@ -1036,7 +1021,6 @@
 ||https://horoscope.fr/notifications/
 ||https://tut.by/push/
 ||https://3dmark.com/proxycon/images/front-some-fb.png
-||https://5movies.to/share.php
 ||https://76.my/Auc/
 ||https://abc.net.au^*/news-podcasts-
 ||https://alwaght.com/upload/logo/case/
@@ -1047,8 +1031,6 @@
 ||https://askmen.com^*/btn_print.
 ||https://australiantimes.co.uk/wp-content/uploads/*_google_pl.jpg
 ||https://backpackerguide.nz^*/bandFacebookLine.
-||https://bamboobaycondo.com/uploads/*/4388939.png
-||https://bamboobaycondo.com/uploads/*/9772065.png
 ||https://bdupload.info/js/share.js
 ||https://bitcoinist.net/wp-content/*/fb.png
 ||https://bitcoinist.net/wp-content/*/g+.png
@@ -1314,7 +1296,6 @@
 ||https://qatarradio.qa/images/LB/
 ||https://shabiba.com/images/snapchat-
 ||https://shabiba.com/images/whatsapp-
-||https://tn-sport.net/like/
 ||https://wilaya-naama.dz/images/%d8%b1%d9%88%d8%a7%d8%a8%d8%b7.png
 ||https://cts.com.tw/images/bot_
 ||https://getjoys.com/js/popup.js?v=
@@ -1361,9 +1342,7 @@
 ||https://styria.hr^*/cookies.min.js
 ||https://tv2a.dk/consent/
 ||https://tv2a.dk/oil.
-||https://cookiesv2.publiekeomroep.nl/light/
 ||https://tmgonlinemedia.nl/cc$script
-||https://tol.postnl.nl/content/toljs/$script
 ||https://almamedia.fi/almacmp/$script
 ||https://hsy.fi^*/hsycookie.js
 ||https://sanoma.fi^*/sccm-b.js
@@ -1428,7 +1407,6 @@
 ||http://amazonaws.com/fby/
 ||http://amazonaws.com/mailmunch/$script
 ||http://amazonaws.com^*/feedback-v2.js
-||http://antenna.is^$third-party
 ||http://apester.com^$third-party
 ||http://api.branch.io^$third-party
 ||http://api.giphy.com^*/related?$third-party
@@ -1512,7 +1490,6 @@
 ||http://enquoted.com^$third-party
 ||http://eventful.com^$third-party
 ||http://exitintel.com^$third-party
-||http://facebookicon.net^$third-party
 ||http://fark.com/js/$third-party
 ||http://feed.mikle.com^$third-party
 ||http://feedage.com^$third-party
@@ -1593,7 +1570,6 @@
 ||http://list-manage1.com/subscriber-count?$third-party
 ||http://live4sport.net^$third-party
 ||http://liveintent.com^$third-party
-||http://loyalis.co^$third-party
 ||http://lpages.co/serve-leadbox/$third-party
 ||http://madmimi.com/signups/$third-party
 ||http://magimg.com/random?$third-party
@@ -1769,12 +1745,10 @@
 ||http://widget.adviceiq.com^$third-party
 ||http://widget.breakingburner.com^$third-party
 ||http://widget.clipix.com^$third-party
-||http://widget.crowdignite.com^$third-party
 ||http://widget.pico.tools^$third-party
 ||http://widget.trustpilot.com^$third-party
 ||http://widget.zoorate.com^$third-party
 ||http://widgets.dzone.com^$third-party
-||http://widgets.seekitlocal.com^$third-party
 ||http://widgets.sprinkletxt.com^
 ||http://widgets.tapcdn.com^$third-party
 ||http://widgetsplus.com^$third-party
@@ -1818,7 +1792,6 @@
 ||http://amplify.outbrain.com^$third-party
 ||http://hpr.outbrain.com^$third-party
 ||http://newsletter.outbrain.com^$third-party
-||http://odb.outbrain.com^$third-party
 ||http://outbrainimg.com^$third-party
 ||http://sphere.outbrain.com^$third-party
 ||http://widgets.outbrain.com^$third-party
@@ -1880,7 +1853,6 @@
 ||http://pushnami.com^$third-party
 ||http://pushnews.eu^$third-party
 ||http://pushnotifications.click^$third-party
-||http://pushnotificationx.com^$third-party
 ||http://pushowl.com^$third-party
 ||http://pushpad.xyz^$third-party
 ||http://pushpanda.io^$third-party
@@ -1900,7 +1872,6 @@
 ||http://snrcdn.net^$third-party
 ||http://spacepush.ru^$third-party
 ||http://topswp.com^$third-party
-||http://ucfeed.ru^$third-party
 ||http://viafoura.net/push_handlers.js
 ||http://webpush.jp^$third-party
 ||http://webpushr.com^$third-party
@@ -1920,7 +1891,6 @@
 ||http://bosspush.com^$third-party
 ||http://browserpusher.com^$third-party
 ||http://cdn-sitegainer.com^$third-party
-||http://centrpush.com^$third-party
 ||http://cleverpush.com^$third-party
 ||http://copush.com^$third-party
 ||http://cracataum.com^$third-party
@@ -2192,7 +2162,6 @@
 ||http://yandex.st/share/
 ||http://youtube.com/subscribe_embed?$third-party
 ||http://youtube.com/subscribe_widget$third-party
-||http://ywidgets.awe.sm^$third-party
 ||http://zextit.com/partners/$third-party
 ||http://admiral.mgr.consensu.org^$third-party
 ||http://akamaihd.net/cpmt/
@@ -2222,7 +2191,6 @@
 ||http://cookieassistant.com^$third-party
 ||http://cookiebot.com^$third-party
 ||http://cookiechoices.org^$third-party
-||http://cookieconsent.silktide.com^$third-party
 ||http://cookiefirst.com^$third-party
 ||http://cookiehub.net^$third-party
 ||http://cookieinformation.com/*/*.js
@@ -2259,22 +2227,18 @@
 ||http://optanon.blob.core.windows.net^
 ||http://privacy-center.org^$third-party
 ||http://privacy.clion.agency^$third-party
-||http://privacy.purch.com^
 ||http://privacymanager.io^$third-party
 ||http://publy.net^$third-party
 ||http://pubtech.ai^$third-party
 ||http://quantcast.mgr.consensu.org^$third-party
 ||http://scrookie.nl^$third-party
 ||http://sddan.mgr.consensu.org^$third-party
-||http://secureprivacy.ai^$third-party
 ||http://sharethis.mgr.consensu.org^$third-party
 ||http://sibboventures.mgr.consensu.org^$third-party
 ||http://signatu.com^$third-party
 ||http://smartadserver.mgr.consensu.org^$third-party
 ||http://smartcookies.it^$third-party
-||http://societe.mgr.consensu.org^$third-party
 ||http://sourcepoint.mgr.consensu.org^$third-party
-||http://tarteaucitron.ml^$third-party
 ||http://thirdfloor.it^$third-party
 ||http://thisisdone.com/gdpr/$third-party
 ||http://truendo.com^$third-party
@@ -2282,7 +2246,6 @@
 ||http://trustarc.mgr.consensu.org^
 ||http://uniconsent.mgr.consensu.org^$third-party
 ||http://usercentrics.eu^$third-party
-||http://vendorlist.consensu.org^$third-party
 ||http://volksbund-cookie.de^$third-party
 ||http://widget.clym-sdk.net^$third-party
 ||http://wpcc.io^$third-party
@@ -2369,7 +2332,6 @@
 ||http://destinyman.com^*/sign-up-banner.
 ||http://emailing.rfi.fr^
 ||http://ewnews.com^*/newsletter.
-||http://forms.windowsitpro.com^
 ||http://fortune.com^*/OO-NL_
 ||http://gn-flagpoles.api.bbci.co.uk^
 ||http://goodhousekeeping.co.za^*/subscribe-
@@ -2414,7 +2376,6 @@
 ||http://thejewishstar.com/images/enews-
 ||http://therealnews.com^*/sign_up.
 ||http://therealnews.com^*/subfp.
-||http://tmform.azurewebsites.net^
 ||http://webmd.com/dtmcms/live/webmd/*/newsletter/
 ||http://womenonwheels.co.za^*/subscribe-
 ||http://wp.com^*/Subscribe-$domain=noqreport.com
@@ -2474,7 +2435,6 @@
 ||http://push.neko-san.fr^
 ||http://tut.by/push/
 ||http://3dmark.com/proxycon/images/front-some-fb.png
-||http://5movies.to/share.php
 ||http://76.my/Auc/
 ||http://abc.net.au^*/news-podcasts-
 ||http://alwaght.com/upload/logo/case/
@@ -2485,8 +2445,6 @@
 ||http://askmen.com^*/btn_print.
 ||http://australiantimes.co.uk/wp-content/uploads/*_google_pl.jpg
 ||http://backpackerguide.nz^*/bandFacebookLine.
-||http://bamboobaycondo.com/uploads/*/4388939.png
-||http://bamboobaycondo.com/uploads/*/9772065.png
 ||http://bdupload.info/js/share.js
 ||http://bitcoinist.net/wp-content/*/fb.png
 ||http://bitcoinist.net/wp-content/*/g+.png
@@ -2586,7 +2544,6 @@
 ||http://consent.23g.io^
 ||http://consent.cmp.oath.com^
 ||http://consent.theneweuropean.co.uk^
-||http://cookie.oup.com^
 ||http://dam.bbcchannels.com^*/outside-iframe.js
 ||http://duotonesports.com^*/public/ccm
 ||http://emerse.com/consent.js
@@ -2778,7 +2735,6 @@
 ||http://qatarradio.qa/images/LB/
 ||http://shabiba.com/images/snapchat-
 ||http://shabiba.com/images/whatsapp-
-||http://tn-sport.net/like/
 ||http://wilaya-naama.dz/images/%d8%b1%d9%88%d8%a7%d8%a8%d8%b7.png
 ||http://cts.com.tw/images/bot_
 ||http://getjoys.com/js/popup.js?v=
@@ -2839,9 +2795,7 @@
 ||http://cookie.vrt.be^
 ||http://cookie.wieni.be^
 ||http://cookies.nos.nl^
-||http://cookiesv2.publiekeomroep.nl/light/
 ||http://tmgonlinemedia.nl/cc$script
-||http://tol.postnl.nl/content/toljs/$script
 ||http://almamedia.fi/almacmp/$script
 ||http://hsy.fi^*/hsycookie.js
 ||http://sanoma.fi^*/sccm-b.js
