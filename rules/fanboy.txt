@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lDuwYZMx9k6sHVoc8ORulA
-! Version: 202104210050
+! Checksum: 91oJERtKoidT28c56US0ZQ
+! Version: 202104220050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-21 00:50 UTC
+! Last modified: 2021-04-22 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6847,6 +6847,7 @@ https://scientificamerican.com##.home-banner
 https://stylelist.com##.home-newsletter
 https://factmag.com##.home-social-area
 https://theskimm.com##.home-subscribe__signup-form
+https://opencv.org##.homepage-email-icon
 https://politico.com##.homepage-section-blast-sign-up
 https://foreignaffairs.com##.homepage-sign-up--b
 https://guernicamag.com##.homing_wrapper
@@ -12912,6 +12913,7 @@ https://yenisafak.com##.policy
 https://turuncukasa.com##.popin
 https://etstur.com##.protectionOfData
 https://fikriyat.com,sabah.com.tr,turkuvazradyolar.com,yeniasir.com.tr##.veriAltBar
+https://res.ua###oct-policy
 https://fdu.org.ua###pd_popup
 https://i.ua##.Disclaimer
 https://tsn.ua##.c-notification__box
@@ -17758,6 +17760,7 @@ http://scientificamerican.com##.home-banner
 http://stylelist.com##.home-newsletter
 http://factmag.com##.home-social-area
 http://theskimm.com##.home-subscribe__signup-form
+http://opencv.org##.homepage-email-icon
 http://politico.com##.homepage-section-blast-sign-up
 http://foreignaffairs.com##.homepage-sign-up--b
 http://guernicamag.com##.homing_wrapper
@@ -23825,6 +23828,7 @@ http://yenisafak.com##.policy
 http://turuncukasa.com##.popin
 http://etstur.com##.protectionOfData
 http://fikriyat.com,sabah.com.tr,turkuvazradyolar.com,yeniasir.com.tr##.veriAltBar
+http://res.ua###oct-policy
 http://fdu.org.ua###pd_popup
 http://i.ua##.Disclaimer
 http://tsn.ua##.c-notification__box
