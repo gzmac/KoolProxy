@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 91oJERtKoidT28c56US0ZQ
-! Version: 202104220050
+! Checksum: MLTofOCYEGlWLPZPODJEcA
+! Version: 202104230050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-22 00:50 UTC
+! Last modified: 2021-04-23 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11531,6 +11531,7 @@ https://mediafax.ro##.OptionBar
 https://newsweek.ro##.icons
 https://autoline.ro##.share
 https://capital.ro,europages.ro##.social
+https://donpatriot.news##.wrapper__search
 https://ntv.ru###bottomsoc
 https://dnr-online.ru###footsoc
 https://rg.ru###rgb_vk
@@ -22445,6 +22446,7 @@ http://mediafax.ro##.OptionBar
 http://newsweek.ro##.icons
 http://autoline.ro##.share
 http://capital.ro,europages.ro##.social
+http://donpatriot.news##.wrapper__search
 http://ntv.ru###bottomsoc
 http://dnr-online.ru###footsoc
 http://rg.ru###rgb_vk
