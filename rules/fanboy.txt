@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MLTofOCYEGlWLPZPODJEcA
-! Version: 202104230050
+! Checksum: f/Q967+ZG9hRWpAEfTrQ+Q
+! Version: 202104240050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-23 00:50 UTC
+! Last modified: 2021-04-24 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -3031,6 +3031,7 @@ https://psmag.com###before-header
 https://aplus.com###beforeYouGo
 https://bing.com###bep
 https://goal.com###bettingWidgetAnchor
+https://donpatriot.news###bg_popup
 https://lifeslittlemysteries.com###bg_underlay
 https://bollywoodhungama.com###bh-fixed-article
 https://scientificamerican.com###bigCoverModule
@@ -5316,7 +5317,7 @@ https://scoopnest.com##.navbar-footer
 https://etonline.com##.navbar_wrap.fixed
 https://windows7themes.net##.navbutton
 https://bornrich.com##.navigatePerma
-https://canonclast.com,futurecapetown.com,kqed.org##.navigation
+https://canonclast.com,futurecapetown.com,kqed.org,worldarchitecture.org##.navigation
 https://now.msn.com##.navigationscroller1
 https://now.msn.com##.navscr
 https://dawn.com##.navstory
@@ -6240,6 +6241,7 @@ https://sciencenews.org###block-boxes-call-to-action
 https://itpro.co.uk###block-boxes-subscription-promo-content
 https://infoworld.com###block-infoworld-newsletter_subscribe
 https://forces.net###block-mailchimpsubscriptionformmailsignup
+https://ncronline.org###block-ncr-api-emailmarketing-article-signup
 https://crosscut.com###block-quick-subscribe-footer
 https://shape.com###block-shape_newsletters-newsletters
 https://thehill.com###block-thehill-blocks-footer-signup
@@ -6704,6 +6706,7 @@ https://defiantamerica.com##.defia-after-content
 https://defiantamerica.com##.defia-right-rail-newsletter-2
 https://huffpost.com##.desktop-alerts-signup
 https://amigosmuseoreinasofia.org##.desplegado
+https://developers.google.com##.devsite-footer-utility-button
 https://conservativedailynews.com,generalassemb.ly##.dgd_stb_box
 https://androidauthority.com##.dgit-daily-form-green-wrap
 https://cybernews.com##.dialog-lightbox-message
@@ -7595,6 +7598,7 @@ https://airship.com##.PushNotification
 https://reddit.com##.XPromoInFeed
 https://aliexpress.com##._3KrBP
 https://investing.com##.allow-notifications-popup-wrapper
+https://business-standard.com##.bg
 https://manutd.com##.custom-popup
 https://chicagotribune.com##.met-flyout
 https://wowhead.com##.notifications-dialog
@@ -8527,9 +8531,6 @@ https://mondediplo.com##.partage
 https://michiganradio.org##.partner-logos
 https://whoer.net##.partners
 https://patreon.com##.patreon-footer-component--link
-https://post-gazette.com##.pgevoke-story-socialbuttons-facebook
-https://post-gazette.com##.pgevoke-story-socialbuttons-reddit
-https://post-gazette.com##.pgevoke-story-socialbuttons-twitter
 https://news18.com##.pht-artcl-shr2
 https://bossip.com,esquire.com,fashionmagazine.com,foxnews.com,sassyhongkong.com,sassymanila.com,upi.com##.pin
 https://foodnetwork.com,kitchendaily.com##.pinit
@@ -8977,7 +8978,6 @@ https://professionalmuscle.com##table[width="1370"][border="0"]
 https://chron.com##table[width="300"]
 https://dailymail.co.uk,thisismoney.co.uk##ul[class^="linksHolder-"]
 https://lexus.com##ul[data-category="Social Toolbar"]
-https://nationalpost.com###actionbar
 https://computect.nz###article_social_0
 https://lifewire.com###button-pinterest-image
 https://pcmag.com###enhancedsharer
@@ -9001,30 +9001,16 @@ https://computerworlduk.com##.helpIcons
 https://history.com##.icon-social
 https://desertsun.com##.lf-social-bookmarks
 https://desertsun.com##.longform-share-wrapper
-https://history.com##.m-header--social-nav
-https://history.com##.m-social--facebook
-https://history.com##.m-social--pinterest
-https://history.com##.m-social--twitter
-https://huffingtonpost.co.uk##.mod-follow
 https://dexerto.com##.mxn1
-https://nationalpost.com##.npStoryShare
 https://dailymail.co.uk##.pinterest
 https://collectivelyconscious.net##.post-single-footer
 https://stern.de##.prettysocial
 https://latinomegahd.net##.rdsocial
 https://pcmag.com##.reviews-share
-https://history.com##.section-social-list
 https://huffpost.com##.share-bar-highlight
 https://thefreedictionary.com##.share-block
-https://dailymail.co.uk##.share-email
 https://goldderby.com##.share-group
-https://dailymail.co.uk##.share-icons
-https://dailymail.co.uk##.share-link
 https://arstechnica.com##.share-links
-https://dailymail.co.uk##.share-pictures-overlay
-https://dailymail.co.uk##.share-pinterest
-https://aetv.com,fyi.tv,history.com,mylifetime.com##.share-this
-https://dailymail.co.uk##.shareArticles
 https://bento.de##.share_container
 https://n4mo.org##.sharedaddy
 https://bing.com##.shareicon
@@ -9032,7 +9018,6 @@ https://history.com##.show-social-links
 https://technobuffalo.com##.social
 https://spiegel.de##.social-bar-wrapper
 https://informer.com##.social-buttons
-https://huffingtonpost.co.uk,huffpost.com##.social-dock
 https://forbes.com##.social-facebook
 https://bento.de##.social-header
 https://merriam-webster.com##.social-link
@@ -9043,7 +9028,6 @@ https://allmusic.com##.social-nav
 https://thefreedictionary.com##.social-networks
 https://bento.de##.socialBar
 https://1001tracklists.com,newser.com##.socialButtons
-https://mediafire.com##.socialContainerWrap
 https://duckduckgo.com##.social__icon
 https://duckduckgo.com##.social__link
 https://tomshardware.com##.socialite-widget-ul
@@ -11659,6 +11643,7 @@ https://jmmgc.com###cnotice
 https://aktienportal1.de,eifelzeitung.de,ep1.de###coPolicyMain
 https://adventskalender-gewinnspiele.de,happy-spots.de,kirmes-in-deutschland.de,stadtfeste-in-deutschland.de,weihnachtsmaerkte-in-deutschland.de,weinfeste-in-deutschland.de###cono
 https://kunstnet.de,notebookinfo.de,zitatezumnachdenken.com###consent
+https://strawpoll.de###consent-overlay
 https://der-farang.com###consent_overlay
 https://renault-koenig.de###cook
 https://alternative-zu.de,baskets-jena.de,bauernzeitung.ch,bookingsuedtirol.com,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,goldankauf123.de,lvr.de,ruhrbarone.de,shop-apotheke.com###cookie
@@ -13111,7 +13096,7 @@ https://onbeing.org#@#.addthisbuttons
 https://beautifulplanet4u.com#@#.advanced-social-widget
 https://kino-vorschau.com#@#.arqam-widget-counter
 https://unian.info,unian.net,unian.ua#@#.article-selection-shares
-https://banki.ru,neowin.net#@#.article-share
+https://banki.ru,neowin.net,unionesarda.it#@#.article-share
 https://heise.de#@#.article-sharing
 https://adme.ru,pomponik.pl#@#.article-social
 https://niedziela.pl#@#.article-social-btn
@@ -13520,7 +13505,6 @@ https://bing.com#@##cc_container
 https://datakauppa.fi#@##cliSettingsPopup
 https://youtube.com#@##consent-bump
 https://dnb.no#@##consent-modal
-https://consent.yahoo.com,paypal.com#@##consent.consent
 https://dnb.no#@##consentContainer
 https://sandisk.ae,sandisk.cn,sandisk.co.jp,sandisk.co.kr,sandisk.co.uk,sandisk.com,sandisk.com.au,sandisk.com.br,sandisk.com.tr,sandisk.com.tw,sandisk.de,sandisk.es,sandisk.fr,sandisk.hk,sandisk.id,sandisk.in,sandisk.it,sandisk.nl,sandisk.sg,wacom.com#@##consent_blackbar
 https://roussillhotel.com#@##cookie-banner
@@ -13944,6 +13928,7 @@ http://psmag.com###before-header
 http://aplus.com###beforeYouGo
 http://bing.com###bep
 http://goal.com###bettingWidgetAnchor
+http://donpatriot.news###bg_popup
 http://lifeslittlemysteries.com###bg_underlay
 http://bollywoodhungama.com###bh-fixed-article
 http://scientificamerican.com###bigCoverModule
@@ -16230,7 +16215,7 @@ http://scoopnest.com##.navbar-footer
 http://etonline.com##.navbar_wrap.fixed
 http://windows7themes.net##.navbutton
 http://bornrich.com##.navigatePerma
-http://canonclast.com,futurecapetown.com,kqed.org##.navigation
+http://canonclast.com,futurecapetown.com,kqed.org,worldarchitecture.org##.navigation
 http://now.msn.com##.navigationscroller1
 http://now.msn.com##.navscr
 http://dawn.com##.navstory
@@ -17154,6 +17139,7 @@ http://sciencenews.org###block-boxes-call-to-action
 http://itpro.co.uk###block-boxes-subscription-promo-content
 http://infoworld.com###block-infoworld-newsletter_subscribe
 http://forces.net###block-mailchimpsubscriptionformmailsignup
+http://ncronline.org###block-ncr-api-emailmarketing-article-signup
 http://crosscut.com###block-quick-subscribe-footer
 http://shape.com###block-shape_newsletters-newsletters
 http://thehill.com###block-thehill-blocks-footer-signup
@@ -17618,6 +17604,7 @@ http://defiantamerica.com##.defia-after-content
 http://defiantamerica.com##.defia-right-rail-newsletter-2
 http://huffpost.com##.desktop-alerts-signup
 http://amigosmuseoreinasofia.org##.desplegado
+http://developers.google.com##.devsite-footer-utility-button
 http://conservativedailynews.com,generalassemb.ly##.dgd_stb_box
 http://androidauthority.com##.dgit-daily-form-green-wrap
 http://cybernews.com##.dialog-lightbox-message
@@ -18509,6 +18496,7 @@ http://airship.com##.PushNotification
 http://reddit.com##.XPromoInFeed
 http://aliexpress.com##._3KrBP
 http://investing.com##.allow-notifications-popup-wrapper
+http://business-standard.com##.bg
 http://manutd.com##.custom-popup
 http://chicagotribune.com##.met-flyout
 http://wowhead.com##.notifications-dialog
@@ -19441,9 +19429,6 @@ http://mondediplo.com##.partage
 http://michiganradio.org##.partner-logos
 http://whoer.net##.partners
 http://patreon.com##.patreon-footer-component--link
-http://post-gazette.com##.pgevoke-story-socialbuttons-facebook
-http://post-gazette.com##.pgevoke-story-socialbuttons-reddit
-http://post-gazette.com##.pgevoke-story-socialbuttons-twitter
 http://news18.com##.pht-artcl-shr2
 http://bossip.com,esquire.com,fashionmagazine.com,foxnews.com,sassyhongkong.com,sassymanila.com,upi.com##.pin
 http://foodnetwork.com,kitchendaily.com##.pinit
@@ -19892,7 +19877,6 @@ http://professionalmuscle.com##table[width="1370"][border="0"]
 http://chron.com##table[width="300"]
 http://dailymail.co.uk,thisismoney.co.uk##ul[class^="linksHolder-"]
 http://lexus.com##ul[data-category="Social Toolbar"]
-http://nationalpost.com###actionbar
 http://computect.nz###article_social_0
 http://lifewire.com###button-pinterest-image
 http://pcmag.com###enhancedsharer
@@ -19916,30 +19900,16 @@ http://computerworlduk.com##.helpIcons
 http://history.com##.icon-social
 http://desertsun.com##.lf-social-bookmarks
 http://desertsun.com##.longform-share-wrapper
-http://history.com##.m-header--social-nav
-http://history.com##.m-social--facebook
-http://history.com##.m-social--pinterest
-http://history.com##.m-social--twitter
-http://huffingtonpost.co.uk##.mod-follow
 http://dexerto.com##.mxn1
-http://nationalpost.com##.npStoryShare
 http://dailymail.co.uk##.pinterest
 http://collectivelyconscious.net##.post-single-footer
 http://stern.de##.prettysocial
 http://latinomegahd.net##.rdsocial
 http://pcmag.com##.reviews-share
-http://history.com##.section-social-list
 http://huffpost.com##.share-bar-highlight
 http://thefreedictionary.com##.share-block
-http://dailymail.co.uk##.share-email
 http://goldderby.com##.share-group
-http://dailymail.co.uk##.share-icons
-http://dailymail.co.uk##.share-link
 http://arstechnica.com##.share-links
-http://dailymail.co.uk##.share-pictures-overlay
-http://dailymail.co.uk##.share-pinterest
-http://aetv.com,fyi.tv,history.com,mylifetime.com##.share-this
-http://dailymail.co.uk##.shareArticles
 http://bento.de##.share_container
 http://n4mo.org##.sharedaddy
 http://bing.com##.shareicon
@@ -19947,7 +19917,6 @@ http://history.com##.show-social-links
 http://technobuffalo.com##.social
 http://spiegel.de##.social-bar-wrapper
 http://informer.com##.social-buttons
-http://huffingtonpost.co.uk,huffpost.com##.social-dock
 http://forbes.com##.social-facebook
 http://bento.de##.social-header
 http://merriam-webster.com##.social-link
@@ -19958,7 +19927,6 @@ http://allmusic.com##.social-nav
 http://thefreedictionary.com##.social-networks
 http://bento.de##.socialBar
 http://1001tracklists.com,newser.com##.socialButtons
-http://mediafire.com##.socialContainerWrap
 http://duckduckgo.com##.social__icon
 http://duckduckgo.com##.social__link
 http://tomshardware.com##.socialite-widget-ul
@@ -22575,6 +22543,7 @@ http://jmmgc.com###cnotice
 http://aktienportal1.de,eifelzeitung.de,ep1.de###coPolicyMain
 http://adventskalender-gewinnspiele.de,happy-spots.de,kirmes-in-deutschland.de,stadtfeste-in-deutschland.de,weihnachtsmaerkte-in-deutschland.de,weinfeste-in-deutschland.de###cono
 http://kunstnet.de,notebookinfo.de,zitatezumnachdenken.com###consent
+http://strawpoll.de###consent-overlay
 http://der-farang.com###consent_overlay
 http://renault-koenig.de###cook
 http://alternative-zu.de,baskets-jena.de,bauernzeitung.ch,bookingsuedtirol.com,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,goldankauf123.de,lvr.de,ruhrbarone.de,shop-apotheke.com###cookie
@@ -24027,7 +23996,7 @@ http://onbeing.org#@#.addthisbuttons
 http://beautifulplanet4u.com#@#.advanced-social-widget
 http://kino-vorschau.com#@#.arqam-widget-counter
 http://unian.info,unian.net,unian.ua#@#.article-selection-shares
-http://banki.ru,neowin.net#@#.article-share
+http://banki.ru,neowin.net,unionesarda.it#@#.article-share
 http://heise.de#@#.article-sharing
 http://adme.ru,pomponik.pl#@#.article-social
 http://niedziela.pl#@#.article-social-btn
@@ -24436,7 +24405,6 @@ http://bing.com#@##cc_container
 http://datakauppa.fi#@##cliSettingsPopup
 http://youtube.com#@##consent-bump
 http://dnb.no#@##consent-modal
-http://consent.yahoo.com,paypal.com#@##consent.consent
 http://dnb.no#@##consentContainer
 http://sandisk.ae,sandisk.cn,sandisk.co.jp,sandisk.co.kr,sandisk.co.uk,sandisk.com,sandisk.com.au,sandisk.com.br,sandisk.com.tr,sandisk.com.tw,sandisk.de,sandisk.es,sandisk.fr,sandisk.hk,sandisk.id,sandisk.in,sandisk.it,sandisk.nl,sandisk.sg,wacom.com#@##consent_blackbar
 http://roussillhotel.com#@##cookie-banner
