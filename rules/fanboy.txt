@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2rlJu1QycDE69+lH1oOFAA
-! Version: 202104250050
+! Checksum: BXRmDFnBJ88iU4gSMPBw5w
+! Version: 202104260050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-25 00:50 UTC
+! Last modified: 2021-04-26 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -478,6 +478,7 @@
 ||https://quaruzon.com^$third-party
 ||https://realpush.media^$third-party
 ||https://realpush.network^$third-party
+||https://revpusher.com^$third-party
 ||https://sckxppzdm.com^$third-party
 ||https://sendyourpush.com^$third-party
 ||https://signaly.co^$third-party
@@ -1120,6 +1121,7 @@
 ||https://xinhuanet.com^*/fanxiang
 ||https://google.com^*/fastbutton?
 ||https://agicssecurity.com/Header/ajax/cookie.php
+||https://asus.com/js/*/alert-info.js
 ||https://conclude.com/assets/build/combined.$script
 ||https://dam.bbcchannels.com^*/outside-iframe.js
 ||https://duotonesports.com^*/public/ccm
@@ -1356,6 +1358,7 @@
 ||https://creaweb.it/cookie/
 ||https://cure-naturali.it/cookies?
 ||https://effekt.it/analytics/
+||https://informagiovani-italia.com/consenso.js
 ||https://londraweb.com/consenso_lw.js
 ||https://meteorete.it/cookie.js
 ||https://ok-salute.it^*/cookie-law-info-public-
@@ -1866,6 +1869,7 @@
 ||http://quaruzon.com^$third-party
 ||http://realpush.media^$third-party
 ||http://realpush.network^$third-party
+||http://revpusher.com^$third-party
 ||http://sckxppzdm.com^$third-party
 ||http://sendyourpush.com^$third-party
 ||http://signaly.co^$third-party
@@ -1980,8 +1984,8 @@
 ||http://assets.tumblr.com/assets/html/iframe/o.html$third-party
 ||http://assets.tumblr.com/assets/html/iframe/teaser.html?$third-party
 ||http://b.hatena.ne.jp^$third-party
-||http://b.st-hatena.com/images/$image,third-party
-||http://b.st-hatena.com/js/$script,third-party
+||http://b.st-hatena.com/images/$image,third-party,domain=~b.hatena.ne.jp
+||http://b.st-hatena.com/js/$script,third-party,domain=~b.hatena.ne.jp
 ||http://bit.ly/TweetAndTrack.js
 ||http://bizsugar.com^*/button-b.php$third-party
 ||http://bloglovin.com/widget/$third-party
@@ -2539,6 +2543,7 @@
 ||http://google.com^*/fastbutton?$domain=autobild.de|tellows.de
 ||http://agicssecurity.com/Header/ajax/cookie.php
 ||http://appconsent.io^
+||http://asus.com/js/*/alert-info.js
 ||http://cmp.infopro-digital.com^
 ||http://cmp.osano.com^
 ||http://conclude.com/assets/build/combined.$script
@@ -2812,6 +2817,7 @@
 ||http://creaweb.it/cookie/
 ||http://cure-naturali.it/cookies?
 ||http://effekt.it/analytics/
+||http://informagiovani-italia.com/consenso.js
 ||http://londraweb.com/consenso_lw.js
 ||http://meteorete.it/cookie.js
 ||http://ok-salute.it^*/cookie-law-info-public-
@@ -9144,6 +9150,7 @@ https://tinder.com###content > span > .App > div[class*="Start"]
 https://wotinfo.net###coo
 https://alcoholics-anonymous.org.uk,cryps.info###cook
 https://add0n.com,aflite.co.uk,aon.com,atom42.co.uk,bakersmall.co.uk,bbvonline.net,betradar.com,bookingsouthtyrol.com,boscolohotels.com,boxnation.com,e-doggy.com,eqavet.eu,essentraextrusion.eu,flexerasoftware.com,fremantlemedia.com,gulfstream.com,iadvize.com,keyboardco.com,kicc.org.uk,lonewolfonline.net,mouseprice.com,nspcc.org.uk,oilplusltd.com,onenessscotland.org,pentagon-group.co.uk,prestashop.com,pretix.eu,priorygroup.com,rodacciai.fr,sainsburysenergy.com,simmons-simmons.com,stiripesurse.ro,tadeevo.com,technutty.co.uk,thebmc.co.uk,toomeymotorgroup.co.uk,tutsandtips.com,tvcorner.com,unsee.cc,wheatley-group.com,zbmath.org###cookie
+https://mediafire.com###cookie-accept-footer
 https://0calc.com###cookieconsentmodal
 https://anpost.ie,any.run,aquariumforums.co.uk,arag.com,atleticodemadrid.com,ayraviation.com,bl.uk,canadiansolar.com,celulares.com,cifas.org.uk,coinsofhope.eu,educalingo.com,eitb.eus,emrf.eu,emunewz.net,eporner.com,feyenoord.com,film-news.co.uk,forbiddenplanet.co.uk,freemeteo.ch,freemeteo.com,fulltilt.com,globalpetrolprices.com,gpstraining.co.uk,harper-adams.ac.uk,history.bnpparibas,homecinemachoice.com,humbersideairport.com,ibeesoft.com,imperiaonline.org,inmobi.com,irishjobs.ie,iso-chemie.eu,izikart.co.uk,jomast.co.uk,lloydsbankinggroup.com,mareespeche.com,metbiocat.eu,noisli.com,panfurware.com,phonearena.com,picload.org,playclassic.games,pokernews.com,police.uk,premiumcredit.co.uk,private.com,proteum.co.uk,puromarketing.com,radiocaroline.co.uk,rdnester.eu,rotterdam.info,scl.org,studentski.net,tablademareas.com,tellows-au.com,tellows-fi.com,tellows-ng.com,tellows-tr.com,tellows.asia,tellows.at,tellows.be,tellows.co,tellows.co.nz,tellows.co.uk,tellows.co.za,tellows.com,tellows.com.br,tellows.cz,tellows.de,tellows.dk,tellows.es,tellows.fr,tellows.gr,tellows.hu,tellows.in,tellows.it,tellows.jp,tellows.mx,tellows.net,tellows.nl,tellows.org,tellows.pl,tellows.pt,tellows.ru,tellows.se,tellows.tw,the-tls.co.uk,theatre-news.com,tsb.co.uk,wsws.org,xnostars.com###cookies
 https://patience-is-a-virtue.org###copy > p
@@ -9501,7 +9508,7 @@ https://xing.com##.consent_wrapper
 https://cityoflondon.gov.uk##.container-floating-notifications
 https://bankofengland.co.uk,cityoflondon.police.uk##.container-notifications
 https://antoineonline.com##.container-overlay
-https://18virginsex.com,altervista.org,anglianwater.co.uk,ask.fm,callcredit.co.uk,calvertjournal.com,crazydomains.co.uk,derwaldhof.com,dw.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,gheed.com,gooddollar.org,hempel.co.uk,hempelyacht.com,here.com,hud.ac.uk,jaguarlandrover.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mclaren.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mydraw.com,mysurveylab.com,nationalcircus.org.uk,natwest.com,npl.co.uk,octotree.io,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,redditinc.com,roalddahl.com,rowenta.com,samsunghealthcare.com,sense.org.uk,sheldrickwildlifetrust.org,silverlake.com,sleek-mag.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,trailfinders.com,twitchstrike.com,unicheck.com,virgin-atlantic.com,wannawork.com,ytddownloader.com##.cookie
+https://18virginsex.com,altervista.org,anglianwater.co.uk,ask.fm,callcredit.co.uk,calvertjournal.com,crazydomains.co.uk,derwaldhof.com,dw.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,gheed.com,gooddollar.org,hempel.co.uk,hempelyacht.com,here.com,hud.ac.uk,jaguarlandrover.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mclaren.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mydraw.com,mysurveylab.com,nationalcircus.org.uk,natwest.com,npl.co.uk,octotree.io,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,redditinc.com,roalddahl.com,rowenta.com,samsunghealthcare.com,sense.org.uk,sheldrickwildlifetrust.org,silverlake.com,sleek-mag.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,trailfinders.com,tubidy.news,twitchstrike.com,unicheck.com,virgin-atlantic.com,wannawork.com,ytddownloader.com##.cookie
 https://deezer.com##.cookie-banner
 https://geeksforgeeks.org##.cookie-consent
 https://7news.com.au##.cookie-consent--normal
@@ -9687,7 +9694,7 @@ https://brouwland.com##.notification-alert
 https://foxbusiness.com,foxnews.com##.notification-banner
 https://bettyblocks.com##.notification-bar
 https://gumtree.com##.notification-box
-https://autotrader.co.za##.notification-container
+https://autotrader.co.za,speedtest.net##.notification-container
 https://tennistv.com##.notification-wrapper
 https://parallels.com##.notification.orange
 https://teletoon.com##.notificationBar
@@ -12003,6 +12010,7 @@ https://privatesportshop.fr##div[style="background: #FFFFE1; border-bottom: 1px 
 https://onvasortir.com###infocookies
 https://alhadath.net###consent
 https://hunalibya.com,manasati30.com###info-bottom
+https://egmus.vip##.cookie
 https://klix.ba##.consent_wrapper
 https://photocamera.bg###cookies
 https://zora.bg##.bottom-freezed-bar
@@ -20043,6 +20051,7 @@ http://tinder.com###content > span > .App > div[class*="Start"]
 http://wotinfo.net###coo
 http://alcoholics-anonymous.org.uk,cryps.info###cook
 http://add0n.com,aflite.co.uk,aon.com,atom42.co.uk,bakersmall.co.uk,bbvonline.net,betradar.com,bookingsouthtyrol.com,boscolohotels.com,boxnation.com,e-doggy.com,eqavet.eu,essentraextrusion.eu,flexerasoftware.com,fremantlemedia.com,gulfstream.com,iadvize.com,keyboardco.com,kicc.org.uk,lonewolfonline.net,mouseprice.com,nspcc.org.uk,oilplusltd.com,onenessscotland.org,pentagon-group.co.uk,prestashop.com,pretix.eu,priorygroup.com,rodacciai.fr,sainsburysenergy.com,simmons-simmons.com,stiripesurse.ro,tadeevo.com,technutty.co.uk,thebmc.co.uk,toomeymotorgroup.co.uk,tutsandtips.com,tvcorner.com,unsee.cc,wheatley-group.com,zbmath.org###cookie
+http://mediafire.com###cookie-accept-footer
 http://0calc.com###cookieconsentmodal
 http://anpost.ie,any.run,aquariumforums.co.uk,arag.com,atleticodemadrid.com,ayraviation.com,bl.uk,canadiansolar.com,celulares.com,cifas.org.uk,coinsofhope.eu,educalingo.com,eitb.eus,emrf.eu,emunewz.net,eporner.com,feyenoord.com,film-news.co.uk,forbiddenplanet.co.uk,freemeteo.ch,freemeteo.com,fulltilt.com,globalpetrolprices.com,gpstraining.co.uk,harper-adams.ac.uk,history.bnpparibas,homecinemachoice.com,humbersideairport.com,ibeesoft.com,imperiaonline.org,inmobi.com,irishjobs.ie,iso-chemie.eu,izikart.co.uk,jomast.co.uk,lloydsbankinggroup.com,mareespeche.com,metbiocat.eu,noisli.com,panfurware.com,phonearena.com,picload.org,playclassic.games,pokernews.com,police.uk,premiumcredit.co.uk,private.com,proteum.co.uk,puromarketing.com,radiocaroline.co.uk,rdnester.eu,rotterdam.info,scl.org,studentski.net,tablademareas.com,tellows-au.com,tellows-fi.com,tellows-ng.com,tellows-tr.com,tellows.asia,tellows.at,tellows.be,tellows.co,tellows.co.nz,tellows.co.uk,tellows.co.za,tellows.com,tellows.com.br,tellows.cz,tellows.de,tellows.dk,tellows.es,tellows.fr,tellows.gr,tellows.hu,tellows.in,tellows.it,tellows.jp,tellows.mx,tellows.net,tellows.nl,tellows.org,tellows.pl,tellows.pt,tellows.ru,tellows.se,tellows.tw,the-tls.co.uk,theatre-news.com,tsb.co.uk,wsws.org,xnostars.com###cookies
 http://patience-is-a-virtue.org###copy > p
@@ -20400,7 +20409,7 @@ http://xing.com##.consent_wrapper
 http://cityoflondon.gov.uk##.container-floating-notifications
 http://bankofengland.co.uk,cityoflondon.police.uk##.container-notifications
 http://antoineonline.com##.container-overlay
-http://18virginsex.com,altervista.org,anglianwater.co.uk,ask.fm,callcredit.co.uk,calvertjournal.com,crazydomains.co.uk,derwaldhof.com,dw.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,gheed.com,gooddollar.org,hempel.co.uk,hempelyacht.com,here.com,hud.ac.uk,jaguarlandrover.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mclaren.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mydraw.com,mysurveylab.com,nationalcircus.org.uk,natwest.com,npl.co.uk,octotree.io,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,redditinc.com,roalddahl.com,rowenta.com,samsunghealthcare.com,sense.org.uk,sheldrickwildlifetrust.org,silverlake.com,sleek-mag.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,trailfinders.com,twitchstrike.com,unicheck.com,virgin-atlantic.com,wannawork.com,ytddownloader.com##.cookie
+http://18virginsex.com,altervista.org,anglianwater.co.uk,ask.fm,callcredit.co.uk,calvertjournal.com,crazydomains.co.uk,derwaldhof.com,dw.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,gheed.com,gooddollar.org,hempel.co.uk,hempelyacht.com,here.com,hud.ac.uk,jaguarlandrover.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mclaren.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mydraw.com,mysurveylab.com,nationalcircus.org.uk,natwest.com,npl.co.uk,octotree.io,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,redditinc.com,roalddahl.com,rowenta.com,samsunghealthcare.com,sense.org.uk,sheldrickwildlifetrust.org,silverlake.com,sleek-mag.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,trailfinders.com,tubidy.news,twitchstrike.com,unicheck.com,virgin-atlantic.com,wannawork.com,ytddownloader.com##.cookie
 http://deezer.com##.cookie-banner
 http://geeksforgeeks.org##.cookie-consent
 http://7news.com.au##.cookie-consent--normal
@@ -20586,7 +20595,7 @@ http://brouwland.com##.notification-alert
 http://foxbusiness.com,foxnews.com##.notification-banner
 http://bettyblocks.com##.notification-bar
 http://gumtree.com##.notification-box
-http://autotrader.co.za##.notification-container
+http://autotrader.co.za,speedtest.net##.notification-container
 http://tennistv.com##.notification-wrapper
 http://parallels.com##.notification.orange
 http://teletoon.com##.notificationBar
@@ -22903,6 +22912,7 @@ http://privatesportshop.fr##div[style="background: #FFFFE1; border-bottom: 1px s
 http://onvasortir.com###infocookies
 http://alhadath.net###consent
 http://hunalibya.com,manasati30.com###info-bottom
+http://egmus.vip##.cookie
 http://klix.ba##.consent_wrapper
 http://photocamera.bg###cookies
 http://zora.bg##.bottom-freezed-bar
