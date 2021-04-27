@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 2VVBEf1XLip4kllPgPKCRw
-! Version: 202104260042
+! Checksum: OKMzjiBT6LpaMqBsUbrBCg
+! Version: 202104270042
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4829,6 +4829,7 @@
 ||https://9999961.com/JS/bofang.js
 ||https://9999961.com/JS/daohang.js
 ||https://9999961.com/JS/lianmeng.js
+||https://pchome.com.tw/js/overlay_ad.js
 ||https://17ce.com^*_$image
 ||https://69t49.com/floating/layer.js
 ||https://alicdn.com/img/ibank/*_!!2210231227621-0-cib.
@@ -5540,6 +5541,8 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://jikelian.xyz^
+||http://bsjgc.com^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://008844.cc^
@@ -8663,7 +8666,6 @@
 ||http://agoda.com/Dynamic/index/
 ||http://agogo.tv/images//uploads/ad/
 ||http://ah.sina.com.cn/iframe/
-||http://ahd.ruten.com.tw^
 ||http://ahgame.com/js/new_ad.js
 ||http://ahlife.com/api.php?mod=adv&
 ||http://ahtt.cc/Runtime/js/
@@ -12555,6 +12557,7 @@
 ||http://9999961.com/JS/bofang.js
 ||http://9999961.com/JS/daohang.js
 ||http://9999961.com/JS/lianmeng.js
+||http://pchome.com.tw/js/overlay_ad.js
 ||http://17ce.com^*_$image
 ||http://3336672.com^
 ||http://3337729.com^
@@ -13391,6 +13394,10 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://qwddcwmwqiqwd18.cn^
+||http://codelabbeijing.cn^
+||http://ylykd.cn^
+||http://k5p8f2.cn^
 ||http://027whht.com^
 ||http://0316dieroxiemzfjwmapk.xyz^
 ||http://0323wqpioutyuencsamxsd.xyz^
@@ -15948,6 +15955,7 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://ruten.com.tw###AdRelatedTitle
 https://baidu.com##.ec_pc_ad
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
@@ -22340,6 +22348,7 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://ruten.com.tw###AdRelatedTitle
 http://baidu.com##.ec_pc_ad
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2

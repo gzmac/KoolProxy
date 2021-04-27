@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BXRmDFnBJ88iU4gSMPBw5w
-! Version: 202104260050
+! Checksum: XTAhRirFkhkHVKTV6iwDGQ
+! Version: 202104270050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-26 00:50 UTC
+! Last modified: 2021-04-27 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
