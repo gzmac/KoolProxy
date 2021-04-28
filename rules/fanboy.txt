@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XTAhRirFkhkHVKTV6iwDGQ
-! Version: 202104270050
+! Checksum: Ddlp6Uj27UKxCp+/hPBP7A
+! Version: 202104280050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-27 00:50 UTC
+! Last modified: 2021-04-28 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4541,6 +4541,7 @@ https://bizjournals.com##.articlesBottomPromo
 https://technologyreview.com##.articlesidebar
 https://theglobeandmail.com##.articletoolbar
 https://bozemandailychronicle.com,heraldcourier.com,psu.edu##.asset-paging
+https://wvnews.com##.asset-paging-container
 https://eweek.com##.assetNew
 https://stuff.co.nz##.assignment_icon
 https://runningshoesguru.com##.attention_grabber
@@ -13592,8 +13593,8 @@ https://franziskaner-weissbier.de#@#.accept-cookies
 https://imvu.com#@#.accept-cookies:not(html)
 https://live.nettavisen.no#@#.active > div
 https://patient.info#@#.alert--cookie
-https://rainews.it#@#.as-oil-content-overlay
-https://rainews.it#@#.as-oil[data-qa="oil-Layer"]
+https://rai.it,rainews.it#@#.as-oil-content-overlay
+https://rai.it,rainews.it#@#.as-oil[data-qa="oil-Layer"]
 https://openfiber.it,supertennis.tv#@#.cc-banner
 https://bing.com,czuczu.pl,experian.com,supertennis.tv#@#.cc-container
 https://morningstar.ca,mysoapbox.com,tangerine.ca#@#.cc_container
@@ -15441,6 +15442,7 @@ http://bizjournals.com##.articlesBottomPromo
 http://technologyreview.com##.articlesidebar
 http://theglobeandmail.com##.articletoolbar
 http://bozemandailychronicle.com,heraldcourier.com,psu.edu##.asset-paging
+http://wvnews.com##.asset-paging-container
 http://eweek.com##.assetNew
 http://stuff.co.nz##.assignment_icon
 http://runningshoesguru.com##.attention_grabber
@@ -24494,8 +24496,8 @@ http://franziskaner-weissbier.de#@#.accept-cookies
 http://imvu.com#@#.accept-cookies:not(html)
 http://live.nettavisen.no#@#.active > div
 http://patient.info#@#.alert--cookie
-http://rainews.it#@#.as-oil-content-overlay
-http://rainews.it#@#.as-oil[data-qa="oil-Layer"]
+http://rai.it,rainews.it#@#.as-oil-content-overlay
+http://rai.it,rainews.it#@#.as-oil[data-qa="oil-Layer"]
 http://openfiber.it,supertennis.tv#@#.cc-banner
 http://bing.com,czuczu.pl,experian.com,supertennis.tv#@#.cc-container
 http://morningstar.ca,mysoapbox.com,tangerine.ca#@#.cc_container
