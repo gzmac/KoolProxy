@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ddlp6Uj27UKxCp+/hPBP7A
-! Version: 202104280050
+! Checksum: tDbaeYq/+ke74iErfQ2lbw
+! Version: 202104290050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-28 00:50 UTC
+! Last modified: 2021-04-29 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7330,11 +7330,14 @@ https://legacy.com##div[class^="ArticleBody__BodyDescription_"] > p[style="text-
 https://pri.org##div[class^="CtaMessage_"]
 https://nytimes.com##div[class^="Dock-dock-"]
 https://nowthisnews.com,thrillist.com##div[class^="EmailAcquisitonstyles"]
+https://zerohedge.com##div[class^="ExitModalNewsletter_"]
 https://nytimes.com##div[class^="InlineMessage-inline-"]
 https://usnews.com##div[class^="KioskEconomy__Container-"]
 https://usnews.com##div[class^="KioskFirstClass__Container-"]
+https://zerohedge.com##div[class^="MidArticleNewsletter_"]
 https://inc.com##div[class^="NewsLetterBar"]
 https://reuters.com##div[class^="NewsletterCard__"]
+https://zerohedge.com##div[class^="SidebarNewsletter"]
 https://axios.com##div[class^="StreamCap__promoContainer"]
 https://dallasnews.com##div[class^="app_cta-newsletter"]
 https://euronews.com##div[class^="mailmunch-"]
@@ -7608,6 +7611,7 @@ https://investing.com##.allow-notifications-popup-wrapper
 https://business-standard.com##.bg
 https://manutd.com##.custom-popup
 https://chicagotribune.com##.met-flyout
+https://techpowerup.com##.notice-content
 https://wowhead.com##.notifications-dialog
 https://post-gazette.com##.pg-notifybox
 https://9to5google.com,9to5mac.com,electrek.co##.push-notify
@@ -8539,6 +8543,7 @@ https://michiganradio.org##.partner-logos
 https://whoer.net##.partners
 https://patreon.com##.patreon-footer-component--link
 https://news18.com##.pht-artcl-shr2
+https://dw.com##.pictureTeaser.col1
 https://bossip.com,esquire.com,fashionmagazine.com,foxnews.com,sassyhongkong.com,sassymanila.com,upi.com##.pin
 https://foodnetwork.com,kitchendaily.com##.pinit
 https://9gag.tv,bulova.com,cnn.com,fraghero.com,inhabitat.com,latintimes.com,nymag.com,opensiteexplorer.org,tweaktown.com,vulture.com,yahoo.com,yourdailymedia.com##.pinterest
@@ -8925,6 +8930,7 @@ https://legacy.com##div[class^="GalleryOvCarousel__share_"]
 https://reuters.com##div[class^="ShareButtons__"]
 https://reuters.com##div[class^="SiteFooter__social_"]
 https://epicgames.com##div[class^="SocialLinks-"]
+https://zerohedge.com##div[class^="SocialSharingButtons_"]
 https://legacy.com##div[class^="SocialSharing_"]
 https://dallasnews.com##div[class^="app_social-media"]
 https://la-croix.com##div[class^="follow_"]
@@ -11390,7 +11396,7 @@ https://ilmeteo.net##.siguenos-reducido
 https://assopoker.com##.singlemeta
 https://finanzaonline.com,teleborsa.it,tempostretto.it##.soc
 https://quickparking.it##.soc-icon-container
-https://affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,aztesti.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,creditosportivo.it,deabyday.tv,dequo.it,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,gediwatch.it,giornaledibrescia.it,globalist.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,omnialyrics.it,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
+https://affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,aztesti.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,creditosportivo.it,deabyday.tv,dequo.it,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,gedidigital.it,gediwatch.it,giornaledibrescia.it,globalist.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,omnialyrics.it,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
 https://citroenselect.it##.social-network
 https://davinotti.com##.social__variant
 https://investireoggi.it##.social_menu
@@ -12788,6 +12794,7 @@ https://pegast.ru##.pgs-top
 https://66.ru##.t-i-agree
 https://obozrevatel.com##.t657__wrapper
 https://yoomoney.ru##div[class^="Gdpr__StyledGdpr-"]
+https://pik-broker.ru##div[class^="cookie_cookie_"]
 https://aliexpress.ru##div[class^="styles_wrapper_"]
 https://opusteno.rs###conditions-l
 https://freemeteo.rs###cookies
@@ -18231,11 +18238,14 @@ http://legacy.com##div[class^="ArticleBody__BodyDescription_"] > p[style="text-a
 http://pri.org##div[class^="CtaMessage_"]
 http://nytimes.com##div[class^="Dock-dock-"]
 http://nowthisnews.com,thrillist.com##div[class^="EmailAcquisitonstyles"]
+http://zerohedge.com##div[class^="ExitModalNewsletter_"]
 http://nytimes.com##div[class^="InlineMessage-inline-"]
 http://usnews.com##div[class^="KioskEconomy__Container-"]
 http://usnews.com##div[class^="KioskFirstClass__Container-"]
+http://zerohedge.com##div[class^="MidArticleNewsletter_"]
 http://inc.com##div[class^="NewsLetterBar"]
 http://reuters.com##div[class^="NewsletterCard__"]
+http://zerohedge.com##div[class^="SidebarNewsletter"]
 http://axios.com##div[class^="StreamCap__promoContainer"]
 http://dallasnews.com##div[class^="app_cta-newsletter"]
 http://euronews.com##div[class^="mailmunch-"]
@@ -18509,6 +18519,7 @@ http://investing.com##.allow-notifications-popup-wrapper
 http://business-standard.com##.bg
 http://manutd.com##.custom-popup
 http://chicagotribune.com##.met-flyout
+http://techpowerup.com##.notice-content
 http://wowhead.com##.notifications-dialog
 http://post-gazette.com##.pg-notifybox
 http://9to5google.com,9to5mac.com,electrek.co##.push-notify
@@ -19440,6 +19451,7 @@ http://michiganradio.org##.partner-logos
 http://whoer.net##.partners
 http://patreon.com##.patreon-footer-component--link
 http://news18.com##.pht-artcl-shr2
+http://dw.com##.pictureTeaser.col1
 http://bossip.com,esquire.com,fashionmagazine.com,foxnews.com,sassyhongkong.com,sassymanila.com,upi.com##.pin
 http://foodnetwork.com,kitchendaily.com##.pinit
 http://9gag.tv,bulova.com,cnn.com,fraghero.com,inhabitat.com,latintimes.com,nymag.com,opensiteexplorer.org,tweaktown.com,vulture.com,yahoo.com,yourdailymedia.com##.pinterest
@@ -19826,6 +19838,7 @@ http://legacy.com##div[class^="GalleryOvCarousel__share_"]
 http://reuters.com##div[class^="ShareButtons__"]
 http://reuters.com##div[class^="SiteFooter__social_"]
 http://epicgames.com##div[class^="SocialLinks-"]
+http://zerohedge.com##div[class^="SocialSharingButtons_"]
 http://legacy.com##div[class^="SocialSharing_"]
 http://dallasnews.com##div[class^="app_social-media"]
 http://la-croix.com##div[class^="follow_"]
@@ -22292,7 +22305,7 @@ http://ilmeteo.net##.siguenos-reducido
 http://assopoker.com##.singlemeta
 http://finanzaonline.com,teleborsa.it,tempostretto.it##.soc
 http://quickparking.it##.soc-icon-container
-http://affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,aztesti.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,creditosportivo.it,deabyday.tv,dequo.it,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,gediwatch.it,giornaledibrescia.it,globalist.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,omnialyrics.it,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
+http://affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,aztesti.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,creditosportivo.it,deabyday.tv,dequo.it,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,gedidigital.it,gediwatch.it,giornaledibrescia.it,globalist.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,omnialyrics.it,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
 http://citroenselect.it##.social-network
 http://davinotti.com##.social__variant
 http://investireoggi.it##.social_menu
@@ -23691,6 +23704,7 @@ http://pegast.ru##.pgs-top
 http://66.ru##.t-i-agree
 http://obozrevatel.com##.t657__wrapper
 http://yoomoney.ru##div[class^="Gdpr__StyledGdpr-"]
+http://pik-broker.ru##div[class^="cookie_cookie_"]
 http://aliexpress.ru##div[class^="styles_wrapper_"]
 http://opusteno.rs###conditions-l
 http://freemeteo.rs###cookies
