@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tDbaeYq/+ke74iErfQ2lbw
-! Version: 202104290050
+! Checksum: vu/nxfgrenANrNI8k40lNg
+! Version: 202104300050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-29 00:50 UTC
+! Last modified: 2021-04-30 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -185,6 +185,7 @@
 ||https://letreach.com^$third-party
 ||https://letsgetsocialnow.com^$third-party
 ||https://ligatus.com^$third-party
+||https://lightboxcdn.com/vendor/$script,third-party
 ||https://linkwithin.com^$third-party
 ||https://list-manage1.com/subscriber-count?$third-party
 ||https://live4sport.net^$third-party
@@ -456,6 +457,7 @@
 ||https://pushe.co^$third-party
 ||https://pusherapp.com^$third-party
 ||https://pushiki.ru^$third-party
+||https://pushinpage.com^$third-party
 ||https://pushinstruments.com^$third-party
 ||https://pushkahouse.com^$third-party
 ||https://pushkaplus.com^$third-party
@@ -881,8 +883,6 @@
 ||https://intoday.in^*/dailyo3_img1.
 ||https://jobs.newscientist.com^$subdocument
 ||https://l.yimg.com^*/img/badge-
-||https://lightboxcdn.com/vendor/*/lightbox.js?$script,third-party
-||https://lightboxcdn.com/vendor/*/lightbox_inline.js$script,third-party
 ||https://mediafire.com/images/backgrounds/download/*promo
 ||https://mg.co.za^*/iabsa_
 ||https://moneytalksnews.com/wp-content/themes/mtn/assets/js/mtn-modal.$script
@@ -1569,6 +1569,7 @@
 ||http://letreach.com^$third-party
 ||http://letsgetsocialnow.com^$third-party
 ||http://ligatus.com^$third-party
+||http://lightboxcdn.com/vendor/$script,third-party
 ||http://linkwithin.com^$third-party
 ||http://list-manage1.com/subscriber-count?$third-party
 ||http://live4sport.net^$third-party
@@ -1847,6 +1848,7 @@
 ||http://pushe.co^$third-party
 ||http://pusherapp.com^$third-party
 ||http://pushiki.ru^$third-party
+||http://pushinpage.com^$third-party
 ||http://pushinstruments.com^$third-party
 ||http://pushkahouse.com^$third-party
 ||http://pushkaplus.com^$third-party
@@ -2254,7 +2256,7 @@
 ||http://widget.clym-sdk.net^$third-party
 ||http://wpcc.io^$third-party
 ||http://opencmp.net^$script,third-party
-||http://privacy-mgmt.com^$third-party,domain=~11freunde.de|~autobild.de|~bike-bild.de|~bild.de|~boerse-online.de|~businessinsider.de|~bz-berlin.de|~caramia.de|~clever-tanken.de|~computerbild.de|~edelblech.de|~faz.net|~finanzen.at|~finanzen.ch|~finanzen.net|~fitbook.de|~gentside.com|~gofeminin.de|~idealo.at|~idealo.co.uk|~idealo.de|~idealo.es|~idealo.fr|~idealo.it|~immonet.de|~insider.com|~kombi.de|~maxisciences.com|~meinestadt.de|~metal-hammer.de|~musikexpress.de|~myhomebook.de|~n24.de|~noizz.de|~onmeda.de|~politico.eu|~rollingstone.de|~sportbild.de|~stylebook.de|~techbook.de|~testbild.de|~transfermarkt.at|~transfermarkt.ch|~transfermarkt.co.uk|~transfermarkt.com|~transfermarkt.com.tr|~transfermarkt.de|~transfermarkt.fr|~transfermarkt.it|~transfermarkt.nl|~transfermarkt.pl|~transfermarkt.pt|~transfermarkt.us|~travelbook.de|~tvspielfilm.de|~vip.de|~welt.de|~wieistmeineip.at|~wieistmeineip.ch|~wieistmeineip.de|~zuio.tv
+||http://privacy-mgmt.com^$third-party,domain=~11freunde.de|~autobild.de|~bike-bild.de|~bild.de|~boerse-online.de|~businessinsider.de|~bz-berlin.de|~caramia.de|~clever-tanken.de|~computerbild.de|~derstandard.at|~edelblech.de|~faz.net|~finanzen.at|~finanzen.ch|~finanzen.net|~fitbook.de|~gentside.com|~gofeminin.de|~idealo.at|~idealo.co.uk|~idealo.de|~idealo.es|~idealo.fr|~idealo.it|~immonet.de|~insider.com|~kombi.de|~maxisciences.com|~meinestadt.de|~metal-hammer.de|~musikexpress.de|~myhomebook.de|~n24.de|~noizz.de|~onmeda.de|~politico.eu|~rollingstone.de|~sportbild.de|~stylebook.de|~techbook.de|~testbild.de|~transfermarkt.at|~transfermarkt.ch|~transfermarkt.co.uk|~transfermarkt.com|~transfermarkt.com.tr|~transfermarkt.de|~transfermarkt.fr|~transfermarkt.it|~transfermarkt.nl|~transfermarkt.pl|~transfermarkt.pt|~transfermarkt.us|~travelbook.de|~tvspielfilm.de|~vip.de|~welt.de|~wieistmeineip.at|~wieistmeineip.ch|~wieistmeineip.de|~zuio.tv
 ||http://sp-prod.net^$third-party,domain=~11freunde.de|~autobild.de|~bike-bild.de|~bild.de|~boerse-online.de|~businessinsider.de|~bz-berlin.de|~caramia.de|~clever-tanken.de|~computerbild.de|~edelblech.de|~faz.net|~finanzen.at|~finanzen.ch|~finanzen.net|~fitbook.de|~gentside.com|~gofeminin.de|~idealo.at|~idealo.co.uk|~idealo.de|~idealo.es|~idealo.fr|~idealo.it|~immonet.de|~insider.com|~kombi.de|~maxisciences.com|~meinestadt.de|~metal-hammer.de|~musikexpress.de|~myhomebook.de|~n24.de|~noizz.de|~onmeda.de|~politico.eu|~rollingstone.de|~sportbild.de|~stylebook.de|~techbook.de|~testbild.de|~transfermarkt.at|~transfermarkt.ch|~transfermarkt.co.uk|~transfermarkt.com|~transfermarkt.com.tr|~transfermarkt.de|~transfermarkt.fr|~transfermarkt.it|~transfermarkt.nl|~transfermarkt.pl|~transfermarkt.pt|~transfermarkt.us|~travelbook.de|~tvspielfilm.de|~vip.de|~welt.de|~wieistmeineip.at|~wieistmeineip.ch|~wieistmeineip.de|~zuio.tv
 ||http://4chan.org/b/*.swf
 ||http://anews.com/s/js/widget.js
@@ -2288,8 +2290,6 @@
 ||http://jobs.newscientist.com^$subdocument
 ||http://l.yimg.com/zz/combo?pv*/promo-banner_$script
 ||http://l.yimg.com^*/img/badge-
-||http://lightboxcdn.com/vendor/*/lightbox.js?$script,third-party
-||http://lightboxcdn.com/vendor/*/lightbox_inline.js$script,third-party
 ||http://mediafire.com/images/backgrounds/download/*promo
 ||http://mg.co.za^*/iabsa_
 ||http://moneytalksnews.com/wp-content/themes/mtn/assets/js/mtn-modal.$script
@@ -2555,7 +2555,7 @@
 ||http://emerse.com/consent.js
 ||http://freedoflondon.com/Styles/dialog-popup/jquery-ui.js
 ||http://freetls.fastly.net/main/sd-cmp-$domain=spanishdict.com
-||http://fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|gameblog.fr|liliputing.com|makeuseof.com|phonearena.com|quotes.net|smallseotools.com|telegram.hr|wordreference.com
+||http://fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|gameblog.fr|liliputing.com|makeuseof.com|phonearena.com|quotes.net|smallseotools.com|stadtfeste-in-deutschland.de|telegram.hr|wordreference.com
 ||http://gdpr.internetbrands.com^
 ||http://gdpr.prisa.com^
 ||http://government-and-constitution.org/js/consent.js
@@ -9276,6 +9276,7 @@ https://pacesuite.com###notification-cont
 https://youtube.com###notification-footer
 https://cnn.com###notification-legal
 https://asiatatler.com###notification-msg-container
+https://tresorit.com###notification-wrapper
 https://codeplay.com###notificationPopup
 https://tweakers.net###notifications > .announcement
 https://adverts.ie,boards.ie,dailyedge.ie,did.ie,the42.ie,thejournal.ie###notify-container
@@ -9395,7 +9396,9 @@ https://cryptokitties.co##.BottomBanner
 https://itsfoss.com##.CampaignType--floating
 https://perforce.com##.EUc
 https://tjc.co.uk##.GDPR
+https://tunnelmb.net##.MqsPw
 https://fwg-vg-linz.de##.Mrku11502
+https://jsonquerytool.com##.MuiDialog-root
 https://bbb.org##.MuiDrawer-root
 https://freewebsitetemplates.com,wilderssecurity.com##.Notices
 https://leti.com##.NoticesBox
@@ -9659,7 +9662,7 @@ https://opengapps.org##.mdl-snackbar
 https://adobe.com,investors.com,merixstudio.com,sapabuildingsystem.com,timesofisrael.com##.message
 https://heedbook.com##.message-alert
 https://gametwist.com##.message__container
-https://wandermap.net##.messages
+https://runmap.net,wandermap.net##.messages
 https://foreignaffairs.com##.messages--container--bottom
 https://spotify.com##.mh-message-bar
 https://mitele.es##.mitele-consent
@@ -9945,7 +9948,7 @@ https://satispay.com##p[class^="cookie-banner"]
 https://opentip.kaspersky.com##section[data-t="cks-dsc"] > div > div
 https://truecaller.com##span > .max-w-md.shadow-lg
 https://web.dev##web-snackbar
-https://androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,makeuseof.com,phonearena.com,quotes.net,smallseotools.com,telegram.hr,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
+https://androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,makeuseof.com,phonearena.com,quotes.net,smallseotools.com,stadtfeste-in-deutschland.de,telegram.hr,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 https://play.google.com##.gb_g:has-text(cookie)
 https://istockphoto.com#?#.warning:-abp-has([data-cookie-type])
 https://play.google.com#?#.gb_g:-abp-contains(cookie)
@@ -11921,7 +11924,7 @@ https://cdiscount.com###\5f evh-ric
 https://madeindesign.ch###_EAPM
 https://volvic.fr###_legal
 https://guideastuces.com###agreeMsg
-https://ecrypterlenergie.org###alert-mention
+https://decrypterlenergie.org,ecrypterlenergie.org###alert-mention
 https://zdnet.fr###catfish
 https://iti-maps.fr###cc_overlay
 https://skitour.fr###coo_aut
@@ -11946,6 +11949,7 @@ https://fromagesuisse.ch###legalnotice
 https://lotus-planete.com###lotus-cookies-wrap
 https://comptabilisation.fr###message_wrap
 https://maxifoot.fr###mfcok1
+https://giappo.com###normativa
 https://altaprofits.com,aujourdhui.com###notification
 https://infojobs.net###notification-type
 https://all-bikes.fr,store-opart.fr###ocw_conteneur
@@ -11980,6 +11984,7 @@ https://tv5unis.ca##.css-wydzoi.e1v9p9hw0
 https://lexus.fr##.disclaimer
 https://doctolib.fr##.dl-drawer
 https://molotov.tv##.eRnhI
+https://radiosetv.com##.fck
 https://weclap.fr##.front_web_app_main_menu_front-web-app-main-menu-component_front_show_cookie_container
 https://woodbrass.com##.hidden-sm.hidden-md.row
 https://ouedkniss.com##.informations_box
@@ -12014,11 +12019,13 @@ https://businessinsider.fr,voici.fr##div[class^="sp_message_container"]
 https://sportetstyle.fr##div[id^="cookie"]
 https://tf1.fr##div[id^="msgctrw"]
 https://privatesportshop.fr##div[style="background: #FFFFE1; border-bottom: 1px solid #A0A0A0; padding: 10px;line-height: 1.4em; text-align: justify; font-family: sans-serif; font-size: 12px;"]
+https://allomarie.fr##div[style^="position:absolute;position:fixed;left:50%;bottom:0;"]
 https://onvasortir.com###infocookies
 https://alhadath.net###consent
 https://hunalibya.com,manasati30.com###info-bottom
 https://egmus.vip##.cookie
 https://klix.ba##.consent_wrapper
+https://rentl.io##.sc-4oup69-1
 https://photocamera.bg###cookies
 https://zora.bg##.bottom-freezed-bar
 https://infinitibg.bg##.c_128
@@ -12030,6 +12037,7 @@ https://ctm.net###portalheader\:cookiepanel
 https://drweb.cn##.SHOWIT-msg_showed
 https://infiniti.com.tw##.c_128
 https://u-car.com.tw##.privacyforsite
+https://rast.hr###blokDiv
 https://ghetaldus.hr,zkl.hr###cookies
 https://mojkvart.hr###dcw1
 https://jax.hr###notice
@@ -12192,6 +12200,7 @@ https://yhteiso.telia.fi###yhteiso-evasteet
 https://satakunnanautotalo.fi##.AVS-evasteseloste-container
 https://kulttuurivihkot.fi##.activebar-container
 https://americanairlines.fi##.alert
+https://hanavesi.fi,hanavesitesti.fi,kalkinpoisto.com,keskustaopiskelijat.fi,linseed.fi,mokkivesi.fi,nuudelit.fi,oivasivut.fi,paajala.fi,tuska.fi##.alert_banneri
 https://vismasign.fi##.banner
 https://happypancake.fi##.bar.jsx-341223085
 https://hs.fi##.cb-container
@@ -12315,7 +12324,7 @@ https://emanuelaursino.it###cke_plc
 https://eismoinfo.lt###consent
 https://ecodallecitta.it###contenuto_consenso
 https://spesasicura.com###cook
-https://aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,extramagazine.eu,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
+https://aeo.it,bookingaltoadige.com,camionsupermarket.it,cattoliciogginotizie.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,extramagazine.eu,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
 https://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,musictory.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 https://telea1.it###cooky_content
 https://majani.it###cs-banner
@@ -12711,7 +12720,6 @@ https://footroll.pl##div[style="position: fixed; left: 0px; bottom: 0px; right: 
 https://kolbi.pl##div[style="position: fixed; left:0; right:0; bottom:0; height:34px; background-color:#eee; border-top: 1px solid black; z-index:1000; overflow: auto"]
 https://czescidobmw.pl##div[style="position:fixed;left:0;top:0;width:100%;height:100%;background:#000;background:rgba(0,0,0,0.5);z-index:99999;cursor:pointer"]
 https://noclegi24h.pl##div[style="text-align: right; font-size: 9px; padding-right: 20px;"]
-https://vas.com.pl##div[style="top: 0px; left: 0px; right: 0px; width: 100%; margin: 0px auto; background-color: rgba(0, 0, 0, 0); background-position: left top; background-repeat: repeat-x; background-attachment: scroll; background-size: auto auto; background-origin: padding-box; background-clip: border-box; height: 36px; overflow: hidden; background-image: none !important;"]
 https://cabletech.pl##div[style="top:0;position:absolute;width:100%;background:#000;color:#f2f2f2;font-size:10px;text-align:center"]
 https://v10.pl##div[style="width: 100%; background-color: rgb(0, 0, 0); margin: 0px; position: fixed; bottom: 0px; left: 0px; padding: 0px; height: 15px; line-height: 15px; text-align: center; color: rgb(255, 255, 255); z-index: 1000; font-family: Arial, Helvetica, sans-serif; font-size: 10px;"]
 https://linuxportal.pl##div[style="width: 100%; background: rgb(44, 48, 51) none repeat scroll 0% 0%; padding: 10px 0; color: #fff; border-top: 1px solid rgb(221, 221, 221);  text-align: center; position: fixed; bottom: 0; z-index: 999999999;"]
@@ -12726,7 +12734,7 @@ https://sfinks.org.pl##div[style^="left: 0px; top:"]
 https://visionexpress.pl##div[style^="margin: 0px auto; padding:"]
 https://pallottinum.pl##div[style^="padding:5px 15px;padding-top:5px;"]
 https://trzemeszno.pl##div[style^="top:0;left:0;"]
-https://vas.com.pl##div[style^="top:0;left:0;right:0;"]
+https://poznan.pl,vas.com.pl##div[style^="top:0;left:0;right:0;"]
 https://zs1mm.edu.pl##frame
 https://wsqn.pl#?#.infotext:-abp-contains(cookie)
 https://gentside.com.br###actionreceiver
@@ -12811,12 +12819,15 @@ https://lexus.sk##.disclaimer
 https://tpd.sk##.header__notice__content
 https://modrykonik.sk##.nc_a
 https://lidl.sk##.notification
+https://park-skocjanske-jame.si##div[style*="text-align:center;-webkit-box-shadow:0px -5px 14px -4px rgba"]
+https://amaterky.sk##div[style^="padding-top: 10px; padding-bottom: 10px;"]
 https://zelena-kava.info###eu-container
 https://dnevnik.si##.cc-wrapper
 https://izi.si##.cookies
 https://lexus.si##.disclaimer
 https://delo.si,deloindom.si,pogledi.si,polet.si,slovenskenovice.si##.notice
 https://lidl.si##.notification
+https://almacen-informatico.com###Informacion
 https://pacma.es###aceptacion_politicas
 https://electrocosto.com###bottom
 https://aristeguinoticias.com###comparte
@@ -12824,6 +12835,7 @@ https://cifempleo.com,ferrovial.com,gaes.es,infodefensa.com,moviles.com,movistar
 https://ssangyong.es###eltexto
 https://salonocasion.com###fb-cd
 https://shotsdeciencia.com###guacBg8
+https://inelenco.com###hid
 https://hora.com.es###ley
 https://masvision.es###lycok
 https://paginasamarillas.es###m-notification--bottom
@@ -12839,7 +12851,6 @@ https://lasestrellas.tv,telehit.com##.Privacy
 https://drweb-av.es##.SHOWIT-msg_showed
 https://agroterra.com,amadeus.com,damelibros.com,futbolenlatv.es,lavozdegalicia.es##.alert
 https://eluniverso.com##.block-eluniverso-gdpr
-https://blogcindario.com##.c01eb8fc
 https://infiniti.com.do,infiniti.com.pa,infiniti.mx,infinitimotors.cl,infinitipr.com##.c_128
 https://psicologia-online.com,uncomo.com##.consent
 https://alcampo.es,gestoriaverdugo.es##.cookie
@@ -12859,6 +12870,7 @@ https://arsys.es##.notifications
 https://chollometro.com##.softMessages-item
 https://contarcaracteres.com##.top-header
 https://in4.es##.uk-position-fixed
+https://blogcindario.com,mforos.com##body > div[id][class]
 https://recepedia.com##div[style^="position: fixed; top:"]
 https://kb.se,skanetrafiken.se###cookie
 https://hkr.se,inscale.se###cookies
@@ -13545,6 +13557,7 @@ https://ad.win.nl,dehn.de,techopital.com#@##cookieConsent
 https://ad.win.nl#@##cookieConsentBox
 https://techopital.com#@##cookieConsentContainer
 https://indebuurt.nl,tweakers.net#@##cookieContainer
+https://researchaffiliates.com#@##cookieDialog
 https://tiger.nl#@##cookieMessage
 https://arbeiterkammer.at,brieftip.pl,britishairways.com,epolisbari.com,fotofairsicherung.de,kaliber.pl,mediathekviewweb.de,naszwybir.pl,onsbrabantnet.nl,tropicana.fr,woolworth.de#@##cookieModal
 https://dhbbank.nl#@##cookieModalCenter
@@ -20185,6 +20198,7 @@ http://pacesuite.com###notification-cont
 http://youtube.com###notification-footer
 http://cnn.com###notification-legal
 http://asiatatler.com###notification-msg-container
+http://tresorit.com###notification-wrapper
 http://codeplay.com###notificationPopup
 http://tweakers.net###notifications > .announcement
 http://adverts.ie,boards.ie,dailyedge.ie,did.ie,the42.ie,thejournal.ie###notify-container
@@ -20304,7 +20318,9 @@ http://cryptokitties.co##.BottomBanner
 http://itsfoss.com##.CampaignType--floating
 http://perforce.com##.EUc
 http://tjc.co.uk##.GDPR
+http://tunnelmb.net##.MqsPw
 http://fwg-vg-linz.de##.Mrku11502
+http://jsonquerytool.com##.MuiDialog-root
 http://bbb.org##.MuiDrawer-root
 http://freewebsitetemplates.com,wilderssecurity.com##.Notices
 http://leti.com##.NoticesBox
@@ -20568,7 +20584,7 @@ http://opengapps.org##.mdl-snackbar
 http://adobe.com,investors.com,merixstudio.com,sapabuildingsystem.com,timesofisrael.com##.message
 http://heedbook.com##.message-alert
 http://gametwist.com##.message__container
-http://wandermap.net##.messages
+http://runmap.net,wandermap.net##.messages
 http://foreignaffairs.com##.messages--container--bottom
 http://spotify.com##.mh-message-bar
 http://mitele.es##.mitele-consent
@@ -20854,7 +20870,7 @@ http://satispay.com##p[class^="cookie-banner"]
 http://opentip.kaspersky.com##section[data-t="cks-dsc"] > div > div
 http://truecaller.com##span > .max-w-md.shadow-lg
 http://web.dev##web-snackbar
-http://androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,makeuseof.com,phonearena.com,quotes.net,smallseotools.com,telegram.hr,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
+http://androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,makeuseof.com,phonearena.com,quotes.net,smallseotools.com,stadtfeste-in-deutschland.de,telegram.hr,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 http://play.google.com##.gb_g:has-text(cookie)
 http://istockphoto.com#?#.warning:-abp-has([data-cookie-type])
 http://play.google.com#?#.gb_g:-abp-contains(cookie)
@@ -22831,7 +22847,7 @@ http://cdiscount.com###\5f evh-ric
 http://madeindesign.ch###_EAPM
 http://volvic.fr###_legal
 http://guideastuces.com###agreeMsg
-http://ecrypterlenergie.org###alert-mention
+http://decrypterlenergie.org,ecrypterlenergie.org###alert-mention
 http://zdnet.fr###catfish
 http://iti-maps.fr###cc_overlay
 http://skitour.fr###coo_aut
@@ -22856,6 +22872,7 @@ http://fromagesuisse.ch###legalnotice
 http://lotus-planete.com###lotus-cookies-wrap
 http://comptabilisation.fr###message_wrap
 http://maxifoot.fr###mfcok1
+http://giappo.com###normativa
 http://altaprofits.com,aujourdhui.com###notification
 http://infojobs.net###notification-type
 http://all-bikes.fr,store-opart.fr###ocw_conteneur
@@ -22890,6 +22907,7 @@ http://tv5unis.ca##.css-wydzoi.e1v9p9hw0
 http://lexus.fr##.disclaimer
 http://doctolib.fr##.dl-drawer
 http://molotov.tv##.eRnhI
+http://radiosetv.com##.fck
 http://weclap.fr##.front_web_app_main_menu_front-web-app-main-menu-component_front_show_cookie_container
 http://woodbrass.com##.hidden-sm.hidden-md.row
 http://ouedkniss.com##.informations_box
@@ -22924,11 +22942,13 @@ http://businessinsider.fr,voici.fr##div[class^="sp_message_container"]
 http://sportetstyle.fr##div[id^="cookie"]
 http://tf1.fr##div[id^="msgctrw"]
 http://privatesportshop.fr##div[style="background: #FFFFE1; border-bottom: 1px solid #A0A0A0; padding: 10px;line-height: 1.4em; text-align: justify; font-family: sans-serif; font-size: 12px;"]
+http://allomarie.fr##div[style^="position:absolute;position:fixed;left:50%;bottom:0;"]
 http://onvasortir.com###infocookies
 http://alhadath.net###consent
 http://hunalibya.com,manasati30.com###info-bottom
 http://egmus.vip##.cookie
 http://klix.ba##.consent_wrapper
+http://rentl.io##.sc-4oup69-1
 http://photocamera.bg###cookies
 http://zora.bg##.bottom-freezed-bar
 http://infinitibg.bg##.c_128
@@ -22940,6 +22960,7 @@ http://ctm.net###portalheader\:cookiepanel
 http://drweb.cn##.SHOWIT-msg_showed
 http://infiniti.com.tw##.c_128
 http://u-car.com.tw##.privacyforsite
+http://rast.hr###blokDiv
 http://ghetaldus.hr,zkl.hr###cookies
 http://mojkvart.hr###dcw1
 http://jax.hr###notice
@@ -23102,6 +23123,7 @@ http://yhteiso.telia.fi###yhteiso-evasteet
 http://satakunnanautotalo.fi##.AVS-evasteseloste-container
 http://kulttuurivihkot.fi##.activebar-container
 http://americanairlines.fi##.alert
+http://hanavesi.fi,hanavesitesti.fi,kalkinpoisto.com,keskustaopiskelijat.fi,linseed.fi,mokkivesi.fi,nuudelit.fi,oivasivut.fi,paajala.fi,tuska.fi##.alert_banneri
 http://vismasign.fi##.banner
 http://happypancake.fi##.bar.jsx-341223085
 http://hs.fi##.cb-container
@@ -23225,7 +23247,7 @@ http://emanuelaursino.it###cke_plc
 http://eismoinfo.lt###consent
 http://ecodallecitta.it###contenuto_consenso
 http://spesasicura.com###cook
-http://aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,extramagazine.eu,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
+http://aeo.it,bookingaltoadige.com,camionsupermarket.it,cattoliciogginotizie.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,extramagazine.eu,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
 http://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,musictory.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 http://telea1.it###cooky_content
 http://majani.it###cs-banner
@@ -23621,7 +23643,6 @@ http://footroll.pl##div[style="position: fixed; left: 0px; bottom: 0px; right: 0
 http://kolbi.pl##div[style="position: fixed; left:0; right:0; bottom:0; height:34px; background-color:#eee; border-top: 1px solid black; z-index:1000; overflow: auto"]
 http://czescidobmw.pl##div[style="position:fixed;left:0;top:0;width:100%;height:100%;background:#000;background:rgba(0,0,0,0.5);z-index:99999;cursor:pointer"]
 http://noclegi24h.pl##div[style="text-align: right; font-size: 9px; padding-right: 20px;"]
-http://vas.com.pl##div[style="top: 0px; left: 0px; right: 0px; width: 100%; margin: 0px auto; background-color: rgba(0, 0, 0, 0); background-position: left top; background-repeat: repeat-x; background-attachment: scroll; background-size: auto auto; background-origin: padding-box; background-clip: border-box; height: 36px; overflow: hidden; background-image: none !important;"]
 http://cabletech.pl##div[style="top:0;position:absolute;width:100%;background:#000;color:#f2f2f2;font-size:10px;text-align:center"]
 http://v10.pl##div[style="width: 100%; background-color: rgb(0, 0, 0); margin: 0px; position: fixed; bottom: 0px; left: 0px; padding: 0px; height: 15px; line-height: 15px; text-align: center; color: rgb(255, 255, 255); z-index: 1000; font-family: Arial, Helvetica, sans-serif; font-size: 10px;"]
 http://linuxportal.pl##div[style="width: 100%; background: rgb(44, 48, 51) none repeat scroll 0% 0%; padding: 10px 0; color: #fff; border-top: 1px solid rgb(221, 221, 221);  text-align: center; position: fixed; bottom: 0; z-index: 999999999;"]
@@ -23636,7 +23657,7 @@ http://sfinks.org.pl##div[style^="left: 0px; top:"]
 http://visionexpress.pl##div[style^="margin: 0px auto; padding:"]
 http://pallottinum.pl##div[style^="padding:5px 15px;padding-top:5px;"]
 http://trzemeszno.pl##div[style^="top:0;left:0;"]
-http://vas.com.pl##div[style^="top:0;left:0;right:0;"]
+http://poznan.pl,vas.com.pl##div[style^="top:0;left:0;right:0;"]
 http://zs1mm.edu.pl##frame
 http://wsqn.pl#?#.infotext:-abp-contains(cookie)
 http://gentside.com.br###actionreceiver
@@ -23721,12 +23742,15 @@ http://lexus.sk##.disclaimer
 http://tpd.sk##.header__notice__content
 http://modrykonik.sk##.nc_a
 http://lidl.sk##.notification
+http://park-skocjanske-jame.si##div[style*="text-align:center;-webkit-box-shadow:0px -5px 14px -4px rgba"]
+http://amaterky.sk##div[style^="padding-top: 10px; padding-bottom: 10px;"]
 http://zelena-kava.info###eu-container
 http://dnevnik.si##.cc-wrapper
 http://izi.si##.cookies
 http://lexus.si##.disclaimer
 http://delo.si,deloindom.si,pogledi.si,polet.si,slovenskenovice.si##.notice
 http://lidl.si##.notification
+http://almacen-informatico.com###Informacion
 http://pacma.es###aceptacion_politicas
 http://electrocosto.com###bottom
 http://aristeguinoticias.com###comparte
@@ -23734,6 +23758,7 @@ http://cifempleo.com,ferrovial.com,gaes.es,infodefensa.com,moviles.com,movistarr
 http://ssangyong.es###eltexto
 http://salonocasion.com###fb-cd
 http://shotsdeciencia.com###guacBg8
+http://inelenco.com###hid
 http://hora.com.es###ley
 http://masvision.es###lycok
 http://paginasamarillas.es###m-notification--bottom
@@ -23749,7 +23774,6 @@ http://lasestrellas.tv,telehit.com##.Privacy
 http://drweb-av.es##.SHOWIT-msg_showed
 http://agroterra.com,amadeus.com,damelibros.com,futbolenlatv.es,lavozdegalicia.es##.alert
 http://eluniverso.com##.block-eluniverso-gdpr
-http://blogcindario.com##.c01eb8fc
 http://infiniti.com.do,infiniti.com.pa,infiniti.mx,infinitimotors.cl,infinitipr.com##.c_128
 http://psicologia-online.com,uncomo.com##.consent
 http://alcampo.es,gestoriaverdugo.es##.cookie
@@ -23769,6 +23793,7 @@ http://arsys.es##.notifications
 http://chollometro.com##.softMessages-item
 http://contarcaracteres.com##.top-header
 http://in4.es##.uk-position-fixed
+http://blogcindario.com,mforos.com##body > div[id][class]
 http://recepedia.com##div[style^="position: fixed; top:"]
 http://kb.se,skanetrafiken.se###cookie
 http://hkr.se,inscale.se###cookies
@@ -24455,6 +24480,7 @@ http://ad.win.nl,dehn.de,techopital.com#@##cookieConsent
 http://ad.win.nl#@##cookieConsentBox
 http://techopital.com#@##cookieConsentContainer
 http://indebuurt.nl,tweakers.net#@##cookieContainer
+http://researchaffiliates.com#@##cookieDialog
 http://tiger.nl#@##cookieMessage
 http://arbeiterkammer.at,brieftip.pl,britishairways.com,epolisbari.com,fotofairsicherung.de,kaliber.pl,mediathekviewweb.de,naszwybir.pl,onsbrabantnet.nl,tropicana.fr,woolworth.de#@##cookieModal
 http://dhbbank.nl#@##cookieModalCenter
