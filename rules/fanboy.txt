@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vu/nxfgrenANrNI8k40lNg
-! Version: 202104300050
+! Checksum: /BQ12KUJG5a3AzdShTTnuw
+! Version: 202105010050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-04-30 00:50 UTC
+! Last modified: 2021-05-01 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -9292,7 +9292,7 @@ https://tribunesandtriumphs.org###outer-consent
 https://nbcnews.com###overaly_dy_message
 https://jukegames.com,n-mobile.net###overbox3
 https://testmy.net###overlay
-https://allestoringen.be,allestoringen.nl,allestörungen.at,allestörungen.ch,allestörungen.de,aussieoutages.com,canadianoutages.com,downdetctor.cl,downdetector.ae,downdetector.ca,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.br,downdetector.dk,downdetector.es,downdetector.fi,downdetector.fr,downdetector.hk,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.no,downdetector.pl,downdetector.pt,downdetector.ru,downdetector.se,downdetector.sg,downdetector.web.tr###overlay.container
+https://allestoringen.be,allestoringen.nl,aussieoutages.com,canadianoutages.com,downdetctor.cl,downdetector.ae,downdetector.ca,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.br,downdetector.dk,downdetector.es,downdetector.fi,downdetector.fr,downdetector.hk,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.no,downdetector.pl,downdetector.pt,downdetector.ru,downdetector.se,downdetector.sg,downdetector.web.tr,xn--allestrungen-9ib.at,xn--allestrungen-9ib.ch,xn--allestrungen-9ib.de###overlay.container
 https://belkin.com###pagebanner
 https://pdfescape.com###pdfe_cmp
 https://themilitarystore.co.uk###pixelpop
@@ -12212,6 +12212,7 @@ https://matkahuolto.fi##.css-jlvvqa
 https://ifolor.fi##.dialogBanner--align-bottom
 https://vr.fi##.headerContents > .infoMessages
 https://lidl.fi,pelit.fi,telia.fi##.notification
+https://helmet.fi##.notifier_warning
 https://suomi24.fi##.s24_cc_banner-wrapper
 https://terveystalo.com##.st-consent-banner
 https://lehtodigital.fi##[class^="__ld_cookie_"]
@@ -12608,6 +12609,7 @@ https://archiwumalle.pl,basketzone.pl,getem.pl,kosmetykizameryki.pl###polityka
 https://loteriainpost.pl###pop_up
 https://pkspolonus.pl###popek
 https://apdmarket.pl###popup
+https://poznan.pl###popup-peka
 https://ivet.pl###popup1
 https://weck.com.pl###popup2
 https://erhem.pl###popupContact
@@ -20214,7 +20216,7 @@ http://tribunesandtriumphs.org###outer-consent
 http://nbcnews.com###overaly_dy_message
 http://jukegames.com,n-mobile.net###overbox3
 http://testmy.net###overlay
-http://allestoringen.be,allestoringen.nl,allestörungen.at,allestörungen.ch,allestörungen.de,aussieoutages.com,canadianoutages.com,downdetctor.cl,downdetector.ae,downdetector.ca,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.br,downdetector.dk,downdetector.es,downdetector.fi,downdetector.fr,downdetector.hk,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.no,downdetector.pl,downdetector.pt,downdetector.ru,downdetector.se,downdetector.sg,downdetector.web.tr###overlay.container
+http://allestoringen.be,allestoringen.nl,aussieoutages.com,canadianoutages.com,downdetctor.cl,downdetector.ae,downdetector.ca,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.br,downdetector.dk,downdetector.es,downdetector.fi,downdetector.fr,downdetector.hk,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.no,downdetector.pl,downdetector.pt,downdetector.ru,downdetector.se,downdetector.sg,downdetector.web.tr,xn--allestrungen-9ib.at,xn--allestrungen-9ib.ch,xn--allestrungen-9ib.de###overlay.container
 http://belkin.com###pagebanner
 http://pdfescape.com###pdfe_cmp
 http://themilitarystore.co.uk###pixelpop
@@ -23135,6 +23137,7 @@ http://matkahuolto.fi##.css-jlvvqa
 http://ifolor.fi##.dialogBanner--align-bottom
 http://vr.fi##.headerContents > .infoMessages
 http://lidl.fi,pelit.fi,telia.fi##.notification
+http://helmet.fi##.notifier_warning
 http://suomi24.fi##.s24_cc_banner-wrapper
 http://terveystalo.com##.st-consent-banner
 http://lehtodigital.fi##[class^="__ld_cookie_"]
@@ -23531,6 +23534,7 @@ http://archiwumalle.pl,basketzone.pl,getem.pl,kosmetykizameryki.pl###polityka
 http://loteriainpost.pl###pop_up
 http://pkspolonus.pl###popek
 http://apdmarket.pl###popup
+http://poznan.pl###popup-peka
 http://ivet.pl###popup1
 http://weck.com.pl###popup2
 http://erhem.pl###popupContact
