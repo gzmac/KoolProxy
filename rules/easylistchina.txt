@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: a1wuYN096BP7/7szBm9MPQ
-! Version: 202105020042
+! Checksum: gMhphAw61AGx5sQ/8ygMNQ
+! Version: 202105030032
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -2129,7 +2129,7 @@
 ||https://diaoyu123.com/cpro/show.js
 ||https://dieka888.com/app_ad/
 ||https://dig.chouti.com/advert
-||https://dilidili3.com/static/*.js
+||https://dilidili8.com/static/*.js
 ||https://dingniugu.com/newskin/js/backTop.js
 ||https://dingniugu.com^*public.
 ||https://dio66.net/images/*.gif
@@ -2994,6 +2994,7 @@
 ||https://jz5u.com/public/js/t$script
 ||https://jz5u.com/public/new/
 ||https://jzb.com/website/fe/pub_js/dbclickshow.js
+||https://jzs001.cn/group1/M00/01/54/ZxcuGGCNKm2Aejx5AGgOUcHJXW4978.gif
 ||https://k99.cc^$third-party
 ||https://kaixin001.com.cn/js/cpm-
 ||https://kajila.cn/ad.html
@@ -6235,6 +6236,7 @@
 ||http://cy-wz.com^
 ||http://cyacc.com^
 ||http://cytcm.com^
+||http://cz09.com^
 ||http://cz9k8b.top^
 ||http://czpush.com^
 ||http://czpwm.com^
@@ -9559,7 +9561,7 @@
 ||http://diaoyu123.com/cpro/show.js
 ||http://dieka888.com/app_ad/
 ||http://dig.chouti.com/advert
-||http://dilidili3.com/static/*.js
+||http://dilidili8.com/static/*.js
 ||http://dingniugu.com/newskin/js/backTop.js
 ||http://dingniugu.com^*public.
 ||http://dio66.net/images/*.gif
@@ -10566,6 +10568,7 @@
 ||http://jz5u.com/public/js/t$script
 ||http://jz5u.com/public/new/
 ||http://jzb.com/website/fe/pub_js/dbclickshow.js
+||http://jzs001.cn/group1/M00/01/54/ZxcuGGCNKm2Aejx5AGgOUcHJXW4978.gif
 ||http://k99.cc^$third-party
 ||http://kaixin001.com.cn/js/cpm-
 ||http://kajila.cn/ad.html
@@ -19530,6 +19533,7 @@ https://xilu.com##.shehuibanner
 https://hao.rising.cn##.shop-site
 https://teepr.com##.shop-widget
 https://qiushibaike.com##.shopwindow
+https://pixabay.com##.show-gtty-item
 https://miercn.com##.show-img-box
 https://200sht.info,sehuatang.org##.show-text
 https://zahuishi.com##.show2960x90
@@ -25929,6 +25933,7 @@ http://xilu.com##.shehuibanner
 http://hao.rising.cn##.shop-site
 http://teepr.com##.shop-widget
 http://qiushibaike.com##.shopwindow
+http://pixabay.com##.show-gtty-item
 http://miercn.com##.show-img-box
 http://200sht.info,sehuatang.org##.show-text
 http://zahuishi.com##.show2960x90

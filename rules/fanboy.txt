@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pOHaJRpbtB8jSz1RehZPQg
-! Version: 202105020050
+! Checksum: 8owxG2KBM3cxLoqXGLVQsw
+! Version: 202105030050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-02 00:50 UTC
+! Last modified: 2021-05-03 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2555,7 +2555,7 @@
 ||http://emerse.com/consent.js
 ||http://freedoflondon.com/Styles/dialog-popup/jquery-ui.js
 ||http://freetls.fastly.net/main/sd-cmp-$domain=spanishdict.com
-||http://fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|gameblog.fr|liliputing.com|makeuseof.com|marbaro.it|phonearena.com|quotes.net|smallseotools.com|stadtfeste-in-deutschland.de|telegram.hr|wordreference.com
+||http://fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|gameblog.fr|liliputing.com|makeuseof.com|marbaro.it|phonearena.com|quotes.net|smallseotools.com|stadtfeste-in-deutschland.de|telegram.hr|timeanddate.com|wordreference.com
 ||http://gdpr.internetbrands.com^
 ||http://gdpr.prisa.com^
 ||http://government-and-constitution.org/js/consent.js
@@ -7650,6 +7650,7 @@ https://india.com##.open-app
 https://sportskeeda.com##.sidebar-app-download
 https://imgur.com,sowetanlive.co.za##.smartbanner
 https://inquisitr.com##.stay-in-touch
+https://telegram.org##.tg_try_desktop
 https://reddit.com##.upsell_banner
 https://barandbench.com##div[class^="header-two-m__download-links_"]
 https://schufa.de###AC_layout
@@ -9503,7 +9504,7 @@ https://gll.gg##.ccINgy
 https://drakecircus.com##.ccc-widget
 https://hannity.com##.ccpa
 https://orcadian.co.uk##.cd-container
-https://wunderground.com##.cdk-overlay-container
+https://shopstyle.co.uk,tacobot.tf,wunderground.com##.cdk-overlay-container
 https://source.chromium.org##.cdk-overlay-pane > .mat-snack-bar-container
 https://kbs.co.kr##.chrome_pick
 https://stayinwales.co.uk##.ckinfo-panel
@@ -9957,7 +9958,7 @@ https://satispay.com##p[class^="cookie-banner"]
 https://opentip.kaspersky.com##section[data-t="cks-dsc"] > div > div
 https://truecaller.com##span > .max-w-md.shadow-lg
 https://web.dev##web-snackbar
-https://androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,makeuseof.com,marbaro.it,phonearena.com,quotes.net,smallseotools.com,stadtfeste-in-deutschland.de,telegram.hr,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
+https://androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,makeuseof.com,marbaro.it,phonearena.com,quotes.net,smallseotools.com,stadtfeste-in-deutschland.de,telegram.hr,timeanddate.com,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 https://play.google.com##.gb_g:has-text(cookie)
 https://istockphoto.com#?#.warning:-abp-has([data-cookie-type])
 https://play.google.com#?#.gb_g:-abp-contains(cookie)
@@ -11788,6 +11789,7 @@ https://bueromarkt-ag.de##.cCText
 https://infiniti.at,infiniti.ch,infiniti.de##.c_128
 https://syfit.de##.c_cont
 https://juedische-allgemeine.de##.cc
+https://antenne.at,de.vanguard,hw-zuschuss.daimler.com,meine-bankid.de,teambank.de,townsmith.de##.cdk-overlay-container
 https://herrenausstatter.de##.ce-container
 https://aeesuisse.ch,bluesnews.de##.ce_rsce_oneo_fixed_note
 https://tobias-bauer.de##.ce_rsce_swissy_fixed_note
@@ -11989,6 +11991,7 @@ https://scooter-system.fr##.avertissement
 https://potagercity.fr##.banner
 https://utopya.fr##.banner-header
 https://infiniti.be,infiniti.fr,infiniti.lu##.c_128
+https://agirc-arrco.fr,byclickeat.fr##.cdk-overlay-container
 https://ddb.fr,pmu.fr##.cnil
 https://runinreims.com##.confidentialite
 https://planeteanimal.com,toutcomment.com##.consent
@@ -12172,6 +12175,7 @@ https://rotaserve.com##.avg
 https://twentemilieu.nl##.balloon_notification
 https://infiniti.nl##.c_128
 https://internedservices.nl##.ccdiv
+https://grenscorridorn69.nl##.cdk-overlay-container
 https://penstore.nl##.center-notice
 https://vergelijk.nl##.cg-82
 https://vergelijk.nl##.cg-97
@@ -12774,6 +12778,7 @@ https://macorlux.pt##.cookie
 https://abola.pt,assismatica.pt,conforama.pt,metalomarao.pt,perfumesclub.pt##.cookies
 https://tudogostoso.com.br##.disclaimer
 https://ericeirasurfskate.pt##.footer-fixed-bar
+https://infojobs.com.br##.modal-backdrop
 https://lidl.pt##.notification
 https://jaguarportugal.pt,landrover.pt##.notificationBars
 https://timing.pt##.policy
@@ -13236,6 +13241,7 @@ https://bysimple.co#@#.footer-socials
 https://gorod.mos.ru#@#.footer__social
 https://adme.ru#@#.gallery-social
 https://vk.com#@#.group_share
+https://inosmi.ru#@#.header__social
 https://zont-online.ru#@#.header_social
 https://ulrichesch.de#@#.headersocial:not(body):not(html)
 https://letsknowthings.com#@#.hide-social
@@ -13391,6 +13397,7 @@ https://nextinpact.com#@#.sharrre
 https://theatlantic.com,youtube.com#@#.show-share
 https://500px.com#@#.show_social
 https://supercomfysleep.com#@#.simple_social
+https://recorder.ro#@#.single-social
 https://login.aliexpress.com#@#.sns-btns
 https://gry-online.pl#@#.social-16
 https://tvp.info#@#.social-article
@@ -13431,6 +13438,7 @@ https://nvidia.pl#@#.social-newsletter
 https://linkis.com#@#.social-panel
 https://techspot.com,tuba.pl#@#.social-popup
 https://chrisblattman.com#@#.social-post
+https://kingjamesbibleonline.org#@#.social-sec
 https://infox.ru#@#.social-section
 https://lafeltrinelli.it#@#.social-separator
 https://daenischesbettenlager.at,daenischesbettenlager.de,howtogeek.com,jysk-ks.com,jysk.al,jysk.am,jysk.ba,jysk.be,jysk.bg,jysk.by,jysk.ca,jysk.ch,jysk.co.id,jysk.co.uk,jysk.com,jysk.com.cy,jysk.com.kw,jysk.com.mt,jysk.cz,jysk.dk,jysk.ee,jysk.es,jysk.fi,jysk.fr,jysk.ge,jysk.gr,jysk.hr,jysk.hu,jysk.ie,jysk.it,jysk.kz,jysk.lt,jysk.lv,jysk.md,jysk.me,jysk.mk,jysk.nl,jysk.no,jysk.pl,jysk.pt,jysk.ro,jysk.rs,jysk.se,jysk.si,jysk.sk,jysk.ua,jysk.vn,jyskthailand.com,pisiffik.gl,rumfatalagerinn.is,skemman.fo#@#.social-share
@@ -13746,6 +13754,7 @@ https://etonline.com,popsugar.co.uk#@#.evidon-banner
 https://nytimes.com#@#.expanded.gdpr
 https://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@#.gdpr-agree
 https://washingtonpost.com#@#.gdpr-consent
+https://washingtonpost.com#@#.gdpr-consent-container
 https://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn,myfitnesspal.com#@#.gdpr-container
 https://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@#.gdpr-content
 https://standaard.be#@#.gdpr-dialog
@@ -18597,6 +18606,7 @@ http://india.com##.open-app
 http://sportskeeda.com##.sidebar-app-download
 http://imgur.com,sowetanlive.co.za##.smartbanner
 http://inquisitr.com##.stay-in-touch
+http://telegram.org##.tg_try_desktop
 http://reddit.com##.upsell_banner
 http://barandbench.com##div[class^="header-two-m__download-links_"]
 http://schufa.de###AC_layout
@@ -20451,7 +20461,7 @@ http://gll.gg##.ccINgy
 http://drakecircus.com##.ccc-widget
 http://hannity.com##.ccpa
 http://orcadian.co.uk##.cd-container
-http://wunderground.com##.cdk-overlay-container
+http://shopstyle.co.uk,tacobot.tf,wunderground.com##.cdk-overlay-container
 http://source.chromium.org##.cdk-overlay-pane > .mat-snack-bar-container
 http://kbs.co.kr##.chrome_pick
 http://stayinwales.co.uk##.ckinfo-panel
@@ -20905,7 +20915,7 @@ http://satispay.com##p[class^="cookie-banner"]
 http://opentip.kaspersky.com##section[data-t="cks-dsc"] > div > div
 http://truecaller.com##span > .max-w-md.shadow-lg
 http://web.dev##web-snackbar
-http://androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,makeuseof.com,marbaro.it,phonearena.com,quotes.net,smallseotools.com,stadtfeste-in-deutschland.de,telegram.hr,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
+http://androidpolice.com,apkmirror.com,gameblog.fr,liliputing.com,makeuseof.com,marbaro.it,phonearena.com,quotes.net,smallseotools.com,stadtfeste-in-deutschland.de,telegram.hr,timeanddate.com,wordreference.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 http://play.google.com##.gb_g:has-text(cookie)
 http://istockphoto.com#?#.warning:-abp-has([data-cookie-type])
 http://play.google.com#?#.gb_g:-abp-contains(cookie)
@@ -22737,6 +22747,7 @@ http://bueromarkt-ag.de##.cCText
 http://infiniti.at,infiniti.ch,infiniti.de##.c_128
 http://syfit.de##.c_cont
 http://juedische-allgemeine.de##.cc
+http://antenne.at,de.vanguard,hw-zuschuss.daimler.com,meine-bankid.de,teambank.de,townsmith.de##.cdk-overlay-container
 http://herrenausstatter.de##.ce-container
 http://aeesuisse.ch,bluesnews.de##.ce_rsce_oneo_fixed_note
 http://tobias-bauer.de##.ce_rsce_swissy_fixed_note
@@ -22938,6 +22949,7 @@ http://scooter-system.fr##.avertissement
 http://potagercity.fr##.banner
 http://utopya.fr##.banner-header
 http://infiniti.be,infiniti.fr,infiniti.lu##.c_128
+http://agirc-arrco.fr,byclickeat.fr##.cdk-overlay-container
 http://ddb.fr,pmu.fr##.cnil
 http://runinreims.com##.confidentialite
 http://planeteanimal.com,toutcomment.com##.consent
@@ -23121,6 +23133,7 @@ http://rotaserve.com##.avg
 http://twentemilieu.nl##.balloon_notification
 http://infiniti.nl##.c_128
 http://internedservices.nl##.ccdiv
+http://grenscorridorn69.nl##.cdk-overlay-container
 http://penstore.nl##.center-notice
 http://vergelijk.nl##.cg-82
 http://vergelijk.nl##.cg-97
@@ -23723,6 +23736,7 @@ http://macorlux.pt##.cookie
 http://abola.pt,assismatica.pt,conforama.pt,metalomarao.pt,perfumesclub.pt##.cookies
 http://tudogostoso.com.br##.disclaimer
 http://ericeirasurfskate.pt##.footer-fixed-bar
+http://infojobs.com.br##.modal-backdrop
 http://lidl.pt##.notification
 http://jaguarportugal.pt,landrover.pt##.notificationBars
 http://timing.pt##.policy
@@ -24185,6 +24199,7 @@ http://bysimple.co#@#.footer-socials
 http://gorod.mos.ru#@#.footer__social
 http://adme.ru#@#.gallery-social
 http://vk.com#@#.group_share
+http://inosmi.ru#@#.header__social
 http://zont-online.ru#@#.header_social
 http://ulrichesch.de#@#.headersocial:not(body):not(html)
 http://letsknowthings.com#@#.hide-social
@@ -24340,6 +24355,7 @@ http://nextinpact.com#@#.sharrre
 http://theatlantic.com,youtube.com#@#.show-share
 http://500px.com#@#.show_social
 http://supercomfysleep.com#@#.simple_social
+http://recorder.ro#@#.single-social
 http://login.aliexpress.com#@#.sns-btns
 http://gry-online.pl#@#.social-16
 http://tvp.info#@#.social-article
@@ -24380,6 +24396,7 @@ http://nvidia.pl#@#.social-newsletter
 http://linkis.com#@#.social-panel
 http://techspot.com,tuba.pl#@#.social-popup
 http://chrisblattman.com#@#.social-post
+http://kingjamesbibleonline.org#@#.social-sec
 http://infox.ru#@#.social-section
 http://lafeltrinelli.it#@#.social-separator
 http://daenischesbettenlager.at,daenischesbettenlager.de,howtogeek.com,jysk-ks.com,jysk.al,jysk.am,jysk.ba,jysk.be,jysk.bg,jysk.by,jysk.ca,jysk.ch,jysk.co.id,jysk.co.uk,jysk.com,jysk.com.cy,jysk.com.kw,jysk.com.mt,jysk.cz,jysk.dk,jysk.ee,jysk.es,jysk.fi,jysk.fr,jysk.ge,jysk.gr,jysk.hr,jysk.hu,jysk.ie,jysk.it,jysk.kz,jysk.lt,jysk.lv,jysk.md,jysk.me,jysk.mk,jysk.nl,jysk.no,jysk.pl,jysk.pt,jysk.ro,jysk.rs,jysk.se,jysk.si,jysk.sk,jysk.ua,jysk.vn,jyskthailand.com,pisiffik.gl,rumfatalagerinn.is,skemman.fo#@#.social-share
@@ -24695,6 +24712,7 @@ http://etonline.com,popsugar.co.uk#@#.evidon-banner
 http://nytimes.com#@#.expanded.gdpr
 http://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@#.gdpr-agree
 http://washingtonpost.com#@#.gdpr-consent
+http://washingtonpost.com#@#.gdpr-consent-container
 http://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn,myfitnesspal.com#@#.gdpr-container
 http://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@#.gdpr-content
 http://standaard.be#@#.gdpr-dialog
