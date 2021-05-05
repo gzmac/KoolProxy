@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: gMhphAw61AGx5sQ/8ygMNQ
-! Version: 202105030032
+! Checksum: +yBoC2qiTM+nOwu5wGhihA
+! Version: 202105050032
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -966,7 +966,6 @@
 ||https://47.100.0.249/js/thea
 ||https://484r.com/images/flash/gallery_
 ||https://4btbtt.com/slade.js
-||https://4gamers.com.tw/site/api/aols/media?
 ||https://4gtv.tv/4gTV_OTT.json
 ||https://4hw.com.cn/js/common.js
 ||https://4k123.com/data/attachment/portal/201712/20/194208ao9pevvvg0xr0n1p.jpg
@@ -7387,6 +7386,7 @@
 ||http://urlat.cn^
 ||http://usingde.com^$third-party
 ||http://uuaoz.com^
+||http://uuboos.com^
 ||http://uvclick.com^
 ||http://uzpmrbek.com^
 ||http://v-links.net^$third-party
@@ -8243,7 +8243,6 @@
 ||http://47.100.0.249/js/thea
 ||http://484r.com/images/flash/gallery_
 ||http://4btbtt.com/slade.js
-||http://4gamers.com.tw/site/api/aols/media?
 ||http://4gtv.tv/4gTV_OTT.json
 ||http://4hw.com.cn/js/common.js
 ||http://4k123.com/data/attachment/portal/201712/20/194208ao9pevvvg0xr0n1p.jpg
@@ -12977,6 +12976,7 @@
 ||http://ent1.12584.cn^
 ||http://ent1.qunchua.cn^
 ||http://ent1.qunchua.com^
+||http://er.5ykj.com^
 ||http://f1.06ps.com^
 ||http://f1.ichong123.com^
 ||http://f1.pig66.com^
@@ -13465,6 +13465,7 @@
 ||http://266ks.com^*/true.js
 ||http://282l1.cn^
 ||http://2bssjsq.com^
+||http://2gmbbl.cn^
 ||http://2gvuukm1lm.com^
 ||http://2gz9nc.cn^
 ||http://2ktd0.cn^
@@ -14747,6 +14748,7 @@
 ||http://seerpiu002.com^
 ||http://sfanf.com^
 ||http://sgyebd.com^
+||http://shanghebaizhou.cn^
 ||http://shangyingwm.com^
 ||http://shanprint.com^
 ||http://shantelope.com^
@@ -15286,6 +15288,7 @@
 ||http://zyqtc.cn^
 ||http://zyxwpj.com^
 ||http://zzcgw.cn^
+||http://zzchuy.cn^
 ||http://zzhszj.com^
 ||http://zzmmkj.com^
 ||http://zzqqhb.com^
@@ -17809,7 +17812,7 @@ https://jdbbs.com##.adyihifi
 https://baidu.com##.afd-item
 https://11px.cn##.ag
 https://weiyun001.com##.agency-list
-https://13mv.com,xoiof.com##.aggd
+https://13mv.com##.aggd
 https://33lc.com##.ags
 https://wmzhe.com##.aibyte_ad
 https://moe.best##.alert
@@ -18115,7 +18118,7 @@ https://mpyit.com##.cboxElement + center[style=" padding-top:10px; "]
 https://cnbeta.com##.cbv810
 https://cnbeta.com##.cbv:not(#cb_share)
 https://meizhou.com##.cc_z1
-https://mabiji.com,xinshouzhanzhang.com##.celan
+https://mabiji.com##.celan
 https://11luba.com,niluba.cc##.center > div:last-child
 https://sina.com.cn##.center-pdps
 https://sina.com.cn##.center-pdps-02
@@ -18875,7 +18878,6 @@ https://jbtalks.cc,jbtalks.com##.jbt-ad-region
 https://guandianzhiku.com##.jconfirm-open
 https://ifeng.com##.jcsp
 https://pconline.com.cn##.jcz-focus
-https://xinshouzhanzhang.com##.jinlila
 https://95ziyuan.cn##.jiuwu
 https://oschina.net##.jj
 https://soyunpan.com##.jmwb
@@ -19093,6 +19095,7 @@ https://6.cn##.min-ad-box
 https://cnr.cn,jxcn.cn##.min-news-box
 https://nowcoder.com##.mini-banner
 https://ck180.net##.mitao
+https://crsky.com##.ml10.Gs_d
 https://hmog.me##.ml_ad_widget
 https://cnforex.com##.mleft > a
 https://china.com##.mm
@@ -20436,7 +20439,6 @@ https://duba.com##a[w="topad"]
 https://ainuody.com#?#.post:-abp-has(> .article > .entry_post > p:-abp-contains(/红包|淘宝/))
 https://amazon.cn#?#.s-result-item:-abp-has(> .s-item-container > h5 .s-sponsored-info-icon)
 https://idanmu.im##aside > div[class="widget "]
-https://xinshouzhanzhang.com##aside[id^="text-"]
 https://assbbs.com#?#.top_3:-abp-has(a:-abp-contains(广告))
 https://cn.bing.com#?##b_results > li:-abp-has(.b_adProvider)
 https://baidu.com#?#.c-gap-bottom-small:-abp-has(>a>div>div[class^="jr-stock-open-account-"])
@@ -20890,6 +20892,7 @@ https://sina.cn##iframe[id^="sinaadtk_"]
 https://image.so.com#?#.cell:-abp-has(.txt:-abp-contains(广告))
 https://image.so.com#?#.imgcell:-abp-has(.txt:-abp-contains(广告))
 https://xblian.com##img[alt*="广告"]
+https://4gamers.com.tw##img[alt="ads"]
 https://gucheng.com##img[data-mv-ad]
 https://eworldship.com##img[height="70"]
 https://moyu16.com##img[height="85px"]
@@ -24208,7 +24211,7 @@ http://jdbbs.com##.adyihifi
 http://baidu.com##.afd-item
 http://11px.cn##.ag
 http://weiyun001.com##.agency-list
-http://13mv.com,xoiof.com##.aggd
+http://13mv.com##.aggd
 http://33lc.com##.ags
 http://wmzhe.com##.aibyte_ad
 http://moe.best##.alert
@@ -24514,7 +24517,7 @@ http://mpyit.com##.cboxElement + center[style=" padding-top:10px; "]
 http://cnbeta.com##.cbv810
 http://cnbeta.com##.cbv:not(#cb_share)
 http://meizhou.com##.cc_z1
-http://mabiji.com,xinshouzhanzhang.com##.celan
+http://mabiji.com##.celan
 http://11luba.com,niluba.cc##.center > div:last-child
 http://sina.com.cn##.center-pdps
 http://sina.com.cn##.center-pdps-02
@@ -25274,7 +25277,6 @@ http://jbtalks.cc,jbtalks.com##.jbt-ad-region
 http://guandianzhiku.com##.jconfirm-open
 http://ifeng.com##.jcsp
 http://pconline.com.cn##.jcz-focus
-http://xinshouzhanzhang.com##.jinlila
 http://95ziyuan.cn##.jiuwu
 http://oschina.net##.jj
 http://soyunpan.com##.jmwb
@@ -25492,6 +25494,7 @@ http://6.cn##.min-ad-box
 http://cnr.cn,jxcn.cn##.min-news-box
 http://nowcoder.com##.mini-banner
 http://ck180.net##.mitao
+http://crsky.com##.ml10.Gs_d
 http://hmog.me##.ml_ad_widget
 http://cnforex.com##.mleft > a
 http://china.com##.mm
@@ -26836,7 +26839,6 @@ http://duba.com##a[w="topad"]
 http://ainuody.com#?#.post:-abp-has(> .article > .entry_post > p:-abp-contains(/红包|淘宝/))
 http://amazon.cn#?#.s-result-item:-abp-has(> .s-item-container > h5 .s-sponsored-info-icon)
 http://idanmu.im##aside > div[class="widget "]
-http://xinshouzhanzhang.com##aside[id^="text-"]
 http://assbbs.com#?#.top_3:-abp-has(a:-abp-contains(广告))
 http://cn.bing.com#?##b_results > li:-abp-has(.b_adProvider)
 http://baidu.com#?#.c-gap-bottom-small:-abp-has(>a>div>div[class^="jr-stock-open-account-"])
@@ -27291,6 +27293,7 @@ http://sina.cn##iframe[id^="sinaadtk_"]
 http://image.so.com#?#.cell:-abp-has(.txt:-abp-contains(广告))
 http://image.so.com#?#.imgcell:-abp-has(.txt:-abp-contains(广告))
 http://xblian.com##img[alt*="广告"]
+http://4gamers.com.tw##img[alt="ads"]
 http://gucheng.com##img[data-mv-ad]
 http://eworldship.com##img[height="70"]
 http://moyu16.com##img[height="85px"]

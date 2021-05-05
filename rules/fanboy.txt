@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: O+F7qw0llJAtQMppMCdcWg
-! Version: 202105040100
+! Checksum: nhgenAh526elydcCngbmcw
+! Version: 202105050000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-04 01:00 UTC
+! Last modified: 2021-05-05 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -398,6 +398,7 @@
 ||https://js.driftt.com/deploy/assets/static/audio/
 ||https://js.intercomcdn.com/audio/
 ||https://livechatinc.com/widget/static/media/
+||https://purechatcdn.com/Content/Audio/
 ||https://reamaze.com/audio/
 ||https://static.widget.trengo.eu/assets/$media
 ||https://tawk.to/*/audio/
@@ -1785,6 +1786,7 @@
 ||http://js.driftt.com/deploy/assets/static/audio/
 ||http://js.intercomcdn.com/audio/
 ||http://livechatinc.com/widget/static/media/
+||http://purechatcdn.com/Content/Audio/
 ||http://reamaze.com/audio/
 ||http://static.widget.trengo.eu/assets/$media
 ||http://tawk.to/*/audio/
