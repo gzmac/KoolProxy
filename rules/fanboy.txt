@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nhgenAh526elydcCngbmcw
-! Version: 202105050000
+! Checksum: 83EPXN4PQCRIwrffRF3VuQ
+! Version: 202105060000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-05 00:00 UTC
+! Last modified: 2021-05-06 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -856,6 +856,7 @@
 ||https://sp-prod.net^$third-party
 ||https://4chan.org/b/*.swf
 ||https://anews.com/s/js/widget.js
+||https://api.qwant.com/*/homepage/trends?
 ||https://apnarm.net.au^*/keep-up-with_
 ||https://bostonglobe.com/common/js/velocity/
 ||https://businessinsider.in/bimed/
@@ -2262,6 +2263,7 @@
 ||http://sp-prod.net^$third-party,domain=~11freunde.de|~autobild.de|~bike-bild.de|~bild.de|~boerse-online.de|~businessinsider.de|~bz-berlin.de|~caramia.de|~clever-tanken.de|~computerbild.de|~edelblech.de|~faz.net|~finanzen.at|~finanzen.ch|~finanzen.net|~fitbook.de|~gentside.com|~gofeminin.de|~idealo.at|~idealo.co.uk|~idealo.de|~idealo.es|~idealo.fr|~idealo.it|~immonet.de|~insider.com|~kombi.de|~maxisciences.com|~meinestadt.de|~metal-hammer.de|~musikexpress.de|~myhomebook.de|~n24.de|~noizz.de|~onmeda.de|~politico.eu|~rollingstone.de|~sportbild.de|~stylebook.de|~techbook.de|~testbild.de|~transfermarkt.at|~transfermarkt.ch|~transfermarkt.co.uk|~transfermarkt.com|~transfermarkt.com.tr|~transfermarkt.de|~transfermarkt.fr|~transfermarkt.it|~transfermarkt.nl|~transfermarkt.pl|~transfermarkt.pt|~transfermarkt.us|~travelbook.de|~tvspielfilm.de|~vip.de|~welt.de|~wieistmeineip.at|~wieistmeineip.ch|~wieistmeineip.de|~zuio.tv
 ||http://4chan.org/b/*.swf
 ||http://anews.com/s/js/widget.js
+||http://api.qwant.com/*/homepage/trends?
 ||http://apnarm.net.au^*/keep-up-with_
 ||http://bostonglobe.com/common/js/velocity/
 ||http://businessinsider.in/bimed/
@@ -4698,6 +4700,7 @@ https://thedailyshow.com##.cc_footy
 https://dutchnews.nl,revisionworld.co.uk##.ccc-widget
 https://msn.com##.cf[style="width:80px;"]
 https://mashable.com##.channel-coverage
+https://stuff.co.nz##.chch-push-pointer
 https://thedailybeast.com##.cheatSignUp
 https://asus.com##.check-survey-info
 https://thesun.co.uk##.chicklet-bottom
@@ -6822,6 +6825,7 @@ https://examine.com##.free_hacks
 https://politico.com##.friday-cover-sign-up
 https://adventistworld.org##.frm_form_fields
 https://fansided.com,lastnighton.com,netflixlife.com,winteriscoming.net##.fs-daily
+https://donaldjtrump.com##.ftd-footer
 https://fitbit.com##.ftr-mail-me
 https://screenbinge.com##.ftr-subscribe
 https://fundable.com##.fundable_newsletter_signup
@@ -7321,6 +7325,7 @@ https://adweek.com,avclub.com,bnnbloomberg.ca,bostonherald.com,chicoer.com,color
 https://factcheck.org,therevolutionaryact.com##a[href*="/subscribe/"]
 https://quantamagazine.org##a[href="#newsletter"]
 https://mediaite.com##a[href="http://www.mediaite.com/email-newsletter/"]
+https://stuff.co.nz##a[href^="https://my.stuff.co.nz/register/newsletter"]
 https://upi.com##div > .ad_slot + div[style="position: relative;"]
 https://arstechnica.co.uk##div > p + blockquote
 https://stuff.co.nz##div[class$="-pointer"]
@@ -9403,6 +9408,7 @@ https://alpari.com,alpariforex.org##.-footer__notice
 https://cryptokitties.co##.Banner
 https://cryptokitties.co##.BottomBanner
 https://itsfoss.com##.CampaignType--floating
+https://postaffiliatepro.com##.CookieLaw
 https://perforce.com##.EUc
 https://tjc.co.uk##.GDPR
 https://tunnelmb.net##.MqsPw
@@ -11741,6 +11747,7 @@ https://reddingo.ch###policy
 https://amtempo.de###popup
 https://ford-maiwald.de###popupDiv
 https://bka.de,bmjv.de,maurice-renck.de###privacy
+https://sex-infos.ch###privacy-dislamer
 https://aqua-medic.de###privacy-info
 https://bafög.de###privacy-note
 https://e-cooline.de###privacy-protection
@@ -12324,6 +12331,7 @@ https://jiosaavn.com##.site-message-container
 https://volaparkingorio.it###AeroparkVerona_cookie_advice
 https://oraridiapertura24.it###CCcont
 https://controcampus.it###Controcampus_cookie_advice
+https://culturagay.it###GPP
 https://amicidicasa.it###G_info
 https://vistaprint.it###MarketingText
 https://ludomedia.it###UIAvvisiUtente
@@ -12351,7 +12359,7 @@ https://emanuelaursino.it###cke_plc
 https://eismoinfo.lt###consent
 https://ecodallecitta.it###contenuto_consenso
 https://spesasicura.com###cook
-https://aeo.it,bookingaltoadige.com,camionsupermarket.it,cattoliciogginotizie.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,extramagazine.eu,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
+https://aeo.it,archimagazine.com,bookingaltoadige.com,camionsupermarket.it,cattoliciogginotizie.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,extramagazine.eu,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
 https://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,musictory.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 https://telea1.it###cooky_content
 https://majani.it###cs-banner
@@ -13638,7 +13646,7 @@ https://gq-magazine.co.uk,mail.com#@##onetrust-banner-sdk
 https://gq-magazine.co.uk,mail.com#@##onetrust-consent-sdk
 https://api.newsguardtech.com,rockpapershotgun.com#@##optanon
 https://theverge.com#@##privacy-consent
-https://ilpiemontetivaccina.it,readthedocs.io,sportdiver.com#@##privacy-policy
+https://ilpiemontetivaccina.it,minden.co.jp,readthedocs.io,sportdiver.com#@##privacy-policy
 https://dcinside.com,totalwar.com#@##privacy_policy
 https://repostuj.pl#@##rodo-modal
 https://forgeandfortune.com#@##toasts > #toastsWrapper
@@ -15656,6 +15664,7 @@ http://thedailyshow.com##.cc_footy
 http://dutchnews.nl,revisionworld.co.uk##.ccc-widget
 http://msn.com##.cf[style="width:80px;"]
 http://mashable.com##.channel-coverage
+http://stuff.co.nz##.chch-push-pointer
 http://thedailybeast.com##.cheatSignUp
 http://asus.com##.check-survey-info
 http://thesun.co.uk##.chicklet-bottom
@@ -17780,6 +17789,7 @@ http://examine.com##.free_hacks
 http://politico.com##.friday-cover-sign-up
 http://adventistworld.org##.frm_form_fields
 http://fansided.com,lastnighton.com,netflixlife.com,winteriscoming.net##.fs-daily
+http://donaldjtrump.com##.ftd-footer
 http://fitbit.com##.ftr-mail-me
 http://screenbinge.com##.ftr-subscribe
 http://fundable.com##.fundable_newsletter_signup
@@ -18279,6 +18289,7 @@ http://adweek.com,avclub.com,bnnbloomberg.ca,bostonherald.com,chicoer.com,colora
 http://factcheck.org,therevolutionaryact.com##a[href*="/subscribe/"]
 http://quantamagazine.org##a[href="#newsletter"]
 http://mediaite.com##a[href="http://www.mediaite.com/email-newsletter/"]
+http://stuff.co.nz##a[href^="https://my.stuff.co.nz/register/newsletter"]
 http://upi.com##div > .ad_slot + div[style="position: relative;"]
 http://arstechnica.co.uk##div > p + blockquote
 http://stuff.co.nz##div[class$="-pointer"]
@@ -20362,6 +20373,7 @@ http://alpari.com,alpariforex.org##.-footer__notice
 http://cryptokitties.co##.Banner
 http://cryptokitties.co##.BottomBanner
 http://itsfoss.com##.CampaignType--floating
+http://postaffiliatepro.com##.CookieLaw
 http://perforce.com##.EUc
 http://tjc.co.uk##.GDPR
 http://tunnelmb.net##.MqsPw
@@ -22701,6 +22713,7 @@ http://reddingo.ch###policy
 http://amtempo.de###popup
 http://ford-maiwald.de###popupDiv
 http://bka.de,bmjv.de,maurice-renck.de###privacy
+http://sex-infos.ch###privacy-dislamer
 http://aqua-medic.de###privacy-info
 http://bafög.de###privacy-note
 http://e-cooline.de###privacy-protection
@@ -23284,6 +23297,7 @@ http://jiosaavn.com##.site-message-container
 http://volaparkingorio.it###AeroparkVerona_cookie_advice
 http://oraridiapertura24.it###CCcont
 http://controcampus.it###Controcampus_cookie_advice
+http://culturagay.it###GPP
 http://amicidicasa.it###G_info
 http://vistaprint.it###MarketingText
 http://ludomedia.it###UIAvvisiUtente
@@ -23311,7 +23325,7 @@ http://emanuelaursino.it###cke_plc
 http://eismoinfo.lt###consent
 http://ecodallecitta.it###contenuto_consenso
 http://spesasicura.com###cook
-http://aeo.it,bookingaltoadige.com,camionsupermarket.it,cattoliciogginotizie.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,extramagazine.eu,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
+http://aeo.it,archimagazine.com,bookingaltoadige.com,camionsupermarket.it,cattoliciogginotizie.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,extramagazine.eu,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
 http://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,musictory.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 http://telea1.it###cooky_content
 http://majani.it###cs-banner
@@ -24598,7 +24612,7 @@ http://gq-magazine.co.uk,mail.com#@##onetrust-banner-sdk
 http://gq-magazine.co.uk,mail.com#@##onetrust-consent-sdk
 http://api.newsguardtech.com,rockpapershotgun.com#@##optanon
 http://theverge.com#@##privacy-consent
-http://ilpiemontetivaccina.it,readthedocs.io,sportdiver.com#@##privacy-policy
+http://ilpiemontetivaccina.it,minden.co.jp,readthedocs.io,sportdiver.com#@##privacy-policy
 http://dcinside.com,totalwar.com#@##privacy_policy
 http://repostuj.pl#@##rodo-modal
 http://forgeandfortune.com#@##toasts > #toastsWrapper
