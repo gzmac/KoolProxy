@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MvZZZPIIDcZkiv9ACUvoww
-! Version: 202105070000
+! Checksum: Zlsal9YvuqfWfJlTZR94nQ
+! Version: 202105080000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-07 00:00 UTC
+! Last modified: 2021-05-08 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6395,6 +6395,7 @@ https://activistmommy.com###mc_embed_signup-footer
 https://moneyweb.co.za###mc_embed_signup1
 https://priceonomics.com###mc_embed_signup_nojs
 https://sonder.news,wegotthiscovered.com###mc_embed_signup_scroll
+https://community.mars-one.com###message
 https://lightreading.com###mktng_popin
 https://vosizneias.com###ml_subscribe
 https://guidedoc.com###modal-overlay
@@ -12168,7 +12169,7 @@ https://autotrader.nl###ATASBAR
 https://voetbalnederland.nl###T1
 https://recordplanet.nl###WGbeshrkgj
 https://grebbeberg.nl###acceptscp2012
-https://gocards.nl###cbar
+https://gocards.nl,radioluisteren.fm###cbar
 https://iens.nl###cboxOverlay
 https://forum.snsbank.nl###clcback
 https://forum.snsbank.nl###consentdiv
@@ -12199,6 +12200,7 @@ https://voetbalrotterdam.nl##.app_2k2uB
 https://rotaserve.com##.avg
 https://twentemilieu.nl##.balloon_notification
 https://infiniti.nl##.c_128
+https://marktnet.nl##.cc-window
 https://internedservices.nl##.ccdiv
 https://grenscorridorn69.nl##.cdk-overlay-container
 https://penstore.nl##.center-notice
@@ -13004,7 +13006,7 @@ https://infiniti-vietnam.com.vn##.c_128
 https://360.cymru###negesCaniatad
 https://nasa.gov#@##BackToTop
 https://billabong.com#@##NewsletterSignup
-https://autotrader.com,brydge.com,liputan6.com,rejuvenation.com#@##back-to-top
+https://autotrader.com,brydge.com,controllergear.com,liputan6.com,rejuvenation.com#@##back-to-top
 https://archeda.eu#@##back-top
 https://engie.fr,gaz-tarif-reglemente.fr,nasa.gov#@##backToTop
 https://rmf24.pl#@##backTop
@@ -13099,7 +13101,6 @@ https://kosmonautix.cz#@#.widget_rss
 https://tactxflashlights.com#@#.widget_subscribe
 https://upim.com#@#[data-target="#newsletter-modal"]
 https://twellow.com#@#a[href="http://www.twellow.com/"]
-https://nasa.gov#@#backtotop
 https://reddit.com#@#img[alt="submit to reddit"]
 https://audionetwork.com,carlsenfritzoe.no#@##push-container:not(body):not(html)
 https://mega.nz#@#.notification-button
@@ -17379,6 +17380,7 @@ http://activistmommy.com###mc_embed_signup-footer
 http://moneyweb.co.za###mc_embed_signup1
 http://priceonomics.com###mc_embed_signup_nojs
 http://sonder.news,wegotthiscovered.com###mc_embed_signup_scroll
+http://community.mars-one.com###message
 http://lightreading.com###mktng_popin
 http://vosizneias.com###ml_subscribe
 http://guidedoc.com###modal-overlay
@@ -23154,7 +23156,7 @@ http://autotrader.nl###ATASBAR
 http://voetbalnederland.nl###T1
 http://recordplanet.nl###WGbeshrkgj
 http://grebbeberg.nl###acceptscp2012
-http://gocards.nl###cbar
+http://gocards.nl,radioluisteren.fm###cbar
 http://iens.nl###cboxOverlay
 http://forum.snsbank.nl###clcback
 http://forum.snsbank.nl###consentdiv
@@ -23185,6 +23187,7 @@ http://voetbalrotterdam.nl##.app_2k2uB
 http://rotaserve.com##.avg
 http://twentemilieu.nl##.balloon_notification
 http://infiniti.nl##.c_128
+http://marktnet.nl##.cc-window
 http://internedservices.nl##.ccdiv
 http://grenscorridorn69.nl##.cdk-overlay-container
 http://penstore.nl##.center-notice
@@ -23990,7 +23993,7 @@ http://infiniti-vietnam.com.vn##.c_128
 http://360.cymru###negesCaniatad
 http://nasa.gov#@##BackToTop
 http://billabong.com#@##NewsletterSignup
-http://autotrader.com,brydge.com,liputan6.com,rejuvenation.com#@##back-to-top
+http://autotrader.com,brydge.com,controllergear.com,liputan6.com,rejuvenation.com#@##back-to-top
 http://archeda.eu#@##back-top
 http://engie.fr,gaz-tarif-reglemente.fr,nasa.gov#@##backToTop
 http://rmf24.pl#@##backTop
@@ -24085,7 +24088,6 @@ http://kosmonautix.cz#@#.widget_rss
 http://tactxflashlights.com#@#.widget_subscribe
 http://upim.com#@#[data-target="#newsletter-modal"]
 http://twellow.com#@#a[href="http://www.twellow.com/"]
-http://nasa.gov#@#backtotop
 http://reddit.com#@#img[alt="submit to reddit"]
 http://audionetwork.com,carlsenfritzoe.no#@##push-container:not(body):not(html)
 http://mega.nz#@#.notification-button
