@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: wi2TGiLLPOVUBQjsviN8oQ
-! Version: 202105080032
+! Checksum: XqrRhPxR+AhoTDrAApC2nw
+! Version: 202105090032
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4344,6 +4344,7 @@
 ||https://weihaojiaju.com/tu888/
 ||https://weike87.com/images/*0
 ||https://weike87.com/images/*1
+||https://weikeys.com/js/zt.js
 ||https://weilekangnet.com:59188/wz/dingpiao_
 ||https://weilekangnet.com:59188/wz/vod_shang.js
 ||https://weilekangnet.com:59188/wz/wz.js
@@ -4976,7 +4977,7 @@
 ||https://sangwu8.com/tu/
 ||https://shumilou.co/style/html5.js
 ||https://soyue.cc^$third-party
-||https://tdtxt.net/js/baidu.js
+||https://tdtxt.xyz/js/baidu.js
 ||https://ttzw.tv/tz/h.js
 ||https://ttzw.tv/tz/true.js
 ||https://txshuku.la/js/
@@ -12061,6 +12062,7 @@
 ||http://weihaojiaju.com/tu888/
 ||http://weike87.com/images/*0
 ||http://weike87.com/images/*1
+||http://weikeys.com/js/zt.js
 ||http://weilekangnet.com:59188/wz/dingpiao_
 ||http://weilekangnet.com:59188/wz/vod_shang.js
 ||http://weilekangnet.com:59188/wz/wz.js
@@ -13506,6 +13508,7 @@
 ||http://4z5o27.cn^
 ||http://517kp.com^
 ||http://519397.com^
+||http://51df7z.cn^
 ||http://51dianji.cn^
 ||http://51elandt.com^
 ||http://51fishplace.com^
@@ -14347,6 +14350,7 @@
 ||http://juyour8.org^
 ||http://jvyigg.biqugeq.com^
 ||http://jvyigg.zbzw.la^
+||http://jxaucs1802.cn^
 ||http://jxbtl.com^
 ||http://jxdzoy.cn^
 ||http://jxhcyc.com^
@@ -14527,6 +14531,7 @@
 ||http://movii-loft.cn^
 ||http://moxiaoyang.top^
 ||http://mozqca.cn^
+||http://mrjfsc.cn^
 ||http://msccabin.com^
 ||http://mtcat.cn^
 ||http://mudezs.com^
@@ -14709,6 +14714,7 @@
 ||http://qwddcwmwqiqwd18.cn^
 ||http://qwddcwmwqiqwd19.cn^
 ||http://qwddcwmwqiqwd20.cn^
+||http://qwddcwmwqiqwd21.cn^
 ||http://qxyu.top^
 ||http://qyhwqie.cn^
 ||http://qysyyg.com^
@@ -14733,6 +14739,7 @@
 ||http://requested.cn^
 ||http://rfese.com^
 ||http://rfjckj.cn^
+||http://riccol.cn^
 ||http://ricqo.com^
 ||http://rishenglaw.cn^
 ||http://rmwdn.com^
@@ -14877,7 +14884,7 @@
 ||http://tchep.com^
 ||http://tcnmf.com^
 ||http://tdain.com^
-||http://tdtxt.net/js/baidu.js
+||http://tdtxt.xyz/js/baidu.js
 ||http://tfg8.com^
 ||http://tgbrfv.cn^
 ||http://tglzqw.cn^
@@ -15219,6 +15226,7 @@
 ||http://yushengyuancaishui.com^
 ||http://yuxiny.com^
 ||http://yuyanhe.com^
+||http://yvrpeky.cn^
 ||http://ywbwsm.com^
 ||http://ywqpgy.com^
 ||http://ywqum.cn^
@@ -21396,18 +21404,18 @@ https://hpjav.tv##body > div[style^="position: fixed;"]
 https://verystream.com#@#.adsbox
 https://googleads.g.doubleclick.net###mys-wrapper
 https://xhtml?%22+$script,third-party
+https://52biquge.com##[onclick*="app"]
+https://52biquge.com##a[href^="http://html.350.com/"]
+https://55shuba.com###botDiv
+https://biqubao.com##div[style="width:976px;"]
+https://bixia.org##dd[style*="bottom:"]
 https://bxwx3.org###addiv3
 https://bxwx3.org###bdstatic
-https://55shuba.com###botDiv
 https://duanwenxue.com##.qgzdwx
-https://jx.la##[onclick*="apk"]
-https://52biquge.com##[onclick*="app"]
 https://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
-https://52biquge.com##a[href^="http://html.350.com/"]
-https://bixia.org##dd[style*="bottom:"]
-https://xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
-https://biqubao.com##div[style="width:976px;"]
+https://jx.la##[onclick*="apk"]
 https://piaotian5.com##script + div[style="padding:15px;"]
+https://xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 https://getrelax.cc,sexylove.club##.loaded-popup-wrapper
 https://rjno1.com##div[style="display:none"]
 https://173.192.147.21,sejie.com,sejie3.us,thesoccerline.com###wp > br
@@ -27796,18 +27804,18 @@ http://hpjav.tv##body > div[style^="position: fixed;"]
 http://verystream.com#@#.adsbox
 http://googleads.g.doubleclick.net###mys-wrapper
 http://xhtml?%22+$script,third-party
+http://52biquge.com##[onclick*="app"]
+http://52biquge.com##a[href^="http://html.350.com/"]
+http://55shuba.com###botDiv
+http://biqubao.com##div[style="width:976px;"]
+http://bixia.org##dd[style*="bottom:"]
 http://bxwx3.org###addiv3
 http://bxwx3.org###bdstatic
-http://55shuba.com###botDiv
 http://duanwenxue.com##.qgzdwx
-http://jx.la##[onclick*="apk"]
-http://52biquge.com##[onclick*="app"]
 http://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
-http://52biquge.com##a[href^="http://html.350.com/"]
-http://bixia.org##dd[style*="bottom:"]
-http://xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
-http://biqubao.com##div[style="width:976px;"]
+http://jx.la##[onclick*="apk"]
 http://piaotian5.com##script + div[style="padding:15px;"]
+http://xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 http://getrelax.cc,sexylove.club##.loaded-popup-wrapper
 http://rjno1.com##div[style="display:none"]
 http://173.192.147.21,sejie.com,sejie3.us,thesoccerline.com###wp > br

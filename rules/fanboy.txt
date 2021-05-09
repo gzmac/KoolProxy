@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Zlsal9YvuqfWfJlTZR94nQ
-! Version: 202105080000
+! Checksum: It38O8qtr2k8seZ6NgXrIw
+! Version: 202105090000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-08 00:00 UTC
+! Last modified: 2021-05-09 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7307,6 +7307,7 @@ https://time.com##.widget_thepage_newsletter_widget
 https://westmonster.com##.wm-gf-inline-red-alert_wrapper
 https://westmonster.com##.wm-red-alert-form-widget
 https://merriam-webster.com##.word-of-day-subscribe-block
+https://merriam-webster.com##.wotd-side__subscribe
 https://5pillarsuk.com##.wpcf7
 https://ipatriot.com##.wpdev-email-signup
 https://i24news.tv##.wrapper_footer_5_suscribe
@@ -13660,6 +13661,7 @@ https://taloon.com#@##gdprpopup
 https://ansa.it,capital.it,huffingtonpost.it,m2o.it,rockol.it,video.deejay.it,video.espresso.repubblica.it,video.ilsecoloxix.it,video.lanuovasardegna.it,video.lastampa.it,video.rep.repubblica.it,video.repubblica.it#@##iubenda-cs-banner
 https://krone.at#@##krn-privacy-center
 https://bosch-mobility-solutions.com#@##m-cookie-overlay
+https://imoradar24.ro#@##modal-cookies
 https://17track.net#@##modal-gdpr
 https://faberkabel.de#@##modalCookie
 https://thesocialmedwork.com#@##notice-cookie-block
@@ -18292,6 +18294,7 @@ http://time.com##.widget_thepage_newsletter_widget
 http://westmonster.com##.wm-gf-inline-red-alert_wrapper
 http://westmonster.com##.wm-red-alert-form-widget
 http://merriam-webster.com##.word-of-day-subscribe-block
+http://merriam-webster.com##.wotd-side__subscribe
 http://5pillarsuk.com##.wpcf7
 http://ipatriot.com##.wpdev-email-signup
 http://i24news.tv##.wrapper_footer_5_suscribe
@@ -24647,6 +24650,7 @@ http://taloon.com#@##gdprpopup
 http://ansa.it,capital.it,huffingtonpost.it,m2o.it,rockol.it,video.deejay.it,video.espresso.repubblica.it,video.ilsecoloxix.it,video.lanuovasardegna.it,video.lastampa.it,video.rep.repubblica.it,video.repubblica.it#@##iubenda-cs-banner
 http://krone.at#@##krn-privacy-center
 http://bosch-mobility-solutions.com#@##m-cookie-overlay
+http://imoradar24.ro#@##modal-cookies
 http://17track.net#@##modal-gdpr
 http://faberkabel.de#@##modalCookie
 http://thesocialmedwork.com#@##notice-cookie-block
