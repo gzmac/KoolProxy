@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: It38O8qtr2k8seZ6NgXrIw
-! Version: 202105090000
+! Checksum: s9LwZh+avPVbLVMkw29yNw
+! Version: 202105100000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-09 00:00 UTC
+! Last modified: 2021-05-10 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11690,6 +11690,7 @@ https://metradar.ch###closeonaction
 https://freiewelt.net###cmmodal
 https://jmmgc.com###cnotice
 https://aktienportal1.de,eifelzeitung.de,ep1.de###coPolicyMain
+https://direktbroker-fx.de###cologindiv
 https://adventskalender-gewinnspiele.de,happy-spots.de,kirmes-in-deutschland.de,stadtfeste-in-deutschland.de,weihnachtsmaerkte-in-deutschland.de,weinfeste-in-deutschland.de###cono
 https://kunstnet.de,notebookinfo.de,zitatezumnachdenken.com###consent
 https://strawpoll.de###consent-overlay
@@ -11827,6 +11828,7 @@ https://borgware.de,buffalo.de,daparto.de,del.org,donaukurier.de,matratzen-conco
 https://capcom-germany.de,dtstudyclub.de,insel-sylt.de,medela.de,parfumsclub.de,reifenlehmann.de,selfhost.de,spie.de,svww.de##.cookies
 https://stadtwerke-luebz.de##.data-consent
 https://hilzingen.de,wurmberg.de##.datenschutz
+https://spaetzlesuche.de##.dialog-no-close
 https://die-linke.de,dielinke.berlin,lexus.at,lexus.de##.disclaimer
 https://jobscout24.ch##.disclaimer-message
 https://efinancialcareers.de##.dismissable-notifications
@@ -11930,6 +11932,7 @@ https://autohus.de##.u-fixed
 https://hypovereinsbank.de##.uccb
 https://emma-matratze.at,emma-matratze.de##.ucn-block
 https://euromaxx.nu##.ui-widget-content
+https://spaetzlesuche.de##.ui-widget-overlay
 https://anisearch.de##.urgent-msg
 https://cebit.de,domotex.de,hannovermesse.de,ligna.de,messe.de##.user-notes-notification
 https://oeaw.ac.at##.warning-popup
@@ -22679,6 +22682,7 @@ http://metradar.ch###closeonaction
 http://freiewelt.net###cmmodal
 http://jmmgc.com###cnotice
 http://aktienportal1.de,eifelzeitung.de,ep1.de###coPolicyMain
+http://direktbroker-fx.de###cologindiv
 http://adventskalender-gewinnspiele.de,happy-spots.de,kirmes-in-deutschland.de,stadtfeste-in-deutschland.de,weihnachtsmaerkte-in-deutschland.de,weinfeste-in-deutschland.de###cono
 http://kunstnet.de,notebookinfo.de,zitatezumnachdenken.com###consent
 http://strawpoll.de###consent-overlay
@@ -22816,6 +22820,7 @@ http://borgware.de,buffalo.de,daparto.de,del.org,donaukurier.de,matratzen-concor
 http://capcom-germany.de,dtstudyclub.de,insel-sylt.de,medela.de,parfumsclub.de,reifenlehmann.de,selfhost.de,spie.de,svww.de##.cookies
 http://stadtwerke-luebz.de##.data-consent
 http://hilzingen.de,wurmberg.de##.datenschutz
+http://spaetzlesuche.de##.dialog-no-close
 http://die-linke.de,dielinke.berlin,lexus.at,lexus.de##.disclaimer
 http://jobscout24.ch##.disclaimer-message
 http://efinancialcareers.de##.dismissable-notifications
@@ -22919,6 +22924,7 @@ http://autohus.de##.u-fixed
 http://hypovereinsbank.de##.uccb
 http://emma-matratze.at,emma-matratze.de##.ucn-block
 http://euromaxx.nu##.ui-widget-content
+http://spaetzlesuche.de##.ui-widget-overlay
 http://anisearch.de##.urgent-msg
 http://cebit.de,domotex.de,hannovermesse.de,ligna.de,messe.de##.user-notes-notification
 http://oeaw.ac.at##.warning-popup
