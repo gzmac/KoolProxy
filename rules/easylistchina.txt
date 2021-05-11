@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: nUsyGZ4FMb+3BKJ753c2JQ
-! Version: 202105100032
+! Checksum: PaUoRJzE6VXMxVfJaBkNjw
+! Version: 202105110032
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4284,6 +4284,7 @@
 ||https://vista.tgbusdata.cn/s.js
 ||https://vista.tuwan.com/s.js
 ||https://vjcdn.com/wp-content/uploads/*640x200
+||https://vk920.com/img1/
 ||https://vk922.com/img/
 ||https://vk923.com/img/
 ||https://vkeke.net/public/agd
@@ -4833,7 +4834,6 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
-||https://vk920.com/img1/
 ||https://17ce.com^*_$image
 ||https://69t49.com/floating/layer.js
 ||https://alicdn.com/img/ibank/*_!!2210231227621-0-cib.
@@ -4989,6 +4989,7 @@
 ||https://wenlang.com^$third-party
 ||https://x23qb.com/ak
 ||https://x23qb.com/skin/style
+||https://x23qb.com/skin/xiu.js
 ||https://xbiqugecc.com/bcc/
 ||https://xcmxsw.com^$third-party
 ||https://xiaoshuodaquan.com/js/ck.js
@@ -5549,7 +5550,6 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
-||http://wwwlongjiekejijishu.com^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://008844.cc^
@@ -7495,6 +7495,7 @@
 ||http://wwads.cn^$third-party
 ||http://wwlolbs.com^
 ||http://www-sina-cn-com.com^
+||http://wwwlongjiekejijishu.com^
 ||http://wxbdfm.com^
 ||http://wxiansen.cn^
 ||http://wxs666.cn^
@@ -11755,6 +11756,7 @@
 ||http://taporn.com/d/
 ||http://tb58.net/plugin.php?id=tb58_
 ||http://tbcdn.cn/mm/tanxssp-custom/sina_
+||http://tc.18moe.net^
 ||http://tcmap.com.cn/js/b_
 ||http://techritual.com/wp-content/uploads/*/HDcource_
 ||http://techug.com/mug/
@@ -12001,6 +12003,7 @@
 ||http://vista.tgbusdata.cn/s.js
 ||http://vista.tuwan.com/s.js
 ||http://vjcdn.com/wp-content/uploads/*640x200
+||http://vk920.com/img1/
 ||http://vk922.com/img/
 ||http://vk923.com/img/
 ||http://vkeke.net/public/agd
@@ -12589,8 +12592,6 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
-||http://tc.18moe.net^
-||http://vk920.com/img1/
 ||http://17ce.com^*_$image
 ||http://3336672.com^
 ||http://3337729.com^
@@ -14483,6 +14484,7 @@
 ||http://lvkuaizi.com^
 ||http://lvsechufang.com^
 ||http://lwlscy.com^
+||http://lxanimation.cn^
 ||http://lxhjaq.cn^
 ||http://ly2si17.cn^
 ||http://ly5200.cn^
@@ -14904,6 +14906,7 @@
 ||http://tieqifeng.com^
 ||http://tingfengyu.top^
 ||http://tiojk.com^
+||http://tirongtech.cn^
 ||http://tiwom.com^
 ||http://tjiaa.com^
 ||http://tjlms.cn^
@@ -14980,6 +14983,7 @@
 ||http://vbanm.com^
 ||http://vchim.com^
 ||http://vf5yb4.cn^
+||http://vhh.23txt.com^
 ||http://vinuxhome.com^
 ||http://vivi87.cn^
 ||http://vjptye.cn^
@@ -15057,6 +15061,7 @@
 ||http://wzjs1.oss-accelerate.aliyuncs.com^
 ||http://x23qb.com/ak
 ||http://x23qb.com/skin/style
+||http://x23qb.com/skin/xiu.js
 ||http://x81zw.com^*.gif
 ||http://xabtx.com^
 ||http://xacqp.com^
@@ -16044,7 +16049,6 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://423down.com#?#li:-abp-has(> .pic[href^="http"]:not([href*="423down."]))
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -19031,6 +19035,7 @@ https://324324.cn##.link_header
 https://cnjxol.com##.linked
 https://dl.pconline.com.cn##.links > p:not([class])
 https://duote.com##.links-banner
+https://linuxidc.com##.linux801
 https://linux.cn##.linuxcnad
 https://igxe.cn##.lion-flexd
 https://anjuke.com##.list-item > .jx-sign
@@ -20149,6 +20154,7 @@ https://159i.com#?#div:-abp-has(> img+a)
 https://2345.com#?#.pic:-abp-has(a[href^="http://g.wan."])
 https://3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>.openBox-container)
 https://3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>div[id$="_1"]+div[id$="_5"])
+https://423down.com#?#li:-abp-has(> .pic[href^="http"]:not([href*="423down."]))
 https://99kubo.tv#?#div[style*="width"]:-abp-has(> div[style] > img[src="/static/img/adsfree.png"])
 https://sina.com.cn##:not(.BigPic) > a[href*="sax.sina.com.cn/click?"]
 https://www.wpdaxue.com##:not(.post-thumbnail) > a[target="_blank"] > img
@@ -21466,7 +21472,6 @@ https://zhangxinxu.com##a[href*=".url.cn/"]
 https://zhangxinxu.com##a[href*="datayi.cn"]
 https://zhangxinxu.com##a[href^="http://dwz.date/"]
 https://zhangxinxu.com##article > .link + :not(p)
-https://zhangxinxu.com##style[id] + a[class]
 https://zol.com.cn###downloadTop
 https://zol.com.cn###downloader_main1
 https://zol.com.cn###nowDown
@@ -22443,7 +22448,6 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://423down.com#?#li:-abp-has(> .pic[href^="http"]:not([href*="423down."]))
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -25430,6 +25434,7 @@ http://324324.cn##.link_header
 http://cnjxol.com##.linked
 http://dl.pconline.com.cn##.links > p:not([class])
 http://duote.com##.links-banner
+http://linuxidc.com##.linux801
 http://linux.cn##.linuxcnad
 http://igxe.cn##.lion-flexd
 http://anjuke.com##.list-item > .jx-sign
@@ -26549,6 +26554,7 @@ http://159i.com#?#div:-abp-has(> img+a)
 http://2345.com#?#.pic:-abp-has(a[href^="http://g.wan."])
 http://3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>.openBox-container)
 http://3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>div[id$="_1"]+div[id$="_5"])
+http://423down.com#?#li:-abp-has(> .pic[href^="http"]:not([href*="423down."]))
 http://99kubo.tv#?#div[style*="width"]:-abp-has(> div[style] > img[src="/static/img/adsfree.png"])
 http://sina.com.cn##:not(.BigPic) > a[href*="sax.sina.com.cn/click?"]
 http://www.wpdaxue.com##:not(.post-thumbnail) > a[target="_blank"] > img
@@ -27862,12 +27868,12 @@ http://baike567.com,wuhaozhan.net#?#:-abp-has(> .ad_top_close)
 http://baike567.com,wuhaozhan.net##div[class*="main-righ"] iframe
 http://baike567.com,wuhaozhan.net##div[class^="hongbao"]
 http://baike567.com,wuhaozhan.net##div[id$="eBox"]
+http://zhangxinxu.com##.sldebar_out + *,style[id] + a[class]
 http://zhangxinxu.com##a[href*=".mawen."]
 http://zhangxinxu.com##a[href*=".url.cn/"]
 http://zhangxinxu.com##a[href*="datayi.cn"]
 http://zhangxinxu.com##a[href^="http://dwz.date/"]
 http://zhangxinxu.com##article > .link + :not(p)
-http://zhangxinxu.com##style[id] + a[class]
 http://zol.com.cn###downloadTop
 http://zol.com.cn###downloader_main1
 http://zol.com.cn###nowDown

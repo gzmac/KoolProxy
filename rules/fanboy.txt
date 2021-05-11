@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: s9LwZh+avPVbLVMkw29yNw
-! Version: 202105100000
+! Checksum: J5aKfo60qLQ/M4u7bPO7AQ
+! Version: 202105110000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-10 00:00 UTC
+! Last modified: 2021-05-11 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -9950,6 +9950,7 @@ https://cheddar.com##div[class^="notificationBanner"]
 https://listen.tidal.com##div[class^="notificationWrapper--"]
 https://deliveroo.ie##div[class^="orderweb__"]
 https://buffer.com##div[class^="style__Banner-"]
+https://kdanmobile.com##div[class^="styled__ContentWrapper-"]
 https://tunein.com##div[class^="violator__container"]
 https://youtube.com##div[class^="ytd-consent"]
 https://patreon.com##div[data-tag="cookie-disclosure"]
@@ -12277,6 +12278,7 @@ https://dplay.fi##div[class^="notification"]
 https://scandinavianphoto.fi##div[style="opacity: 1; height: 77px;"]
 https://linnunrata.org##div[style^="position:fixed;right:0;top:0;"]
 https://heal-link.gr###alert
+https://global.bible###root > .eYGQDi
 https://hmerologio.gr###sid-container
 https://news247.gr##.cookie
 https://novasports.gr##.cookies
@@ -20941,6 +20943,7 @@ http://cheddar.com##div[class^="notificationBanner"]
 http://listen.tidal.com##div[class^="notificationWrapper--"]
 http://deliveroo.ie##div[class^="orderweb__"]
 http://buffer.com##div[class^="style__Banner-"]
+http://kdanmobile.com##div[class^="styled__ContentWrapper-"]
 http://tunein.com##div[class^="violator__container"]
 http://youtube.com##div[class^="ytd-consent"]
 http://patreon.com##div[data-tag="cookie-disclosure"]
@@ -23269,6 +23272,7 @@ http://dplay.fi##div[class^="notification"]
 http://scandinavianphoto.fi##div[style="opacity: 1; height: 77px;"]
 http://linnunrata.org##div[style^="position:fixed;right:0;top:0;"]
 http://heal-link.gr###alert
+http://global.bible###root > .eYGQDi
 http://hmerologio.gr###sid-container
 http://news247.gr##.cookie
 http://novasports.gr##.cookies
