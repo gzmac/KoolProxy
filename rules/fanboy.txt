@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: J5aKfo60qLQ/M4u7bPO7AQ
-! Version: 202105110000
+! Checksum: tyHM0J3R7MoKgO71Nxu6rQ
+! Version: 202105120000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-11 00:00 UTC
+! Last modified: 2021-05-12 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4707,6 +4707,7 @@ https://thesun.co.uk##.chicklet-bottom
 https://huffpost.com##.chicklets_box_outter_v05
 https://laweekly.com##.chisel_u.r_box.readersrail
 https://convertio.co##.chrome-app
+https://meet.jit.si##.chrome-extension-banner
 https://todayshow.com##.chrome_footer
 https://crooksandliars.com##.cl-nav-prevnext-link
 https://crooksandliars.com##.cl_misc-mailchimp
@@ -9719,6 +9720,7 @@ https://gameleap.com##.ng-trigger-appLoad.ng-tns-c1-1
 https://netjetseurope.com##.nj-header-prompt
 https://nianticlabs.com,pokemongolive.com##.nl-cpb
 https://xing-news.com##.no-cookie
+https://psychcentral.com##.no-hash
 https://blogfree.net##.note
 https://brightree.com,cgtrader.com,cortesdecima.com,dialight.com,discordapp.com,dotmailer.com,exposition-osiris.com,keenfootwear.com,medicalxpress.com,outsideonline.com,phys.org,shire.com,techxplore.com,ubuntu18.com##.notice
 https://anime2enjoy.com##.notice-board
@@ -13663,7 +13665,7 @@ https://pekao.com.pl#@##gdpr-popup
 https://mirjan24.pl#@##gdpr:not(body):not(html)
 https://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@##gdpr_popin
 https://taloon.com#@##gdprpopup
-https://ansa.it,capital.it,huffingtonpost.it,m2o.it,rockol.it,video.deejay.it,video.espresso.repubblica.it,video.ilsecoloxix.it,video.lanuovasardegna.it,video.lastampa.it,video.rep.repubblica.it,video.repubblica.it#@##iubenda-cs-banner
+https://ansa.it,capital.it,huffingtonpost.it,m2o.it,meteo.it,rockol.it,video.deejay.it,video.espresso.repubblica.it,video.ilsecoloxix.it,video.lanuovasardegna.it,video.lastampa.it,video.rep.repubblica.it,video.repubblica.it#@##iubenda-cs-banner
 https://krone.at#@##krn-privacy-center
 https://bosch-mobility-solutions.com#@##m-cookie-overlay
 https://imoradar24.ro#@##modal-cookies
@@ -15699,6 +15701,7 @@ http://thesun.co.uk##.chicklet-bottom
 http://huffpost.com##.chicklets_box_outter_v05
 http://laweekly.com##.chisel_u.r_box.readersrail
 http://convertio.co##.chrome-app
+http://meet.jit.si##.chrome-extension-banner
 http://todayshow.com##.chrome_footer
 http://crooksandliars.com##.cl-nav-prevnext-link
 http://crooksandliars.com##.cl_misc-mailchimp
@@ -20712,6 +20715,7 @@ http://gameleap.com##.ng-trigger-appLoad.ng-tns-c1-1
 http://netjetseurope.com##.nj-header-prompt
 http://nianticlabs.com,pokemongolive.com##.nl-cpb
 http://xing-news.com##.no-cookie
+http://psychcentral.com##.no-hash
 http://blogfree.net##.note
 http://brightree.com,cgtrader.com,cortesdecima.com,dialight.com,discordapp.com,dotmailer.com,exposition-osiris.com,keenfootwear.com,medicalxpress.com,outsideonline.com,phys.org,shire.com,techxplore.com,ubuntu18.com##.notice
 http://anime2enjoy.com##.notice-board
@@ -24657,7 +24661,7 @@ http://pekao.com.pl#@##gdpr-popup
 http://mirjan24.pl#@##gdpr:not(body):not(html)
 http://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@##gdpr_popin
 http://taloon.com#@##gdprpopup
-http://ansa.it,capital.it,huffingtonpost.it,m2o.it,rockol.it,video.deejay.it,video.espresso.repubblica.it,video.ilsecoloxix.it,video.lanuovasardegna.it,video.lastampa.it,video.rep.repubblica.it,video.repubblica.it#@##iubenda-cs-banner
+http://ansa.it,capital.it,huffingtonpost.it,m2o.it,meteo.it,rockol.it,video.deejay.it,video.espresso.repubblica.it,video.ilsecoloxix.it,video.lanuovasardegna.it,video.lastampa.it,video.rep.repubblica.it,video.repubblica.it#@##iubenda-cs-banner
 http://krone.at#@##krn-privacy-center
 http://bosch-mobility-solutions.com#@##m-cookie-overlay
 http://imoradar24.ro#@##modal-cookies
