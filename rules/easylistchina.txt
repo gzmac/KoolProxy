@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: FAmkG2eE0m0gKKj2n45Ilw
-! Version: 202105120032
+! Checksum: pCUVoyVWi7i7TMulKWZlTQ
+! Version: 202105130042
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -5551,7 +5551,6 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
-||http://pcshuju.com^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://008844.cc^
@@ -7028,6 +7027,7 @@
 ||http://papa999.xyz^
 ||http://parisianmacao.bet^
 ||http://pcmzn.com^
+||http://pcshuju.com^
 ||http://pdsjycm.com^
 ||http://pedailyu.com^
 ||http://penxiangge.com^
@@ -12622,7 +12622,6 @@
 ||http://avgle.topgirlsdating.com^$domain=avgle.com
 ||http://jads.co^$domain=avgle.com
 ||http://olmsoneenh.info^$domain=avgle.com
-||http://wenwen120.com^
 ||http://003store.com^
 ||http://0512s.com^$third-party
 ||http://1.01fy.cn^
@@ -13286,6 +13285,7 @@
 ||http://web8.net^$third-party
 ||http://wenhua.jiaoshou.com^
 ||http://wenshenbang.com^$third-party
+||http://wenwen120.com^
 ||http://whfpbc.99.com.cn^
 ||http://wj.jiancai365.cn^
 ||http://wm.mipcdn.com^
@@ -13620,6 +13620,7 @@
 ||http://adrian.net.cn^
 ||http://aduic.com^
 ||http://affiliate6.com^
+||http://agjy6.com^
 ||http://agpligj.cn^
 ||http://ah808.com^
 ||http://ahidna.cn^
@@ -14556,6 +14557,7 @@
 ||http://mydownba.com^
 ||http://mysty.com.cn^
 ||http://myyxapp.com^$third-party
+||http://mzbb8872.cn^
 ||http://mzirmall.com^
 ||http://n18uji.xyz^
 ||http://nabeghlavi.com.cn^
@@ -14785,6 +14787,7 @@
 ||http://sdajxz.xyz^
 ||http://sdalxz.xyz^
 ||http://sdfjtwp.com^
+||http://sdweldrobot.cn^
 ||http://sdytsh.com^
 ||http://seawayz.com.cn^
 ||http://sec-cloud.cn^
@@ -16052,7 +16055,6 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://6090ba.com##.vdgd + a
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -19973,6 +19975,7 @@ https://tzfile.com##.vad
 https://douyu.com##.vcode9-sign
 https://poxiaotv.com##.vdbto,.qptp + a,[onclick],.qpgdo
 https://ahuys.cc,taoziba.cc##.vddb + a
+https://6090ba.com##.vdgd + a
 https://vgtime.com##.vgart_top
 https://lenovo.com.cn##.video
 https://av.movie##.video-banner
@@ -22454,7 +22457,6 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://6090ba.com##.vdgd + a
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -26376,6 +26378,7 @@ http://tzfile.com##.vad
 http://douyu.com##.vcode9-sign
 http://poxiaotv.com##.vdbto,.qptp + a,[onclick],.qpgdo
 http://ahuys.cc,taoziba.cc##.vddb + a
+http://6090ba.com##.vdgd + a
 http://vgtime.com##.vgart_top
 http://lenovo.com.cn##.video
 http://av.movie##.video-banner
