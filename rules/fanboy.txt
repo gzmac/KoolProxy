@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FIExSlcKIdnZsj42i/jVvA
-! Version: 202105130050
+! Checksum: 2Qc6b8a49NoO1Ywe7SF5rA
+! Version: 202105140050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-13 00:50 UTC
+! Last modified: 2021-05-14 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -430,6 +430,7 @@
 ||https://jubi.ai/buttonbot/$script,third-party
 ||https://krakenoptimize.com^$third-party
 ||https://luravius.com^$third-party
+||https://mab.mediaset.es^$xmlhttprequest
 ||https://news2day.me^$third-party
 ||https://notification-time.com^$third-party
 ||https://ntvsw.com^$third-party
@@ -615,6 +616,7 @@
 ||https://dailymotion.com/badge/user/$third-party
 ||https://digg.com^$script,subdocument,third-party
 ||https://diggstatic.com^*/follow_buttons/
+||https://digitiminimi.com^$third-party
 ||https://encrypted-tbn2.gstatic.com/images?
 ||https://fark.com^$script,third-party
 ||https://feedly.com/img/follows/$third-party
@@ -1343,6 +1345,7 @@
 ||https://gmx.fr/uim/bidding/consent.js
 ||https://jeu.video^*/partners.js
 ||https://thesiteoueb.net/js/cm-head.js
+||https://var.uicdn.net/shopsshort/privacy/v1/bundle.
 ||https://styria.hr^*/cookies.min.js
 ||https://tv2a.dk/consent/
 ||https://tv2a.dk/oil.
@@ -1820,6 +1823,7 @@
 ||http://jubi.ai/buttonbot/$script,third-party
 ||http://krakenoptimize.com^$third-party
 ||http://luravius.com^$third-party
+||http://mab.mediaset.es^$xmlhttprequest
 ||http://news2day.me^$third-party
 ||http://notification-time.com^$third-party
 ||http://notification.tubecup.net^
@@ -2010,6 +2014,7 @@
 ||http://dailymotion.com/badge/user/$third-party
 ||http://digg.com^$script,subdocument,third-party
 ||http://diggstatic.com^*/follow_buttons/
+||http://digitiminimi.com^$third-party
 ||http://encrypted-tbn2.gstatic.com/images?$domain=vitorrent.org
 ||http://fark.com^$script,third-party
 ||http://feedly.com/img/follows/$third-party
@@ -2800,6 +2805,7 @@
 ||http://gmx.fr/uim/bidding/consent.js
 ||http://jeu.video^*/partners.js
 ||http://thesiteoueb.net/js/cm-head.js
+||http://var.uicdn.net/shopsshort/privacy/v1/bundle.
 ||http://styria.hr^*/cookies.min.js
 ||http://tv2a.dk/consent/
 ||http://tv2a.dk/oil.
@@ -3979,6 +3985,7 @@ https://favbrowser.com,iphoneincanada.ca###related
 https://pcmag.com###related-container
 https://sfist.com###related-module
 https://mtv.com,nextmovie.com###related-post
+https://girlonthenet.com###related-posts > div
 https://boston.com###relatedContent
 https://merchantcircle.com###relatedPopupBlock
 https://cafemom.com###relatedStories
@@ -5152,6 +5159,7 @@ https://askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackov
 https://hotukdeals.com##.js-keyword-alerts
 https://wired.com##.js-prefooter-rad
 https://medium.com##.js-promoCardWrapper
+https://euronews.com##.js-swiper-button
 https://avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_commerce-inset-permalink
 https://haaretz.com##.jumping-jack-wrapper
 https://itwire.com##.jwDisqusArticleCounter
@@ -7519,6 +7527,7 @@ https://japantimes.co.jp##.pagetop-wrap
 https://oki.com##.pagetopInner
 https://simpleflying.com##.pk-icon-up
 https://sexuria.com##.pull-right
+https://muslimshop.fr##.return-top
 https://communist-party.org.uk##.rt-totop
 https://nexusmods.com##.scroll
 https://thehill.com##.scroll-down-to-next
@@ -9703,6 +9712,7 @@ https://oranum.com##.modal-inner
 https://digimobil.es##.modal-overlay
 https://barclays.net##.modal-pecr
 https://usnews.com##.modal-window
+https://sekwens.com##.module-abovebox
 https://motorsport.com##.ms-footer-messages
 https://motorsport.com##.ms-header-messages
 https://faapy.com##.msg
@@ -9892,6 +9902,7 @@ https://etletstalk.com##.ulp-window-top-center
 https://tcm.com##.universal-footer__ribbon
 https://anisearch.com##.urgent-msg
 https://cnn.com,liveuamap.com##.user-msg
+https://shine.cn##.user-terms-hint
 https://fxsolver.com##.userMessage
 https://arksurvivalevolved.zone##.userNotice
 https://fontspring.com##.user_notice
@@ -11564,6 +11575,8 @@ https://mediafax.ro##.OptionBar
 https://newsweek.ro##.icons
 https://autoline.ro##.share
 https://capital.ro,europages.ro##.social
+https://avtosale.ua###backgroundPopup
+https://avtosale.ua###popup
 https://donpatriot.news##.wrapper__search
 https://ntv.ru###bottomsoc
 https://dnr-online.ru###footsoc
@@ -12270,6 +12283,7 @@ https://blogit.fi,ilmainensanakirja.fi,telsu.fi##.cookies
 https://matkahuolto.fi##.css-jlvvqa
 https://ifolor.fi##.dialogBanner--align-bottom
 https://vr.fi##.headerContents > .infoMessages
+https://timma.fi##.modal-backdrop.in
 https://lidl.fi,pelit.fi,telia.fi##.notification
 https://helmet.fi##.notifier_warning
 https://suomi24.fi##.s24_cc_banner-wrapper
@@ -13379,6 +13393,7 @@ https://ida2at.com#@#.share-holder
 https://app.degoo.com,app.sococo.com,iherb.com,vimeo.com#@#.share-icon
 https://app.degoo.com#@#.share-icon-container
 https://1ab.ru,dikidi.net,golem.de,tumblr.com#@#.share-item
+https://r-ulybka.ru#@#.share-item-container
 https://vimeo.com#@#.share-label
 https://recite.com#@#.share-left
 https://askubuntu.com,baidu.com,broadcast.app.net,dubox.com,imgur.com,kuechenstud.io,logbuch-netzpolitik.de,mammothhq.com,mathoverflow.net,minkorrekt.de,openstreetmap.org,pinksluts.com,pomponik.pl,sale.aliexpress.com,serverfault.com,stackapps.com,stackexchange.com,stackoverflow.com,superuser.com,yadi.sk,yandex.com,yandex.com.tr,yandex.ru,yandex.ua#@#.share-link
@@ -13681,6 +13696,7 @@ https://dcinside.com,totalwar.com#@##privacy_policy
 https://repostuj.pl#@##rodo-modal
 https://forgeandfortune.com#@##toasts > #toastsWrapper
 https://litebit.eu#@#.CookieConsent
+https://what3words.com#@#.CookieNotice-Drawer
 https://boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz#@#.Cookies
 https://bancaifis.it#@#.Cookies:not(body)
 https://telegraaf.nl#@#.CookiesOK
@@ -13849,6 +13865,7 @@ https://atutszkola.pl,meethue.com,mydziewczyny.pl,philips-hue.com,philips.ae,phi
 https://mymuesli.com#@#cookies_consent
 https://litebit.eu#@#div[class*="CookieConsent"]
 https://telenor.se#@#div[class*="cookie-consent-modal_"]
+https://what3words.com#@#div[class^="CookieNotice"]
 https://ee.co.uk,monese.com,ukvcas.co.uk#@#div[class^="cookie-banner"]
 https://dovoba.de#@#div[class^="cookie-consent_"]
 https://coolblue.be#@#div[class^="cookie-notification_"]
@@ -14973,6 +14990,7 @@ http://favbrowser.com,iphoneincanada.ca###related
 http://pcmag.com###related-container
 http://sfist.com###related-module
 http://mtv.com,nextmovie.com###related-post
+http://girlonthenet.com###related-posts > div
 http://boston.com###relatedContent
 http://merchantcircle.com###relatedPopupBlock
 http://cafemom.com###relatedStories
@@ -16146,6 +16164,7 @@ http://askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackove
 http://hotukdeals.com##.js-keyword-alerts
 http://wired.com##.js-prefooter-rad
 http://medium.com##.js-promoCardWrapper
+http://euronews.com##.js-swiper-button
 http://avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_commerce-inset-permalink
 http://haaretz.com##.jumping-jack-wrapper
 http://itwire.com##.jwDisqusArticleCounter
@@ -18513,6 +18532,7 @@ http://japantimes.co.jp##.pagetop-wrap
 http://oki.com##.pagetopInner
 http://simpleflying.com##.pk-icon-up
 http://sexuria.com##.pull-right
+http://muslimshop.fr##.return-top
 http://communist-party.org.uk##.rt-totop
 http://nexusmods.com##.scroll
 http://thehill.com##.scroll-down-to-next
@@ -20698,6 +20718,7 @@ http://oranum.com##.modal-inner
 http://digimobil.es##.modal-overlay
 http://barclays.net##.modal-pecr
 http://usnews.com##.modal-window
+http://sekwens.com##.module-abovebox
 http://motorsport.com##.ms-footer-messages
 http://motorsport.com##.ms-header-messages
 http://faapy.com##.msg
@@ -20887,6 +20908,7 @@ http://etletstalk.com##.ulp-window-top-center
 http://tcm.com##.universal-footer__ribbon
 http://anisearch.com##.urgent-msg
 http://cnn.com,liveuamap.com##.user-msg
+http://shine.cn##.user-terms-hint
 http://fxsolver.com##.userMessage
 http://arksurvivalevolved.zone##.userNotice
 http://fontspring.com##.user_notice
@@ -22559,6 +22581,8 @@ http://mediafax.ro##.OptionBar
 http://newsweek.ro##.icons
 http://autoline.ro##.share
 http://capital.ro,europages.ro##.social
+http://avtosale.ua###backgroundPopup
+http://avtosale.ua###popup
 http://donpatriot.news##.wrapper__search
 http://ntv.ru###bottomsoc
 http://dnr-online.ru###footsoc
@@ -23266,6 +23290,7 @@ http://blogit.fi,ilmainensanakirja.fi,telsu.fi##.cookies
 http://matkahuolto.fi##.css-jlvvqa
 http://ifolor.fi##.dialogBanner--align-bottom
 http://vr.fi##.headerContents > .infoMessages
+http://timma.fi##.modal-backdrop.in
 http://lidl.fi,pelit.fi,telia.fi##.notification
 http://helmet.fi##.notifier_warning
 http://suomi24.fi##.s24_cc_banner-wrapper
@@ -24375,6 +24400,7 @@ http://ida2at.com#@#.share-holder
 http://app.degoo.com,app.sococo.com,iherb.com,vimeo.com#@#.share-icon
 http://app.degoo.com#@#.share-icon-container
 http://1ab.ru,dikidi.net,golem.de,tumblr.com#@#.share-item
+http://r-ulybka.ru#@#.share-item-container
 http://vimeo.com#@#.share-label
 http://recite.com#@#.share-left
 http://askubuntu.com,baidu.com,broadcast.app.net,dubox.com,imgur.com,kuechenstud.io,logbuch-netzpolitik.de,mammothhq.com,mathoverflow.net,minkorrekt.de,openstreetmap.org,pinksluts.com,pomponik.pl,sale.aliexpress.com,serverfault.com,stackapps.com,stackexchange.com,stackoverflow.com,superuser.com,yadi.sk,yandex.com,yandex.com.tr,yandex.ru,yandex.ua#@#.share-link
@@ -24677,6 +24703,7 @@ http://dcinside.com,totalwar.com#@##privacy_policy
 http://repostuj.pl#@##rodo-modal
 http://forgeandfortune.com#@##toasts > #toastsWrapper
 http://litebit.eu#@#.CookieConsent
+http://what3words.com#@#.CookieNotice-Drawer
 http://boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz#@#.Cookies
 http://bancaifis.it#@#.Cookies:not(body)
 http://telegraaf.nl#@#.CookiesOK
@@ -24845,6 +24872,7 @@ http://atutszkola.pl,meethue.com,mydziewczyny.pl,philips-hue.com,philips.ae,phil
 http://mymuesli.com#@#cookies_consent
 http://litebit.eu#@#div[class*="CookieConsent"]
 http://telenor.se#@#div[class*="cookie-consent-modal_"]
+http://what3words.com#@#div[class^="CookieNotice"]
 http://ee.co.uk,monese.com,ukvcas.co.uk#@#div[class^="cookie-banner"]
 http://dovoba.de#@#div[class^="cookie-consent_"]
 http://coolblue.be#@#div[class^="cookie-notification_"]

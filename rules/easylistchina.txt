@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: pCUVoyVWi7i7TMulKWZlTQ
-! Version: 202105130042
+! Checksum: vBMkl9NpLZTvJW0r+/VP9Q
+! Version: 202105140042
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4833,6 +4833,7 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://alicdn.com/kf/Ue69786430095482ba55b38ae31ee44e7I.jpg
 ||https://17ce.com^*_$image
 ||https://69t49.com/floating/layer.js
 ||https://alicdn.com/img/ibank/*_!!2210231227621-0-cib.
@@ -12594,6 +12595,7 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://alicdn.com/kf/Ue69786430095482ba55b38ae31ee44e7I.jpg
 ||http://17ce.com^*_$image
 ||http://3336672.com^
 ||http://3337729.com^
@@ -12898,6 +12900,7 @@
 ||http://c.mnjkw.cn^
 ||http://c.tvsou.com^
 ||http://c1.4qx.net^
+||http://c1.chajiaotong.com^
 ||http://c1.china.cn^
 ||http://c6.friok.com^
 ||http://ca.cydp5.com^
@@ -14134,6 +14137,7 @@
 ||http://gzzena.com^
 ||http://h4kdxs.com^
 ||http://haichengdzsp.com^
+||http://haishengwh123.cn^
 ||http://haiyinsiwang.com^
 ||http://hanmiyong.com^
 ||http://hanqingstudio.com^
@@ -14906,6 +14910,7 @@
 ||http://themaxmall.com^
 ||http://themee.cn^
 ||http://thindsoo.cn^
+||http://this-is-living.cn^
 ||http://tiandihui9450.top^
 ||http://tianhuafund.cn^
 ||http://tiankongzudui.com^
@@ -19396,6 +19401,7 @@ https://pcstore.com.tw##.priority1
 https://pcstore.com.tw##.priority_ad
 https://10fang.com##.pro-item
 https://duba.com,newduba.cn##.pro_r_t
+https://hao123.com##.product-banner-wrap
 https://meltoday.com,sydneytoday.com##.promo
 https://brtn.cn,btime.com##.promo-item > a[href^="http"]:not([href*=".b"])
 https://agmov.com,huaban.com##.promotion
@@ -19571,6 +19577,7 @@ https://stheadline.com##.section-popular
 https://tiboo.cn##.sectionAd
 https://romzj.com##.sectionThree
 https://brtn.cn,btime.com##.seed-item
+https://jianshu.com##.self-flow-ad
 https://zealer.com##.series_app
 https://wenku.baidu.com##.service-entry
 https://hoteastday.com##.sessionSub
@@ -20534,6 +20541,7 @@ https://weibo.com##div[ad-data]
 https://toutiao.com##div[ad_name]
 https://fx168.com##div[adisload]
 https://tw.stock.yahoo.com##div[align="center"][style="height:90px"]
+https://hao123.com##div[alog-alias="hot-goods"]
 https://zongheng.com##div[alog-group="index_04_game"]
 https://anjuke.com##div[class$="-ad"]
 https://elecinfo.com##div[class$="-advert"]
@@ -25798,6 +25806,7 @@ http://pcstore.com.tw##.priority1
 http://pcstore.com.tw##.priority_ad
 http://10fang.com##.pro-item
 http://duba.com,newduba.cn##.pro_r_t
+http://hao123.com##.product-banner-wrap
 http://meltoday.com,sydneytoday.com##.promo
 http://brtn.cn,btime.com##.promo-item > a[href^="http"]:not([href*=".b"])
 http://agmov.com,huaban.com##.promotion
@@ -25974,6 +25983,7 @@ http://stheadline.com##.section-popular
 http://tiboo.cn##.sectionAd
 http://romzj.com##.sectionThree
 http://brtn.cn,btime.com##.seed-item
+http://jianshu.com##.self-flow-ad
 http://zealer.com##.series_app
 http://wenku.baidu.com##.service-entry
 http://hoteastday.com##.sessionSub
@@ -26938,6 +26948,7 @@ http://weibo.com##div[ad-data]
 http://toutiao.com##div[ad_name]
 http://fx168.com##div[adisload]
 http://tw.stock.yahoo.com##div[align="center"][style="height:90px"]
+http://hao123.com##div[alog-alias="hot-goods"]
 http://zongheng.com##div[alog-group="index_04_game"]
 http://anjuke.com##div[class$="-ad"]
 http://elecinfo.com##div[class$="-advert"]
