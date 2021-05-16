@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +3swxGt2ftUrR2JjtrLN2A
-! Version: 202105150050
+! Checksum: pBhsY9QdV+aTan/RtmNv7w
+! Version: 202105160050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-15 00:50 UTC
+! Last modified: 2021-05-16 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -870,6 +870,7 @@
 ||https://d.yimg.com/ds/badge2.js
 ||https://dailymaverick.co.za/images/iabsa.png
 ||https://data.indianexpress.com/iframes/covid-19.html
+||https://designtaxi.com/css/remodal.css
 ||https://easytutoriel.com/wp-content/themes/easytutoriel-10-1/js/scripts.js
 ||https://eatout.co.za^*/iab-
 ||https://emailsherlock.com/javascripts/lightbox.js
@@ -2281,6 +2282,7 @@
 ||http://d.yimg.com/ds/badge2.js
 ||http://dailymaverick.co.za/images/iabsa.png
 ||http://data.indianexpress.com/iframes/covid-19.html
+||http://designtaxi.com/css/remodal.css
 ||http://easytutoriel.com/wp-content/themes/easytutoriel-10-1/js/scripts.js
 ||http://eatout.co.za^*/iab-
 ||http://emailsherlock.com/javascripts/lightbox.js
@@ -6174,6 +6176,7 @@ https://firecold.com##table[style="margin: 30px 0 0 0"]
 https://briefing.com##table[style="vertical-align: top; text-align: left;\a \9             background-color: White; width: 100%; padding: 10px;"]
 https://osnews.com##table[width="285"]
 https://finestdaily.com##table[width="642"]
+https://designtaxi.com###fancybar_link
 https://alternet.org###kindest-container
 https://insidethegames.biz###top-story-alert
 https://theweek.com###us77-test
@@ -6422,7 +6425,7 @@ https://conversationalist.org,martechadvisor.com,worldcrunch.com###myModal
 https://insideclimatenews.org###news-signup
 https://epicurious.com###newsLetter
 https://irishtimes.com###newsdigest-widget
-https://6wunderkinder.com,7digital.com,aawsat.com,about.com,bloomberg.com,boldsky.com,buzznet.com,celebuzz.com,cjr.org,codefresh.io,dailymaverick.co.za,digitaltrends.com,disclose.tv,download3k.com,drivespark.com,etonline.com,filmibeat.com,fyiliving.com,gardeningaustralia.com.au,gizbot.com,healthguru.com,infoworld.com,langenscheidt.com,lessthan3.com,malwarebytes.org,mayoclinic.com,mcvuk.com,mediaite.com,movies.com,nativeplanet.com,nme.com,ohmyrockness.com,oneindia.com,opendemocracy.net,paleohacks.com,penny-arcade.com,pewforum.org,pewresearch.org,pinknews.co.uk,publicradio.org,quantamagazine.org,runningtimes.com,salemnews.net,si.com,styleite.com,techvert.com,theamericanscholar.org,thecommentator.com,themarysue.com,thetruthaboutcars.com,thewalrus.ca,tomshardware.com,usatoday.com,vetstreet.com,wdcb.org,wimp.com,youbeauty.com###newsletter
+https://6wunderkinder.com,7digital.com,aawsat.com,about.com,bloomberg.com,boldsky.com,buzznet.com,celebuzz.com,cjr.org,codefresh.io,dailymaverick.co.za,digitaltrends.com,disclose.tv,download3k.com,drivespark.com,etonline.com,filmibeat.com,fyiliving.com,gardeningaustralia.com.au,gizbot.com,healthguru.com,infoworld.com,israelnationalnews.com,langenscheidt.com,lessthan3.com,malwarebytes.org,mayoclinic.com,mcvuk.com,mediaite.com,movies.com,nativeplanet.com,nme.com,ohmyrockness.com,oneindia.com,opendemocracy.net,paleohacks.com,penny-arcade.com,pewforum.org,pewresearch.org,pinknews.co.uk,publicradio.org,quantamagazine.org,runningtimes.com,salemnews.net,si.com,styleite.com,techvert.com,theamericanscholar.org,thecommentator.com,themarysue.com,thetruthaboutcars.com,thewalrus.ca,tomshardware.com,usatoday.com,vetstreet.com,wdcb.org,wimp.com,youbeauty.com###newsletter
 https://details.com,gossipcop.com,gq.com,salon.com,self.com,soft112.com###newsletter-form
 https://wbur.org###newsletter-signup-1
 https://hardware.info###newsletterForm
@@ -9195,6 +9198,7 @@ https://mapal.com###ctrlck
 https://droidchart.com,routerchart.com###cw
 https://dexigner.com###cwarn
 https://wsj.com###cx-notification
+https://crecipe.com###cxcx
 https://racquetballwarehouse.com,rogerfederer.com,tenniswarehouse-europe.com###data_protection
 https://corso-saunamanufaktur.com,schaeffler.com###dataprotection
 https://debenhams.com###debCNwrap
@@ -10280,7 +10284,7 @@ https://asiatv.cc##.pushmenu_modal
 https://iwaatch.com##.s-up
 https://fakartany.com##.sign-up
 https://alhurra.com##.subscribe
-https://alhayat.tv##.subscription
+https://alhayat.tv,alquds.co.uk##.subscription
 https://hamas.ps##.top
 https://youm7.com##.topTop
 https://dz-algerie.info##a[href="#top"]
@@ -12002,6 +12006,7 @@ https://cartezero.fr,france.tv,grillofrance.fr,havas-voyages.fr,le1hebdo.fr,mate
 https://4clik.com,arlestourisme.com,brain-magazine.fr,cer-eau.fr,colissimo.fr,edcom.fr,enmark2.com,feuvert.fr,gentside.com,gretel-box.com,jackpot-des-experts.fr,jules.com,laposte.fr,logistafrance.fr,lumiglobal.fr,maxisciences.com,my-meteo.com,mybiclighter.com,ohmymag.com,secu-independants.fr,showroomprive.com,solutions-numeriques.com,tourtel-twist.fr,ville-ideale.com,ville-ideale.fr,viously.com###cookies
 https://mediametrie.fr###cooks
 https://listesdemots.com###cp
+https://recettes100.fr###cxcx
 https://makita.fr###disclaimer
 https://docteurclic.com###disclamer
 https://unex.net###disclosure
@@ -12200,6 +12205,7 @@ https://forum.snsbank.nl###consentdiv
 https://groningenwoontslim.nl,legebatterijen.nl###cookie
 https://freemeteo.nl,mariniersmuseum.nl,nmm.nl###cookies
 https://molecaten.nl###cookies_modal
+https://recepten100.nl###cxcx
 https://clubheldvanhetjaar.nl###did376362
 https://t-mobile.nl###exposeMask
 https://mobil-1.nl###fancybox-overlay
@@ -12412,9 +12418,10 @@ https://telea1.it###cooky_content
 https://majani.it###cs-banner
 https://netflixlovers.it###cs_container
 https://staffettaonline.com###ctl00_CtrlLogAbbonato1_cookiealert
+https://ricette100.it###cxcx
 https://sardegna1.tv###dcb-black-screen
 https://ilfruttarolo.it###decretopr
-https://inartek.it###discl
+https://chicucina.it,inartek.it###discl
 https://nau.it###disclaimer
 https://corner.ch,cornertrader.ch###disclaimer-alert
 https://amref.it###divCk
@@ -12645,6 +12652,7 @@ https://adequate.pl,alltube.tv,aquila.pl,auchan.pl,bankmillennium.pl,bioliq.pl,c
 https://drony.net,gadzetomania.pl,komorkomania.pl,otabletach.pl###cop
 https://polskatimes.pl,strefabiznesu.pl###cross-dialog
 https://federacja-konsumentow.org.pl###cu_bar
+https://przepisy100.pl###cxcx
 https://amundi.pl###disclaimer
 https://kinonh.pl###div_ac
 https://reactor.pl###einfo
@@ -12828,6 +12836,7 @@ https://portugalglobal.pt###barramensagem
 https://cliper.pt###cook
 https://gentside.com.br###cookie
 https://fidelidade.pt,ren.pt###cookies
+https://receitas100.pt###cxcx
 https://rtp.pt###rtpgeralcookiecontent
 https://cmjornal.pt,jornaldenegocios.pt###termos
 https://xalingo.com.br###wrng-agrmnt
@@ -12898,6 +12907,7 @@ https://infiniti.co.rs##.c_128
 https://lidl.rs##.notification
 https://siea.sk###cac
 https://digitel.sk###cookies
+https://receptnajedlo.sk###cxcx
 https://etrend.sk###disclaimer
 https://hpobchod.sk###hpmGmtT
 https://akcneletaky.sk###infoCoo
@@ -12963,6 +12973,7 @@ https://blogcindario.com,mforos.com##body > div[id][class]
 https://recepedia.com##div[style^="position: fixed; top:"]
 https://kb.se,skanetrafiken.se###cookie
 https://hkr.se,inscale.se###cookies
+https://recept100.se###cxcx
 https://v6.se###layer
 https://strandhotel.se###mb_modules_popups_Container
 https://electrokit.com###top-bar
@@ -13368,7 +13379,7 @@ https://needlenthread.com#@#.pinterest1
 https://pinterest.com#@#.pinterestComponentShare
 https://marieclaire.ru#@#.pinterestShare
 https://privatecore.com#@#.post-fb
-https://23-59.com.ua,dietetycy.org.pl,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,pruszkow.pl,thewire.in,tidssonen.no,truepundit.com,vanillamagazine.it,velodaily.ru#@#.post-share-container
+https://23-59.com.ua,dietetycy.org.pl,freerider.ro,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,pruszkow.pl,thewire.in,tidssonen.no,truepundit.com,vanillamagazine.it,velodaily.ru#@#.post-share-container
 https://imgur.com#@#.post-share-panel
 https://reddit.com#@#.post-sharing
 https://ain.ua,guildwars2.com#@#.post-social
@@ -17182,6 +17193,7 @@ http://firecold.com##table[style="margin: 30px 0 0 0"]
 http://briefing.com##table[style="vertical-align: top; text-align: left;\a \9             background-color: White; width: 100%; padding: 10px;"]
 http://osnews.com##table[width="285"]
 http://finestdaily.com##table[width="642"]
+http://designtaxi.com###fancybar_link
 http://alternet.org###kindest-container
 http://insidethegames.biz###top-story-alert
 http://theweek.com###us77-test
@@ -17430,7 +17442,7 @@ http://conversationalist.org,martechadvisor.com,worldcrunch.com###myModal
 http://insideclimatenews.org###news-signup
 http://epicurious.com###newsLetter
 http://irishtimes.com###newsdigest-widget
-http://6wunderkinder.com,7digital.com,aawsat.com,about.com,bloomberg.com,boldsky.com,buzznet.com,celebuzz.com,cjr.org,codefresh.io,dailymaverick.co.za,digitaltrends.com,disclose.tv,download3k.com,drivespark.com,etonline.com,filmibeat.com,fyiliving.com,gardeningaustralia.com.au,gizbot.com,healthguru.com,infoworld.com,langenscheidt.com,lessthan3.com,malwarebytes.org,mayoclinic.com,mcvuk.com,mediaite.com,movies.com,nativeplanet.com,nme.com,ohmyrockness.com,oneindia.com,opendemocracy.net,paleohacks.com,penny-arcade.com,pewforum.org,pewresearch.org,pinknews.co.uk,publicradio.org,quantamagazine.org,runningtimes.com,salemnews.net,si.com,styleite.com,techvert.com,theamericanscholar.org,thecommentator.com,themarysue.com,thetruthaboutcars.com,thewalrus.ca,tomshardware.com,usatoday.com,vetstreet.com,wdcb.org,wimp.com,youbeauty.com###newsletter
+http://6wunderkinder.com,7digital.com,aawsat.com,about.com,bloomberg.com,boldsky.com,buzznet.com,celebuzz.com,cjr.org,codefresh.io,dailymaverick.co.za,digitaltrends.com,disclose.tv,download3k.com,drivespark.com,etonline.com,filmibeat.com,fyiliving.com,gardeningaustralia.com.au,gizbot.com,healthguru.com,infoworld.com,israelnationalnews.com,langenscheidt.com,lessthan3.com,malwarebytes.org,mayoclinic.com,mcvuk.com,mediaite.com,movies.com,nativeplanet.com,nme.com,ohmyrockness.com,oneindia.com,opendemocracy.net,paleohacks.com,penny-arcade.com,pewforum.org,pewresearch.org,pinknews.co.uk,publicradio.org,quantamagazine.org,runningtimes.com,salemnews.net,si.com,styleite.com,techvert.com,theamericanscholar.org,thecommentator.com,themarysue.com,thetruthaboutcars.com,thewalrus.ca,tomshardware.com,usatoday.com,vetstreet.com,wdcb.org,wimp.com,youbeauty.com###newsletter
 http://details.com,gossipcop.com,gq.com,salon.com,self.com,soft112.com###newsletter-form
 http://wbur.org###newsletter-signup-1
 http://hardware.info###newsletterForm
@@ -20204,6 +20216,7 @@ http://mapal.com###ctrlck
 http://droidchart.com,routerchart.com###cw
 http://dexigner.com###cwarn
 http://wsj.com###cx-notification
+http://crecipe.com###cxcx
 http://racquetballwarehouse.com,rogerfederer.com,tenniswarehouse-europe.com###data_protection
 http://corso-saunamanufaktur.com,schaeffler.com###dataprotection
 http://debenhams.com###debCNwrap
@@ -21289,7 +21302,7 @@ http://asiatv.cc##.pushmenu_modal
 http://iwaatch.com##.s-up
 http://fakartany.com##.sign-up
 http://alhurra.com##.subscribe
-http://alhayat.tv##.subscription
+http://alhayat.tv,alquds.co.uk##.subscription
 http://hamas.ps##.top
 http://youm7.com##.topTop
 http://dz-algerie.info##a[href="#top"]
@@ -23012,6 +23025,7 @@ http://cartezero.fr,france.tv,grillofrance.fr,havas-voyages.fr,le1hebdo.fr,mater
 http://4clik.com,arlestourisme.com,brain-magazine.fr,cer-eau.fr,colissimo.fr,edcom.fr,enmark2.com,feuvert.fr,gentside.com,gretel-box.com,jackpot-des-experts.fr,jules.com,laposte.fr,logistafrance.fr,lumiglobal.fr,maxisciences.com,my-meteo.com,mybiclighter.com,ohmymag.com,secu-independants.fr,showroomprive.com,solutions-numeriques.com,tourtel-twist.fr,ville-ideale.com,ville-ideale.fr,viously.com###cookies
 http://mediametrie.fr###cooks
 http://listesdemots.com###cp
+http://recettes100.fr###cxcx
 http://makita.fr###disclaimer
 http://docteurclic.com###disclamer
 http://unex.net###disclosure
@@ -23210,6 +23224,7 @@ http://forum.snsbank.nl###consentdiv
 http://groningenwoontslim.nl,legebatterijen.nl###cookie
 http://freemeteo.nl,mariniersmuseum.nl,nmm.nl###cookies
 http://molecaten.nl###cookies_modal
+http://recepten100.nl###cxcx
 http://clubheldvanhetjaar.nl###did376362
 http://t-mobile.nl###exposeMask
 http://mobil-1.nl###fancybox-overlay
@@ -23422,9 +23437,10 @@ http://telea1.it###cooky_content
 http://majani.it###cs-banner
 http://netflixlovers.it###cs_container
 http://staffettaonline.com###ctl00_CtrlLogAbbonato1_cookiealert
+http://ricette100.it###cxcx
 http://sardegna1.tv###dcb-black-screen
 http://ilfruttarolo.it###decretopr
-http://inartek.it###discl
+http://chicucina.it,inartek.it###discl
 http://nau.it###disclaimer
 http://corner.ch,cornertrader.ch###disclaimer-alert
 http://amref.it###divCk
@@ -23655,6 +23671,7 @@ http://adequate.pl,alltube.tv,aquila.pl,auchan.pl,bankmillennium.pl,bioliq.pl,co
 http://drony.net,gadzetomania.pl,komorkomania.pl,otabletach.pl###cop
 http://polskatimes.pl,strefabiznesu.pl###cross-dialog
 http://federacja-konsumentow.org.pl###cu_bar
+http://przepisy100.pl###cxcx
 http://amundi.pl###disclaimer
 http://kinonh.pl###div_ac
 http://reactor.pl###einfo
@@ -23838,6 +23855,7 @@ http://portugalglobal.pt###barramensagem
 http://cliper.pt###cook
 http://gentside.com.br###cookie
 http://fidelidade.pt,ren.pt###cookies
+http://receitas100.pt###cxcx
 http://rtp.pt###rtpgeralcookiecontent
 http://cmjornal.pt,jornaldenegocios.pt###termos
 http://xalingo.com.br###wrng-agrmnt
@@ -23908,6 +23926,7 @@ http://infiniti.co.rs##.c_128
 http://lidl.rs##.notification
 http://siea.sk###cac
 http://digitel.sk###cookies
+http://receptnajedlo.sk###cxcx
 http://etrend.sk###disclaimer
 http://hpobchod.sk###hpmGmtT
 http://akcneletaky.sk###infoCoo
@@ -23973,6 +23992,7 @@ http://blogcindario.com,mforos.com##body > div[id][class]
 http://recepedia.com##div[style^="position: fixed; top:"]
 http://kb.se,skanetrafiken.se###cookie
 http://hkr.se,inscale.se###cookies
+http://recept100.se###cxcx
 http://v6.se###layer
 http://strandhotel.se###mb_modules_popups_Container
 http://electrokit.com###top-bar
@@ -24378,7 +24398,7 @@ http://needlenthread.com#@#.pinterest1
 http://pinterest.com#@#.pinterestComponentShare
 http://marieclaire.ru#@#.pinterestShare
 http://privatecore.com#@#.post-fb
-http://23-59.com.ua,dietetycy.org.pl,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,pruszkow.pl,thewire.in,tidssonen.no,truepundit.com,vanillamagazine.it,velodaily.ru#@#.post-share-container
+http://23-59.com.ua,dietetycy.org.pl,freerider.ro,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,pruszkow.pl,thewire.in,tidssonen.no,truepundit.com,vanillamagazine.it,velodaily.ru#@#.post-share-container
 http://imgur.com#@#.post-share-panel
 http://reddit.com#@#.post-sharing
 http://ain.ua,guildwars2.com#@#.post-social
