@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pBhsY9QdV+aTan/RtmNv7w
-! Version: 202105160050
+! Checksum: cXf1Ekg0wDJ3+ZIEX7ehtg
+! Version: 202105170050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-16 00:50 UTC
+! Last modified: 2021-05-17 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -390,6 +390,8 @@
 ||https://ziprecruiter.com/jobs-widget/$third-party
 ||https://zoomanalytics.co^$third-party
 ||https://zotabox.com^*/widgets.js$third-party
+||https://music.youtube.com^$csp=worker-src 'none'
+||https://www.youtube.com^$csp=worker-src 'none'
 ||https://appspot.com/sounds/chatmsg.mp3
 ||https://collectcdn.com^$media
 ||https://driftqa.com/conductor/assets/media/
@@ -1784,6 +1786,8 @@
 ||http://ziprecruiter.com/jobs-widget/$third-party
 ||http://zoomanalytics.co^$third-party
 ||http://zotabox.com^*/widgets.js$third-party
+||http://music.youtube.com^$csp=worker-src 'none'
+||http://www.youtube.com^$csp=worker-src 'none'
 ||http://appspot.com/sounds/chatmsg.mp3
 ||http://collectcdn.com^$media
 ||http://driftqa.com/conductor/assets/media/
@@ -6003,7 +6007,7 @@ https://merriam-webster.com##.wgt-recirc-bar-foot
 https://designntrend.com,fashionnstyle.com,hngn.com,kdramastars.com,kpopstarz.com,latinopost.com,latinpost.com##.wh_transf
 https://infoworld.com##.whitepaper
 https://pcworld.com##.whitepapers
-https://grist.org,motherjones.com,netbooknews.com,thejournal.ie##.widget
+https://grist.org,motherjones.com,netbooknews.com##.widget
 https://sciencefocus.com##.widget-area-above-footer
 https://libertyunyielding.com##.widget-around-the-web
 https://tokyohive.com##.widget-block
@@ -7558,7 +7562,7 @@ https://brecorder.com##.subhtop
 https://tudorwatch.com##.tdr-footer__block-c
 https://abc.net.au,bostonherald.com,chron.com,dailysignal.com,foxnews.com,freeviewnz.tv,germany.travel,haier.com,indianewsmax.com,sampsonhart.com,seattlepi.com,sfgate.com,sivtimes.com,strategic-culture.org,taipeitimes.com,thefappening.wiki,timesunion.com,visitnsw.com##.top
 https://motor-doctor.co.uk##.top-btn
-https://wbal.com##.top-link
+https://middleeasteye.net,wbal.com##.top-link
 https://c123movies.com##.top-page
 https://canadianbusiness.com,fstoppers.com##.top-scroll
 https://marybaldwin.edu##.topbutton
@@ -7704,6 +7708,7 @@ https://telegraph.co.uk###TelegraphPics
 https://metrotimes.com,orlandoweekly.com,riverfronttimes.com,rochestercitynewspaper.com###ToolBarHorizontal
 https://pcb.cc###WRchTxt8
 https://pcb.cc###WRchTxti
+https://arirang.com###aNews_sns
 https://raymond.cc###aa_wpfs_wrap
 https://stuckincustoms.com###about-trey
 https://theatlantic.com###action-bar
@@ -8198,6 +8203,7 @@ https://care2.com##.care2_side_float
 https://inquirer.net##.cct-socmed
 https://cambridge.org##.cdo-hdr__soc
 https://wsws.org##.censorship
+https://cgtn.com##.cg-like-wraper
 https://nasa.gov##.chertools_floater
 https://progressive.org##.chicklets
 https://cheezburger.com##.chz-social
@@ -12605,6 +12611,7 @@ https://infiniti.co.kr##.c_128
 https://salidzini.lv###consent-box
 https://csdd.lv###message-bar
 https://pnbbanka.eu##.cookie
+https://aslimnica.lv##.cookies
 https://le.lt##.cookie
 https://lidl.lt##.notification
 https://go4pro.lt##.wu_container
@@ -13496,7 +13503,7 @@ https://deathandtaxesmag.com,experttur.com,gofugyourself.com,ourweigh.in,spin.co
 https://accountkiller.com#@#.social-image
 https://paperblog.com,paperblog.fr#@#.social-inline
 https://swiatebookow.pl#@#.social-label
-https://4pda.ru,asos.com,metservice.com#@#.social-link
+https://4pda.to,asos.com,metservice.com#@#.social-link
 https://airbnb.cat,airbnb.com,airbnb.de,autokult.pl,dcz.gov.ua,deathfromabove1979.com,fotoblogia.pl,komorkomania.pl,newonce.radio,redhat.com,squarespace.com,time.com#@#.social-links
 https://rusalka-market.ru,wykop.pl#@#.social-list
 https://coeffee.com,flipboard.com,getyounity.com,howdoyou.do#@#.social-login
@@ -17020,7 +17027,7 @@ http://merriam-webster.com##.wgt-recirc-bar-foot
 http://designntrend.com,fashionnstyle.com,hngn.com,kdramastars.com,kpopstarz.com,latinopost.com,latinpost.com##.wh_transf
 http://infoworld.com##.whitepaper
 http://pcworld.com##.whitepapers
-http://grist.org,motherjones.com,netbooknews.com,thejournal.ie##.widget
+http://grist.org,motherjones.com,netbooknews.com##.widget
 http://sciencefocus.com##.widget-area-above-footer
 http://libertyunyielding.com##.widget-around-the-web
 http://tokyohive.com##.widget-block
@@ -18575,7 +18582,7 @@ http://brecorder.com##.subhtop
 http://tudorwatch.com##.tdr-footer__block-c
 http://abc.net.au,bostonherald.com,chron.com,dailysignal.com,foxnews.com,freeviewnz.tv,germany.travel,haier.com,indianewsmax.com,sampsonhart.com,seattlepi.com,sfgate.com,sivtimes.com,strategic-culture.org,taipeitimes.com,thefappening.wiki,timesunion.com,visitnsw.com##.top
 http://motor-doctor.co.uk##.top-btn
-http://wbal.com##.top-link
+http://middleeasteye.net,wbal.com##.top-link
 http://c123movies.com##.top-page
 http://canadianbusiness.com,fstoppers.com##.top-scroll
 http://marybaldwin.edu##.topbutton
@@ -18721,6 +18728,7 @@ http://telegraph.co.uk###TelegraphPics
 http://metrotimes.com,orlandoweekly.com,riverfronttimes.com,rochestercitynewspaper.com###ToolBarHorizontal
 http://pcb.cc###WRchTxt8
 http://pcb.cc###WRchTxti
+http://arirang.com###aNews_sns
 http://raymond.cc###aa_wpfs_wrap
 http://stuckincustoms.com###about-trey
 http://theatlantic.com###action-bar
@@ -19215,6 +19223,7 @@ http://care2.com##.care2_side_float
 http://inquirer.net##.cct-socmed
 http://cambridge.org##.cdo-hdr__soc
 http://wsws.org##.censorship
+http://cgtn.com##.cg-like-wraper
 http://nasa.gov##.chertools_floater
 http://progressive.org##.chicklets
 http://cheezburger.com##.chz-social
@@ -23624,6 +23633,7 @@ http://infiniti.co.kr##.c_128
 http://salidzini.lv###consent-box
 http://csdd.lv###message-bar
 http://pnbbanka.eu##.cookie
+http://aslimnica.lv##.cookies
 http://le.lt##.cookie
 http://lidl.lt##.notification
 http://go4pro.lt##.wu_container
@@ -24515,7 +24525,7 @@ http://deathandtaxesmag.com,experttur.com,gofugyourself.com,ourweigh.in,spin.com
 http://accountkiller.com#@#.social-image
 http://paperblog.com,paperblog.fr#@#.social-inline
 http://swiatebookow.pl#@#.social-label
-http://4pda.ru,asos.com,metservice.com#@#.social-link
+http://4pda.to,asos.com,metservice.com#@#.social-link
 http://airbnb.cat,airbnb.com,airbnb.de,autokult.pl,dcz.gov.ua,deathfromabove1979.com,fotoblogia.pl,komorkomania.pl,newonce.radio,redhat.com,squarespace.com,time.com#@#.social-links
 http://rusalka-market.ru,wykop.pl#@#.social-list
 http://coeffee.com,flipboard.com,getyounity.com,howdoyou.do#@#.social-login
