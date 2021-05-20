@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xl+Z7FyB6WsSfCzGGJzNpw
-! Version: 202105190050
+! Checksum: 9SmMM/01Yc+RvI5Nn28yYw
+! Version: 202105200050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-19 00:50 UTC
+! Last modified: 2021-05-20 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10021,6 +10021,7 @@ https://msi.com###ccc
 https://smallseotools.com###cookie-bar
 https://eteknix.com###cookie-law-info-bar
 https://depositfiles.com,dfiles.eu,dfiles.ru###cookie_popup
+https://adblockplus.org###cookiebar
 https://tweaktown.com###cookies_footer_sec
 https://tf1.fr###tc-privacy-wrapper
 https://shirtsofcotton.com###udtDark
@@ -10203,7 +10204,10 @@ https://la-croix.com##.autopromo__news-block
 https://carrelages4000.fr##.ays-front-message
 https://orange.be##.b2c-global-footer-container
 https://automobile-magazine.fr##.bloc-nl
+https://lemondeinformatique.fr##.bloc-promo-nl
+https://lemondeinformatique.fr##.bloc.advice
 https://e-sante.fr##.box-one-click
+https://lemondeinformatique.fr##.box-question
 https://ouest-france.fr##.btn-scroll
 https://france.tv##.c-app-banner
 https://liberation.fr##.campagne-opt-in
@@ -11172,7 +11176,7 @@ https://quebeccoupongratuit.com##.share-site
 https://rtl.fr##.shared-logo
 https://fracademic.com##.smm
 https://lepoint.fr##.snlinks
-https://20minutes.fr,africa1.com,buyindz.com,courrierinternational.com,europages.fr,europe1.fr,formulatv.com,gamergen.com,gmx.fr,jeu.video,journaldugeek.com,korben.info,ladepeche.fr,leboncoin.fr,ledevoir.com,lorientlejour.com,methodelafayfemme.fr,misk.tn,petitfute.com,radioorient.com,renaultsport.com,rustica.fr,sudouest.fr##.social
+https://20minutes.fr,africa1.com,buyindz.com,courrierinternational.com,europages.fr,europe1.fr,formulatv.com,gamergen.com,gmx.fr,jeu.video,journaldugeek.com,korben.info,ladepeche.fr,leboncoin.fr,ledevoir.com,lemondeinformatique.fr,lorientlejour.com,methodelafayfemme.fr,misk.tn,petitfute.com,radioorient.com,renaultsport.com,rustica.fr,sudouest.fr##.social
 https://fr.msn.com##.stbp-tbl
 https://telerama.fr##.t12-user-resoc
 https://epochtimes.fr##.tools
@@ -21050,6 +21054,7 @@ http://msi.com###ccc
 http://smallseotools.com###cookie-bar
 http://eteknix.com###cookie-law-info-bar
 http://depositfiles.com,dfiles.eu,dfiles.ru###cookie_popup
+http://adblockplus.org###cookiebar
 http://tweaktown.com###cookies_footer_sec
 http://tf1.fr###tc-privacy-wrapper
 http://shirtsofcotton.com###udtDark
@@ -21232,7 +21237,10 @@ http://la-croix.com##.autopromo__news-block
 http://carrelages4000.fr##.ays-front-message
 http://orange.be##.b2c-global-footer-container
 http://automobile-magazine.fr##.bloc-nl
+http://lemondeinformatique.fr##.bloc-promo-nl
+http://lemondeinformatique.fr##.bloc.advice
 http://e-sante.fr##.box-one-click
+http://lemondeinformatique.fr##.box-question
 http://ouest-france.fr##.btn-scroll
 http://france.tv##.c-app-banner
 http://liberation.fr##.campagne-opt-in
@@ -22201,7 +22209,7 @@ http://quebeccoupongratuit.com##.share-site
 http://rtl.fr##.shared-logo
 http://fracademic.com##.smm
 http://lepoint.fr##.snlinks
-http://20minutes.fr,africa1.com,buyindz.com,courrierinternational.com,europages.fr,europe1.fr,formulatv.com,gamergen.com,gmx.fr,jeu.video,journaldugeek.com,korben.info,ladepeche.fr,leboncoin.fr,ledevoir.com,lorientlejour.com,methodelafayfemme.fr,misk.tn,petitfute.com,radioorient.com,renaultsport.com,rustica.fr,sudouest.fr##.social
+http://20minutes.fr,africa1.com,buyindz.com,courrierinternational.com,europages.fr,europe1.fr,formulatv.com,gamergen.com,gmx.fr,jeu.video,journaldugeek.com,korben.info,ladepeche.fr,leboncoin.fr,ledevoir.com,lemondeinformatique.fr,lorientlejour.com,methodelafayfemme.fr,misk.tn,petitfute.com,radioorient.com,renaultsport.com,rustica.fr,sudouest.fr##.social
 http://fr.msn.com##.stbp-tbl
 http://telerama.fr##.t12-user-resoc
 http://epochtimes.fr##.tools
