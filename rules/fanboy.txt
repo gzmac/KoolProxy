@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9SmMM/01Yc+RvI5Nn28yYw
-! Version: 202105200050
+! Checksum: Q4GMBcWS3R1ZXmB/sXiIKQ
+! Version: 202105210050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-20 00:50 UTC
+! Last modified: 2021-05-21 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -169,7 +169,6 @@
 ||https://intern.forskning.no^$third-party
 ||https://internetdefenseleague.org^$third-party
 ||https://invite.linescale.com^$third-party
-||https://izooto.com^$third-party
 ||https://jisbar.com^$third-party
 ||https://jobamatic.com^$third-party
 ||https://jobs.thejobnetwork.com^$third-party
@@ -1562,7 +1561,6 @@
 ||http://intern.forskning.no^$third-party
 ||http://internetdefenseleague.org^$third-party
 ||http://invite.linescale.com^$third-party
-||http://izooto.com^$third-party
 ||http://jisbar.com^$third-party
 ||http://jobamatic.com^$third-party
 ||http://jobs.thejobnetwork.com^$third-party
@@ -9955,6 +9953,7 @@ https://pri.org##[class^="CtaMessage_"]
 https://vivid.money##[class^="cookieNotification_"]
 https://shutterstock.com##[data-automation="Eu_banner_container"]
 https://jooble.org##[data-test-name="_termsOfServices"]
+https://backmarket.com##[data-test="banner"]
 https://iubenda.com##a[style="padding-top: 10px; display: block;"]
 https://shab.ch##agb-bar
 https://orcid.org##app-banners
@@ -20988,6 +20987,7 @@ http://pri.org##[class^="CtaMessage_"]
 http://vivid.money##[class^="cookieNotification_"]
 http://shutterstock.com##[data-automation="Eu_banner_container"]
 http://jooble.org##[data-test-name="_termsOfServices"]
+http://backmarket.com##[data-test="banner"]
 http://iubenda.com##a[style="padding-top: 10px; display: block;"]
 http://shab.ch##agb-bar
 http://orcid.org##app-banners
