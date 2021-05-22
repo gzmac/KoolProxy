@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Q4GMBcWS3R1ZXmB/sXiIKQ
-! Version: 202105210050
+! Checksum: 1zvMMW+vNso5sE5VuFejOg
+! Version: 202105220050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-21 00:50 UTC
+! Last modified: 2021-05-22 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -968,6 +968,7 @@
 ||https://secondstreetapp.com^*/optin.js
 ||https://sfgate.com^*/subscribe.html
 ||https://shareblue.com^*/signup_banner_
+||https://subscriptions.cbc.ca^$xmlhttprequest
 ||https://thefinancialbrand.com^*/subscribe_today.
 ||https://thegrio.com^*/fotolia_79292360_
 ||https://thejewishstar.com/images/enews-
@@ -2388,7 +2389,7 @@
 ||http://secondstreetapp.com^*/optin.js
 ||http://sfgate.com^*/subscribe.html
 ||http://shareblue.com^*/signup_banner_
-||http://subscriptions.cbc.ca^
+||http://subscriptions.cbc.ca^$xmlhttprequest
 ||http://thefinancialbrand.com^*/subscribe_today.
 ||http://thegrio.com^*/fotolia_79292360_
 ||http://thejewishstar.com/images/enews-
@@ -13786,7 +13787,7 @@ https://fotopuzzle.de#@#.cookie-policy-wrapper
 https://60millions-mag.com#@#.cookie-popup
 https://lot.com#@#.cookie-promo
 https://epolisbari.com,lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@#.cookie-text
-https://proglib.io#@#.cookie-visible
+https://lvbet.pl,proglib.io#@#.cookie-visible
 https://538.nl,pieseauto.ro,saxion.edu,unileverfoodsolutions.com.br,unileverfoodsolutions.com.tr,unileverfoodsolutions.it,xmradio.nl,xs4all.nl#@#.cookie-wall
 https://ben.nl,bynco.com#@#.cookie-wall-container
 https://mediapart.fr#@#.cookie-warn
@@ -24821,7 +24822,7 @@ http://fotopuzzle.de#@#.cookie-policy-wrapper
 http://60millions-mag.com#@#.cookie-popup
 http://lot.com#@#.cookie-promo
 http://epolisbari.com,lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@#.cookie-text
-http://proglib.io#@#.cookie-visible
+http://lvbet.pl,proglib.io#@#.cookie-visible
 http://538.nl,pieseauto.ro,saxion.edu,unileverfoodsolutions.com.br,unileverfoodsolutions.com.tr,unileverfoodsolutions.it,xmradio.nl,xs4all.nl#@#.cookie-wall
 http://ben.nl,bynco.com#@#.cookie-wall-container
 http://mediapart.fr#@#.cookie-warn
