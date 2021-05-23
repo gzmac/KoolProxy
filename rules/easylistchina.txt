@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: A8+UvBm4sZg6LNDq+pl7FA
-! Version: 202105220042
+! Checksum: Luie1uuxu6Ekr/NgbXR0dw
+! Version: 202105230042
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -3710,6 +3710,7 @@
 ||https://qnvod.net/qna/
 ||https://qpgyy.com/add01.html
 ||https://qpic.cn/qq_public/
+||https://qpix.com/2021/05/20/Aqcp.gif
 ||https://qq260.com/shout.js
 ||https://qq745.com/m/ad/
 ||https://qqcf.com/js/Content_Get.js
@@ -4841,6 +4842,7 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://btmulu.com/assets/*/ad02.gif
 ||https://17ce.com^*_$image
 ||https://69t49.com/floating/layer.js
 ||https://alicdn.com/img/ibank/*_!!2210231227621-0-cib.
@@ -5562,10 +5564,6 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
-||http://xujingch.com^
-||http://govchongqing.cn^
-||http://yinmofun.com^
-||http://sawadeca.com^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://008844.cc^
@@ -5801,6 +5799,7 @@
 ||http://51jumintong.com^
 ||http://51roadway.com^
 ||http://51sxzz.com^
+||http://51toubu.com^
 ||http://51xumei.com^
 ||http://5207470.com^
 ||http://520meirenyu.com^
@@ -6475,6 +6474,7 @@
 ||http://gotonav.com^$third-party
 ||http://gouweida.cn^
 ||http://govbeijing.cn^
+||http://govchongqing.cn^
 ||http://govgift.com^
 ||http://govhunan.cn^
 ||http://govjiangsu.cn^
@@ -7144,6 +7144,7 @@
 ||http://r5g.cc^$third-party
 ||http://raonie.com^$third-party
 ||http://rayli.com.cn^$third-party
+||http://rcyl-uni.com^
 ||http://rdance.cn^
 ||http://re.taotaosou.com^
 ||http://rebdy.com^
@@ -7173,6 +7174,7 @@
 ||http://sales-frontier.com^$third-party
 ||http://samboc.com^$third-party
 ||http://sanmiyangguang.com^$third-party
+||http://sawadeca.com^
 ||http://sbrqp.com^
 ||http://scenepass.com^
 ||http://scfatao.com^
@@ -7530,6 +7532,7 @@
 ||http://wxxfqc.com^
 ||http://wxyun168.xyz^
 ||http://wyhzzy.com^
+||http://wysmq.cn^
 ||http://wyttech.cn^
 ||http://wywsdx.com^
 ||http://wzjijia.com^
@@ -7639,6 +7642,7 @@
 ||http://xuchuang.com^$third-party
 ||http://xuehelei.com^
 ||http://xueyongbao.com^
+||http://xujingch.com^
 ||http://xulizui6.com^
 ||http://xunlaile.com^
 ||http://xwdsp.com^
@@ -7696,6 +7700,7 @@
 ||http://yijia2009.com^
 ||http://yijikm.com^
 ||http://yingshidaquan.cc^$third-party
+||http://yinmofun.com^
 ||http://yinoo.cn^$third-party
 ||http://yinyuehu.cn^
 ||http://yipanhaocai.com^
@@ -7714,6 +7719,7 @@
 ||http://ymcqb.com^
 ||http://ynbojie.com^
 ||http://ynwqls.com^
+||http://ynyyx168.com^
 ||http://yongkang6.com^
 ||http://yongv.com^$third-party
 ||http://youfumei.com^
@@ -11393,6 +11399,7 @@
 ||http://qpgyy.com/add01.html
 ||http://qpic.cn/qq_public/$domain=xgan.cn
 ||http://qpic.ws/images/pk*.gif
+||http://qpix.com/2021/05/20/Aqcp.gif
 ||http://qq260.com/shout.js
 ||http://qq745.com/m/ad/
 ||http://qqcf.com/js/Content_Get.js
@@ -12632,6 +12639,7 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://btmulu.com/assets/*/ad02.gif
 ||http://17ce.com^*_$image
 ||http://3336672.com^
 ||http://3337729.com^
@@ -13681,6 +13689,7 @@
 ||http://aitxt.com/js/ai.js
 ||http://aitxt.com/m_float.js
 ||http://aixiawx.com/4B7LlzdA/4I6UpES.js
+||http://aixuyoupin.cn^
 ||http://aiyyu.com^
 ||http://ajiez.com^
 ||http://ajkdg3.xyz^
@@ -13804,6 +13813,7 @@
 ||http://bolili.info^
 ||http://boluoxs.com/js/digu.js
 ||http://book9.net^$third-party
+||http://bostonceltics.com.cn^
 ||http://boweineng.cn^
 ||http://bpdffh.cn^
 ||http://bqhnj.cn^
@@ -14310,6 +14320,7 @@
 ||http://imiek.com^
 ||http://increased.cn^
 ||http://indiebuff.cn^
+||http://infobbs.xyz^
 ||http://infvb.com^
 ||http://innvitor.com^
 ||http://intxt.cn^
@@ -15192,6 +15203,7 @@
 ||http://xmljx.cn^
 ||http://xmseaside.com^
 ||http://xmstpay.com^
+||http://xmyejun.cn^
 ||http://xmysinter.com^
 ||http://xn--2qu92fhtx4ff.ink^
 ||http://xn--2qu92fhtx4ff.ren^
@@ -16131,6 +16143,7 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://btmulu.com#?#.item:-abp-has(> a[target="_blank"])
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -20081,6 +20094,7 @@ https://ck101.com##.viewthread-leftfloatbox
 https://2345.com##.vipTopBanner
 https://cztv.com##.vivo
 https://autohome.com.cn##.vocalcon-btn
+https://jsr9.com##.vod-gd
 https://ktkkt.com##.vod980
 https://jlpcn.net##.vodAd
 https://hupu.com##.voice-ad300-250
@@ -20885,6 +20899,7 @@ https://oschina.net##div[name="detail_show_footer"]
 https://oschina.net##div[name="floatAdbox"]
 https://oschina.net##div[name^="index_banner_"]
 https://bde4.cc##div[onclick*=".yabo816.com"]
+https://jsr9.com##div[onclick*="location"]
 https://nfmovies.com##div[onclick="openurl()"]
 https://psdhtml.cn##div[role^="structure_"]
 https://sydneytoday.com##div[style$="-144px;top: 115px;"]
@@ -22548,6 +22563,7 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://btmulu.com#?#.item:-abp-has(> a[target="_blank"])
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -26499,6 +26515,7 @@ http://ck101.com##.viewthread-leftfloatbox
 http://2345.com##.vipTopBanner
 http://cztv.com##.vivo
 http://autohome.com.cn##.vocalcon-btn
+http://jsr9.com##.vod-gd
 http://ktkkt.com##.vod980
 http://jlpcn.net##.vodAd
 http://hupu.com##.voice-ad300-250
@@ -27304,6 +27321,7 @@ http://oschina.net##div[name="detail_show_footer"]
 http://oschina.net##div[name="floatAdbox"]
 http://oschina.net##div[name^="index_banner_"]
 http://bde4.cc##div[onclick*=".yabo816.com"]
+http://jsr9.com##div[onclick*="location"]
 http://nfmovies.com##div[onclick="openurl()"]
 http://psdhtml.cn##div[role^="structure_"]
 http://sydneytoday.com##div[style$="-144px;top: 115px;"]
