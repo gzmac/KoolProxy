@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mDTvkZAqQ6ZTd36QwwCU4Q
-! Version: 202105230100
+! Checksum: opNZMMuBCZ0cvE04g5yRBA
+! Version: 202105240050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-23 01:00 UTC
+! Last modified: 2021-05-24 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -396,6 +396,7 @@
 ||https://driftqa.com/conductor/assets/media/
 ||https://echatsys.com/sounds/
 ||https://helpscout.net/static/ui-sounds/
+||https://js.driftt.com/conductor/assets/media/
 ||https://js.driftt.com/deploy/assets/static/audio/
 ||https://js.intercomcdn.com/audio/
 ||https://livechatinc.com/widget/static/media/
@@ -1792,6 +1793,7 @@
 ||http://driftqa.com/conductor/assets/media/
 ||http://echatsys.com/sounds/
 ||http://helpscout.net/static/ui-sounds/
+||http://js.driftt.com/conductor/assets/media/
 ||http://js.driftt.com/deploy/assets/static/audio/
 ||http://js.intercomcdn.com/audio/
 ||http://livechatinc.com/widget/static/media/
@@ -6538,6 +6540,7 @@ https://diabetesforecast.org###subscribe_main
 https://nytimes.com###subscribe_mobile_cont
 https://creation.com###subscribe_options
 https://novinite.com###subscribe_smn
+https://fsf.org###subscribeblock
 https://moneysavingmom.com,unz.com###subscribeform
 https://bizjournals.com###subscriber
 https://timesofindia.indiatimes.com###subscribewidget
@@ -17572,6 +17575,7 @@ http://diabetesforecast.org###subscribe_main
 http://nytimes.com###subscribe_mobile_cont
 http://creation.com###subscribe_options
 http://novinite.com###subscribe_smn
+http://fsf.org###subscribeblock
 http://moneysavingmom.com,unz.com###subscribeform
 http://bizjournals.com###subscriber
 http://timesofindia.indiatimes.com###subscribewidget
