@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: j5BQKspLqEasaq6oEo/lgQ
-! Version: 202105240042
+! Checksum: 8GfhmnlmSaY9zW2BoKuA3g
+! Version: 202105250042
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -3070,6 +3070,7 @@
 ||https://kuaihou.com/c/you1.js
 ||https://kuaihou.com/js/new/xiazai
 ||https://kuaishouba.com/themes/default/images/*.gif
+||https://kugoucdn.com/rest/*?_t=
 ||https://kukan5.com/ad
 ||https://kukan5.com/indexxzad.jpg
 ||https://kwflvcdn.000dn.com^*.flv
@@ -6375,6 +6376,7 @@
 ||http://ejin56.com^$third-party
 ||http://emarbox.com^$third-party
 ||http://enohb.com^
+||http://eoncreativity.com^
 ||http://erdsyzb.com^
 ||http://ertongjiaju360.com^
 ||http://expo123.net^
@@ -10700,6 +10702,7 @@
 ||http://kuaihou.com/js/new/xiazai
 ||http://kuaishouba.com/themes/default/images/*.gif
 ||http://kuaizhan.com^$domain=yaoshe67.com|yuese46.com
+||http://kugoucdn.com/rest/*?_t=
 ||http://kukan5.com/ad
 ||http://kukan5.com/indexxzad.jpg
 ||http://kwflvcdn.000dn.com^*.flv
@@ -13216,6 +13219,7 @@
 ||http://milk.yesky.com.cn^
 ||http://mipujia.com^$third-party
 ||http://mm.jbzj.com^
+||http://mnwor.xuanlishi.com^
 ||http://mo-tuo.com^
 ||http://mountain.zhidao.baidu.com^
 ||http://mpb1.iteye.com^
@@ -13488,6 +13492,7 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://habyc.com^
 ||http://01tn.cn^
 ||http://027whht.com^
 ||http://0316dieroxiemzfjwmapk.xyz^
@@ -15201,6 +15206,7 @@
 ||http://xkqpco.com^
 ||http://xl4z7.cn^
 ||http://xlhwzx.cn^
+||http://xmcs99885.cn^
 ||http://xmcxz.com^
 ||http://xmljx.cn^
 ||http://xmseaside.com^
@@ -19355,6 +19361,9 @@ https://chinamedevice.cn##.news_ylqx
 https://chinamedevice.cn##.news_ylqx3
 https://mitbbs.ca,mitbbs.com##.newskuang2
 https://cnstock.com##.newslist[style="padding: 10px 0px;"]
+https://olgame.tw##.nex_floor_banner
+https://olgame.tw##.nex_index_ads
+https://olgame.tw##.nex_mid_ads
 https://zhibocool.com##.ng-scope[ng-repeat*="adMatchList"]
 https://gamersky.com##.ngg_down
 https://chongdiantou.com##.nice-sales
@@ -25775,6 +25784,9 @@ http://chinamedevice.cn##.news_ylqx
 http://chinamedevice.cn##.news_ylqx3
 http://mitbbs.ca,mitbbs.com##.newskuang2
 http://cnstock.com##.newslist[style="padding: 10px 0px;"]
+http://olgame.tw##.nex_floor_banner
+http://olgame.tw##.nex_index_ads
+http://olgame.tw##.nex_mid_ads
 http://zhibocool.com##.ng-scope[ng-repeat*="adMatchList"]
 http://gamersky.com##.ngg_down
 http://chongdiantou.com##.nice-sales

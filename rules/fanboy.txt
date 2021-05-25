@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: opNZMMuBCZ0cvE04g5yRBA
-! Version: 202105240050
+! Checksum: Ib/x8BrnRYe5KwyeZmcEyQ
+! Version: 202105250050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-24 00:50 UTC
+! Last modified: 2021-05-25 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1368,7 +1368,9 @@
 ||https://creaweb.it/cookie/
 ||https://cure-naturali.it/cookies?
 ||https://effekt.it/analytics/
+||https://fastweb.it/cookie-center/
 ||https://informagiovani-italia.com/consenso.js
+||https://kkaio.com/templates/t4_blank/js/ck.js
 ||https://londraweb.com/consenso_lw.js
 ||https://meteorete.it/cookie.js
 ||https://ok-salute.it^*/cookie-law-info-public-
@@ -2837,7 +2839,9 @@
 ||http://creaweb.it/cookie/
 ||http://cure-naturali.it/cookies?
 ||http://effekt.it/analytics/
+||http://fastweb.it/cookie-center/
 ||http://informagiovani-italia.com/consenso.js
+||http://kkaio.com/templates/t4_blank/js/ck.js
 ||http://londraweb.com/consenso_lw.js
 ||http://meteorete.it/cookie.js
 ||http://ok-salute.it^*/cookie-law-info-public-
@@ -9103,6 +9107,7 @@ https://bbc.com##div[class*="TagShareWrapper"]
 https://jman.tv###ActionBar
 https://sausageandciderfestival.co.uk###CC_Bar
 https://ambulance-photos.com,bus-and-coach-photos.com,classic-and-vintage-cars.com,construction-and-excavation.com,dream-car-photos.com,fire-engine-photos.com,forklift-photos.com,hotrods-customcars.com,military-vehicle-photos.com,motorcycles-motorbikes.com,oilrig-photos.com,planesandchoppers.com,racing-car-photos.com,shipsandharbours.com,taxi-photos.com,traction-engines.net,tractor-photos.com,train-photos.com,transport-models.com,truck-photos.net,vehicle-livery.net,yourboatphotos.com###CQ
+https://snitcher.com###CoCon
 https://nymity.com###CookieAcceptSubLayout1_cookiesmessageshown
 https://aberdeenplumberservices.co.uk,firstcallmotorbreakdown.co.uk,pattheduck.com###FISLCC
 https://megabus.com###GB_overlay
@@ -11380,7 +11385,7 @@ https://tio.ch##.companyPagesBox
 https://toplegal.it##.cond
 https://valsusaoggi.it##.condividipagcatd
 https://valsusaoggi.it##.condividisottod
-https://optimagazine.com,optimaitalia.com##.condivisioni
+https://optimagazine.com,optimaitalia.com,primapaginanews.it##.condivisioni
 https://everyeye.it##.cont_reply > .link-post
 https://playstationitalianleague.com##.context-content-community-links
 https://insideover.com##.d-sm-block
@@ -11950,6 +11955,7 @@ https://thueringenforst.de##.opt-out
 https://tt.com##.outer-wrap
 https://zitatezumnachdenken.com##.overlay
 https://auto-motor-und-sport.de##.p40
+https://woche-der-meinungsfreiheit.de##.pixelmate-banner-bottom
 https://nh-hotels.de##.politicaRewards
 https://airleben.de,datafox.de##.popup-banner
 https://lagermaulwurf.de##.popup-notification
@@ -12565,6 +12571,7 @@ https://monzacalcio.com##.modal
 https://alfasigma.com,elevensports.it,feralpisalo.it,meteo.fvg.it,metro.it,monzacalcio.com##.modal-backdrop
 https://informazione.it##.modal-body
 https://telethon.it##.modalMessage
+https://tuttoamerica.it##.modal__overlay
 https://forumcommunity.net,forumfree.it##.note
 https://initalia.it##.notice-wrap
 https://vg247.it##.notif-bar
@@ -20139,6 +20146,7 @@ http://bbc.com##div[class*="TagShareWrapper"]
 http://jman.tv###ActionBar
 http://sausageandciderfestival.co.uk###CC_Bar
 http://ambulance-photos.com,bus-and-coach-photos.com,classic-and-vintage-cars.com,construction-and-excavation.com,dream-car-photos.com,fire-engine-photos.com,forklift-photos.com,hotrods-customcars.com,military-vehicle-photos.com,motorcycles-motorbikes.com,oilrig-photos.com,planesandchoppers.com,racing-car-photos.com,shipsandharbours.com,taxi-photos.com,traction-engines.net,tractor-photos.com,train-photos.com,transport-models.com,truck-photos.net,vehicle-livery.net,yourboatphotos.com###CQ
+http://snitcher.com###CoCon
 http://nymity.com###CookieAcceptSubLayout1_cookiesmessageshown
 http://aberdeenplumberservices.co.uk,firstcallmotorbreakdown.co.uk,pattheduck.com###FISLCC
 http://megabus.com###GB_overlay
@@ -22416,7 +22424,7 @@ http://tio.ch##.companyPagesBox
 http://toplegal.it##.cond
 http://valsusaoggi.it##.condividipagcatd
 http://valsusaoggi.it##.condividisottod
-http://optimagazine.com,optimaitalia.com##.condivisioni
+http://optimagazine.com,optimaitalia.com,primapaginanews.it##.condivisioni
 http://everyeye.it##.cont_reply > .link-post
 http://playstationitalianleague.com##.context-content-community-links
 http://insideover.com##.d-sm-block
@@ -22987,6 +22995,7 @@ http://thueringenforst.de##.opt-out
 http://tt.com##.outer-wrap
 http://zitatezumnachdenken.com##.overlay
 http://auto-motor-und-sport.de##.p40
+http://woche-der-meinungsfreiheit.de##.pixelmate-banner-bottom
 http://nh-hotels.de##.politicaRewards
 http://airleben.de,datafox.de##.popup-banner
 http://lagermaulwurf.de##.popup-notification
@@ -23602,6 +23611,7 @@ http://monzacalcio.com##.modal
 http://alfasigma.com,elevensports.it,feralpisalo.it,meteo.fvg.it,metro.it,monzacalcio.com##.modal-backdrop
 http://informazione.it##.modal-body
 http://telethon.it##.modalMessage
+http://tuttoamerica.it##.modal__overlay
 http://forumcommunity.net,forumfree.it##.note
 http://initalia.it##.notice-wrap
 http://vg247.it##.notif-bar
