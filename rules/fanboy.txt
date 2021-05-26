@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ib/x8BrnRYe5KwyeZmcEyQ
-! Version: 202105250050
+! Checksum: XmY+d51jwQjaLdwQ7ERjUQ
+! Version: 202105260100
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-25 00:50 UTC
+! Last modified: 2021-05-26 01:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -9959,6 +9959,7 @@ https://ethereumprice.org##.zxc-msg
 https://theaustralian.com.au##CAAS-MESSAGE-PANEL
 https://santatracker.google.com##SANTA-NOTICE
 https://trustnet.com##USER-TYPE-POPUP
+https://tiktok.com##[class*="-DivCookieBannerContainer"]
 https://pri.org##[class^="CtaMessage_"]
 https://vivid.money##[class^="cookieNotification_"]
 https://shutterstock.com##[data-automation="Eu_banner_container"]
@@ -11751,7 +11752,7 @@ https://alternative-zu.de,baskets-jena.de,bauernzeitung.ch,bookingsuedtirol.com,
 https://brf.be###cookieDashboard
 https://bambergfacts.de###cookiebar-007
 https://0rechner.de###cookieconsentmodal
-https://abload.de,autoampel.de,blockfloete.eu,cewe-print.de,deutscher-sex.com,dynamo-fanshop.de,elegant.be,firma5.com,lebenundtod.com,livetrakway.de,scm-handball.de,telspy.org,tonies.de,tti.at,ufpro.de,uni-muenster.de###cookies
+https://abload.de,autoampel.de,blockfloete.eu,cewe-print.de,deutscher-sex.com,dynamo-fanshop.de,elegant.be,firma5.com,geilemaedchen.com,lebenundtod.com,livetrakway.de,scm-handball.de,telspy.org,tonies.de,tti.at,ufpro.de,uni-muenster.de###cookies
 https://start-nrw.de###cpopup
 https://ruegenwalder.de###csdialogbd
 https://ruegenwalder.de###csdialogmd2
@@ -20998,6 +20999,7 @@ http://ethereumprice.org##.zxc-msg
 http://theaustralian.com.au##CAAS-MESSAGE-PANEL
 http://santatracker.google.com##SANTA-NOTICE
 http://trustnet.com##USER-TYPE-POPUP
+http://tiktok.com##[class*="-DivCookieBannerContainer"]
 http://pri.org##[class^="CtaMessage_"]
 http://vivid.money##[class^="cookieNotification_"]
 http://shutterstock.com##[data-automation="Eu_banner_container"]
@@ -22791,7 +22793,7 @@ http://alternative-zu.de,baskets-jena.de,bauernzeitung.ch,bookingsuedtirol.com,b
 http://brf.be###cookieDashboard
 http://bambergfacts.de###cookiebar-007
 http://0rechner.de###cookieconsentmodal
-http://abload.de,autoampel.de,blockfloete.eu,cewe-print.de,deutscher-sex.com,dynamo-fanshop.de,elegant.be,firma5.com,lebenundtod.com,livetrakway.de,scm-handball.de,telspy.org,tonies.de,tti.at,ufpro.de,uni-muenster.de###cookies
+http://abload.de,autoampel.de,blockfloete.eu,cewe-print.de,deutscher-sex.com,dynamo-fanshop.de,elegant.be,firma5.com,geilemaedchen.com,lebenundtod.com,livetrakway.de,scm-handball.de,telspy.org,tonies.de,tti.at,ufpro.de,uni-muenster.de###cookies
 http://start-nrw.de###cpopup
 http://ruegenwalder.de###csdialogbd
 http://ruegenwalder.de###csdialogmd2
