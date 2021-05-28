@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: aAHDcVOP0yTM/wibT06l7w
-! Version: 202105270100
+! Checksum: 5RIGbzx99e3Epc48/aQa1Q
+! Version: 202105280100
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-27 01:00 UTC
+! Last modified: 2021-05-28 01:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -13720,6 +13720,7 @@ https://gdansk.pl#@##cookies[role="dialog"]
 https://debeste.de#@##cookies_ok
 https://vkmag.com#@##cookiesdirective
 https://rossolimone.com#@##cookiesplus-basic
+https://seguro.elespanol.com#@##didomi-notice
 https://ibs.it#@##divPrivacy
 https://gamewatcher.com,ivoox.com,poszalu.pl,tappedout.net,visionexpress.pl#@##gdpr-modal
 https://n26.com#@##gdpr-notice
@@ -13776,7 +13777,7 @@ https://zwijsen.nl#@#.cookie-consent-content
 https://artyferia.pl#@#.cookie-consent-show
 https://dovoba.de#@#.cookie-consent-v2
 https://zwijsen.nl#@#.cookie-consent-wrapper
-https://airam.fi,codra.net,dovoba.de,medicinenet.com,meinebank.de#@#.cookie-consent:not(body):not(html)
+https://airam.fi,berliner-volksbank.de,codra.net,dovoba.de,medicinenet.com,meinebank.de#@#.cookie-consent:not(body):not(html)
 https://bokadirekt.se,danbolig.dk,hongkong.fi,okazii.ro,rusta.com,xmradio.nl#@#.cookie-content
 https://danbolig.dk,mega.io,skuola.net#@#.cookie-dialog
 https://ikks.com#@#.cookie-footer
@@ -13854,6 +13855,7 @@ https://xlbygg.se#@#.cookiewarning:not(body):not(html)
 https://apkpure.com#@#.cp-banner
 https://bccnapoli.it,spalferrara.it,thetechsutra.com#@#.cp-overlay
 https://e-dym.pl#@#.cp-popup
+https://seguro.elespanol.com#@#.didomi-notice-banner
 https://porndig.com,thagson.com#@#.disclaimer_wrapper
 https://acloudguru.com,appfairness.org#@#.elementor-popup-modal.dialog-widget
 https://etonline.com,popsugar.co.uk#@#.evidon-banner
@@ -24761,6 +24763,7 @@ http://gdansk.pl#@##cookies[role="dialog"]
 http://debeste.de#@##cookies_ok
 http://vkmag.com#@##cookiesdirective
 http://rossolimone.com#@##cookiesplus-basic
+http://seguro.elespanol.com#@##didomi-notice
 http://ibs.it#@##divPrivacy
 http://gamewatcher.com,ivoox.com,poszalu.pl,tappedout.net,visionexpress.pl#@##gdpr-modal
 http://n26.com#@##gdpr-notice
@@ -24817,7 +24820,7 @@ http://zwijsen.nl#@#.cookie-consent-content
 http://artyferia.pl#@#.cookie-consent-show
 http://dovoba.de#@#.cookie-consent-v2
 http://zwijsen.nl#@#.cookie-consent-wrapper
-http://airam.fi,codra.net,dovoba.de,medicinenet.com,meinebank.de#@#.cookie-consent:not(body):not(html)
+http://airam.fi,berliner-volksbank.de,codra.net,dovoba.de,medicinenet.com,meinebank.de#@#.cookie-consent:not(body):not(html)
 http://bokadirekt.se,danbolig.dk,hongkong.fi,okazii.ro,rusta.com,xmradio.nl#@#.cookie-content
 http://danbolig.dk,mega.io,skuola.net#@#.cookie-dialog
 http://ikks.com#@#.cookie-footer
@@ -24895,6 +24898,7 @@ http://xlbygg.se#@#.cookiewarning:not(body):not(html)
 http://apkpure.com#@#.cp-banner
 http://bccnapoli.it,spalferrara.it,thetechsutra.com#@#.cp-overlay
 http://e-dym.pl#@#.cp-popup
+http://seguro.elespanol.com#@#.didomi-notice-banner
 http://porndig.com,thagson.com#@#.disclaimer_wrapper
 http://acloudguru.com,appfairness.org#@#.elementor-popup-modal.dialog-widget
 http://etonline.com,popsugar.co.uk#@#.evidon-banner
