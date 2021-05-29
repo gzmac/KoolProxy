@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5RIGbzx99e3Epc48/aQa1Q
-! Version: 202105280100
+! Checksum: 35rFhRcGsjZBEMIuBq2olQ
+! Version: 202105290100
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-28 01:00 UTC
+! Last modified: 2021-05-29 01:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -353,7 +353,6 @@
 ||https://vicomi.com^$third-party
 ||https://vk.com/images/$third-party
 ||https://volomedia.com^$third-party
-||https://vuukle.com/platform.js$third-party
 ||https://wahwahnetworks.com^$third-party
 ||https://web.delighted.com^$third-party
 ||https://webseed.com/javascripts/messagebar.js
@@ -1751,7 +1750,6 @@
 ||http://vicomi.com^$third-party
 ||http://vk.com/images/$third-party
 ||http://volomedia.com^$third-party
-||http://vuukle.com/platform.js$third-party
 ||http://wahwahnetworks.com^$third-party
 ||http://web.delighted.com^$third-party
 ||http://webseed.com/javascripts/messagebar.js
@@ -8599,6 +8597,7 @@ https://foodnetwork.com,kitchendaily.com##.pinit
 https://9gag.tv,bulova.com,cnn.com,fraghero.com,inhabitat.com,latintimes.com,nymag.com,opensiteexplorer.org,tweaktown.com,vulture.com,yahoo.com,yourdailymedia.com##.pinterest
 https://lhw.com##.pintrest
 https://cleodesktop.com##.plustop
+https://audacy.com##.podcast-lead__social
 https://polygon.com##.polygon_social
 https://todiscoverrussia.com##.pop_up_wrap
 https://slashdot.org##.popularity
@@ -11346,7 +11345,7 @@ https://wikihow.it###sf
 https://canavesenews.it,gazzetta.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it,torinonews24.it###share
 https://goodmorningnews.it###short-url
 https://deejay.it###slider
-https://autobelle.it,bancadipiacenza.it,canavesenews.it,creditocooperativo.it,fotografidigitali.it,gianlucadimarzio.com,ilsecoloxix.it,lavoro.gov.it,meteogiornale.it,meteovista.it,navigaweb.net,optimagazine.com,optimaitalia.com,radioitalia.it,rasom.it,salute.gov.it,superwheels.net,unibo.it,virginactive.it###social
+https://autobelle.it,bancadipiacenza.it,calciatoribrutti.com,canavesenews.it,creditocooperativo.it,fotografidigitali.it,gianlucadimarzio.com,ilsecoloxix.it,lavoro.gov.it,meteogiornale.it,meteovista.it,navigaweb.net,optimagazine.com,optimaitalia.com,radioitalia.it,rasom.it,salute.gov.it,superwheels.net,unibo.it,virginactive.it###social
 https://radioetv.it###social_presence
 https://biografieonline.it###ss-floating-bar
 https://grom.it###top-info
@@ -11465,6 +11464,7 @@ https://montagna.tv##.post-footer-on-bottom
 https://lifegate.it##.post__trends
 https://raisport.rai.it##.prefooter
 https://assopoker.com##.rating-count
+https://calciatoribrutti.com##.relative-social
 https://mediaset.it##.s_box
 https://nationalgeographic.it##.segui-ng
 https://lescienze.it,unica.it##.seguici
@@ -12442,7 +12442,7 @@ https://eismoinfo.lt###consent
 https://ecodallecitta.it###contenuto_consenso
 https://spesasicura.com###cook
 https://aeo.it,archimagazine.com,bookingaltoadige.com,camionsupermarket.it,cattoliciogginotizie.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,extramagazine.eu,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
-https://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,musictory.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
+https://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,musictory.it,ordineavvocati.bari.it,pardini.it,pcase.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 https://telea1.it###cooky_content
 https://majani.it###cs-banner
 https://netflixlovers.it###cs_container
@@ -13076,7 +13076,7 @@ https://360.cymru###negesCaniatad
 https://nasa.gov#@##BackToTop
 https://billabong.com#@##NewsletterSignup
 https://autotrader.com,brydge.com,controllergear.com,liputan6.com,rejuvenation.com#@##back-to-top
-https://archeda.eu#@##back-top
+https://archeda.eu,arredamento.it#@##back-top
 https://engie.fr,gaz-tarif-reglemente.fr,nasa.gov#@##backToTop
 https://rmf24.pl#@##backTop
 https://nasa.gov#@##backtoTop
@@ -13621,7 +13621,7 @@ https://simonscat.com#@#.twitterShare
 https://pinterest.com#@#.twitterWrapper
 https://si.com#@#.ui-share-component
 https://research.gigaom.com#@#.vertical-social
-https://clients.webcaster.pro,invidio.us,nxload.com,video.khl.ru#@#.vjs-share
+https://clients.webcaster.pro,invidio.us,nxload.com,r7.com,video.khl.ru#@#.vjs-share
 https://lessmess.storage#@#.widget-facebook
 https://minutebuzz.com#@#.wrapper-share
 https://whatsapp.com#@#.wsapp
@@ -13746,7 +13746,7 @@ https://forgeandfortune.com#@##toasts > #toastsWrapper
 https://litebit.eu#@#.CookieConsent
 https://what3words.com#@#.CookieNotice-Drawer
 https://boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz#@#.Cookies
-https://bancaifis.it#@#.Cookies:not(body)
+https://aa.com,bancaifis.it#@#.Cookies:not(body)
 https://telegraaf.nl#@#.CookiesOK
 https://maisonapart.com#@#.accept-cookie
 https://api.newsguardtech.com,rockpapershotgun.com#@#.accept-cookie-container
@@ -13777,7 +13777,7 @@ https://zwijsen.nl#@#.cookie-consent-content
 https://artyferia.pl#@#.cookie-consent-show
 https://dovoba.de#@#.cookie-consent-v2
 https://zwijsen.nl#@#.cookie-consent-wrapper
-https://airam.fi,berliner-volksbank.de,codra.net,dovoba.de,medicinenet.com,meinebank.de#@#.cookie-consent:not(body):not(html)
+https://airam.fi,berliner-volksbank.de,codra.net,dovoba.de,medicinenet.com,meinebank.de,mvb.de#@#.cookie-consent:not(body):not(html)
 https://bokadirekt.se,danbolig.dk,hongkong.fi,okazii.ro,rusta.com,xmradio.nl#@#.cookie-content
 https://danbolig.dk,mega.io,skuola.net#@#.cookie-dialog
 https://ikks.com#@#.cookie-footer
@@ -19640,6 +19640,7 @@ http://foodnetwork.com,kitchendaily.com##.pinit
 http://9gag.tv,bulova.com,cnn.com,fraghero.com,inhabitat.com,latintimes.com,nymag.com,opensiteexplorer.org,tweaktown.com,vulture.com,yahoo.com,yourdailymedia.com##.pinterest
 http://lhw.com##.pintrest
 http://cleodesktop.com##.plustop
+http://audacy.com##.podcast-lead__social
 http://polygon.com##.polygon_social
 http://todiscoverrussia.com##.pop_up_wrap
 http://slashdot.org##.popularity
@@ -22388,7 +22389,7 @@ http://wikihow.it###sf
 http://canavesenews.it,gazzetta.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it,torinonews24.it###share
 http://goodmorningnews.it###short-url
 http://deejay.it###slider
-http://autobelle.it,bancadipiacenza.it,canavesenews.it,creditocooperativo.it,fotografidigitali.it,gianlucadimarzio.com,ilsecoloxix.it,lavoro.gov.it,meteogiornale.it,meteovista.it,navigaweb.net,optimagazine.com,optimaitalia.com,radioitalia.it,rasom.it,salute.gov.it,superwheels.net,unibo.it,virginactive.it###social
+http://autobelle.it,bancadipiacenza.it,calciatoribrutti.com,canavesenews.it,creditocooperativo.it,fotografidigitali.it,gianlucadimarzio.com,ilsecoloxix.it,lavoro.gov.it,meteogiornale.it,meteovista.it,navigaweb.net,optimagazine.com,optimaitalia.com,radioitalia.it,rasom.it,salute.gov.it,superwheels.net,unibo.it,virginactive.it###social
 http://radioetv.it###social_presence
 http://biografieonline.it###ss-floating-bar
 http://grom.it###top-info
@@ -22507,6 +22508,7 @@ http://montagna.tv##.post-footer-on-bottom
 http://lifegate.it##.post__trends
 http://raisport.rai.it##.prefooter
 http://assopoker.com##.rating-count
+http://calciatoribrutti.com##.relative-social
 http://mediaset.it##.s_box
 http://nationalgeographic.it##.segui-ng
 http://lescienze.it,unica.it##.seguici
@@ -23485,7 +23487,7 @@ http://eismoinfo.lt###consent
 http://ecodallecitta.it###contenuto_consenso
 http://spesasicura.com###cook
 http://aeo.it,archimagazine.com,bookingaltoadige.com,camionsupermarket.it,cattoliciogginotizie.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,extramagazine.eu,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
-http://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,musictory.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
+http://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,musictory.it,ordineavvocati.bari.it,pardini.it,pcase.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 http://telea1.it###cooky_content
 http://majani.it###cs-banner
 http://netflixlovers.it###cs_container
@@ -24119,7 +24121,7 @@ http://360.cymru###negesCaniatad
 http://nasa.gov#@##BackToTop
 http://billabong.com#@##NewsletterSignup
 http://autotrader.com,brydge.com,controllergear.com,liputan6.com,rejuvenation.com#@##back-to-top
-http://archeda.eu#@##back-top
+http://archeda.eu,arredamento.it#@##back-top
 http://engie.fr,gaz-tarif-reglemente.fr,nasa.gov#@##backToTop
 http://rmf24.pl#@##backTop
 http://nasa.gov#@##backtoTop
@@ -24664,7 +24666,7 @@ http://simonscat.com#@#.twitterShare
 http://pinterest.com#@#.twitterWrapper
 http://si.com#@#.ui-share-component
 http://research.gigaom.com#@#.vertical-social
-http://clients.webcaster.pro,invidio.us,nxload.com,video.khl.ru#@#.vjs-share
+http://clients.webcaster.pro,invidio.us,nxload.com,r7.com,video.khl.ru#@#.vjs-share
 http://lessmess.storage#@#.widget-facebook
 http://minutebuzz.com#@#.wrapper-share
 http://whatsapp.com#@#.wsapp
@@ -24789,7 +24791,7 @@ http://forgeandfortune.com#@##toasts > #toastsWrapper
 http://litebit.eu#@#.CookieConsent
 http://what3words.com#@#.CookieNotice-Drawer
 http://boekmeter.nl,gamesmeter.nl,moviemeter.nl,musicmeter.nl,nzherald.co.nz#@#.Cookies
-http://bancaifis.it#@#.Cookies:not(body)
+http://aa.com,bancaifis.it#@#.Cookies:not(body)
 http://telegraaf.nl#@#.CookiesOK
 http://maisonapart.com#@#.accept-cookie
 http://api.newsguardtech.com,rockpapershotgun.com#@#.accept-cookie-container
@@ -24820,7 +24822,7 @@ http://zwijsen.nl#@#.cookie-consent-content
 http://artyferia.pl#@#.cookie-consent-show
 http://dovoba.de#@#.cookie-consent-v2
 http://zwijsen.nl#@#.cookie-consent-wrapper
-http://airam.fi,berliner-volksbank.de,codra.net,dovoba.de,medicinenet.com,meinebank.de#@#.cookie-consent:not(body):not(html)
+http://airam.fi,berliner-volksbank.de,codra.net,dovoba.de,medicinenet.com,meinebank.de,mvb.de#@#.cookie-consent:not(body):not(html)
 http://bokadirekt.se,danbolig.dk,hongkong.fi,okazii.ro,rusta.com,xmradio.nl#@#.cookie-content
 http://danbolig.dk,mega.io,skuola.net#@#.cookie-dialog
 http://ikks.com#@#.cookie-footer
