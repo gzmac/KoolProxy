@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: wmSTif0iLNFiNvOG22R3vQ
-! Version: 202105290123
+! Checksum: Zw3WHbeY5oJ9m1OQJwAhGA
+! Version: 202105300133
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -2932,6 +2932,7 @@
 ||https://jinyici.com/qq.js
 ||https://jishuyl.com/_skins/*/ad_
 ||https://jisoupan.com/static/
+||https://jisusoft.com/ads/
 ||https://jisutiyu.com/app/js/*footer.js
 ||https://jisuxz.com/180226/b180226.js
 ||https://jisuxz.com/180226/downshare
@@ -3131,6 +3132,7 @@
 ||https://lele36.com/p/*.gif
 ||https://lelekan.com/sp/fmt.js
 ||https://leleketang.com/dat/a/
+||https://lenosoft.net/js/ad
 ||https://lenovo.com.cn/cms/2018-07-20/201807201014498251793.png
 ||https://lenovo.com.cn/lenovo/bid?clientType=
 ||https://letv.com/pzt/hyhmzq/index.shtml
@@ -3405,8 +3407,8 @@
 ||https://mydrivers.com/2018/ad/
 ||https://mydrivers.com/2018/news/ad
 ||https://mydrivers.com/2020/news/8/kkj_msi.gif
+||https://mydrivers.com/2021/*msi
 ||https://mydrivers.com/2021/news/*_300250.
-||https://mydrivers.com/2021/news/kkj_msi.gif
 ||https://mydrivers.com/images/*_1100_90.
 ||https://mydrivers.com/images/hongbao
 ||https://mydrivers.com/images/icon/gg_
@@ -3772,11 +3774,6 @@
 ||https://right.com.cn/logo/*.gif
 ||https://right.com.cn/logo/yyb.png
 ||https://riju.com/pr/
-||https://rijutv.com/statics/alljs/rijutvapp.
-||https://rijutv.com/statics/alljs/rijutvpc.js
-||https://rijutv.com/statics/js/tb.js
-||https://rijutv.com/statics/skin/hjtv-wap/js/plus.js
-||https://rijutv.com/uploadfile/8c96dc2f564c1b56.png
 ||https://rising.cn/js/haoAdData.js
 ||https://rising.cn/rxbox/
 ||https://rising.cn^*/pic-ad/
@@ -4010,7 +4007,7 @@
 ||https://sozi.cn/images/tj/hukead.gif
 ||https://sozi.cn/images/tj/szdown
 ||https://sozi.cn/templets/sozi/js/js.js
-||https://speedtest.cn/api/v2/showpic?
+||https://speedtest.cn/api/v2/show?
 ||https://speedtest.cn/assets/images/ce_
 ||https://sportscn.com/js/commerical
 ||https://sportsv.net/dist/ads/
@@ -10567,6 +10564,7 @@
 ||http://jinyici.com/qq.js
 ||http://jishuyl.com/_skins/*/ad_
 ||http://jisoupan.com/static/
+||http://jisusoft.com/ads/
 ||http://jisutiyu.com/app/js/*footer.js
 ||http://jisuxz.com/180226/b180226.js
 ||http://jisuxz.com/180226/downshare
@@ -10782,6 +10780,7 @@
 ||http://lele36.com/p/*.gif
 ||http://lelekan.com/sp/fmt.js
 ||http://leleketang.com/dat/a/
+||http://lenosoft.net/js/ad
 ||http://lenovo.com.cn/cms/2018-07-20/201807201014498251793.png
 ||http://lenovo.com.cn/lenovo/bid?clientType=
 ||http://letv.com/pzt/hyhmzq/index.shtml
@@ -11078,8 +11077,8 @@
 ||http://mydrivers.com/2018/ad/
 ||http://mydrivers.com/2018/news/ad
 ||http://mydrivers.com/2020/news/8/kkj_msi.gif
+||http://mydrivers.com/2021/*msi
 ||http://mydrivers.com/2021/news/*_300250.
-||http://mydrivers.com/2021/news/kkj_msi.gif
 ||http://mydrivers.com/images/*_1100_90.
 ||http://mydrivers.com/images/hongbao
 ||http://mydrivers.com/images/icon/gg_
@@ -11489,11 +11488,6 @@
 ||http://right.com.cn/logo/*.gif
 ||http://right.com.cn/logo/yyb.png
 ||http://riju.com/pr/$domain=jpfans.com|jpseek.com
-||http://rijutv.com/statics/alljs/rijutvapp.
-||http://rijutv.com/statics/alljs/rijutvpc.js
-||http://rijutv.com/statics/js/tb.js
-||http://rijutv.com/statics/skin/hjtv-wap/js/plus.js
-||http://rijutv.com/uploadfile/8c96dc2f564c1b56.png
 ||http://rising.cn/js/haoAdData.js
 ||http://rising.cn/rxbox/
 ||http://rising.cn^*/pic-ad/
@@ -11742,7 +11736,7 @@
 ||http://sozi.cn/images/tj/hukead.gif
 ||http://sozi.cn/images/tj/szdown
 ||http://sozi.cn/templets/sozi/js/js.js
-||http://speedtest.cn/api/v2/showpic?
+||http://speedtest.cn/api/v2/show?
 ||http://speedtest.cn/assets/images/ce_
 ||http://sportscn.com/js/commerical
 ||http://sportsv.net/dist/ads/
@@ -13588,6 +13582,7 @@
 ||http://365syt.cn^
 ||http://377zt.cn^
 ||http://381s.net^
+||http://387635.com^
 ||http://3hbox.com^
 ||http://3yai2u.cn^
 ||http://3ye924.cn^
@@ -14484,6 +14479,7 @@
 ||http://kangerlu.com^
 ||http://kanjiaqun.cn^
 ||http://kantv.pub^
+||http://kanvideo.top^
 ||http://kbstyn.com^
 ||http://kddlearn.cn^
 ||http://keilb.xyz^
@@ -14555,6 +14551,7 @@
 ||http://linkjingkeji.com^
 ||http://listenother.com^
 ||http://liufang1994.top^
+||http://liuhemei.com.cn^
 ||http://liujiaqi.top^
 ||http://liulu888.com^
 ||http://liuzishen.com^
@@ -14968,6 +14965,7 @@
 ||http://suhusushi.com^
 ||http://suitmatters.cn^
 ||http://suoooi.cn^
+||http://superbao.top^
 ||http://sv7oqa.cn^
 ||http://svfwer.top^
 ||http://sw9t.ml^
@@ -15240,6 +15238,7 @@
 ||http://xl4z7.cn^
 ||http://xlhwzx.cn^
 ||http://xmcs99885.cn^
+||http://xmcs99886.cn^
 ||http://xmcxz.com^
 ||http://xmljx.cn^
 ||http://xmseaside.com^
@@ -15409,6 +15408,7 @@
 ||http://zhangyiqian.top^
 ||http://zhanjiangletian.com^
 ||http://zhanlan5.cn^
+||http://zhaoyafang.cn^
 ||http://zhekoudajie.com^
 ||http://zhenben.cc/2000/
 ||http://zhengzhoupengbo.com^
@@ -16188,6 +16188,7 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://biduoxs.com##DIV[style="width:976px;"]
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -16244,7 +16245,7 @@ https://fx168.com###ImgText_01
 https://fx168.com###ImgText_02
 https://fx168.com###ImgText_03
 https://pconline.com.cn###JBestRecomm
-https://rijutv.com###JU
+https://rijutv.co###JU
 https://duba.com###J_BottomAdBan
 https://duba.com###J_BottomAdBan_bg
 https://duba.com,newduba.cn###J_FloorWave
@@ -17135,7 +17136,7 @@ https://rising.cn###pageflip
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_encourage-appforum\/pagelet\/my_app
 https://1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_encourage-tbguess\/pagelet\/sidebar
 https://1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_frs-aside\/pagelet\/ad
-https://baidu.com###pagelet_frs-aside\/pagelet\/fengchao_ad
+https://1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_frs-aside\/pagelet\/fengchao_ad
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_frs-header\/pagelet\/head_content_middle > div[class]:not([class*="_"]):first-child
 https://1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_search\/pagelet\/search_ad
 https://whnews.cn###panel
@@ -18394,7 +18395,7 @@ https://u-car.com.tw##.contad
 https://u-car.com.tw##.contad_text
 https://dragon-guide.net##.container > .gutter:first-child
 https://ygdy8.cc##.container > a[href^="/"]
-https://rijutv.com##.container > div[style="height: 128px;"]
+https://rijutv.co##.container > div[style="height: 128px;"]
 https://vpsdx.com##.container-fluid > .gsfha3 > .gsfha3
 https://www.wangjing.cn##.content > div[style*="980px;"]
 https://cnbeta.com##.content > p:last-child > a[href]
@@ -19396,6 +19397,7 @@ https://oschina.net##.news_detai_above_ad
 https://mydrivers.com##.news_info > div[style*="height:"]
 https://mydrivers.com##.news_left > div[style*="height:"]
 https://07073.com##.news_list1_tu
+https://mydrivers.com##.news_n + div[style*="height"]
 https://mydrivers.com##.news_xg + style + div
 https://chinamedevice.cn##.news_ylqx
 https://chinamedevice.cn##.news_ylqx3
@@ -19881,6 +19883,7 @@ https://etest8.com##.subtop2right
 https://ltn.com.tw##.suggest_full .C5
 https://17house.com##.suiping
 https://qingdaonews.com##.surround
+https://baidu.com##.swan-ad-fc-feed
 https://toolfk.com##.swiper-container-horizontal
 https://1kkk.com,dm5.com##.swiper-container[style*="760px;"]
 https://cnbeta.com##.swiper-slide-content a[href^="http"]:not([href*="cnbeta."])
@@ -19965,6 +19968,7 @@ https://cnool.net##.third-banner
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.thread_dir_ad
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.thread_local_58
 https://jbtalks.cc##.threadad
+https://speedtest.cn##.ticket618_logo
 https://163.com##.tie-ad-bar
 https://chromefk.com##.tip-alert
 https://json.cn##.tip[target="_blank"]
@@ -20083,7 +20087,7 @@ https://hao123.com##.treasure-item
 https://megatime.com.tw,pchome.com.tw##.tripplead
 https://ts.cn##.tsggding
 https://huya.com##.tt[style*="1200px"]
-https://23pili.com,52pili.com,7060.la,bimiacg.com,bimibimi.cc##.tuiguang
+https://23pili.com,52pili.com,7060.la,bimiacg.net,bimibimi.cc##.tuiguang
 https://m.hao123.com##.tuizhan
 https://meizhou.cn##.tuwengg
 https://xinhuanet.com##.txt > ul > li > a[href^="http"]:not([href*=".xinhuanet."])
@@ -20110,7 +20114,7 @@ https://hackhome.com##.ul_ad
 https://131458.com##.ulfooter_top
 https://baidu.com##.under-tips
 https://autohome.com.cn##.union-ad-placeholder
-https://rijutv.com##.union-list-item
+https://rijutv.co##.union-list-item
 https://baidu.com##.union-tg
 https://baidu.com##.v-s-tuiguang-wrap
 https://vuetifyjs.com##.v-sponsors
@@ -20719,6 +20723,7 @@ https://hupu.com##div[class*="ad980-60"]
 https://zhibo8.cc##div[class*="advert"]
 https://52solution.com##div[class*="banner"]
 https://efu.com.cn##div[class*="banner-"]
+https://m.baidu.com##div[class*="fc-"][data-placeid]
 https://fx112.com##div[class*="floatap"]
 https://autohome.com.cn##div[class*="game"]
 https://qinbing.cn##div[class*="gg"]
@@ -21438,6 +21443,7 @@ https://18comic.org,18comic.vip##a[href^="http"]:not([href*="18comic."]) > img
 https://18comic.org,18comic.vip##div[style^="position: fixed; top:"]
 https://18comic.org,18comic.vip##img[style*="300px"]
 https://7255.com###J_search_bd > div:last-child
+https://2345.com###leftPacketMini
 https://7255.com###right > div:first-child
 https://7255.com##.act-search-tab
 https://7255.com##.chc-dzoem
@@ -22618,6 +22624,7 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://biduoxs.com##DIV[style="width:976px;"]
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -22674,7 +22681,7 @@ http://fx168.com###ImgText_01
 http://fx168.com###ImgText_02
 http://fx168.com###ImgText_03
 http://pconline.com.cn###JBestRecomm
-http://rijutv.com###JU
+http://rijutv.co###JU
 http://duba.com###J_BottomAdBan
 http://duba.com###J_BottomAdBan_bg
 http://duba.com,newduba.cn###J_FloorWave
@@ -23565,7 +23572,7 @@ http://rising.cn###pageflip
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_encourage-appforum\/pagelet\/my_app
 http://1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_encourage-tbguess\/pagelet\/sidebar
 http://1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_frs-aside\/pagelet\/ad
-http://baidu.com###pagelet_frs-aside\/pagelet\/fengchao_ad
+http://1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_frs-aside\/pagelet\/fengchao_ad
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_frs-header\/pagelet\/head_content_middle > div[class]:not([class*="_"]):first-child
 http://1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_search\/pagelet\/search_ad
 http://whnews.cn###panel
@@ -24824,7 +24831,7 @@ http://u-car.com.tw##.contad
 http://u-car.com.tw##.contad_text
 http://dragon-guide.net##.container > .gutter:first-child
 http://ygdy8.cc##.container > a[href^="/"]
-http://rijutv.com##.container > div[style="height: 128px;"]
+http://rijutv.co##.container > div[style="height: 128px;"]
 http://vpsdx.com##.container-fluid > .gsfha3 > .gsfha3
 http://www.wangjing.cn##.content > div[style*="980px;"]
 http://cnbeta.com##.content > p:last-child > a[href]
@@ -25826,6 +25833,7 @@ http://oschina.net##.news_detai_above_ad
 http://mydrivers.com##.news_info > div[style*="height:"]
 http://mydrivers.com##.news_left > div[style*="height:"]
 http://07073.com##.news_list1_tu
+http://mydrivers.com##.news_n + div[style*="height"]
 http://mydrivers.com##.news_xg + style + div
 http://chinamedevice.cn##.news_ylqx
 http://chinamedevice.cn##.news_ylqx3
@@ -26312,6 +26320,7 @@ http://etest8.com##.subtop2right
 http://ltn.com.tw##.suggest_full .C5
 http://17house.com##.suiping
 http://qingdaonews.com##.surround
+http://baidu.com##.swan-ad-fc-feed
 http://toolfk.com##.swiper-container-horizontal
 http://1kkk.com,dm5.com##.swiper-container[style*="760px;"]
 http://cnbeta.com##.swiper-slide-content a[href^="http"]:not([href*="cnbeta."])
@@ -26396,6 +26405,7 @@ http://cnool.net##.third-banner
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.thread_dir_ad
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.thread_local_58
 http://jbtalks.cc##.threadad
+http://speedtest.cn##.ticket618_logo
 http://163.com##.tie-ad-bar
 http://chromefk.com##.tip-alert
 http://json.cn##.tip[target="_blank"]
@@ -26514,7 +26524,7 @@ http://hao123.com##.treasure-item
 http://megatime.com.tw,pchome.com.tw##.tripplead
 http://ts.cn##.tsggding
 http://huya.com##.tt[style*="1200px"]
-http://23pili.com,52pili.com,7060.la,bimiacg.com,bimibimi.cc##.tuiguang
+http://23pili.com,52pili.com,7060.la,bimiacg.net,bimibimi.cc##.tuiguang
 http://m.hao123.com##.tuizhan
 http://meizhou.cn##.tuwengg
 http://xinhuanet.com##.txt > ul > li > a[href^="http"]:not([href*=".xinhuanet."])
@@ -26541,7 +26551,7 @@ http://hackhome.com##.ul_ad
 http://131458.com##.ulfooter_top
 http://baidu.com##.under-tips
 http://autohome.com.cn##.union-ad-placeholder
-http://rijutv.com##.union-list-item
+http://rijutv.co##.union-list-item
 http://baidu.com##.union-tg
 http://baidu.com##.v-s-tuiguang-wrap
 http://vuetifyjs.com##.v-sponsors
@@ -27151,6 +27161,7 @@ http://hupu.com##div[class*="ad980-60"]
 http://zhibo8.cc##div[class*="advert"]
 http://52solution.com##div[class*="banner"]
 http://efu.com.cn##div[class*="banner-"]
+http://m.baidu.com##div[class*="fc-"][data-placeid]
 http://fx112.com##div[class*="floatap"]
 http://autohome.com.cn##div[class*="game"]
 http://qinbing.cn##div[class*="gg"]
@@ -27870,6 +27881,7 @@ http://18comic.org,18comic.vip##a[href^="http"]:not([href*="18comic."]) > img
 http://18comic.org,18comic.vip##div[style^="position: fixed; top:"]
 http://18comic.org,18comic.vip##img[style*="300px"]
 http://7255.com###J_search_bd > div:last-child
+http://2345.com###leftPacketMini
 http://7255.com###right > div:first-child
 http://7255.com##.act-search-tab
 http://7255.com##.chc-dzoem

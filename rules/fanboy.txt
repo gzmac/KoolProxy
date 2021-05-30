@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 35rFhRcGsjZBEMIuBq2olQ
-! Version: 202105290100
+! Checksum: MJzlbCikNkhs4GmVlk8Hgg
+! Version: 202105300150
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-29 01:00 UTC
+! Last modified: 2021-05-30 01:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -388,6 +388,7 @@
 ||https://ziprecruiter.com/jobs-widget/$third-party
 ||https://zoomanalytics.co^$third-party
 ||https://zotabox.com^*/widgets.js$third-party
+||https://m.youtube.com/s/player/*/ad.js$script,~third-party
 ||https://music.youtube.com^$csp=worker-src 'none'
 ||https://www.youtube.com^$csp=worker-src 'none'
 ||https://appspot.com/sounds/chatmsg.mp3
@@ -1786,6 +1787,7 @@
 ||http://ziprecruiter.com/jobs-widget/$third-party
 ||http://zoomanalytics.co^$third-party
 ||http://zotabox.com^*/widgets.js$third-party
+||http://m.youtube.com/s/player/*/ad.js$script,~third-party
 ||http://music.youtube.com^$csp=worker-src 'none'
 ||http://www.youtube.com^$csp=worker-src 'none'
 ||http://appspot.com/sounds/chatmsg.mp3
@@ -5602,6 +5604,7 @@ https://nwfdailynews.com##.promotionalmaindiv
 https://givesmehope.com##.publicite
 https://mashable.com##.publisher-bar
 https://acne.org##.pull-right
+https://kickstarter.com##.py2.bg-navy-200
 https://ebay.com##.ql-a
 https://huffpost.com##.qr_close_frame
 https://pandora.tv##.quick
@@ -7679,7 +7682,7 @@ https://thefastmode.com###ChromeAppPromotion
 https://windy.com###open-in-app
 https://cbsnews.com,yelp.com###smart-banner
 https://dailymail.co.uk,m.jpost.com###smartBanner
-https://2br.co.uk,deviantart.com,dw.com,eurosport.com,nzherald.co.nz,photobucket.com,spiegel.de###smartbanner
+https://2br.co.uk,deviantart.com,dw.com,eurosport.com,nzherald.co.nz,photobucket.com,spiegel.de,tvnz.co.nz###smartbanner
 https://reddit.com##.AppSelectorModal__body
 https://financialexpress.com,indianexpress.com##.app-btn
 https://ebay.com##.app-download-banner
@@ -13775,7 +13778,7 @@ https://lg.com#@#.cookie-check
 https://zwijsen.nl#@#.cookie-consent-container
 https://zwijsen.nl#@#.cookie-consent-content
 https://artyferia.pl#@#.cookie-consent-show
-https://dovoba.de#@#.cookie-consent-v2
+https://berliner-volksbank.de,dovoba.de#@#.cookie-consent-v2
 https://zwijsen.nl#@#.cookie-consent-wrapper
 https://airam.fi,berliner-volksbank.de,codra.net,dovoba.de,medicinenet.com,meinebank.de,mvb.de#@#.cookie-consent:not(body):not(html)
 https://bokadirekt.se,danbolig.dk,hongkong.fi,okazii.ro,rusta.com,xmradio.nl#@#.cookie-content
@@ -13916,7 +13919,7 @@ https://litebit.eu#@#div[class*="CookieConsent"]
 https://telenor.se#@#div[class*="cookie-consent-modal_"]
 https://what3words.com#@#div[class^="CookieNotice"]
 https://ee.co.uk,monese.com,ukvcas.co.uk#@#div[class^="cookie-banner"]
-https://dovoba.de#@#div[class^="cookie-consent_"]
+https://berliner-volksbank.de,dovoba.de#@#div[class^="cookie-consent_"]
 https://coolblue.be#@#div[class^="cookie-notification_"]
 https://birramenabrea.com,cnwl.nhs.uk,marketerplus.pl,myspeed.pl#@#div[data-cookie]
 https://timeout.com#@#div[data-module="cookie_banner"]
@@ -16645,6 +16648,7 @@ http://nwfdailynews.com##.promotionalmaindiv
 http://givesmehope.com##.publicite
 http://mashable.com##.publisher-bar
 http://acne.org##.pull-right
+http://kickstarter.com##.py2.bg-navy-200
 http://ebay.com##.ql-a
 http://huffpost.com##.qr_close_frame
 http://pandora.tv##.quick
@@ -18722,7 +18726,7 @@ http://thefastmode.com###ChromeAppPromotion
 http://windy.com###open-in-app
 http://cbsnews.com,yelp.com###smart-banner
 http://dailymail.co.uk,m.jpost.com###smartBanner
-http://2br.co.uk,deviantart.com,dw.com,eurosport.com,nzherald.co.nz,photobucket.com,spiegel.de###smartbanner
+http://2br.co.uk,deviantart.com,dw.com,eurosport.com,nzherald.co.nz,photobucket.com,spiegel.de,tvnz.co.nz###smartbanner
 http://reddit.com##.AppSelectorModal__body
 http://financialexpress.com,indianexpress.com##.app-btn
 http://ebay.com##.app-download-banner
@@ -24820,7 +24824,7 @@ http://lg.com#@#.cookie-check
 http://zwijsen.nl#@#.cookie-consent-container
 http://zwijsen.nl#@#.cookie-consent-content
 http://artyferia.pl#@#.cookie-consent-show
-http://dovoba.de#@#.cookie-consent-v2
+http://berliner-volksbank.de,dovoba.de#@#.cookie-consent-v2
 http://zwijsen.nl#@#.cookie-consent-wrapper
 http://airam.fi,berliner-volksbank.de,codra.net,dovoba.de,medicinenet.com,meinebank.de,mvb.de#@#.cookie-consent:not(body):not(html)
 http://bokadirekt.se,danbolig.dk,hongkong.fi,okazii.ro,rusta.com,xmradio.nl#@#.cookie-content
@@ -24961,7 +24965,7 @@ http://litebit.eu#@#div[class*="CookieConsent"]
 http://telenor.se#@#div[class*="cookie-consent-modal_"]
 http://what3words.com#@#div[class^="CookieNotice"]
 http://ee.co.uk,monese.com,ukvcas.co.uk#@#div[class^="cookie-banner"]
-http://dovoba.de#@#div[class^="cookie-consent_"]
+http://berliner-volksbank.de,dovoba.de#@#div[class^="cookie-consent_"]
 http://coolblue.be#@#div[class^="cookie-notification_"]
 http://birramenabrea.com,cnwl.nhs.uk,marketerplus.pl,myspeed.pl#@#div[data-cookie]
 http://timeout.com#@#div[data-module="cookie_banner"]
