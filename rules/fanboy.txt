@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MJzlbCikNkhs4GmVlk8Hgg
-! Version: 202105300150
+! Checksum: rYW/auGk5RS/+qJ5rj2DoQ
+! Version: 202105310200
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-30 01:50 UTC
+! Last modified: 2021-05-31 02:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4934,6 +4934,7 @@ https://nienhueser.de##.ff-I-like-it
 https://indiancountrytodaymedianetwork.com##.field-name-share-this
 https://dlife.com##.findUs
 https://blog.leanstart.ch##.fixed
+https://winteriscoming.net##.fixed-article-nav
 https://businessnewsdaily.com##.fixed-bar
 https://gogameguru.com,tecmint.com,wpbeginner.com##.fixedBar
 https://oneplus.com##.fixed_feedback
@@ -6186,7 +6187,9 @@ https://firecold.com##table[style="margin: 30px 0 0 0"]
 https://briefing.com##table[style="vertical-align: top; text-align: left;\a \9             background-color: White; width: 100%; padding: 10px;"]
 https://osnews.com##table[width="285"]
 https://finestdaily.com##table[width="642"]
+https://theguardian.com###contact-the-guardian
 https://designtaxi.com###fancybar_link
+https://theguardian.com###g200-banner
 https://alternet.org###kindest-container
 https://insidethegames.biz###top-story-alert
 https://theweek.com###us77-test
@@ -6665,6 +6668,7 @@ https://cointelegraph.com##.b-post-subscription
 https://oilprice.com##.background_lozad
 https://hopesandfears.com,osu.edu##.banner
 https://bloombergquint.com##.banner-link
+https://thedriven.io##.basic_mailchimp_widget
 https://wired.co.uk##.bb-button
 https://apnews.com##.bellow-article
 https://catchnews.com##.bg-col-blue
@@ -8326,11 +8330,12 @@ https://shoutmeloud.com##.floaticons
 https://remezcla.com##.floating-menu
 https://etfdailynews.com##.floating-menuG
 https://ryot.org##.floating_ryot_share
-https://alarabiya.net,amd.com,batman-news.com,bbcamerica.com,bgr.com,californiasunday.com,catholic.org,cheapies.nz,cnet.com,espnmediazone.com,esquire.com,fandango.com,flashbak.com,fox10phoenix.com,fromthegrapevine.com,geeksaresexy.net,goodnet.org,grindtv.com,independent.co.uk,indiatimes.com,inverse.com,itworld.com,kpopstarz.com,mashable.com,nbcnews.com,newindianexpress.com,nhl.com,opposingviews.com,pawnation.com,phys.org,pulsenews.co.kr,qnb.com,shazam.com,silicon.co.uk,skatehut.co.uk,sky.com,statnews.com,symmetrymagazine.org,tribuneindia.com,tvnz.co.nz,unz.com,usatoday.com,vagabomb.com,verisigninc.com,wanda-group.com,winbeta.org,wonderwall.com##.follow
+https://alarabiya.net,amd.com,batman-news.com,bbcamerica.com,bgr.com,californiasunday.com,catholic.org,cheapies.nz,cnet.com,espnmediazone.com,esquire.com,fandango.com,flashbak.com,fox10phoenix.com,fromthegrapevine.com,fstoppers.com,geeksaresexy.net,goodnet.org,grindtv.com,independent.co.uk,indiatimes.com,inverse.com,itworld.com,kpopstarz.com,mashable.com,nbcnews.com,newindianexpress.com,nhl.com,opposingviews.com,pawnation.com,phys.org,pulsenews.co.kr,qnb.com,shazam.com,silicon.co.uk,skatehut.co.uk,sky.com,statnews.com,symmetrymagazine.org,tribuneindia.com,tvnz.co.nz,unz.com,usatoday.com,vagabomb.com,verisigninc.com,wanda-group.com,winbeta.org,wonderwall.com##.follow
 https://aikenstandard.com##.follow-aiken-standard
 https://aol.com##.follow-aol
 https://breakingnews.ie##.follow-bn
 https://ein-herz-fuer-kinder.de##.follow-container
+https://fstoppers.com##.follow-fstoppers
 https://autocarindia.com##.follow-google-news-p
 https://indiancountrytodaymedianetwork.com##.follow-home
 https://talabat.com##.follow-i
@@ -9709,6 +9714,7 @@ https://addgene.org##.l-dismissible-msg
 https://wiley.com##.l-notification
 https://inoreader.com##.landing_promo_banner_top
 https://evs.com##.language-switcher
+https://gfbv.ch##.layout-messages
 https://airlinecheckins.com##.layout-row
 https://hertz247.co.uk,hertz247.com,hertzcarsales.co.uk##.lbContainer
 https://hertz247.co.uk,hertz247.com,hertzcarsales.co.uk##.lb_overlay
@@ -9909,6 +9915,7 @@ https://abcnews.go.com##.terms-alert-fixed
 https://kambly.com##.terms-cond
 https://fijiairways.com##.terms-of-use
 https://adelaidenow.com.au,cairnspost.com.au,couriermail.com.au,dailytelegraph.com.au,geelongadvertiser.com.au,goldcoastbulletin.com.au,heraldsun.com.au,ntnews.com.au,themercury.com.au,townsvillebulletin.com.au,weeklytimesnow.com.au##.tgc-footer_disclaimer
+https://thomannmusic.ch##.thomann-cookie-consent-overlay
 https://tastedive.com##.tk-Footer
 https://bidvestbank.co.za,byutv.org,fantrax.com,tbs.com,tntdrama.com##.toast
 https://ikea.com##.toast-container
@@ -15978,6 +15985,7 @@ http://nienhueser.de##.ff-I-like-it
 http://indiancountrytodaymedianetwork.com##.field-name-share-this
 http://dlife.com##.findUs
 http://blog.leanstart.ch##.fixed
+http://winteriscoming.net##.fixed-article-nav
 http://businessnewsdaily.com##.fixed-bar
 http://gogameguru.com,tecmint.com,wpbeginner.com##.fixedBar
 http://oneplus.com##.fixed_feedback
@@ -17230,7 +17238,9 @@ http://firecold.com##table[style="margin: 30px 0 0 0"]
 http://briefing.com##table[style="vertical-align: top; text-align: left;\a \9             background-color: White; width: 100%; padding: 10px;"]
 http://osnews.com##table[width="285"]
 http://finestdaily.com##table[width="642"]
+http://theguardian.com###contact-the-guardian
 http://designtaxi.com###fancybar_link
+http://theguardian.com###g200-banner
 http://alternet.org###kindest-container
 http://insidethegames.biz###top-story-alert
 http://theweek.com###us77-test
@@ -17709,6 +17719,7 @@ http://cointelegraph.com##.b-post-subscription
 http://oilprice.com##.background_lozad
 http://hopesandfears.com,osu.edu##.banner
 http://bloombergquint.com##.banner-link
+http://thedriven.io##.basic_mailchimp_widget
 http://wired.co.uk##.bb-button
 http://apnews.com##.bellow-article
 http://catchnews.com##.bg-col-blue
@@ -19370,11 +19381,12 @@ http://shoutmeloud.com##.floaticons
 http://remezcla.com##.floating-menu
 http://etfdailynews.com##.floating-menuG
 http://ryot.org##.floating_ryot_share
-http://alarabiya.net,amd.com,batman-news.com,bbcamerica.com,bgr.com,californiasunday.com,catholic.org,cheapies.nz,cnet.com,espnmediazone.com,esquire.com,fandango.com,flashbak.com,fox10phoenix.com,fromthegrapevine.com,geeksaresexy.net,goodnet.org,grindtv.com,independent.co.uk,indiatimes.com,inverse.com,itworld.com,kpopstarz.com,mashable.com,nbcnews.com,newindianexpress.com,nhl.com,opposingviews.com,pawnation.com,phys.org,pulsenews.co.kr,qnb.com,shazam.com,silicon.co.uk,skatehut.co.uk,sky.com,statnews.com,symmetrymagazine.org,tribuneindia.com,tvnz.co.nz,unz.com,usatoday.com,vagabomb.com,verisigninc.com,wanda-group.com,winbeta.org,wonderwall.com##.follow
+http://alarabiya.net,amd.com,batman-news.com,bbcamerica.com,bgr.com,californiasunday.com,catholic.org,cheapies.nz,cnet.com,espnmediazone.com,esquire.com,fandango.com,flashbak.com,fox10phoenix.com,fromthegrapevine.com,fstoppers.com,geeksaresexy.net,goodnet.org,grindtv.com,independent.co.uk,indiatimes.com,inverse.com,itworld.com,kpopstarz.com,mashable.com,nbcnews.com,newindianexpress.com,nhl.com,opposingviews.com,pawnation.com,phys.org,pulsenews.co.kr,qnb.com,shazam.com,silicon.co.uk,skatehut.co.uk,sky.com,statnews.com,symmetrymagazine.org,tribuneindia.com,tvnz.co.nz,unz.com,usatoday.com,vagabomb.com,verisigninc.com,wanda-group.com,winbeta.org,wonderwall.com##.follow
 http://aikenstandard.com##.follow-aiken-standard
 http://aol.com##.follow-aol
 http://breakingnews.ie##.follow-bn
 http://ein-herz-fuer-kinder.de##.follow-container
+http://fstoppers.com##.follow-fstoppers
 http://autocarindia.com##.follow-google-news-p
 http://indiancountrytodaymedianetwork.com##.follow-home
 http://talabat.com##.follow-i
@@ -20754,6 +20766,7 @@ http://addgene.org##.l-dismissible-msg
 http://wiley.com##.l-notification
 http://inoreader.com##.landing_promo_banner_top
 http://evs.com##.language-switcher
+http://gfbv.ch##.layout-messages
 http://airlinecheckins.com##.layout-row
 http://hertz247.co.uk,hertz247.com,hertzcarsales.co.uk##.lbContainer
 http://hertz247.co.uk,hertz247.com,hertzcarsales.co.uk##.lb_overlay
@@ -20954,6 +20967,7 @@ http://abcnews.go.com##.terms-alert-fixed
 http://kambly.com##.terms-cond
 http://fijiairways.com##.terms-of-use
 http://adelaidenow.com.au,cairnspost.com.au,couriermail.com.au,dailytelegraph.com.au,geelongadvertiser.com.au,goldcoastbulletin.com.au,heraldsun.com.au,ntnews.com.au,themercury.com.au,townsvillebulletin.com.au,weeklytimesnow.com.au##.tgc-footer_disclaimer
+http://thomannmusic.ch##.thomann-cookie-consent-overlay
 http://tastedive.com##.tk-Footer
 http://bidvestbank.co.za,byutv.org,fantrax.com,tbs.com,tntdrama.com##.toast
 http://ikea.com##.toast-container
