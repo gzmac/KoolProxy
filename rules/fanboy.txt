@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rYW/auGk5RS/+qJ5rj2DoQ
-! Version: 202105310200
+! Checksum: D/NNvZ4BD5RzcpOhFqWHhw
+! Version: 202106010200
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-05-31 02:00 UTC
+! Last modified: 2021-06-01 02:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -832,6 +832,7 @@
 ||https://onetag.mgr.consensu.org^$third-party
 ||https://onetrust.com^$third-party
 ||https://onetrust.mgr.consensu.org^$third-party
+||https://orangeclickmedia.com^$third-party
 ||https://privacy-center.org^$third-party
 ||https://privacy.clion.agency^$third-party
 ||https://privacymanager.io^$third-party
@@ -1164,6 +1165,7 @@
 ||https://boosterblog.com/ban/$third-party
 ||https://free-debride.id.st^$third-party
 ||https://maison-travaux.fr/wp-content/themes/*/iframe-box-article.html
+||https://onaregarde-pourvous.com/api/$third-party
 ||https://out.be/widgets/$third-party
 ||https://tout-sur-le-web.com^$third-party
 ||https://auto-moto.com^*/iframe-box-article.html
@@ -1345,6 +1347,7 @@
 ||https://henryschein.at^*/CookieList.aspx
 ||https://keltendorf-mitterkirchen.at/system/web/cookie.ashx
 ||https://strato.de^*/consent.js
+||https://cmp.lemonde.fr/js/lemonde.min.js
 ||https://docteurclic.com/ajax/ajax_get_disc.aspx
 ||https://gmx.fr/uim/bidding/consent.js
 ||https://jeu.video^*/partners.js
@@ -2248,6 +2251,7 @@
 ||http://onetrust.com^$third-party
 ||http://onetrust.mgr.consensu.org^$third-party
 ||http://optanon.blob.core.windows.net^
+||http://orangeclickmedia.com^$third-party
 ||http://privacy-center.org^$third-party
 ||http://privacy.clion.agency^$third-party
 ||http://privacymanager.io^$third-party
@@ -2612,6 +2616,7 @@
 ||http://boosterblog.com/ban/$third-party
 ||http://free-debride.id.st^$third-party
 ||http://maison-travaux.fr/wp-content/themes/*/iframe-box-article.html
+||http://onaregarde-pourvous.com/api/$third-party
 ||http://out.be/widgets/$third-party
 ||http://tout-sur-le-web.com^$third-party
 ||http://auto-moto.com^*/iframe-box-article.html
@@ -2808,6 +2813,7 @@
 ||http://keltendorf-mitterkirchen.at/system/web/cookie.ashx
 ||http://strato.de^*/consent.js
 ||http://up-cookiemon.wavecdn.net^
+||http://cmp.lemonde.fr/js/lemonde.min.js
 ||http://cnil.links-lab.fr^
 ||http://consent.prismamedia.com^
 ||http://cookies.leadplace.fr^
@@ -4685,6 +4691,7 @@ https://product-reviews.net##.boxside
 https://tactxflashlights.com,undark.org##.boxzilla-container
 https://itworld.com##.br-li
 https://itworld.com##.br-tw
+https://1027kord.com,1063thebuzz.com,710keel.com,929nin.com,keyj.com,kfyo.com,klaq.com,kool1017.com,newstalk1290.com,popcrush.com,tasteofcountry.com,thefw.com,tmz.com,ultimateclassicrock.com,wfgr.com,wgrd.com,wjon.com##.branded-app-shortcode-inarticle
 https://lostlettermen.com##.brdrCntr-09
 https://rdmag.com##.breadcrumblink
 https://dropbox.com##.bromo
@@ -5769,6 +5776,7 @@ https://quora.com##.signup_bubble
 https://condenast.com##.signup_module
 https://avhub.com.au##.simple_overlay
 https://disinfo.com##.simplereach-slide
+https://wowway.net##.single-cube_clusters_promo-cluster_hrefWrapper
 https://theblemish.com##.single-extra
 https://fivethirtyeight.com,grantland.com##.single-navigation
 https://yourtechexplained.com##.single-pagination
@@ -8440,7 +8448,7 @@ https://sciencetimes.com##.i-btngroup
 https://pastebin.com##.i_tf
 https://classicalite.com##.ic_bt
 https://techtimes.com##.ic_g
-https://academictimes.com,essence.com,etonline.com,utne.com##.icon-bar
+https://academictimes.com,essence.com,etonline.com,utne.com,vloot.io##.icon-bar
 https://ted.com##.icon-center
 https://cookieandkate.com##.icon-font
 https://nextbigfuture.com##.icon-g
@@ -9581,7 +9589,7 @@ https://agenda.brussels,visit.brussels##.confirm
 https://acast.com,builds.gg,checkyourmath.com,codementor.io##.consent
 https://fancentro.com##.consent-message
 https://justwatch.com##.consent-notification
-https://printscreenshot.com##.consent-overlay
+https://htmlgames.com,printscreenshot.com##.consent-overlay
 https://sportskeeda.com##.consent-pop-up
 https://themaven.net##.consent-ui
 https://xing.com##.consent_wrapper
@@ -10037,6 +10045,7 @@ https://play.google.com##.gb_g:has-text(cookie)
 https://istockphoto.com#?#.warning:-abp-has([data-cookie-type])
 https://play.google.com#?#.gb_g:-abp-contains(cookie)
 https://msi.com###ccc
+https://thefreedictionary.com###cmpBanner
 https://smallseotools.com###cookie-bar
 https://eteknix.com###cookie-law-info-bar
 https://depositfiles.com,dfiles.eu,dfiles.ru###cookie_popup
@@ -12907,6 +12916,7 @@ https://lexus.ro##.disclaimer
 https://imobiliare.ro##.modal-backdrop
 https://idea-bank.ro,lidl.ro##.notification
 https://epantofi.ro##.popup
+https://phytech.ro##.sh-page-notice
 https://bancaintesa.ru###agreement
 https://proglib.io###cookie
 https://rosbank.ru###gray_overlay
@@ -15736,6 +15746,7 @@ http://product-reviews.net##.boxside
 http://tactxflashlights.com,undark.org##.boxzilla-container
 http://itworld.com##.br-li
 http://itworld.com##.br-tw
+http://1027kord.com,1063thebuzz.com,710keel.com,929nin.com,keyj.com,kfyo.com,klaq.com,kool1017.com,newstalk1290.com,popcrush.com,tasteofcountry.com,thefw.com,tmz.com,ultimateclassicrock.com,wfgr.com,wgrd.com,wjon.com##.branded-app-shortcode-inarticle
 http://lostlettermen.com##.brdrCntr-09
 http://rdmag.com##.breadcrumblink
 http://dropbox.com##.bromo
@@ -16820,6 +16831,7 @@ http://quora.com##.signup_bubble
 http://condenast.com##.signup_module
 http://avhub.com.au##.simple_overlay
 http://disinfo.com##.simplereach-slide
+http://wowway.net##.single-cube_clusters_promo-cluster_hrefWrapper
 http://theblemish.com##.single-extra
 http://fivethirtyeight.com,grantland.com##.single-navigation
 http://yourtechexplained.com##.single-pagination
@@ -19491,7 +19503,7 @@ http://sciencetimes.com##.i-btngroup
 http://pastebin.com##.i_tf
 http://classicalite.com##.ic_bt
 http://techtimes.com##.ic_g
-http://academictimes.com,essence.com,etonline.com,utne.com##.icon-bar
+http://academictimes.com,essence.com,etonline.com,utne.com,vloot.io##.icon-bar
 http://ted.com##.icon-center
 http://cookieandkate.com##.icon-font
 http://nextbigfuture.com##.icon-g
@@ -20633,7 +20645,7 @@ http://agenda.brussels,visit.brussels##.confirm
 http://acast.com,builds.gg,checkyourmath.com,codementor.io##.consent
 http://fancentro.com##.consent-message
 http://justwatch.com##.consent-notification
-http://printscreenshot.com##.consent-overlay
+http://htmlgames.com,printscreenshot.com##.consent-overlay
 http://sportskeeda.com##.consent-pop-up
 http://themaven.net##.consent-ui
 http://xing.com##.consent_wrapper
@@ -21089,6 +21101,7 @@ http://play.google.com##.gb_g:has-text(cookie)
 http://istockphoto.com#?#.warning:-abp-has([data-cookie-type])
 http://play.google.com#?#.gb_g:-abp-contains(cookie)
 http://msi.com###ccc
+http://thefreedictionary.com###cmpBanner
 http://smallseotools.com###cookie-bar
 http://eteknix.com###cookie-law-info-bar
 http://depositfiles.com,dfiles.eu,dfiles.ru###cookie_popup
@@ -23960,6 +23973,7 @@ http://lexus.ro##.disclaimer
 http://imobiliare.ro##.modal-backdrop
 http://idea-bank.ro,lidl.ro##.notification
 http://epantofi.ro##.popup
+http://phytech.ro##.sh-page-notice
 http://bancaintesa.ru###agreement
 http://proglib.io###cookie
 http://rosbank.ru###gray_overlay
