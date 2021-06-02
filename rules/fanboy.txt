@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: D/NNvZ4BD5RzcpOhFqWHhw
-! Version: 202106010200
+! Checksum: 4tR2MyIEu+5YEOpi3MbDXw
+! Version: 202106020200
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-01 02:00 UTC
+! Last modified: 2021-06-02 02:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -435,6 +435,7 @@
 ||https://mab.mediaset.es^$xmlhttprequest
 ||https://news2day.me^$third-party
 ||https://notification-time.com^$third-party
+||https://notix.io^$third-party
 ||https://ntvsw.com^$third-party
 ||https://partishion.com^$third-party
 ||https://pathlime.com^$third-party
@@ -1839,6 +1840,7 @@
 ||http://news2day.me^$third-party
 ||http://notification-time.com^$third-party
 ||http://notification.tubecup.net^
+||http://notix.io^$third-party
 ||http://ntvsw.com^$third-party
 ||http://partishion.com^$third-party
 ||http://pathlime.com^$third-party
@@ -3052,6 +3054,7 @@ https://allcatvideos.com###bakmagecme
 https://bing.com,thehunt.com,throng.co.nz###banner
 https://sfappeal.com###banner-search-ad
 https://ifixit.com###bannerLink
+https://tribunnews.com###banner_article_slide
 https://shimory.com###banners
 https://oilprice.com###bannerzone-attention
 https://omegle.com###bar
@@ -9044,6 +9047,7 @@ https://suberapps.com##img[title="Follow @SUBERAPPS on Twitter!"]
 https://cgeyeltd.com##img[width="32"][height="32"]
 https://discord.me##li.menu-link.d-xl-inline-block
 https://theguardian.com##li[data-link-name="icon-share"]
+https://realmicentral.com##p > [href^="https://t.me/"]
 https://universityherald.com##p[style="float:left; margin-right:20px; font-weight: bold;font-size: 11pt;"]
 https://designntrend.com,fashionnstyle.com,gamenguide.com,kpopstarz.com,newseveryday.com,parentherald.com##p[style="float:left; width:250px; margin-right:15px; font-weight: bold;font-size: 11pt;height: 21px;"]
 https://latinospost.com##p[style="float:left; width:250px; margin-right:15px; font-weight: bold;font-size: 11pt;height: 21px;float:left; width:250px; margin-right:15px; "]
@@ -9915,7 +9919,7 @@ https://spiceworks.com##.sui-site-message-container
 https://outage.report##.swal2-container
 https://haier.com##.swiper-slide-img-txt
 https://games2gether.com##.system-notification-container
-https://ralabs.org,socioinform.com##.t886
+https://adex.com,ralabs.org,socioinform.com##.t886
 https://distro.tv##.tandc-wrapper
 https://tudorwatch.com##.tdr-ribbon
 https://yahoo.com##.tdv2-applet-nagbar
@@ -13236,6 +13240,7 @@ https://bufferapp.com#@##sharer
 https://renren.com#@##sharevideo
 https://statoquotidiano.it#@##sidebar-social
 https://swappa.com#@##social-buttons
+https://cnbc.com#@##social-buttons-transporter
 https://birebin.com,pictame.com,thepictaram.club#@##social-container
 https://arstechnica.co.uk,arstechnica.com,mozilla.org#@##social-footer
 https://appspot.com#@##social-header
@@ -13250,7 +13255,6 @@ https://wsqn.pl#@##social_container
 https://base.de#@##social_footer
 https://ghostery.com#@##social_media
 https://nextinpact.com#@##socialbar
-https://arte.tv,lenta.ru#@##socials
 https://24matins.fr#@##top_share
 https://asian-u.com#@##twitter_button
 https://vk.com,vkontakte.ru#@##vk-popup
@@ -13616,7 +13620,6 @@ https://wuala.com#@#.socialboxp
 https://esselungajob.it,jobs.jnj.com,jobs.kroger.com,realogy.com#@#.socialbutton
 https://clientsfromhell.net#@#.socialbuttons
 https://gamepedia.com#@#.sociallink
-https://belgafiles.com,chaturbate.com,eska.pl,gog.com,se.pl#@#.socials
 https://aktuality.sk#@#.socials-link
 https://aktuality.sk#@#.socials-wrapper
 https://one-voice.fr#@#.socials_wrapper
@@ -13745,7 +13748,7 @@ https://ibs.it#@##divPrivacy
 https://gamewatcher.com,ivoox.com,poszalu.pl,tappedout.net,visionexpress.pl#@##gdpr-modal
 https://n26.com#@##gdpr-notice
 https://pekao.com.pl#@##gdpr-popup
-https://mirjan24.pl#@##gdpr:not(body):not(html)
+https://mirjan24.pl#@##gdpr:not(body):not(html):not(input):not(button)
 https://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@##gdpr_popin
 https://taloon.com#@##gdprpopup
 https://ansa.it,capital.it,huffingtonpost.it,m2o.it,meteo.it,rockol.it,video.deejay.it,video.espresso.repubblica.it,video.ilsecoloxix.it,video.lanuovasardegna.it,video.lastampa.it,video.rep.repubblica.it,video.repubblica.it#@##iubenda-cs-banner
@@ -14106,6 +14109,7 @@ http://allcatvideos.com###bakmagecme
 http://bing.com,thehunt.com,throng.co.nz###banner
 http://sfappeal.com###banner-search-ad
 http://ifixit.com###bannerLink
+http://tribunnews.com###banner_article_slide
 http://shimory.com###banners
 http://oilprice.com###bannerzone-attention
 http://omegle.com###bar
@@ -20100,6 +20104,7 @@ http://suberapps.com##img[title="Follow @SUBERAPPS on Twitter!"]
 http://cgeyeltd.com##img[width="32"][height="32"]
 http://discord.me##li.menu-link.d-xl-inline-block
 http://theguardian.com##li[data-link-name="icon-share"]
+http://realmicentral.com##p > [href^="https://t.me/"]
 http://universityherald.com##p[style="float:left; margin-right:20px; font-weight: bold;font-size: 11pt;"]
 http://designntrend.com,fashionnstyle.com,gamenguide.com,kpopstarz.com,newseveryday.com,parentherald.com##p[style="float:left; width:250px; margin-right:15px; font-weight: bold;font-size: 11pt;height: 21px;"]
 http://latinospost.com##p[style="float:left; width:250px; margin-right:15px; font-weight: bold;font-size: 11pt;height: 21px;float:left; width:250px; margin-right:15px; "]
@@ -20971,7 +20976,7 @@ http://spiceworks.com##.sui-site-message-container
 http://outage.report##.swal2-container
 http://haier.com##.swiper-slide-img-txt
 http://games2gether.com##.system-notification-container
-http://ralabs.org,socioinform.com##.t886
+http://adex.com,ralabs.org,socioinform.com##.t886
 http://distro.tv##.tandc-wrapper
 http://tudorwatch.com##.tdr-ribbon
 http://yahoo.com##.tdv2-applet-nagbar
@@ -24293,6 +24298,7 @@ http://bufferapp.com#@##sharer
 http://renren.com#@##sharevideo
 http://statoquotidiano.it#@##sidebar-social
 http://swappa.com#@##social-buttons
+http://cnbc.com#@##social-buttons-transporter
 http://birebin.com,pictame.com,thepictaram.club#@##social-container
 http://arstechnica.co.uk,arstechnica.com,mozilla.org#@##social-footer
 http://appspot.com#@##social-header
@@ -24307,7 +24313,6 @@ http://wsqn.pl#@##social_container
 http://base.de#@##social_footer
 http://ghostery.com#@##social_media
 http://nextinpact.com#@##socialbar
-http://arte.tv,lenta.ru#@##socials
 http://24matins.fr#@##top_share
 http://asian-u.com#@##twitter_button
 http://vk.com,vkontakte.ru#@##vk-popup
@@ -24673,7 +24678,6 @@ http://wuala.com#@#.socialboxp
 http://esselungajob.it,jobs.jnj.com,jobs.kroger.com,realogy.com#@#.socialbutton
 http://clientsfromhell.net#@#.socialbuttons
 http://gamepedia.com#@#.sociallink
-http://belgafiles.com,chaturbate.com,eska.pl,gog.com,se.pl#@#.socials
 http://aktuality.sk#@#.socials-link
 http://aktuality.sk#@#.socials-wrapper
 http://one-voice.fr#@#.socials_wrapper
@@ -24802,7 +24806,7 @@ http://ibs.it#@##divPrivacy
 http://gamewatcher.com,ivoox.com,poszalu.pl,tappedout.net,visionexpress.pl#@##gdpr-modal
 http://n26.com#@##gdpr-notice
 http://pekao.com.pl#@##gdpr-popup
-http://mirjan24.pl#@##gdpr:not(body):not(html)
+http://mirjan24.pl#@##gdpr:not(body):not(html):not(input):not(button)
 http://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@##gdpr_popin
 http://taloon.com#@##gdprpopup
 http://ansa.it,capital.it,huffingtonpost.it,m2o.it,meteo.it,rockol.it,video.deejay.it,video.espresso.repubblica.it,video.ilsecoloxix.it,video.lanuovasardegna.it,video.lastampa.it,video.rep.repubblica.it,video.repubblica.it#@##iubenda-cs-banner
