@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: YvEr6+R7RE/waX8pPG8Kkg
-! Version: 202106020213
+! Checksum: QlG+uIF+4JMzdA7V2J0RxQ
+! Version: 202106030153
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -5569,6 +5569,8 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://yuailairuci.com^
+||http://yqgjq.com^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://008844.cc^
@@ -12852,7 +12854,7 @@
 ||http://a1.gexing.me^
 ||http://a1.lshou.com^
 ||http://a1.q6u.com^
-||http://a1.qqjay.com^
+||http://b1.qqjay.com^
 ||http://a1.qqtn.com^
 ||http://a1.shusanqi.com^
 ||http://a1.sumiaowang.com^
@@ -13519,6 +13521,11 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://nanofine.cn^
+||http://888lianmeng.com^
+||http://wetips.cn^
+||http://xmcs99888.cn^
+||http://sydswxx.com^
 ||http://01tn.cn^
 ||http://027whht.com^
 ||http://0316dieroxiemzfjwmapk.xyz^
@@ -16204,6 +16211,7 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://2345.com###J_hot_event
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -22643,6 +22651,7 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://2345.com###J_hot_event
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
