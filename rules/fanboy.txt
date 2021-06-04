@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VIwhfeCeHDUWYaLFmnrCzg
-! Version: 202106030200
+! Checksum: fxl/o2fOQ4pMT9j/JuVKaw
+! Version: 202106040100
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-03 02:00 UTC
+! Last modified: 2021-06-04 01:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -816,6 +816,7 @@
 ||https://cookieq.com^$third-party
 ||https://cookiereports.com^$third-party
 ||https://cookiescript.info^$third-party
+||https://cookietagmanager.net^$third-party
 ||https://dmgmediaprivacy.co.uk^$third-party
 ||https://donkeymob.com^$third-party
 ||https://ecookie.nl^$third-party
@@ -2234,6 +2235,7 @@
 ||http://cookiereports.com^$third-party
 ||http://cookies.innershed.co.uk^
 ||http://cookiescript.info^$third-party
+||http://cookietagmanager.net^$third-party
 ||http://d2eucw4fxv7nil.cloudfront.net^
 ||http://dmgmediaprivacy.co.uk^$third-party
 ||http://donkeymob.com^$third-party
@@ -8662,6 +8664,7 @@ https://fusion.net,onegreenplanet.org,ryot.org##.reveal-modal-bg
 https://gdnonline.com##.right
 https://thehindubusinessline.com##.right-promo
 https://ehow.com##.right-rail-promo
+https://bing.com##.rq_stxt
 https://belivehotels.com##.rrss
 https://artstation.com##.s-bar
 https://xinhuanet.com##.s-item
@@ -11505,7 +11508,7 @@ https://ilmeteo.net##.siguenos-reducido
 https://assopoker.com##.singlemeta
 https://finanzaonline.com,teleborsa.it,tempostretto.it##.soc
 https://quickparking.it##.soc-icon-container
-https://affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,aztesti.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,creditosportivo.it,deabyday.tv,dequo.it,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,gedidigital.it,gediwatch.it,giornaledibrescia.it,globalist.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,omnialyrics.it,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
+https://affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,aztesti.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,creditosportivo.it,deabyday.tv,dequo.it,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,gedidigital.it,gediwatch.it,giornaledibrescia.it,globalist.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lapressa.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,omnialyrics.it,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
 https://citroenselect.it##.social-network
 https://davinotti.com##.social__variant
 https://investireoggi.it##.social_menu
@@ -12468,7 +12471,7 @@ https://howrse.it###cmp-overlay
 https://eismoinfo.lt###consent
 https://ecodallecitta.it###contenuto_consenso
 https://spesasicura.com###cook
-https://aeo.it,archimagazine.com,bookingaltoadige.com,camionsupermarket.it,cattoliciogginotizie.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,extramagazine.eu,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
+https://aeo.it,archimagazine.com,bookingaltoadige.com,camionsupermarket.it,cattoliciogginotizie.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,extramagazine.eu,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,storiadeifilm.it,tecnocasa.it,wd40.it###cookie
 https://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,musictory.it,ordineavvocati.bari.it,pardini.it,pcase.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 https://telea1.it###cooky_content
 https://majani.it###cs-banner
@@ -12706,6 +12709,7 @@ https://bywajtu.pl###co15ie87a
 https://bstorun.pl###comm_info
 https://przyspiesz.pl###container_vsm
 https://atramentowka.com,bokono.pl,domwroc24.pl,e-dewocjonalia.eu,e-doggy.pl,elektro-met.pl,emiter.net.pl,gov.pl,hemp.pl,kalinowo.pl,naszezoo.pl,oil-land.pl,osnews.pl,pcforce.pl,pracuj.pl,sklep-art-meb.pl,sklep-wadima.pl,swiat-sypialni.pl,virtualeye.pl,weller.com.pl,xfutbol.pl###cookie
+https://norgips.pl###cookiemodal
 https://adequate.pl,alltube.tv,aquila.pl,auchan.pl,bankmillennium.pl,bioliq.pl,conan-kolekcja.pl,czytio.pl,delkom.pl,dobreprogramy.pl,ekino-tv.pl,eska.tv,filmboxextra.pl,fokus.tv,generali.pl,gov.pl,hi-tec.com.pl,intercon.systems,kasystefczyka.pl,kosmiczni.pl,muzo.fm,nasze-kino.tv,newsweek.pl,nowa.tv,paczkawruchu.pl,pb.edu.pl,piaseczno.eu,pilkanozna.pl,pkpsa.pl,play.pl,polotv.pl,polsat.pl,priv.pl,profmetkol.pl,realdevelopment.pl,realmadryt.pl,tripolo.pl,tugramy.pl,tv4.pl,tv6.com.pl,voxmusic.tv,wroc.pl,wszczecinie.pl###cookies
 https://drony.net,gadzetomania.pl,komorkomania.pl,otabletach.pl###cop
 https://polskatimes.pl,strefabiznesu.pl###cross-dialog
@@ -12766,6 +12770,7 @@ https://lca.pl,legnica.pl###popupDiv
 https://antyweb.pl,ingservicespolska.pl,ingtechpoland.com,karmy.com.pl,mieszko.pl###privacy
 https://goldenline.pl###profiling-agreement
 https://speedtest.pl,swiatrolnika.info,tanibus.com,wsensie.pl###rodo
+https://mojekatowice.pl###rodo-bar
 https://blog4u.pl###rodo_all
 https://memorialhenrykapuzonia.pl###sc-container
 https://fhpelikan.com.pl,midparts.com.pl,naturo.pl,sklep.motohid.pl,vertus.com.pl###simple-modal
@@ -13710,7 +13715,7 @@ https://travelchannel.co.uk#@##cookie-body
 https://airam.fi,biotechusa.hu,hscollective.org,litebit.eu#@##cookie-consent
 https://analog.com#@##cookie-consent-container
 https://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@##cookie-container
-https://skuola.net#@##cookie-dialog
+https://okazik.pl,skuola.net#@##cookie-dialog
 https://calciomercato.napoli.it,clever-zoeger.de,datakauppa.fi,ddz24.eu,lewento.de,management30.com,theorie-musik.de,wiadomosci-lodz.pl#@##cookie-law-info-bar
 https://penny.hu,pennymarket.it#@##cookie-message
 https://bokadirekt.se,zlm.nl#@##cookie-modal
@@ -19729,6 +19734,7 @@ http://fusion.net,onegreenplanet.org,ryot.org##.reveal-modal-bg
 http://gdnonline.com##.right
 http://thehindubusinessline.com##.right-promo
 http://ehow.com##.right-rail-promo
+http://bing.com##.rq_stxt
 http://belivehotels.com##.rrss
 http://artstation.com##.s-bar
 http://xinhuanet.com##.s-item
@@ -22573,7 +22579,7 @@ http://ilmeteo.net##.siguenos-reducido
 http://assopoker.com##.singlemeta
 http://finanzaonline.com,teleborsa.it,tempostretto.it##.soc
 http://quickparking.it##.soc-icon-container
-http://affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,aztesti.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,creditosportivo.it,deabyday.tv,dequo.it,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,gedidigital.it,gediwatch.it,giornaledibrescia.it,globalist.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,omnialyrics.it,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
+http://affaritaliani.it,altroconsumo.it,angeloparodi.it,angolotesti.it,aruba.it,askanews.it,assopoker.com,auto.it,avivaitalia.it,aztesti.it,banca5.com,bancaprivataleasing.it,bioisotherm.it,borsadelcredito.it,cdt.ch,cielotv.it,cipiacecucinare.it,cittametropolitanaroma.gov.it,coopcasarsa.it,corriere.it,corrierecomunicazioni.it,creditosportivo.it,deabyday.tv,dequo.it,diariodelweb.it,eurogamer.it,euronics.it,europages.it,eurospin.it,famigliacristiana.it,finanzaonline.com,fm-world.it,gedidigital.it,gediwatch.it,giornaledibrescia.it,globalist.it,grandhotel-et-des-palmes.com,gse.it,hdmotori.it,html.it,ilgiornale.it,ilpopulista.it,ilposticipo.it,ilsole24ore.com,ilsussidiario.net,inmoto.it,istat.it,italiaoggi.it,ivid.it,kataweb.it,lapressa.it,lasicilia.it,legacoop.coop,liberoquotidiano.it,linkiesta.it,luinonotizie.it,mader.bz.it,magnoliatv.it,mdspa.it,mediagol.it,mediocredito.it,meetingrimini.org,milanofinanza.it,monovolume.cc,moto.it,motorionline.com,mtv.it,naturalborngamers.it,norbaonline.it,nurse24.it,olivetti.com,omnialyrics.it,opinione.it,pneusnews.it,proiezionidiborsa.it,qualenergia.it,radiocitymilano.it,ravennanotizie.it,regione.piemonte.it,repubblica.it,rmcsport.net,rollingstone.it,roncadin.it,rossopomodoro.it,sardiniapost.it,scorpionbay.com,sorgenia.it,suzuki.it,tari.it,testimania.com,tuttomercatoweb.com,unica.it,units.it,vg247.it,vitatrentina.it,viveregiovani.it,vortice.it,wallstreetitalia.com##.social
 http://citroenselect.it##.social-network
 http://davinotti.com##.social__variant
 http://investireoggi.it##.social_menu
@@ -23537,7 +23543,7 @@ http://howrse.it###cmp-overlay
 http://eismoinfo.lt###consent
 http://ecodallecitta.it###contenuto_consenso
 http://spesasicura.com###cook
-http://aeo.it,archimagazine.com,bookingaltoadige.com,camionsupermarket.it,cattoliciogginotizie.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,extramagazine.eu,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
+http://aeo.it,archimagazine.com,bookingaltoadige.com,camionsupermarket.it,cattoliciogginotizie.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,extramagazine.eu,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miabolzano.it,miamerano.it,mtonauticastore.it,mymercato.it,negozi.fastweb.it,pallacanestrovarese.it,primocanale.it,radiociao.com,rimini.com,sace.it,sanfrancescopatronoditalia.it,spesati.it,storiadeifilm.it,tecnocasa.it,wd40.it###cookie
 http://angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,musictory.it,ordineavvocati.bari.it,pardini.it,pcase.it,runnersworld.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 http://telea1.it###cooky_content
 http://majani.it###cs-banner
@@ -23775,6 +23781,7 @@ http://bywajtu.pl###co15ie87a
 http://bstorun.pl###comm_info
 http://przyspiesz.pl###container_vsm
 http://atramentowka.com,bokono.pl,domwroc24.pl,e-dewocjonalia.eu,e-doggy.pl,elektro-met.pl,emiter.net.pl,gov.pl,hemp.pl,kalinowo.pl,naszezoo.pl,oil-land.pl,osnews.pl,pcforce.pl,pracuj.pl,sklep-art-meb.pl,sklep-wadima.pl,swiat-sypialni.pl,virtualeye.pl,weller.com.pl,xfutbol.pl###cookie
+http://norgips.pl###cookiemodal
 http://adequate.pl,alltube.tv,aquila.pl,auchan.pl,bankmillennium.pl,bioliq.pl,conan-kolekcja.pl,czytio.pl,delkom.pl,dobreprogramy.pl,ekino-tv.pl,eska.tv,filmboxextra.pl,fokus.tv,generali.pl,gov.pl,hi-tec.com.pl,intercon.systems,kasystefczyka.pl,kosmiczni.pl,muzo.fm,nasze-kino.tv,newsweek.pl,nowa.tv,paczkawruchu.pl,pb.edu.pl,piaseczno.eu,pilkanozna.pl,pkpsa.pl,play.pl,polotv.pl,polsat.pl,priv.pl,profmetkol.pl,realdevelopment.pl,realmadryt.pl,tripolo.pl,tugramy.pl,tv4.pl,tv6.com.pl,voxmusic.tv,wroc.pl,wszczecinie.pl###cookies
 http://drony.net,gadzetomania.pl,komorkomania.pl,otabletach.pl###cop
 http://polskatimes.pl,strefabiznesu.pl###cross-dialog
@@ -23835,6 +23842,7 @@ http://lca.pl,legnica.pl###popupDiv
 http://antyweb.pl,ingservicespolska.pl,ingtechpoland.com,karmy.com.pl,mieszko.pl###privacy
 http://goldenline.pl###profiling-agreement
 http://speedtest.pl,swiatrolnika.info,tanibus.com,wsensie.pl###rodo
+http://mojekatowice.pl###rodo-bar
 http://blog4u.pl###rodo_all
 http://memorialhenrykapuzonia.pl###sc-container
 http://fhpelikan.com.pl,midparts.com.pl,naturo.pl,sklep.motohid.pl,vertus.com.pl###simple-modal
@@ -24779,7 +24787,7 @@ http://travelchannel.co.uk#@##cookie-body
 http://airam.fi,biotechusa.hu,hscollective.org,litebit.eu#@##cookie-consent
 http://analog.com#@##cookie-consent-container
 http://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@##cookie-container
-http://skuola.net#@##cookie-dialog
+http://okazik.pl,skuola.net#@##cookie-dialog
 http://calciomercato.napoli.it,clever-zoeger.de,datakauppa.fi,ddz24.eu,lewento.de,management30.com,theorie-musik.de,wiadomosci-lodz.pl#@##cookie-law-info-bar
 http://penny.hu,pennymarket.it#@##cookie-message
 http://bokadirekt.se,zlm.nl#@##cookie-modal
