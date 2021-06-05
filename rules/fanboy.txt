@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fxl/o2fOQ4pMT9j/JuVKaw
-! Version: 202106040100
+! Checksum: J0yk1jDgBa/5kXzlrgM2gA
+! Version: 202106050100
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-04 01:00 UTC
+! Last modified: 2021-06-05 01:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10037,6 +10037,7 @@ https://cplusplus.com##div[style="background:#eed;padding:10px;margin:0;text-ali
 https://flazio.com##div[style="z-index:9998; position: fixed;bottom: 0;left: 0;width: 100%;background: #208ac8;color: #f1f3f5;font-size: 12px;padding: 12px 0px;text-align: center;"]
 https://g4tv.com##div[style^="align-items: baseline; background: rgb(53, 53, 53)"]
 https://cieem.net##div[style^="background-color: #000; padding: 10px"]
+https://openpli.org##div[style^="background-color:#FF9595"]
 https://bundlestars.com##div[style^="background: #424242; "]
 https://qrzcq.com##div[style^="border: 2px solid blue;"]
 https://stargreen.com##div[style^="color: rgb(238, 238, 238);"]
@@ -21108,6 +21109,7 @@ http://cplusplus.com##div[style="background:#eed;padding:10px;margin:0;text-alig
 http://flazio.com##div[style="z-index:9998; position: fixed;bottom: 0;left: 0;width: 100%;background: #208ac8;color: #f1f3f5;font-size: 12px;padding: 12px 0px;text-align: center;"]
 http://g4tv.com##div[style^="align-items: baseline; background: rgb(53, 53, 53)"]
 http://cieem.net##div[style^="background-color: #000; padding: 10px"]
+http://openpli.org##div[style^="background-color:#FF9595"]
 http://bundlestars.com##div[style^="background: #424242; "]
 http://qrzcq.com##div[style^="border: 2px solid blue;"]
 http://stargreen.com##div[style^="color: rgb(238, 238, 238);"]
