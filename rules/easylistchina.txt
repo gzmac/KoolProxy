@@ -1,8 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: dBn9IhME7mhG1cyjHxDBvw
-! Version: 202106050103
+! Checksum: zmtNnI0EkDvmbKRAq2CJWQ
+! Version: 202106060103
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
+||https://qingsedhhh.xyz^$third-party
 ||https://012.tw^$third-party
 ||https://033.com^$third-party
 ||https://0591101.com^$third-party
@@ -1648,6 +1649,7 @@
 ||https://bccnsoft.com/aac/
 ||https://bceapp.com/jj/1716mid.js
 ||https://bcebos.com/ad/
+||https://bcebos.com/im-cs/202ae4a7746e37f7c903ff037f896230.gif
 ||https://bcebos.com/im-cs/79fb7a5e77433a8760e4ba703ef71154.png
 ||https://bcebos.com/im-cs/a69c0123ae867534560f1a0df1b6b2a8.png
 ||https://bcquan.me/front/*_ad
@@ -4849,6 +4851,7 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://b1.cdn.mh3666.com/html/
 ||https://17ce.com^*_$image
 ||https://69t49.com/floating/layer.js
 ||https://alicdn.com/img/ibank/*_!!2210231227621-0-cib.
@@ -5570,6 +5573,8 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://yunchong6.cn^
+||http://qingsedhhh.xyz^$third-party
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://008844.cc^
@@ -9114,6 +9119,7 @@
 ||http://bccnsoft.com/aac/
 ||http://bceapp.com/jj/1716mid.js
 ||http://bcebos.com/ad/
+||http://bcebos.com/im-cs/202ae4a7746e37f7c903ff037f896230.gif
 ||http://bcebos.com/im-cs/79fb7a5e77433a8760e4ba703ef71154.png
 ||http://bcebos.com/im-cs/a69c0123ae867534560f1a0df1b6b2a8.png
 ||http://bcquan.me/front/*_ad
@@ -9561,6 +9567,7 @@
 ||http://csdnimg.cn/check-adblock/
 ||http://csdnimg.cn/public/common/indexSuperise/1.1.1/indexSuperise.js
 ||http://csdnimg.cn^*#/preview/
+||http://css.huvmi.com^
 ||http://cssqt.com/a/images/indexsd.gif
 ||http://cssqt.com/a/images/right
 ||http://ctags.cn/9/j2.js
@@ -12682,6 +12689,7 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://b1.cdn.mh3666.com/html/
 ||http://17ce.com^*_$image
 ||http://3336672.com^
 ||http://3337729.com^
@@ -14735,6 +14743,7 @@
 ||http://nlyjs2015.com^
 ||http://nmlhkj.com^
 ||http://nmqdnykj.com^
+||http://nmrlx.cn^
 ||http://nmtouzi.com^
 ||http://nnsbbd.com^
 ||http://nongfumg.com^
@@ -16498,6 +16507,7 @@ https://ksbbs.com,kshot.com###banner_top
 https://uestc.edu.cn###bar
 https://c114.com.cn###barrage_ad
 https://c114.com.cn###barrage_bg
+https://mangabz.com###bb1
 https://hao.rising.cn###bbTao
 https://my0511.com###bbdcc
 https://gamme.com.tw###bd
@@ -16565,6 +16575,8 @@ https://bitauto.com###carshow
 https://bbs-mychat.com###cate_top > tr > .f_one
 https://cnbeta.com###cb_share > .fl
 https://sina.com.tw###cboxOverlay
+https://mangabz.com###cc1
+https://mangabz.com###cc2
 https://dapenti.com###center > div[align="center"][target="_blank"]
 https://55188.com###center-pic
 https://huarenjie.com###cftoutiao
@@ -21447,7 +21459,7 @@ https://ishangman.com#@#.bottom_ad
 https://douban.com#@#.download-ad
 https://typecho.wiki#@#.downloadad
 https://petrochina.com.cn#@#.ggbox
-https://1090ys2.com,bbt.tv,btbt.tv,nixingle.com#@#.google-ad
+https://1090ys2.com,bbt.tv,btbt.tv,mmiyue.com,nixingle.com#@#.google-ad
 https://apk.tw#@#.google_ad
 https://adbug.cn#@#.google_ads
 https://mobile01.com#@#.googlead
@@ -22940,6 +22952,7 @@ http://ksbbs.com,kshot.com###banner_top
 http://uestc.edu.cn###bar
 http://c114.com.cn###barrage_ad
 http://c114.com.cn###barrage_bg
+http://mangabz.com###bb1
 http://hao.rising.cn###bbTao
 http://my0511.com###bbdcc
 http://gamme.com.tw###bd
@@ -23007,6 +23020,8 @@ http://bitauto.com###carshow
 http://bbs-mychat.com###cate_top > tr > .f_one
 http://cnbeta.com###cb_share > .fl
 http://sina.com.tw###cboxOverlay
+http://mangabz.com###cc1
+http://mangabz.com###cc2
 http://dapenti.com###center > div[align="center"][target="_blank"]
 http://55188.com###center-pic
 http://huarenjie.com###cftoutiao
@@ -27891,7 +27906,7 @@ http://ishangman.com#@#.bottom_ad
 http://douban.com#@#.download-ad
 http://typecho.wiki#@#.downloadad
 http://petrochina.com.cn#@#.ggbox
-http://1090ys2.com,bbt.tv,btbt.tv,nixingle.com#@#.google-ad
+http://1090ys2.com,bbt.tv,btbt.tv,mmiyue.com,nixingle.com#@#.google-ad
 http://apk.tw#@#.google_ad
 http://adbug.cn#@#.google_ads
 http://mobile01.com#@#.googlead

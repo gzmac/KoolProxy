@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: J0yk1jDgBa/5kXzlrgM2gA
-! Version: 202106050100
+! Checksum: jt9U9dEUCGuWgI3iXgu9cQ
+! Version: 202106060100
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-05 01:00 UTC
+! Last modified: 2021-06-06 01:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -38,6 +38,7 @@
 ||https://api.giphy.com^*/related?$third-party
 ||https://api.search.live.net^$third-party
 ||https://api.traq.li^$third-party
+||https://app.convertful.com^$third-party
 ||https://app.e2ma.net^$third-party
 ||https://appboy.eu^$third-party
 ||https://assets.simplifydigital.co.uk^$third-party
@@ -87,6 +88,7 @@
 ||https://ctctcdn.com/js/signup-form-widget/$third-party
 ||https://curiyo.com^$third-party
 ||https://cursors-4u.net^$third-party
+||https://customfit.ai^$third-party
 ||https://cxpublic.com^$third-party
 ||https://data.tm-awx.com^$third-party
 ||https://desipearl.com^$third-party
@@ -109,6 +111,7 @@
 ||https://enquoted.com^$third-party
 ||https://eventful.com^$third-party
 ||https://exitintel.com^$third-party
+||https://factors.ai^$third-party
 ||https://fark.com/js/$third-party
 ||https://feed.mikle.com^$third-party
 ||https://feedage.com^$third-party
@@ -362,6 +365,7 @@
 ||https://widget.adviceiq.com^$third-party
 ||https://widget.breakingburner.com^$third-party
 ||https://widget.clipix.com^$third-party
+||https://widget.gleamjs.io^$script,third-party
 ||https://widget.pico.tools^$third-party
 ||https://widget.trustpilot.com^$third-party
 ||https://widget.zoorate.com^$third-party
@@ -389,7 +393,6 @@
 ||https://ziprecruiter.com/jobs-widget/$third-party
 ||https://zoomanalytics.co^$third-party
 ||https://zotabox.com^*/widgets.js$third-party
-||https://m.youtube.com/s/player/*/ad.js$script,~third-party
 ||https://music.youtube.com^$csp=worker-src 'none'
 ||https://www.youtube.com^$csp=worker-src 'none'
 ||https://appspot.com/sounds/chatmsg.mp3
@@ -826,6 +829,7 @@
 ||https://intermarkets.net^$third-party
 ||https://iubenda.com^$third-party
 ||https://jimstatic.com/ckies.js
+||https://legalmonster.com^$third-party
 ||https://marfeel.mgr.consensu.org^$third-party
 ||https://mgr.consensu.org/iframe.html
 ||https://mycookies.it^$third-party
@@ -1433,6 +1437,7 @@
 ||http://api.giphy.com^*/related?$third-party
 ||http://api.search.live.net^$third-party,domain=~bing.com
 ||http://api.traq.li^$third-party
+||http://app.convertful.com^$third-party
 ||http://app.e2ma.net^$third-party
 ||http://appboy.eu^$third-party
 ||http://assets.simplifydigital.co.uk^$third-party
@@ -1484,6 +1489,7 @@
 ||http://ctctcdn.com/js/signup-form-widget/$third-party
 ||http://curiyo.com^$third-party
 ||http://cursors-4u.net^$third-party
+||http://customfit.ai^$third-party
 ||http://cxpublic.com^$third-party
 ||http://d15r06k2ko210l.cloudfront.net^
 ||http://d2ip7iv1l4ergv.cloudfront.net^
@@ -1511,6 +1517,7 @@
 ||http://enquoted.com^$third-party
 ||http://eventful.com^$third-party
 ||http://exitintel.com^$third-party
+||http://factors.ai^$third-party
 ||http://fark.com/js/$third-party
 ||http://feed.mikle.com^$third-party
 ||http://feedage.com^$third-party
@@ -1766,6 +1773,7 @@
 ||http://widget.adviceiq.com^$third-party
 ||http://widget.breakingburner.com^$third-party
 ||http://widget.clipix.com^$third-party
+||http://widget.gleamjs.io^$script,third-party
 ||http://widget.pico.tools^$third-party
 ||http://widget.trustpilot.com^$third-party
 ||http://widget.zoorate.com^$third-party
@@ -1794,7 +1802,6 @@
 ||http://ziprecruiter.com/jobs-widget/$third-party
 ||http://zoomanalytics.co^$third-party
 ||http://zotabox.com^*/widgets.js$third-party
-||http://m.youtube.com/s/player/*/ad.js$script,~third-party
 ||http://music.youtube.com^$csp=worker-src 'none'
 ||http://www.youtube.com^$csp=worker-src 'none'
 ||http://appspot.com/sounds/chatmsg.mp3
@@ -2247,6 +2254,7 @@
 ||http://intermarkets.net^$third-party
 ||http://iubenda.com^$third-party
 ||http://jimstatic.com/ckies.js
+||http://legalmonster.com^$third-party
 ||http://marfeel.mgr.consensu.org^$third-party
 ||http://mgr.consensu.org/iframe.html
 ||http://mycookies.it^$third-party
@@ -5913,6 +5921,7 @@ https://computerworld.com##.tech_briefcase
 https://heraldsun.com.au,news.com.au##.text-m-stay-switched-on
 https://infowars.com##.textsize
 https://xrel.to##.the_big_misunderstanding
+https://wpneon.com##.theiaStickySidebar
 https://aceshowbiz.com##.theticker
 https://guanabee.com##.thirdColPodShare
 https://hollywoodreporter.com##.thr-magazine-promo
@@ -6109,7 +6118,8 @@ https://google.com##button[id^="gbpwm_"]
 https://amp-reddit-com.cdn.ampproject.org,amp.reddit.com##div[class^="AppSelectorModal"]
 https://apnews.com##div[class^="Component-apps-"]
 https://bloombergquint.com##div[class^="more-on-this-topic"]
-https://dailymail.co.uk##div[class^="nextBtn-"]
+https://dailymail.co.uk,thisismoney.co.uk##div[class^="nextBtn-"]
+https://thisismoney.co.uk##div[class^="previousBtn-"]
 https://brighthub.com##div[data-bhtrackregion="Subscribe"]
 https://mail.zoho.com##div[data-id="zm-notifications-popover"]
 https://forbes.com##div[data-tracking-link-name="articleLink_ContribBylineFollow"]
@@ -6270,6 +6280,7 @@ https://e-day.ro,mtlblog.com###CoverPop-cover
 https://news.yahoo.com###Daily-Ticket-newsletter-promo-8U
 https://nextshark.com###FbridgeSGWidget
 https://all4women.co.za###InnerSub
+https://gayemagazine.com###POPUPS_ROOT
 https://all4women.co.za###SectionSub
 https://naturalnews.com###Subscribe
 https://earthsky.org,usatoday.com###TB_overlay
@@ -6423,7 +6434,7 @@ https://newstatesman.com,pressgazette.co.uk###itro_popup
 https://ivn.us###ivnnewsletter_widget
 https://aish.com###jewsletter-footer-form
 https://eco-business.com###js-bottom-promo
-https://deadspin.com,gizmodo.com,jezebel.com,kotaku.com,lifehacker.com,theinventory.com,theroot.com,thetakeout.com###js_alerts_sidebar
+https://avclub.com,deadspin.com,gizmodo.com,jezebel.com,kotaku.com,lifehacker.com,theinventory.com,theroot.com,thetakeout.com###js_alerts_sidebar
 https://judicialwatch.org###jwHeaderSignup
 https://kiplinger.com###kip-login
 https://kiplinger.com###kip-today-signup
@@ -7004,7 +7015,7 @@ https://heartfm.co.za##.mk-subscribe-link
 https://fiercecable.com##.mktoForm
 https://fosspost.org##.ml-subscribe-form
 https://cambridge.org##.mod--style1
-https://businessoffashion.com,longreads.com,vogue.com,xconfessions.com##.modal
+https://answear.ua,businessoffashion.com,longreads.com,vogue.com,xconfessions.com##.modal
 https://abc15.com##.modal--content
 https://ba-bamail.com,blogtalkradio.com,breakingdefense.com,martechadvisor.com,medicalnewstoday.com,playfield.io,poolsupplies.com,pv-magazine.com##.modal-backdrop
 https://huckberry.com##.modal-content
@@ -7306,6 +7317,7 @@ https://thenation.com##.takeaction
 https://10clouds.com##.tenc-blog-post__progress
 https://eos.org##.text-15
 https://nymag.com##.text-form-wrapper
+https://shoutingme.com##.textwidget > form
 https://publicintegrity.org##.themomentcontainer
 https://time.com##.time-newsletters
 https://gomechanicalkeyboard.com##.tl-state-root
@@ -7710,6 +7722,7 @@ https://cricbuzz.com##.cbz-leaderboard-banner
 https://9gag.com##.download-app-container
 https://9gag.com##.get-the-app-banner
 https://independent.co.uk##.inline-prompt
+https://gayemagazine.com##.lvMF7
 https://india.com##.open-app
 https://sportskeeda.com##.sidebar-app-download
 https://imgur.com,sowetanlive.co.za##.smartbanner
@@ -13127,7 +13140,7 @@ https://arma3.com,dayz.com#@##go-top
 https://mercopress.com#@##goToTop
 https://lecyclo.com#@##goto-top
 https://upim.com,wagingnonviolence.org#@##newsletter-modal
-https://exposurelights.com,tactxflashlights.com,thefirefly.com#@##newsletter-popup
+https://exposurelights.com,socialitelife.com,tactxflashlights.com,thefirefly.com#@##newsletter-popup
 https://dnevnik.bg#@##newsletterBar
 https://cnn.com#@##outbrain_widget_0
 https://mozilla.org,thunderbird.net,usps.com#@##privacy-policy
@@ -13159,10 +13172,10 @@ https://designdevostransports.fr#@#.gform_widget
 https://ixbt.com#@#.glyphicon-arrow-up
 https://stackcommerce.com,zalando.com#@#.grecaptcha-badge
 https://attentionactivist.com#@#.newsletter-block
-https://androidauthority.com#@#.newsletter-content
+https://androidauthority.com,socialitelife.com#@#.newsletter-content
 https://attentionactivist.com#@#.newsletter-form
 https://foreignaffairs.com,novojornal.co.ao,upim.com#@#.newsletter-modal
-https://billabong.com,strikerconcepts.com,tactxflashlights.com,urbanedcsupply.com#@#.newsletter-popup
+https://billabong.com,socialitelife.com,strikerconcepts.com,tactxflashlights.com,urbanedcsupply.com#@#.newsletter-popup
 https://bidorbuy.co.za#@#.newsletterContainer
 https://thefork.it#@#.newsletterSignup
 https://outbrain.com#@#.outbrain
@@ -16984,6 +16997,7 @@ http://computerworld.com##.tech_briefcase
 http://heraldsun.com.au,news.com.au##.text-m-stay-switched-on
 http://infowars.com##.textsize
 http://xrel.to##.the_big_misunderstanding
+http://wpneon.com##.theiaStickySidebar
 http://aceshowbiz.com##.theticker
 http://guanabee.com##.thirdColPodShare
 http://hollywoodreporter.com##.thr-magazine-promo
@@ -17180,7 +17194,8 @@ http://google.com##button[id^="gbpwm_"]
 http://amp-reddit-com.cdn.ampproject.org,amp.reddit.com##div[class^="AppSelectorModal"]
 http://apnews.com##div[class^="Component-apps-"]
 http://bloombergquint.com##div[class^="more-on-this-topic"]
-http://dailymail.co.uk##div[class^="nextBtn-"]
+http://dailymail.co.uk,thisismoney.co.uk##div[class^="nextBtn-"]
+http://thisismoney.co.uk##div[class^="previousBtn-"]
 http://brighthub.com##div[data-bhtrackregion="Subscribe"]
 http://mail.zoho.com##div[data-id="zm-notifications-popover"]
 http://forbes.com##div[data-tracking-link-name="articleLink_ContribBylineFollow"]
@@ -17341,6 +17356,7 @@ http://e-day.ro,mtlblog.com###CoverPop-cover
 http://news.yahoo.com###Daily-Ticket-newsletter-promo-8U
 http://nextshark.com###FbridgeSGWidget
 http://all4women.co.za###InnerSub
+http://gayemagazine.com###POPUPS_ROOT
 http://all4women.co.za###SectionSub
 http://naturalnews.com###Subscribe
 http://earthsky.org,usatoday.com###TB_overlay
@@ -17494,7 +17510,7 @@ http://newstatesman.com,pressgazette.co.uk###itro_popup
 http://ivn.us###ivnnewsletter_widget
 http://aish.com###jewsletter-footer-form
 http://eco-business.com###js-bottom-promo
-http://deadspin.com,gizmodo.com,jezebel.com,kotaku.com,lifehacker.com,theinventory.com,theroot.com,thetakeout.com###js_alerts_sidebar
+http://avclub.com,deadspin.com,gizmodo.com,jezebel.com,kotaku.com,lifehacker.com,theinventory.com,theroot.com,thetakeout.com###js_alerts_sidebar
 http://judicialwatch.org###jwHeaderSignup
 http://kiplinger.com###kip-login
 http://kiplinger.com###kip-today-signup
@@ -18075,7 +18091,7 @@ http://heartfm.co.za##.mk-subscribe-link
 http://fiercecable.com##.mktoForm
 http://fosspost.org##.ml-subscribe-form
 http://cambridge.org##.mod--style1
-http://businessoffashion.com,longreads.com,vogue.com,xconfessions.com##.modal
+http://answear.ua,businessoffashion.com,longreads.com,vogue.com,xconfessions.com##.modal
 http://abc15.com##.modal--content
 http://ba-bamail.com,blogtalkradio.com,breakingdefense.com,martechadvisor.com,medicalnewstoday.com,playfield.io,poolsupplies.com,pv-magazine.com##.modal-backdrop
 http://huckberry.com##.modal-content
@@ -18377,6 +18393,7 @@ http://thenation.com##.takeaction
 http://10clouds.com##.tenc-blog-post__progress
 http://eos.org##.text-15
 http://nymag.com##.text-form-wrapper
+http://shoutingme.com##.textwidget > form
 http://publicintegrity.org##.themomentcontainer
 http://time.com##.time-newsletters
 http://gomechanicalkeyboard.com##.tl-state-root
@@ -18781,6 +18798,7 @@ http://cricbuzz.com##.cbz-leaderboard-banner
 http://9gag.com##.download-app-container
 http://9gag.com##.get-the-app-banner
 http://independent.co.uk##.inline-prompt
+http://gayemagazine.com##.lvMF7
 http://india.com##.open-app
 http://sportskeeda.com##.sidebar-app-download
 http://imgur.com,sowetanlive.co.za##.smartbanner
@@ -24200,7 +24218,7 @@ http://arma3.com,dayz.com#@##go-top
 http://mercopress.com#@##goToTop
 http://lecyclo.com#@##goto-top
 http://upim.com,wagingnonviolence.org#@##newsletter-modal
-http://exposurelights.com,tactxflashlights.com,thefirefly.com#@##newsletter-popup
+http://exposurelights.com,socialitelife.com,tactxflashlights.com,thefirefly.com#@##newsletter-popup
 http://dnevnik.bg#@##newsletterBar
 http://cnn.com#@##outbrain_widget_0
 http://mozilla.org,thunderbird.net,usps.com#@##privacy-policy
@@ -24232,10 +24250,10 @@ http://designdevostransports.fr#@#.gform_widget
 http://ixbt.com#@#.glyphicon-arrow-up
 http://stackcommerce.com,zalando.com#@#.grecaptcha-badge
 http://attentionactivist.com#@#.newsletter-block
-http://androidauthority.com#@#.newsletter-content
+http://androidauthority.com,socialitelife.com#@#.newsletter-content
 http://attentionactivist.com#@#.newsletter-form
 http://foreignaffairs.com,novojornal.co.ao,upim.com#@#.newsletter-modal
-http://billabong.com,strikerconcepts.com,tactxflashlights.com,urbanedcsupply.com#@#.newsletter-popup
+http://billabong.com,socialitelife.com,strikerconcepts.com,tactxflashlights.com,urbanedcsupply.com#@#.newsletter-popup
 http://bidorbuy.co.za#@#.newsletterContainer
 http://thefork.it#@#.newsletterSignup
 http://outbrain.com#@#.outbrain
