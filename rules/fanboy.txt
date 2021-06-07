@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jt9U9dEUCGuWgI3iXgu9cQ
-! Version: 202106060100
+! Checksum: SD5nnpXE1UAQpm+pGt4ETw
+! Version: 202106070100
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-06 01:00 UTC
+! Last modified: 2021-06-07 01:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2291,7 +2291,7 @@
 ||http://widget.clym-sdk.net^$third-party
 ||http://wpcc.io^$third-party
 ||http://opencmp.net^$script,third-party
-||http://privacy-mgmt.com^$third-party,domain=~11freunde.de|~autobild.de|~bike-bild.de|~bild.de|~boerse-online.de|~businessinsider.de|~bz-berlin.de|~caramia.de|~clever-tanken.de|~computerbild.de|~derstandard.at|~edelblech.de|~faz.net|~finanzen.at|~finanzen.ch|~finanzen.net|~fitbook.de|~gentside.com|~gofeminin.de|~idealo.at|~idealo.co.uk|~idealo.de|~idealo.es|~idealo.fr|~idealo.it|~immonet.de|~insider.com|~kombi.de|~maxisciences.com|~meinestadt.de|~metal-hammer.de|~musikexpress.de|~myhomebook.de|~n24.de|~noizz.de|~onmeda.de|~politico.eu|~rollingstone.de|~sportbild.de|~stylebook.de|~techbook.de|~testbild.de|~transfermarkt.at|~transfermarkt.ch|~transfermarkt.co.uk|~transfermarkt.com|~transfermarkt.com.tr|~transfermarkt.de|~transfermarkt.fr|~transfermarkt.it|~transfermarkt.nl|~transfermarkt.pl|~transfermarkt.pt|~transfermarkt.us|~travelbook.de|~tvspielfilm.de|~vip.de|~welt.de|~wieistmeineip.at|~wieistmeineip.ch|~wieistmeineip.de|~zuio.tv
+||http://privacy-mgmt.com^$third-party,domain=~11freunde.de|~autobild.de|~bike-bild.de|~bild.de|~boerse-online.de|~businessinsider.de|~bz-berlin.de|~caramia.de|~clever-tanken.de|~computerbild.de|~derstandard.at|~edelblech.de|~faz.net|~finanzen.at|~finanzen.ch|~finanzen.net|~fitbook.de|~gentside.com|~gofeminin.de|~idealo.at|~idealo.co.uk|~idealo.de|~idealo.es|~idealo.fr|~idealo.it|~immonet.de|~insider.com|~kombi.de|~maxisciences.com|~meinestadt.de|~metal-hammer.de|~musikexpress.de|~myhomebook.de|~n24.de|~noizz.de|~onmeda.de|~politico.eu|~rollingstone.de|~sportbild.de|~stylebook.de|~techbook.de|~testbild.de|~transfermarkt.at|~transfermarkt.ch|~transfermarkt.co.uk|~transfermarkt.com|~transfermarkt.com.tr|~transfermarkt.de|~transfermarkt.fr|~transfermarkt.it|~transfermarkt.nl|~transfermarkt.pl|~transfermarkt.pt|~transfermarkt.us|~travelbook.de|~tvspielfilm.de|~utopia.de|~vip.de|~welt.de|~wieistmeineip.at|~wieistmeineip.ch|~wieistmeineip.de|~zuio.tv
 ||http://sp-prod.net^$third-party,domain=~11freunde.de|~autobild.de|~bike-bild.de|~bild.de|~boerse-online.de|~businessinsider.de|~bz-berlin.de|~caramia.de|~clever-tanken.de|~computerbild.de|~edelblech.de|~faz.net|~finanzen.at|~finanzen.ch|~finanzen.net|~fitbook.de|~gentside.com|~gofeminin.de|~idealo.at|~idealo.co.uk|~idealo.de|~idealo.es|~idealo.fr|~idealo.it|~immonet.de|~insider.com|~kombi.de|~maxisciences.com|~meinestadt.de|~metal-hammer.de|~musikexpress.de|~myhomebook.de|~n24.de|~noizz.de|~onmeda.de|~politico.eu|~rollingstone.de|~sportbild.de|~stylebook.de|~techbook.de|~testbild.de|~transfermarkt.at|~transfermarkt.ch|~transfermarkt.co.uk|~transfermarkt.com|~transfermarkt.com.tr|~transfermarkt.de|~transfermarkt.fr|~transfermarkt.it|~transfermarkt.nl|~transfermarkt.pl|~transfermarkt.pt|~transfermarkt.us|~travelbook.de|~tvspielfilm.de|~vip.de|~welt.de|~wieistmeineip.at|~wieistmeineip.ch|~wieistmeineip.de|~zuio.tv
 ||http://4chan.org/b/*.swf
 ||http://anews.com/s/js/widget.js
@@ -9246,7 +9246,7 @@ https://eurosport.com###container-notifications
 https://decathlon.co.uk###container-screen
 https://tinder.com###content > span > .App > div[class*="Start"]
 https://wotinfo.net###coo
-https://alcoholics-anonymous.org.uk,cryps.info###cook
+https://alcoholics-anonymous.org.uk,cryps.info,imagefu.com###cook
 https://add0n.com,aflite.co.uk,aon.com,atom42.co.uk,bakersmall.co.uk,bbvonline.net,betradar.com,bookingsouthtyrol.com,boscolohotels.com,boxnation.com,e-doggy.com,eqavet.eu,essentraextrusion.eu,flexerasoftware.com,fremantlemedia.com,gulfstream.com,iadvize.com,keyboardco.com,kicc.org.uk,lonewolfonline.net,mouseprice.com,nspcc.org.uk,oilplusltd.com,onenessscotland.org,pentagon-group.co.uk,phpipam.net,prestashop.com,pretix.eu,priorygroup.com,rodacciai.fr,sainsburysenergy.com,simmons-simmons.com,stiripesurse.ro,tadeevo.com,technutty.co.uk,thebmc.co.uk,toomeymotorgroup.co.uk,tutsandtips.com,tvcorner.com,unsee.cc,wheatley-group.com,zbmath.org###cookie
 https://mediafire.com###cookie-accept-footer
 https://0calc.com###cookieconsentmodal
@@ -13469,7 +13469,7 @@ https://vk.com#@#.post_share
 https://supercomfysleep.com#@#.q_social_icon_holder
 https://reddit.com#@#.reddit_button
 https://hootsuite.com#@#.retweet
-https://space.com#@#.search-social
+https://romaniatv.net,space.com#@#.search-social
 https://nasa.gov,nosdiario.gal#@#.section-social
 https://californiasunday.com,youtube.com#@#.share-bar
 https://advego.com,figshare.com,upi.com#@#.share-block
@@ -20323,7 +20323,7 @@ http://eurosport.com###container-notifications
 http://decathlon.co.uk###container-screen
 http://tinder.com###content > span > .App > div[class*="Start"]
 http://wotinfo.net###coo
-http://alcoholics-anonymous.org.uk,cryps.info###cook
+http://alcoholics-anonymous.org.uk,cryps.info,imagefu.com###cook
 http://add0n.com,aflite.co.uk,aon.com,atom42.co.uk,bakersmall.co.uk,bbvonline.net,betradar.com,bookingsouthtyrol.com,boscolohotels.com,boxnation.com,e-doggy.com,eqavet.eu,essentraextrusion.eu,flexerasoftware.com,fremantlemedia.com,gulfstream.com,iadvize.com,keyboardco.com,kicc.org.uk,lonewolfonline.net,mouseprice.com,nspcc.org.uk,oilplusltd.com,onenessscotland.org,pentagon-group.co.uk,phpipam.net,prestashop.com,pretix.eu,priorygroup.com,rodacciai.fr,sainsburysenergy.com,simmons-simmons.com,stiripesurse.ro,tadeevo.com,technutty.co.uk,thebmc.co.uk,toomeymotorgroup.co.uk,tutsandtips.com,tvcorner.com,unsee.cc,wheatley-group.com,zbmath.org###cookie
 http://mediafire.com###cookie-accept-footer
 http://0calc.com###cookieconsentmodal
@@ -24547,7 +24547,7 @@ http://vk.com#@#.post_share
 http://supercomfysleep.com#@#.q_social_icon_holder
 http://reddit.com#@#.reddit_button
 http://hootsuite.com#@#.retweet
-http://space.com#@#.search-social
+http://romaniatv.net,space.com#@#.search-social
 http://nasa.gov,nosdiario.gal#@#.section-social
 http://californiasunday.com,youtube.com#@#.share-bar
 http://advego.com,figshare.com,upi.com#@#.share-block
