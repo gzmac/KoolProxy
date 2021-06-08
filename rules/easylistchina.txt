@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: OFKi9ubyb5nLyYAy78fc9w
-! Version: 202106070103
+! Checksum: o19jElut6w3C21WVvvEH5g
+! Version: 202106080103
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1962,6 +1962,7 @@
 ||https://ckxxbao.com/templets/default/js/wx.js
 ||https://clb.biz/Public/static/js/common-v2.js
 ||https://clouddn.com/960x60.gif
+||https://cloudflare.com/ajax/libs/jBox/
 ||https://cloudflare.com/ajax/libs/jquery.blockUI/
 ||https://cloudfront-666.kxcdn.com/v4.js
 ||https://cloudfront.net/?
@@ -3201,6 +3202,7 @@
 ||https://lnd.com.cn/site1/*.swf
 ||https://lnzqw.net/js/
 ||https://localau.vip/plugin/ad_
+||https://localau.vip/plugin/show.php
 ||https://lofter.com/mailEntryMobile.do
 ||https://logoquan.com/upload/prd/
 ||https://loldyttw.com/blr.js
@@ -3244,6 +3246,7 @@
 ||https://lvyinba.com/templets/*/js/couplet-ad.
 ||https://lw54.com/js/
 ||https://lw881.com/public/js/gw.js
+||https://lycc72.com/resources/js/content.js
 ||https://lyd.com.cn^*950-90.
 ||https://lysq.com/data/attachment/portal/
 ||https://lywww.com/data/js.php?id=
@@ -3570,6 +3573,8 @@
 ||https://pcstore.com.tw/css/myacc_init.js
 ||https://pcvideoyf.titan.mgtv.com/pb/*.mp4
 ||https://pdfbook.cn/wp-content/uploads/2017/11/049.jpg
+||https://pengwei168.com/addons/321.gif
+||https://pengwei168.com/template/stui_tpl/html/vod/f.js
 ||https://people.com.cn/adv/
 ||https://people.com.cn/img/gjt/
 ||https://perlmaven.com/img/*0x2
@@ -4157,6 +4162,7 @@
 ||https://tohomh123.com/js/funasd.js
 ||https://tom.com/*TomFlashAd
 ||https://tom.com/adsender/
+||https://tongchengoz.com^$rewrite=abp-resource:blank-mp3
 ||https://tonghuacun.com/js/uc.js
 ||https://tonnn.com/promotion2/*.js
 ||https://toolfk.com/common/11/
@@ -6935,6 +6941,7 @@
 ||http://lyztdz.com^
 ||http://lzmm8.com^
 ||http://lzzqqc.com^$third-party
+||http://magic-future.com^
 ||http://magictreehouse.cn^
 ||http://magiphone.cn^
 ||http://maidagu.com^
@@ -9469,6 +9476,7 @@
 ||http://clb.biz/Public/static/js/common-v2.js
 ||http://client.88tours.com^
 ||http://clouddn.com/960x60.gif
+||http://cloudflare.com/ajax/libs/jBox/$domain=localmv1.com
 ||http://cloudflare.com/ajax/libs/jquery.blockUI/$domain=wantgoo.com
 ||http://cloudfront-666.kxcdn.com/v4.js
 ||http://cloudfront.net/?$domain=olevod.com
@@ -10878,6 +10886,7 @@
 ||http://lnd.com.cn/site1/*.swf
 ||http://lnzqw.net/js/
 ||http://localau.vip/plugin/ad_
+||http://localau.vip/plugin/show.php
 ||http://lofter.com/mailEntryMobile.do
 ||http://logoquan.com/upload/prd/
 ||http://loldyttw.com/blr.js
@@ -10923,6 +10932,7 @@
 ||http://lw54.com/js/
 ||http://lw881.com/public/js/gw.js
 ||http://lxting.com^
+||http://lycc72.com/resources/js/content.js
 ||http://lyd.com.cn^*950-90.
 ||http://lysq.com/data/attachment/portal/
 ||http://lywww.com/data/js.php?id=
@@ -11280,6 +11290,8 @@
 ||http://pcvideoyf.titan.mgtv.com/pb/*.mp4
 ||http://pdfbook.cn/wp-content/uploads/2017/11/049.jpg
 ||http://pekingpk10.com^
+||http://pengwei168.com/addons/321.gif
+||http://pengwei168.com/template/stui_tpl/html/vod/f.js
 ||http://people.com.cn/adv/
 ||http://people.com.cn/img/gjt/
 ||http://perlmaven.com/img/*0x2
@@ -11940,6 +11952,7 @@
 ||http://tom*.com/js/advment.js
 ||http://tom.com/*TomFlashAd
 ||http://tom.com/adsender/
+||http://tongchengoz.com^$rewrite=abp-resource:blank-mp3,domain=localmv1.com
 ||http://tonghuacun.com/js/uc.js
 ||http://tonnn.com/promotion2/*.js
 ||http://toolfk.com/common/11/
@@ -13385,6 +13398,7 @@
 ||http://w.xiaopiaoyou.com^
 ||http://w11.zhongkaohelp.com^
 ||http://w18.9939.com^
+||http://w3.ting55.com^
 ||http://w3c.5txs.com^
 ||http://wap001.bytravel.cn^
 ||http://wap1.laogu.wang^
@@ -13544,7 +13558,6 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://833761.com^
 ||http://01tn.cn^
 ||http://027whht.com^
 ||http://0316dieroxiemzfjwmapk.xyz^
@@ -13678,6 +13691,7 @@
 ||http://7kzw.com/fe/
 ||http://7m307.cn^
 ||http://7times.top^
+||http://833761.com^
 ||http://85wa.cn^
 ||http://877zw.com/1
 ||http://888lianmeng.com^
@@ -13781,6 +13795,7 @@
 ||http://amghvzn.cn^
 ||http://angryme.cn^
 ||http://anhaochem.com^
+||http://anqpq.cn^
 ||http://anweigongsi.com^
 ||http://anyihuan.com^
 ||http://anyysz.com^

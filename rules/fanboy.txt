@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SD5nnpXE1UAQpm+pGt4ETw
-! Version: 202106070100
+! Checksum: tPF3eeQJcy3yXxF1ceX6hg
+! Version: 202106080100
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-07 01:00 UTC
+! Last modified: 2021-06-08 01:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7681,6 +7681,7 @@ https://livejapan.com###ptcd_modal_dialog
 https://google.com###pushdown
 https://fiercecable.com###pusher-ad
 https://airship.com##.PushNotification
+https://reddit.com##.XPromoBlockingModal
 https://reddit.com##.XPromoInFeed
 https://aliexpress.com##._3KrBP
 https://investing.com##.allow-notifications-popup-wrapper
@@ -9604,6 +9605,7 @@ https://kbs.co.kr##.chrome_pick
 https://stayinwales.co.uk##.ckinfo-panel
 https://singular.com.cy##.cm-notification-container
 https://cnn.com##.cnn-toast--tos
+https://scnat.ch##.command-bar
 https://vivo.com##.common_prompt-privacy-bg
 https://browardpalmbeach.com,dallasobserver.com,houstonpress.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.compliance
 https://riversidecompany.com##.compliance-banner
@@ -9874,7 +9876,7 @@ https://easyeda.com##.priv-tips
 https://dailyselect.co.uk,ferrerocareers.com,focustaiwan.tw##.privacy
 https://flyscoot.com##.privacy-bar
 https://luisaviaroma.com##.privacy-box
-https://pcmag.com##.privacy-content
+https://ign.com,pcmag.com##.privacy-content
 https://aw-lab.com##.privacy-data
 https://gigaom.com,gq.com.au,mta.tv,vocativ.com,zumba.com##.privacy-policy
 https://thenewdaily.com.au##.privacy-policy-slideup
@@ -11194,7 +11196,7 @@ https://rtl.be##.bulle_nombre
 https://rfm.fr##.communities
 https://rtl.be##.count
 https://la-croix.com##.email-icon
-https://buzzfil.com,clubic.com,ladepeche.fr,lci.tf1.fr,lesoir.be,liberation.fr,loi1901.com,pebkac.fr,programme-tv.net,rfm.fr,silicon.fr##.facebook
+https://buzzfil.com,clubic.com,ladepeche.fr,lci.tf1.fr,lesoir.be,liberation.fr,loi1901.com,pebkac.fr,picclick.fr,programme-tv.net,rfm.fr,silicon.fr##.facebook
 https://franceantilles.fr,rtl.fr##.fb
 https://radins.com##.fbMin
 https://lefigaro.fr##.fig-micronav-share-figures
@@ -11979,6 +11981,7 @@ https://telekom.de##.message-bar
 https://fc.de##.mod-alert
 https://csu.de##.mod-layer
 https://zurich.de##.mod-notification-teaser
+https://l-lab.de##.modal
 https://fc-carlzeiss-jena.de,felix1.de,mainz05.de##.modal-backdrop
 https://starcar.de##.modal-overlay
 https://moon-power.com##.moon2-statisticsOptBox
@@ -12979,6 +12982,7 @@ https://kamkabel.ru##.panel_152_wp
 https://pegast.ru##.pgs-top
 https://66.ru##.t-i-agree
 https://obozrevatel.com##.t657__wrapper
+https://vega-protect.ru##.t886
 https://yoomoney.ru##div[class^="Gdpr__StyledGdpr-"]
 https://pik-broker.ru##div[class^="cookie_cookie_"]
 https://aliexpress.ru##div[class^="styles_wrapper_"]
@@ -13162,6 +13166,7 @@ https://cyber-tank.org,cyber-tank.ru,forum.qscservice.com,forums.mozillazine.org
 https://hepsiburada.com#@#.backToTopVisible
 https://gamingheads.com,thefirefly.com#@#.block-subscribe
 https://novojornal.co.ao#@#.box-newsletter
+https://realme.com#@#.btn-back-to-top
 https://azcentral.com#@#.close-wrap > .close-overlay
 https://ffmovies.ru,fmovies.world#@#.fa-rss
 https://electnext.com,youtube.com#@#.feed-icon
@@ -13789,6 +13794,7 @@ https://thesocialmedwork.com#@##notice-cookie-block
 https://gq-magazine.co.uk,mail.com#@##onetrust-banner-sdk
 https://gq-magazine.co.uk,mail.com#@##onetrust-consent-sdk
 https://api.newsguardtech.com,rockpapershotgun.com#@##optanon
+https://ign.com#@##policyNotice
 https://theverge.com#@##privacy-consent
 https://ilpiemontetivaccina.it,minden.co.jp,readthedocs.io,sportdiver.com#@##privacy-policy
 https://dcinside.com,totalwar.com#@##privacy_policy
@@ -13911,6 +13917,7 @@ https://e-dym.pl#@#.cp-popup
 https://seguro.elespanol.com#@#.didomi-notice-banner
 https://porndig.com,thagson.com#@#.disclaimer_wrapper
 https://acloudguru.com,appfairness.org#@#.elementor-popup-modal.dialog-widget
+https://nvidia.com#@#.eu-cookie-compliance-popup-open
 https://etonline.com,popsugar.co.uk#@#.evidon-banner
 https://nytimes.com#@#.expanded.gdpr
 https://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@#.gdpr-agree
@@ -18757,6 +18764,7 @@ http://livejapan.com###ptcd_modal_dialog
 http://google.com###pushdown
 http://fiercecable.com###pusher-ad
 http://airship.com##.PushNotification
+http://reddit.com##.XPromoBlockingModal
 http://reddit.com##.XPromoInFeed
 http://aliexpress.com##._3KrBP
 http://investing.com##.allow-notifications-popup-wrapper
@@ -20681,6 +20689,7 @@ http://kbs.co.kr##.chrome_pick
 http://stayinwales.co.uk##.ckinfo-panel
 http://singular.com.cy##.cm-notification-container
 http://cnn.com##.cnn-toast--tos
+http://scnat.ch##.command-bar
 http://vivo.com##.common_prompt-privacy-bg
 http://browardpalmbeach.com,dallasobserver.com,houstonpress.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.compliance
 http://riversidecompany.com##.compliance-banner
@@ -20951,7 +20960,7 @@ http://easyeda.com##.priv-tips
 http://dailyselect.co.uk,ferrerocareers.com,focustaiwan.tw##.privacy
 http://flyscoot.com##.privacy-bar
 http://luisaviaroma.com##.privacy-box
-http://pcmag.com##.privacy-content
+http://ign.com,pcmag.com##.privacy-content
 http://aw-lab.com##.privacy-data
 http://gigaom.com,gq.com.au,mta.tv,vocativ.com,zumba.com##.privacy-policy
 http://thenewdaily.com.au##.privacy-policy-slideup
@@ -22271,7 +22280,7 @@ http://rtl.be##.bulle_nombre
 http://rfm.fr##.communities
 http://rtl.be##.count
 http://la-croix.com##.email-icon
-http://buzzfil.com,clubic.com,ladepeche.fr,lci.tf1.fr,lesoir.be,liberation.fr,loi1901.com,pebkac.fr,programme-tv.net,rfm.fr,silicon.fr##.facebook
+http://buzzfil.com,clubic.com,ladepeche.fr,lci.tf1.fr,lesoir.be,liberation.fr,loi1901.com,pebkac.fr,picclick.fr,programme-tv.net,rfm.fr,silicon.fr##.facebook
 http://franceantilles.fr,rtl.fr##.fb
 http://radins.com##.fbMin
 http://lefigaro.fr##.fig-micronav-share-figures
@@ -23057,6 +23066,7 @@ http://telekom.de##.message-bar
 http://fc.de##.mod-alert
 http://csu.de##.mod-layer
 http://zurich.de##.mod-notification-teaser
+http://l-lab.de##.modal
 http://fc-carlzeiss-jena.de,felix1.de,mainz05.de##.modal-backdrop
 http://starcar.de##.modal-overlay
 http://moon-power.com##.moon2-statisticsOptBox
@@ -24057,6 +24067,7 @@ http://kamkabel.ru##.panel_152_wp
 http://pegast.ru##.pgs-top
 http://66.ru##.t-i-agree
 http://obozrevatel.com##.t657__wrapper
+http://vega-protect.ru##.t886
 http://yoomoney.ru##div[class^="Gdpr__StyledGdpr-"]
 http://pik-broker.ru##div[class^="cookie_cookie_"]
 http://aliexpress.ru##div[class^="styles_wrapper_"]
@@ -24240,6 +24251,7 @@ http://cyber-tank.org,cyber-tank.ru,forum.qscservice.com,forums.mozillazine.org,
 http://hepsiburada.com#@#.backToTopVisible
 http://gamingheads.com,thefirefly.com#@#.block-subscribe
 http://novojornal.co.ao#@#.box-newsletter
+http://realme.com#@#.btn-back-to-top
 http://azcentral.com#@#.close-wrap > .close-overlay
 http://ffmovies.ru,fmovies.world#@#.fa-rss
 http://electnext.com,youtube.com#@#.feed-icon
@@ -24867,6 +24879,7 @@ http://thesocialmedwork.com#@##notice-cookie-block
 http://gq-magazine.co.uk,mail.com#@##onetrust-banner-sdk
 http://gq-magazine.co.uk,mail.com#@##onetrust-consent-sdk
 http://api.newsguardtech.com,rockpapershotgun.com#@##optanon
+http://ign.com#@##policyNotice
 http://theverge.com#@##privacy-consent
 http://ilpiemontetivaccina.it,minden.co.jp,readthedocs.io,sportdiver.com#@##privacy-policy
 http://dcinside.com,totalwar.com#@##privacy_policy
@@ -24989,6 +25002,7 @@ http://e-dym.pl#@#.cp-popup
 http://seguro.elespanol.com#@#.didomi-notice-banner
 http://porndig.com,thagson.com#@#.disclaimer_wrapper
 http://acloudguru.com,appfairness.org#@#.elementor-popup-modal.dialog-widget
+http://nvidia.com#@#.eu-cookie-compliance-popup-open
 http://etonline.com,popsugar.co.uk#@#.evidon-banner
 http://nytimes.com#@#.expanded.gdpr
 http://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@#.gdpr-agree
