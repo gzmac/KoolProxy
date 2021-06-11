@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PZYLMRplAkeKiMOX7g/s0Q
-! Version: 202106100050
+! Checksum: QNqP7wNr2QPzU/C7ZD/9eA
+! Version: 202106110000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-10 00:50 UTC
+! Last modified: 2021-06-11 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -396,6 +396,7 @@
 ||https://music.youtube.com^$csp=worker-src 'none'
 ||https://www.youtube.com^$csp=worker-src 'none'
 ||https://appspot.com/sounds/chatmsg.mp3
+||https://cliengo.com^$media
 ||https://collectcdn.com^$media
 ||https://driftqa.com/conductor/assets/media/
 ||https://echatsys.com/sounds/
@@ -1806,6 +1807,7 @@
 ||http://music.youtube.com^$csp=worker-src 'none'
 ||http://www.youtube.com^$csp=worker-src 'none'
 ||http://appspot.com/sounds/chatmsg.mp3
+||http://cliengo.com^$media
 ||http://collectcdn.com^$media
 ||http://driftqa.com/conductor/assets/media/
 ||http://echatsys.com/sounds/
@@ -7397,6 +7399,7 @@ https://factcheck.org,therevolutionaryact.com##a[href*="/subscribe/"]
 https://quantamagazine.org##a[href="#newsletter"]
 https://mediaite.com##a[href="http://www.mediaite.com/email-newsletter/"]
 https://stuff.co.nz##a[href^="https://my.stuff.co.nz/register/newsletter"]
+https://refinery29.com##aside
 https://upi.com##div > .ad_slot + div[style="position: relative;"]
 https://arstechnica.co.uk##div > p + blockquote
 https://stuff.co.nz##div[class$="-pointer"]
@@ -9379,6 +9382,7 @@ https://tresorit.com###notification-wrapper
 https://codeplay.com###notificationPopup
 https://tweakers.net###notifications > .announcement
 https://adverts.ie,boards.ie,dailyedge.ie,did.ie,the42.ie,thejournal.ie###notify-container
+https://dometechnology.com###noty_layout__bottomCenter
 https://novapdf.com###novapdf_accept_cookies
 https://professionalbatterychargers.com###nscmsboxboxsimple
 https://spreaker.com###nt_container
@@ -12544,7 +12548,7 @@ https://voloweb.it###popupDivC
 https://alceosalentino.it,chemistresearch.it,cinquantamila.it,compitoinclasse.org,metroservices.it,tastoeffeuno.it###privacy
 https://testisemplificati.com###privacy-modal
 https://jusan.it###privacy-popup
-https://comitatoparalimpico.it,coni.it,federnuoto.it###privacy-wrapper
+https://comitatoparalimpico.it,coni.it,federnuoto.it,fise.it###privacy-wrapper
 https://pagomeno.it###privacyBanner
 https://cinquantamila.corriere.it,cinquantamila.it###privacy_advisor
 https://samaritansonlus.org###sB_injected
@@ -13451,6 +13455,7 @@ https://busqueda.com.uy,linkedin.com,peerlyst.com#@#.linkedin.icon
 https://pan.baidu.com#@#.list-share
 https://theverge.com#@#.m-article__share-buttons
 https://fider.io,jellyfin.org#@#.m-social
+https://streamlabs.com#@#.media-share
 https://epicdrama.pl,iab.org.pl#@#.menu-social
 https://arkansasmatters.com,kark.com#@#.meta-share
 https://adobe.com#@#.mod-facebook
@@ -18490,6 +18495,7 @@ http://factcheck.org,therevolutionaryact.com##a[href*="/subscribe/"]
 http://quantamagazine.org##a[href="#newsletter"]
 http://mediaite.com##a[href="http://www.mediaite.com/email-newsletter/"]
 http://stuff.co.nz##a[href^="https://my.stuff.co.nz/register/newsletter"]
+http://refinery29.com##aside
 http://upi.com##div > .ad_slot + div[style="position: relative;"]
 http://arstechnica.co.uk##div > p + blockquote
 http://stuff.co.nz##div[class$="-pointer"]
@@ -20473,6 +20479,7 @@ http://tresorit.com###notification-wrapper
 http://codeplay.com###notificationPopup
 http://tweakers.net###notifications > .announcement
 http://adverts.ie,boards.ie,dailyedge.ie,did.ie,the42.ie,thejournal.ie###notify-container
+http://dometechnology.com###noty_layout__bottomCenter
 http://novapdf.com###novapdf_accept_cookies
 http://professionalbatterychargers.com###nscmsboxboxsimple
 http://spreaker.com###nt_container
@@ -23639,7 +23646,7 @@ http://voloweb.it###popupDivC
 http://alceosalentino.it,chemistresearch.it,cinquantamila.it,compitoinclasse.org,metroservices.it,tastoeffeuno.it###privacy
 http://testisemplificati.com###privacy-modal
 http://jusan.it###privacy-popup
-http://comitatoparalimpico.it,coni.it,federnuoto.it###privacy-wrapper
+http://comitatoparalimpico.it,coni.it,federnuoto.it,fise.it###privacy-wrapper
 http://pagomeno.it###privacyBanner
 http://cinquantamila.corriere.it,cinquantamila.it###privacy_advisor
 http://samaritansonlus.org###sB_injected
@@ -24546,6 +24553,7 @@ http://busqueda.com.uy,linkedin.com,peerlyst.com#@#.linkedin.icon
 http://pan.baidu.com#@#.list-share
 http://theverge.com#@#.m-article__share-buttons
 http://fider.io,jellyfin.org#@#.m-social
+http://streamlabs.com#@#.media-share
 http://epicdrama.pl,iab.org.pl#@#.menu-social
 http://arkansasmatters.com,kark.com#@#.meta-share
 http://adobe.com#@#.mod-facebook
