@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QNqP7wNr2QPzU/C7ZD/9eA
-! Version: 202106110000
+! Checksum: lq23NPrbqDbuco5WVjHxDA
+! Version: 202106120000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-11 00:00 UTC
+! Last modified: 2021-06-12 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4255,6 +4255,7 @@ https://office.com###supFeedbackWrapper
 https://detroitnews.com###super-widget
 https://booktrust.org.uk,patient.co.uk###survey
 https://nature.com###survey-message-placeholder
+https://moneycontrol.com###survey_popup
 https://bing.com###sw_pb
 https://usmagazine.com###sweeps_add336x125
 https://adweek.com###swprevtrigger
@@ -9422,6 +9423,7 @@ https://fxstreet.com###prestitial-handle
 https://3q.video,mondaq.co.uk,mondaq.com,prevac.eu,vindy.com###privacy
 https://playstation.com###privacy-header
 https://islamicfinder.org###privacy-modal
+https://govt.nz###privacy-notification
 https://telegraph.co.uk###privacy-settings-prompt
 https://cbronline.com###privacy_content
 https://online2pdf.com###privacy_msg
@@ -12950,6 +12952,7 @@ https://jaguarportugal.pt,landrover.pt##.notificationBars
 https://timing.pt##.policy
 https://suzukimoto.pt##.policy-window
 https://nh-hoteles.pt##.politicaRewards
+https://telecine.com.br##div[data-testid="banner"]
 https://viatransilvanica.com###accept-popup
 https://hotnews.ro###avert
 https://cursbnr.ro###avert_all_page
@@ -13808,8 +13811,8 @@ https://imoradar24.ro#@##modal-cookies
 https://17track.net#@##modal-gdpr
 https://faberkabel.de#@##modalCookie
 https://thesocialmedwork.com#@##notice-cookie-block
-https://gq-magazine.co.uk,mail.com#@##onetrust-banner-sdk
-https://gq-magazine.co.uk,mail.com#@##onetrust-consent-sdk
+https://gq-magazine.co.uk,mail.com,uefa.com#@##onetrust-banner-sdk
+https://gq-magazine.co.uk,mail.com,uefa.com#@##onetrust-consent-sdk
 https://api.newsguardtech.com,rockpapershotgun.com#@##optanon
 https://ign.com#@##policyNotice
 https://theverge.com#@##privacy-consent
@@ -15351,6 +15354,7 @@ http://office.com###supFeedbackWrapper
 http://detroitnews.com###super-widget
 http://booktrust.org.uk,patient.co.uk###survey
 http://nature.com###survey-message-placeholder
+http://moneycontrol.com###survey_popup
 http://bing.com###sw_pb
 http://usmagazine.com###sweeps_add336x125
 http://adweek.com###swprevtrigger
@@ -20519,6 +20523,7 @@ http://fxstreet.com###prestitial-handle
 http://3q.video,mondaq.co.uk,mondaq.com,prevac.eu,vindy.com###privacy
 http://playstation.com###privacy-header
 http://islamicfinder.org###privacy-modal
+http://govt.nz###privacy-notification
 http://telegraph.co.uk###privacy-settings-prompt
 http://cbronline.com###privacy_content
 http://online2pdf.com###privacy_msg
@@ -24048,6 +24053,7 @@ http://jaguarportugal.pt,landrover.pt##.notificationBars
 http://timing.pt##.policy
 http://suzukimoto.pt##.policy-window
 http://nh-hoteles.pt##.politicaRewards
+http://telecine.com.br##div[data-testid="banner"]
 http://viatransilvanica.com###accept-popup
 http://hotnews.ro###avert
 http://cursbnr.ro###avert_all_page
@@ -24906,8 +24912,8 @@ http://imoradar24.ro#@##modal-cookies
 http://17track.net#@##modal-gdpr
 http://faberkabel.de#@##modalCookie
 http://thesocialmedwork.com#@##notice-cookie-block
-http://gq-magazine.co.uk,mail.com#@##onetrust-banner-sdk
-http://gq-magazine.co.uk,mail.com#@##onetrust-consent-sdk
+http://gq-magazine.co.uk,mail.com,uefa.com#@##onetrust-banner-sdk
+http://gq-magazine.co.uk,mail.com,uefa.com#@##onetrust-consent-sdk
 http://api.newsguardtech.com,rockpapershotgun.com#@##optanon
 http://ign.com#@##policyNotice
 http://theverge.com#@##privacy-consent
