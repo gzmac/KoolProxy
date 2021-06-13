@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lq23NPrbqDbuco5WVjHxDA
-! Version: 202106120000
+! Checksum: dzFlW2zYrqTKvXCKsrsnJA
+! Version: 202106130000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-12 00:00 UTC
+! Last modified: 2021-06-13 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -218,7 +218,6 @@
 ||https://notifyon.com^$third-party
 ||https://nrcdn.com/custom-script/$third-party
 ||https://nrelate.com^$third-party
-||https://oovvuu.com^$third-party
 ||https://opinary.com^$third-party
 ||https://opiniac.com^$third-party
 ||https://opinionbar.com^$third-party
@@ -1627,7 +1626,6 @@
 ||http://notifyon.com^$third-party
 ||http://nrcdn.com/custom-script/$third-party
 ||http://nrelate.com^$third-party
-||http://oovvuu.com^$third-party
 ||http://opinary.com^$third-party
 ||http://opiniac.com^$third-party
 ||http://opinionbar.com^$third-party
@@ -12940,6 +12938,7 @@ https://rtp.pt###rtpgeralcookiecontent
 https://cmjornal.pt,jornaldenegocios.pt###termos
 https://xalingo.com.br###wrng-agrmnt
 https://sapo.ao##.bsu-v2-ntfs
+https://minhaconexao.com.br##.c-640a9a7c
 https://vodafone.pt##.ck-nudge-slim
 https://sinonimos.com.br##.clm
 https://macorlux.pt##.cookie
@@ -24041,6 +24040,7 @@ http://rtp.pt###rtpgeralcookiecontent
 http://cmjornal.pt,jornaldenegocios.pt###termos
 http://xalingo.com.br###wrng-agrmnt
 http://sapo.ao##.bsu-v2-ntfs
+http://minhaconexao.com.br##.c-640a9a7c
 http://vodafone.pt##.ck-nudge-slim
 http://sinonimos.com.br##.clm
 http://macorlux.pt##.cookie
