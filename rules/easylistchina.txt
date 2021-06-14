@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: F/Zvm1PMXYlzTR8Ut7SFCg
-! Version: 202106130033
+! Checksum: XUujVPA+HgCtjlkS+cdCsQ
+! Version: 202106140035
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1637,6 +1637,7 @@
 ||https://baoliny.com/js/jing.js
 ||https://baomihua.com/yy/
 ||https://baomitu.duapp.com/js/layer.js
+||https://bashiyy.com/static/js/plugin.js
 ||https://bb1nn.com/js/i.js
 ||https://bb999.net/pic/n/agents/C-79.gif
 ||https://bbnnnb.com^*.js
@@ -2459,7 +2460,6 @@
 ||https://gdbyhtl.net/adfix/
 ||https://gdmm.com/api.php?mod=js&bid=2111
 ||https://gdmm.com/images/leftbottom.png
-||https://gdzidong.com/static/js/plugin.js
 ||https://geekbang.org/public/serving/
 ||https://geekpark.net/api/v1/ads
 ||https://gegeyingshi.com/template/*/images/g_js/
@@ -6156,6 +6156,7 @@
 ||http://bnq86.com^
 ||http://bnuni.com^$third-party
 ||http://bole.asia^
+||http://bole8dns.com^
 ||http://boleimg.com^
 ||http://bolimen.top^
 ||http://books.com.tw/exep/ap/$third-party
@@ -9131,6 +9132,7 @@
 ||http://baoliny.com/js/jing.js
 ||http://baomihua.com/yy/
 ||http://baomitu.duapp.com/js/layer.js
+||http://bashiyy.com/static/js/plugin.js
 ||http://bb1nn.com/js/i.js
 ||http://bb999.net/pic/n/agents/C-79.gif
 ||http://bbnnnb.com^*.js
@@ -10054,7 +10056,6 @@
 ||http://gdmm.com*/mybt/
 ||http://gdmm.com/api.php?mod=js&bid=2111
 ||http://gdmm.com/images/leftbottom.png
-||http://gdzidong.com/static/js/plugin.js
 ||http://geekbang.org/public/serving/
 ||http://geekpark.net/api/v1/ads
 ||http://gegeyingshi.com/template/*/images/g_js/
@@ -21832,6 +21833,7 @@ https://ali213.net#@#.subscribe-container
 https://5dm.app,5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
+https://tgbus.com###guide-download
 https://pcbaby.com.cn###jpopWinBottom
 https://zhideqiang.com##A[href*="quan.zhideqiang.com"]
 https://5ykj.com##.ls-b-large-margin
@@ -28281,6 +28283,7 @@ http://ali213.net#@#.subscribe-container
 http://5dm.app,5dm.tv#@#.tm-share-this
 http://laohu8.com#@#.tweet-article
 http://fqsousou.com,kengso.com#@#.user-share
+http://tgbus.com###guide-download
 http://pcbaby.com.cn###jpopWinBottom
 http://zhideqiang.com##A[href*="quan.zhideqiang.com"]
 http://5ykj.com##.ls-b-large-margin

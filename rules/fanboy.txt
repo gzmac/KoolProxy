@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dzFlW2zYrqTKvXCKsrsnJA
-! Version: 202106130000
+! Checksum: BecD7pd+RwHCDGqzaI8O4Q
+! Version: 202106140000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-13 00:00 UTC
+! Last modified: 2021-06-14 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2594,7 +2594,7 @@
 ||http://emerse.com/consent.js
 ||http://freedoflondon.com/Styles/dialog-popup/jquery-ui.js
 ||http://freetls.fastly.net/main/sd-cmp-$domain=spanishdict.com
-||http://fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|calcalistech.com|gameblog.fr|liliputing.com|makeuseof.com|marbaro.it|phonearena.com|quotes.net|smallseotools.com|stadtfeste-in-deutschland.de|telegram.hr|timeanddate.com|wordreference.com|zerohedge.com
+||http://fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|calcalistech.com|gameblog.fr|infopedia.pt|liliputing.com|makeuseof.com|marbaro.it|phonearena.com|quotes.net|smallseotools.com|stadtfeste-in-deutschland.de|telegram.hr|timeanddate.com|wordreference.com|zerohedge.com
 ||http://gdpr.internetbrands.com^
 ||http://gdpr.prisa.com^
 ||http://government-and-constitution.org/js/consent.js
@@ -9161,6 +9161,7 @@ https://mappy.com###IndexView-first-visit
 https://atom8.com###LandingPopUp
 https://uk.yahoo.com###Main > .windowshade:first-child
 https://yahoo.com###Overlay-1-Nagbar
+https://pdfcoffee.com###PDFCOFFEECOM_cookie_box
 https://provantage.com###PP
 https://brookes.ac.uk###PopUp
 https://telkom.co.za###PrivacyNotice
@@ -9244,6 +9245,7 @@ https://gpuopen.com###colophon
 https://evaair.com,play.tv###colorbox
 https://shadertoy.com###compliance
 https://msn.com###conditionalbanner
+https://yopmail.com###cons-pop
 https://alarabiya.net,digminecraft.com,find-dvd.co.uk,ft.com,heathrowexpress.com,holition.com,mapcarta.com,nperf.com###consent
 https://netcraft.com###consent-form
 https://c21stores.com###consent-tracking
@@ -9273,7 +9275,7 @@ https://debenhams.com###debCNwrap
 https://tunngle.net###delirioBiscottoso
 https://morningstar.co.uk###dialog-mask
 https://binary.com###dialog_notification
-https://biodiv.be,bitmoji.com,clementoni.com,decisiondeskhq.com,greybox.com,liveradio.ie,snp.org,volksbuehne.berlin###disclaimer
+https://aldeparty.eu,biodiv.be,bitmoji.com,clementoni.com,decisiondeskhq.com,greybox.com,liveradio.ie,snp.org,volksbuehne.berlin###disclaimer
 https://owasp.org###disclaimer-container
 https://ebu.ch###disclamerContainer
 https://morningstar.co.uk###divAudienceConfirmation
@@ -9420,6 +9422,7 @@ https://autoevolution.com###prajiturele
 https://fxstreet.com###prestitial-handle
 https://3q.video,mondaq.co.uk,mondaq.com,prevac.eu,vindy.com###privacy
 https://playstation.com###privacy-header
+https://canalplus.com###privacy-manager
 https://islamicfinder.org###privacy-modal
 https://govt.nz###privacy-notification
 https://telegraph.co.uk###privacy-settings-prompt
@@ -9645,6 +9648,7 @@ https://hik-connect.com##.coverShow
 https://videojug.com##.cp-alert-message
 https://mad-daily.com##.cp-info-bar-container
 https://louisvuitton.com##.cs_banner
+https://argent.xyz##.css-fnrkut
 https://quixel.com##.css-wzviqn
 https://tannoy.com##.cv2-wrapper
 https://ratemyprofessors.com##.dQpRnT
@@ -9674,7 +9678,7 @@ https://avid.com,editus.lu##.fancybox-overlay
 https://editus.lu##.fancybox-wrap
 https://thebodyshop.com##.first-time-visitor
 https://privacysavvy.com##.fixed
-https://jsonquerytool.com##.fixed-bottom
+https://jsonquerytool.com,remove.bg##.fixed-bottom
 https://wallpaperdirect.com##.fixed-bottom.container
 https://mobileshop.eu##.fixed-warning
 https://nordpass.com##.fixed.bg-grey-darkest
@@ -10076,7 +10080,7 @@ https://satispay.com##p[class^="cookie-banner"]
 https://opentip.kaspersky.com##section[data-t="cks-dsc"] > div > div
 https://truecaller.com##span > .max-w-md.shadow-lg
 https://web.dev##web-snackbar
-https://androidpolice.com,apkmirror.com,calcalistech.com,gameblog.fr,liliputing.com,makeuseof.com,marbaro.it,phonearena.com,quotes.net,smallseotools.com,stadtfeste-in-deutschland.de,telegram.hr,timeanddate.com,wordreference.com,zerohedge.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
+https://androidpolice.com,apkmirror.com,calcalistech.com,gameblog.fr,infopedia.pt,liliputing.com,makeuseof.com,marbaro.it,phonearena.com,quotes.net,smallseotools.com,stadtfeste-in-deutschland.de,telegram.hr,timeanddate.com,wordreference.com,zerohedge.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 https://play.google.com##.gb_g:has-text(cookie)
 https://istockphoto.com#?#.warning:-abp-has([data-cookie-type])
 https://play.google.com#?#.gb_g:-abp-contains(cookie)
@@ -11834,6 +11838,7 @@ https://strabag-pfs.de###dsgvo
 https://mail.de###euccBanner
 https://apotal.de###footer
 https://autokostencheck.de###footerSlideContainer
+https://splu-engineers.com###frontpage-banner-cover
 https://pokewiki.de###gl-topbar-bg
 https://aida.de###hfas782aj
 https://pfarrverband-koenigslutter.de###hinweis
@@ -11893,6 +11898,7 @@ https://staatsbibliothek-berlin.de###tracking-info
 https://schauinsland-reisen.de###trackingInfo
 https://tuigroup.com###tui-cc
 https://basiszinssatz.de###wrapperdiv
+https://aok.de##.-open.csm
 https://adacreisen.de##.FooterNotification
 https://otelo.de##.GlobalNotification
 https://l-bank.de##.JM_mod-M-8-0
@@ -11967,6 +11973,7 @@ https://brigitte.de,essen-und-trinken.de,geo.de##.guj-cb
 https://tork.de##.headerMessage
 https://postbank.de##.header__notification
 https://henryschein.at##.hs-block-ui
+https://immoscout24.ch##.idStQs
 https://burn-out-forum.de##.ifancybox-overlay-fixed
 https://am-play.de##.important-message-outer
 https://musikzirkus.eu,rosacea-info.de##.infobox
@@ -12018,6 +12025,8 @@ https://thueringenforst.de##.opt-out
 https://tt.com##.outer-wrap
 https://zitatezumnachdenken.com##.overlay
 https://auto-motor-und-sport.de##.p40
+https://avl-ludwigsburg.de##.page-overlay
+https://recordsale.de##.personalization-request
 https://woche-der-meinungsfreiheit.de##.pixelmate-banner-bottom
 https://nh-hotels.de##.politicaRewards
 https://airleben.de,datafox.de##.popup-banner
@@ -12110,6 +12119,7 @@ https://ville-montrouge.fr###info_message
 https://autoreflex.com###legal
 https://fromagesuisse.ch###legalnotice
 https://lotus-planete.com###lotus-cookies-wrap
+https://ma-calculatrice.fr###manger-des-gateaux
 https://comptabilisation.fr###message_wrap
 https://maxifoot.fr###mfcok1
 https://giappo.com###normativa
@@ -12762,6 +12772,8 @@ https://himountain.pl,opteam.pl,orszak.org,pwr.edu.pl###info_c_box
 https://eteacher.pl,speedtest.pl,wirtualis.pl###info_container
 https://webelite.pl###infobar
 https://blog4u.pl,joe.pl###j_all
+https://infopedia.pt###klaro-pe-overlay
+https://infopedia.pt###klaro-pe-window
 https://lotto.pl###klauzula_informacyjna_nakladka
 https://krakow.pl,wydawca.com.pl###kuki
 https://borelioza.vegie.pl###menubar
@@ -12924,6 +12936,7 @@ https://kinoteka.pl##div[style^="font-size: 13px;"]
 https://sfinks.org.pl##div[style^="left: 0px; top:"]
 https://visionexpress.pl##div[style^="margin: 0px auto; padding:"]
 https://pallottinum.pl##div[style^="padding:5px 15px;padding-top:5px;"]
+https://footroll.pl##div[style^="position: fixed; left:"]
 https://trzemeszno.pl##div[style^="top:0;left:0;"]
 https://poznan.pl,vas.com.pl##div[style^="top:0;left:0;right:0;"]
 https://zs1mm.edu.pl##frame
@@ -12984,6 +12997,7 @@ https://podrozerowerowe.info##.appriseOuter
 https://podrozerowerowe.info##.appriseOverlay
 https://likeni.ru##.bottom-popup
 https://tvguru.ru##.c-modal
+https://2x2tv.ru##.cook-web
 https://hashrating.com##.cookie
 https://advstreet.ru,glavred.info,skillbox.ru,unian.net##.cookies
 https://lisa.ru##.disclamer
@@ -13055,6 +13069,7 @@ https://eluniverso.com##.block-eluniverso-gdpr
 https://infiniti.com.do,infiniti.com.pa,infiniti.mx,infinitimotors.cl,infinitipr.com##.c_128
 https://psicologia-online.com,uncomo.com##.consent
 https://alcampo.es,gestoriaverdugo.es##.cookie
+https://autosolar.es##.cookie-configuration
 https://conforama.es,ebayextra.es,flooxer.com,ing.es,loteriasyapuestas.es,moldurashergon.es,mountainbike.es,nintenderos.com,o2online.es,panamaamerica.com.pa,puntodepartida.com,tuenti.es##.cookies
 https://eltiempo.es##.curtain_lightbox
 https://ingemecanica.com##.encabez
@@ -13064,6 +13079,7 @@ https://elperiodicodeaqui.com##.info_priv
 https://ulabox.com##.js-alert
 https://plataformaarquitectura.cl##.kth-toast
 https://enaire.es,fiveguys.es##.modal-backdrop
+https://servihabitat.com##.modal-condiciones
 https://hofmann.es##.muuSm
 https://nomada.gt##.noma-privacy
 https://jaguar.es,landrover.es##.notificationBars
@@ -13073,6 +13089,7 @@ https://contarcaracteres.com##.top-header
 https://in4.es##.uk-position-fixed
 https://blogcindario.com,mforos.com##body > div[id][class]
 https://recepedia.com##div[style^="position: fixed; top:"]
+https://dagenssamhalle.se###__next > div:last-child
 https://kb.se,skanetrafiken.se###cookie
 https://hkr.se,inscale.se###cookies
 https://recept100.se###cxcx
@@ -13756,7 +13773,7 @@ https://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@##cookie-container
 https://okazik.pl,skuola.net#@##cookie-dialog
 https://calciomercato.napoli.it,clever-zoeger.de,datakauppa.fi,ddz24.eu,lewento.de,management30.com,theorie-musik.de,wiadomosci-lodz.pl#@##cookie-law-info-bar
 https://penny.hu,pennymarket.it#@##cookie-message
-https://bokadirekt.se,zlm.nl#@##cookie-modal
+https://bokadirekt.se,cancercentrum.se,d-power-modellbau.com,modellbau-metz.com,pelix-media.de,steinmetz-baldauf.de,zlm.nl#@##cookie-modal
 https://makelaarsland.nl#@##cookie-notice
 https://power.fi#@##cookie-notification
 https://danbolig.dk,finanzen.ch#@##cookie-overlay
@@ -13866,10 +13883,10 @@ https://mediamarkt.de,mediamarkt.nl,saturn.de#@#.cookie-info-modal
 https://ferratum.pl,greenflag.com#@#.cookie-message
 https://bbcstudios.com#@#.cookie-message-container
 https://foodnetwork.it,kramp.com#@#.cookie-message:not(html):not(body)
-https://bokadirekt.se,puzzels.ad.nl,puzzels.bd.nl,puzzels.bndestem.nl,puzzels.destentor.nl,puzzels.ed.nl,puzzels.gelderlander.nl,puzzels.parool.nl,puzzels.pzc.nl,puzzels.trouw.nl,puzzels.tubantia.nl,puzzels.volkskrant.nl,tropicana.fr#@#.cookie-modal
+https://bokadirekt.se,d-power-modellbau.com,modellbau-metz.com,puzzels.ad.nl,puzzels.bd.nl,puzzels.bndestem.nl,puzzels.destentor.nl,puzzels.ed.nl,puzzels.gelderlander.nl,puzzels.parool.nl,puzzels.pzc.nl,puzzels.trouw.nl,puzzels.tubantia.nl,puzzels.volkskrant.nl,tropicana.fr#@#.cookie-modal
 https://tennisassa.fi#@#.cookie-monster
 https://findagrave.com#@#.cookie-msg
-https://account.here.com,calvinklein.at,calvinklein.be,calvinklein.bg,calvinklein.ch,calvinklein.co.uk,calvinklein.com,calvinklein.cz,calvinklein.de,calvinklein.dk,calvinklein.ee,calvinklein.es,calvinklein.fi,calvinklein.fr,calvinklein.hr,calvinklein.hu,calvinklein.ie,calvinklein.it,calvinklein.lt,calvinklein.lu,calvinklein.lv,calvinklein.nl,calvinklein.pl,calvinklein.pt,calvinklein.ru,calvinklein.se,calvinklein.si,calvinklein.sk,shop.forster.at,uktv.co.uk#@#.cookie-notice
+https://account.here.com,calvinklein.at,calvinklein.be,calvinklein.bg,calvinklein.ch,calvinklein.co.uk,calvinklein.com,calvinklein.cz,calvinklein.de,calvinklein.dk,calvinklein.ee,calvinklein.es,calvinklein.fi,calvinklein.fr,calvinklein.hr,calvinklein.hu,calvinklein.ie,calvinklein.it,calvinklein.lt,calvinklein.lu,calvinklein.lv,calvinklein.nl,calvinklein.pl,calvinklein.pt,calvinklein.ru,calvinklein.se,calvinklein.si,calvinklein.sk,d-power-modellbau.com,modellbau-metz.comm,shop.forster.at,uktv.co.uk#@#.cookie-notice
 https://hm.com,prosiebengames.de,stories.com#@#.cookie-notification
 https://hype.it,labanquepostale.fr,rosbank.ru#@#.cookie-on
 https://finanzen.ch,timeout.com#@#.cookie-overlay
@@ -13935,6 +13952,7 @@ https://bccnapoli.it,spalferrara.it,thetechsutra.com#@#.cp-overlay
 https://e-dym.pl#@#.cp-popup
 https://seguro.elespanol.com#@#.didomi-notice-banner
 https://porndig.com,thagson.com#@#.disclaimer_wrapper
+https://myrobotcenter.at,myrobotcenter.co.uk,myrobotcenter.de#@#.ec-gtm-cookie-directive
 https://acloudguru.com,appfairness.org#@#.elementor-popup-modal.dialog-widget
 https://nvidia.com#@#.eu-cookie-compliance-popup-open
 https://etonline.com,popsugar.co.uk#@#.evidon-banner
@@ -20262,6 +20280,7 @@ http://mappy.com###IndexView-first-visit
 http://atom8.com###LandingPopUp
 http://uk.yahoo.com###Main > .windowshade:first-child
 http://yahoo.com###Overlay-1-Nagbar
+http://pdfcoffee.com###PDFCOFFEECOM_cookie_box
 http://provantage.com###PP
 http://brookes.ac.uk###PopUp
 http://telkom.co.za###PrivacyNotice
@@ -20345,6 +20364,7 @@ http://gpuopen.com###colophon
 http://evaair.com,play.tv###colorbox
 http://shadertoy.com###compliance
 http://msn.com###conditionalbanner
+http://yopmail.com###cons-pop
 http://alarabiya.net,digminecraft.com,find-dvd.co.uk,ft.com,heathrowexpress.com,holition.com,mapcarta.com,nperf.com###consent
 http://netcraft.com###consent-form
 http://c21stores.com###consent-tracking
@@ -20374,7 +20394,7 @@ http://debenhams.com###debCNwrap
 http://tunngle.net###delirioBiscottoso
 http://morningstar.co.uk###dialog-mask
 http://binary.com###dialog_notification
-http://biodiv.be,bitmoji.com,clementoni.com,decisiondeskhq.com,greybox.com,liveradio.ie,snp.org,volksbuehne.berlin###disclaimer
+http://aldeparty.eu,biodiv.be,bitmoji.com,clementoni.com,decisiondeskhq.com,greybox.com,liveradio.ie,snp.org,volksbuehne.berlin###disclaimer
 http://owasp.org###disclaimer-container
 http://ebu.ch###disclamerContainer
 http://morningstar.co.uk###divAudienceConfirmation
@@ -20521,6 +20541,7 @@ http://autoevolution.com###prajiturele
 http://fxstreet.com###prestitial-handle
 http://3q.video,mondaq.co.uk,mondaq.com,prevac.eu,vindy.com###privacy
 http://playstation.com###privacy-header
+http://canalplus.com###privacy-manager
 http://islamicfinder.org###privacy-modal
 http://govt.nz###privacy-notification
 http://telegraph.co.uk###privacy-settings-prompt
@@ -20746,6 +20767,7 @@ http://hik-connect.com##.coverShow
 http://videojug.com##.cp-alert-message
 http://mad-daily.com##.cp-info-bar-container
 http://louisvuitton.com##.cs_banner
+http://argent.xyz##.css-fnrkut
 http://quixel.com##.css-wzviqn
 http://tannoy.com##.cv2-wrapper
 http://ratemyprofessors.com##.dQpRnT
@@ -20775,7 +20797,7 @@ http://avid.com,editus.lu##.fancybox-overlay
 http://editus.lu##.fancybox-wrap
 http://thebodyshop.com##.first-time-visitor
 http://privacysavvy.com##.fixed
-http://jsonquerytool.com##.fixed-bottom
+http://jsonquerytool.com,remove.bg##.fixed-bottom
 http://wallpaperdirect.com##.fixed-bottom.container
 http://mobileshop.eu##.fixed-warning
 http://nordpass.com##.fixed.bg-grey-darkest
@@ -21177,7 +21199,7 @@ http://satispay.com##p[class^="cookie-banner"]
 http://opentip.kaspersky.com##section[data-t="cks-dsc"] > div > div
 http://truecaller.com##span > .max-w-md.shadow-lg
 http://web.dev##web-snackbar
-http://androidpolice.com,apkmirror.com,calcalistech.com,gameblog.fr,liliputing.com,makeuseof.com,marbaro.it,phonearena.com,quotes.net,smallseotools.com,stadtfeste-in-deutschland.de,telegram.hr,timeanddate.com,wordreference.com,zerohedge.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
+http://androidpolice.com,apkmirror.com,calcalistech.com,gameblog.fr,infopedia.pt,liliputing.com,makeuseof.com,marbaro.it,phonearena.com,quotes.net,smallseotools.com,stadtfeste-in-deutschland.de,telegram.hr,timeanddate.com,wordreference.com,zerohedge.com##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 http://play.google.com##.gb_g:has-text(cookie)
 http://istockphoto.com#?#.warning:-abp-has([data-cookie-type])
 http://play.google.com#?#.gb_g:-abp-contains(cookie)
@@ -22936,6 +22958,7 @@ http://strabag-pfs.de###dsgvo
 http://mail.de###euccBanner
 http://apotal.de###footer
 http://autokostencheck.de###footerSlideContainer
+http://splu-engineers.com###frontpage-banner-cover
 http://pokewiki.de###gl-topbar-bg
 http://aida.de###hfas782aj
 http://pfarrverband-koenigslutter.de###hinweis
@@ -22995,6 +23018,7 @@ http://staatsbibliothek-berlin.de###tracking-info
 http://schauinsland-reisen.de###trackingInfo
 http://tuigroup.com###tui-cc
 http://basiszinssatz.de###wrapperdiv
+http://aok.de##.-open.csm
 http://adacreisen.de##.FooterNotification
 http://otelo.de##.GlobalNotification
 http://l-bank.de##.JM_mod-M-8-0
@@ -23069,6 +23093,7 @@ http://brigitte.de,essen-und-trinken.de,geo.de##.guj-cb
 http://tork.de##.headerMessage
 http://postbank.de##.header__notification
 http://henryschein.at##.hs-block-ui
+http://immoscout24.ch##.idStQs
 http://burn-out-forum.de##.ifancybox-overlay-fixed
 http://am-play.de##.important-message-outer
 http://musikzirkus.eu,rosacea-info.de##.infobox
@@ -23120,6 +23145,8 @@ http://thueringenforst.de##.opt-out
 http://tt.com##.outer-wrap
 http://zitatezumnachdenken.com##.overlay
 http://auto-motor-und-sport.de##.p40
+http://avl-ludwigsburg.de##.page-overlay
+http://recordsale.de##.personalization-request
 http://woche-der-meinungsfreiheit.de##.pixelmate-banner-bottom
 http://nh-hotels.de##.politicaRewards
 http://airleben.de,datafox.de##.popup-banner
@@ -23212,6 +23239,7 @@ http://ville-montrouge.fr###info_message
 http://autoreflex.com###legal
 http://fromagesuisse.ch###legalnotice
 http://lotus-planete.com###lotus-cookies-wrap
+http://ma-calculatrice.fr###manger-des-gateaux
 http://comptabilisation.fr###message_wrap
 http://maxifoot.fr###mfcok1
 http://giappo.com###normativa
@@ -23864,6 +23892,8 @@ http://himountain.pl,opteam.pl,orszak.org,pwr.edu.pl###info_c_box
 http://eteacher.pl,speedtest.pl,wirtualis.pl###info_container
 http://webelite.pl###infobar
 http://blog4u.pl,joe.pl###j_all
+http://infopedia.pt###klaro-pe-overlay
+http://infopedia.pt###klaro-pe-window
 http://lotto.pl###klauzula_informacyjna_nakladka
 http://krakow.pl,wydawca.com.pl###kuki
 http://borelioza.vegie.pl###menubar
@@ -24026,6 +24056,7 @@ http://kinoteka.pl##div[style^="font-size: 13px;"]
 http://sfinks.org.pl##div[style^="left: 0px; top:"]
 http://visionexpress.pl##div[style^="margin: 0px auto; padding:"]
 http://pallottinum.pl##div[style^="padding:5px 15px;padding-top:5px;"]
+http://footroll.pl##div[style^="position: fixed; left:"]
 http://trzemeszno.pl##div[style^="top:0;left:0;"]
 http://poznan.pl,vas.com.pl##div[style^="top:0;left:0;right:0;"]
 http://zs1mm.edu.pl##frame
@@ -24086,6 +24117,7 @@ http://podrozerowerowe.info##.appriseOuter
 http://podrozerowerowe.info##.appriseOverlay
 http://likeni.ru##.bottom-popup
 http://tvguru.ru##.c-modal
+http://2x2tv.ru##.cook-web
 http://hashrating.com##.cookie
 http://advstreet.ru,glavred.info,skillbox.ru,unian.net##.cookies
 http://lisa.ru##.disclamer
@@ -24157,6 +24189,7 @@ http://eluniverso.com##.block-eluniverso-gdpr
 http://infiniti.com.do,infiniti.com.pa,infiniti.mx,infinitimotors.cl,infinitipr.com##.c_128
 http://psicologia-online.com,uncomo.com##.consent
 http://alcampo.es,gestoriaverdugo.es##.cookie
+http://autosolar.es##.cookie-configuration
 http://conforama.es,ebayextra.es,flooxer.com,ing.es,loteriasyapuestas.es,moldurashergon.es,mountainbike.es,nintenderos.com,o2online.es,panamaamerica.com.pa,puntodepartida.com,tuenti.es##.cookies
 http://eltiempo.es##.curtain_lightbox
 http://ingemecanica.com##.encabez
@@ -24166,6 +24199,7 @@ http://elperiodicodeaqui.com##.info_priv
 http://ulabox.com##.js-alert
 http://plataformaarquitectura.cl##.kth-toast
 http://enaire.es,fiveguys.es##.modal-backdrop
+http://servihabitat.com##.modal-condiciones
 http://hofmann.es##.muuSm
 http://nomada.gt##.noma-privacy
 http://jaguar.es,landrover.es##.notificationBars
@@ -24175,6 +24209,7 @@ http://contarcaracteres.com##.top-header
 http://in4.es##.uk-position-fixed
 http://blogcindario.com,mforos.com##body > div[id][class]
 http://recepedia.com##div[style^="position: fixed; top:"]
+http://dagenssamhalle.se###__next > div:last-child
 http://kb.se,skanetrafiken.se###cookie
 http://hkr.se,inscale.se###cookies
 http://recept100.se###cxcx
@@ -24858,7 +24893,7 @@ http://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@##cookie-container
 http://okazik.pl,skuola.net#@##cookie-dialog
 http://calciomercato.napoli.it,clever-zoeger.de,datakauppa.fi,ddz24.eu,lewento.de,management30.com,theorie-musik.de,wiadomosci-lodz.pl#@##cookie-law-info-bar
 http://penny.hu,pennymarket.it#@##cookie-message
-http://bokadirekt.se,zlm.nl#@##cookie-modal
+http://bokadirekt.se,cancercentrum.se,d-power-modellbau.com,modellbau-metz.com,pelix-media.de,steinmetz-baldauf.de,zlm.nl#@##cookie-modal
 http://makelaarsland.nl#@##cookie-notice
 http://power.fi#@##cookie-notification
 http://danbolig.dk,finanzen.ch#@##cookie-overlay
@@ -24968,10 +25003,10 @@ http://mediamarkt.de,mediamarkt.nl,saturn.de#@#.cookie-info-modal
 http://ferratum.pl,greenflag.com#@#.cookie-message
 http://bbcstudios.com#@#.cookie-message-container
 http://foodnetwork.it,kramp.com#@#.cookie-message:not(html):not(body)
-http://bokadirekt.se,puzzels.ad.nl,puzzels.bd.nl,puzzels.bndestem.nl,puzzels.destentor.nl,puzzels.ed.nl,puzzels.gelderlander.nl,puzzels.parool.nl,puzzels.pzc.nl,puzzels.trouw.nl,puzzels.tubantia.nl,puzzels.volkskrant.nl,tropicana.fr#@#.cookie-modal
+http://bokadirekt.se,d-power-modellbau.com,modellbau-metz.com,puzzels.ad.nl,puzzels.bd.nl,puzzels.bndestem.nl,puzzels.destentor.nl,puzzels.ed.nl,puzzels.gelderlander.nl,puzzels.parool.nl,puzzels.pzc.nl,puzzels.trouw.nl,puzzels.tubantia.nl,puzzels.volkskrant.nl,tropicana.fr#@#.cookie-modal
 http://tennisassa.fi#@#.cookie-monster
 http://findagrave.com#@#.cookie-msg
-http://account.here.com,calvinklein.at,calvinklein.be,calvinklein.bg,calvinklein.ch,calvinklein.co.uk,calvinklein.com,calvinklein.cz,calvinklein.de,calvinklein.dk,calvinklein.ee,calvinklein.es,calvinklein.fi,calvinklein.fr,calvinklein.hr,calvinklein.hu,calvinklein.ie,calvinklein.it,calvinklein.lt,calvinklein.lu,calvinklein.lv,calvinklein.nl,calvinklein.pl,calvinklein.pt,calvinklein.ru,calvinklein.se,calvinklein.si,calvinklein.sk,shop.forster.at,uktv.co.uk#@#.cookie-notice
+http://account.here.com,calvinklein.at,calvinklein.be,calvinklein.bg,calvinklein.ch,calvinklein.co.uk,calvinklein.com,calvinklein.cz,calvinklein.de,calvinklein.dk,calvinklein.ee,calvinklein.es,calvinklein.fi,calvinklein.fr,calvinklein.hr,calvinklein.hu,calvinklein.ie,calvinklein.it,calvinklein.lt,calvinklein.lu,calvinklein.lv,calvinklein.nl,calvinklein.pl,calvinklein.pt,calvinklein.ru,calvinklein.se,calvinklein.si,calvinklein.sk,d-power-modellbau.com,modellbau-metz.comm,shop.forster.at,uktv.co.uk#@#.cookie-notice
 http://hm.com,prosiebengames.de,stories.com#@#.cookie-notification
 http://hype.it,labanquepostale.fr,rosbank.ru#@#.cookie-on
 http://finanzen.ch,timeout.com#@#.cookie-overlay
@@ -25037,6 +25072,7 @@ http://bccnapoli.it,spalferrara.it,thetechsutra.com#@#.cp-overlay
 http://e-dym.pl#@#.cp-popup
 http://seguro.elespanol.com#@#.didomi-notice-banner
 http://porndig.com,thagson.com#@#.disclaimer_wrapper
+http://myrobotcenter.at,myrobotcenter.co.uk,myrobotcenter.de#@#.ec-gtm-cookie-directive
 http://acloudguru.com,appfairness.org#@#.elementor-popup-modal.dialog-widget
 http://nvidia.com#@#.eu-cookie-compliance-popup-open
 http://etonline.com,popsugar.co.uk#@#.evidon-banner
