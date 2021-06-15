@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: XUujVPA+HgCtjlkS+cdCsQ
-! Version: 202106140035
+! Checksum: 8A814nCQnaPmjlueD/yRsw
+! Version: 202106150035
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -2647,6 +2647,7 @@
 ||https://hkitblog.com^*-banner
 ||https://hkmte.com/seo.js
 ||https://hktvmall.com/api/preroll/getList?
+||https://hltoon.com/hanman/static/dist/ppm/js/foot
 ||https://hmghmg.com/tb
 ||https://hmog.me/tb
 ||https://honglingjin.co.uk/wp-content/uploads/*-Homepage-Takeover-BG-
@@ -4018,6 +4019,7 @@
 ||https://sozi.cn/images/tj/hukead.gif
 ||https://sozi.cn/images/tj/szdown
 ||https://sozi.cn/templets/sozi/js/js.js
+||https://spanking.wiki/morning-bread-
 ||https://speedtest.cn/api/v2/show?
 ||https://speedtest.cn/assets/images/ce_
 ||https://sportscn.com/js/commerical
@@ -5840,6 +5842,7 @@
 ||http://5551933.com^
 ||http://55803.net^$third-party
 ||http://55kk.tv^
+||http://560378.com^
 ||http://565882.com^$third-party
 ||http://56yk.com^$third-party
 ||http://5783.org^
@@ -6600,6 +6603,7 @@
 ||http://hktv10.com^
 ||http://hlcnzz.com^
 ||http://hljyjm.cn^
+||http://hmaqz.top^
 ||http://hmnjf.com^
 ||http://hn163fck.com^$third-party
 ||http://hnasd.com^
@@ -6897,6 +6901,7 @@
 ||http://lhusy.com^
 ||http://lhy1.xyz^
 ||http://lhzly.com^$third-party
+||http://liangxiaoru.cn^
 ||http://liangyi360.com^$third-party
 ||http://liangziweixg.com^
 ||http://lianjie.phpwind.com^$third-party
@@ -10280,6 +10285,7 @@
 ||http://hkitblog.com^*-banner
 ||http://hkmte.com/seo.js
 ||http://hktvmall.com/api/preroll/getList?
+||http://hltoon.com/hanman/static/dist/ppm/js/foot
 ||http://hmghmg.com/tb
 ||http://hmog.me/tb
 ||http://honglingjin.co.uk/wp-content/uploads/*-Homepage-Takeover-BG-
@@ -11795,6 +11801,7 @@
 ||http://sozi.cn/images/tj/hukead.gif
 ||http://sozi.cn/images/tj/szdown
 ||http://sozi.cn/templets/sozi/js/js.js
+||http://spanking.wiki/morning-bread-
 ||http://speedtest.cn/api/v2/show?
 ||http://speedtest.cn/assets/images/ce_
 ||http://sportscn.com/js/commerical
@@ -13238,6 +13245,7 @@
 ||http://js.263y.com^
 ||http://js.9136.com^
 ||http://js.98158.com^
+||http://js.ccmeng.com^
 ||http://js.jianbihuadq.com^
 ||http://js.kt250.com^
 ||http://js.mscto.com^
@@ -15156,6 +15164,7 @@
 ||http://toujing7.top^
 ||http://toujing8.top^
 ||http://toujing9.top^
+||http://tpcdn.top^
 ||http://travel-together.cn^
 ||http://trhccn.cn^
 ||http://trpsm.xyz^
@@ -16637,6 +16646,7 @@ https://mangabz.com###cc1
 https://mangabz.com###cc2
 https://dapenti.com###center > div[align="center"][target="_blank"]
 https://55188.com###center-pic
+https://chinaz.com###centerTxt
 https://huarenjie.com###cftoutiao
 https://hao.rising.cn###change
 https://360.com###channel-game
@@ -23084,6 +23094,7 @@ http://mangabz.com###cc1
 http://mangabz.com###cc2
 http://dapenti.com###center > div[align="center"][target="_blank"]
 http://55188.com###center-pic
+http://chinaz.com###centerTxt
 http://huarenjie.com###cftoutiao
 http://hao.rising.cn###change
 http://360.com###channel-game

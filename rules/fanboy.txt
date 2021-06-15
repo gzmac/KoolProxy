@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BecD7pd+RwHCDGqzaI8O4Q
-! Version: 202106140000
+! Checksum: AegqAfU5F6jLSWIVtup1Pg
+! Version: 202106150000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-14 00:00 UTC
+! Last modified: 2021-06-15 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6735,6 +6735,7 @@ https://newstalkzb.co.nz##.c-promo
 https://nature.com##.c-site-messages
 https://politico.com##.california-playbook-sign-up-right-rail
 https://npr.org##.callout
+https://cars.com##.captureFormEditorial
 https://time.com##.cartoon-newsletter-container
 https://classicsdujour.com##.cdj-vip
 https://newrepublic.com##.center.popup
@@ -7731,6 +7732,7 @@ https://9gag.com##.download-app-container
 https://9gag.com##.get-the-app-banner
 https://independent.co.uk##.inline-prompt
 https://gayemagazine.com##.lvMF7
+https://bing.com##.opal_serpftrc
 https://india.com##.open-app
 https://sportskeeda.com##.sidebar-app-download
 https://imgur.com,sowetanlive.co.za##.smartbanner
@@ -10108,6 +10110,7 @@ https://rp-online.de##.park-snackbar-cookies
 https://walmart.ca##.privacy-open > div > [class] > div[class^="css"]
 https://bing.com##div[data-cookie]
 https://spot-a-shop.at,spot-a-shop.de,spot-a-shop.fi,spot-a-shop.fr,spot-a-shop.pl,spot-a-shop.se###__next > div > div > div[class^="css"]
+https://minhaconexao.com.br#?#section[id][class]:-abp-has(:scope > div[class] > button[class][onclick^="onClickCookiesBannerWeb"])
 https://sme.sk###js-top-info-bar
 https://egmont.cz###nrlskswidget
 https://thscore.mobi###returnTop
@@ -12951,7 +12954,6 @@ https://rtp.pt###rtpgeralcookiecontent
 https://cmjornal.pt,jornaldenegocios.pt###termos
 https://xalingo.com.br###wrng-agrmnt
 https://sapo.ao##.bsu-v2-ntfs
-https://minhaconexao.com.br##.c-640a9a7c
 https://vodafone.pt##.ck-nudge-slim
 https://sinonimos.com.br##.clm
 https://macorlux.pt##.cookie
@@ -17853,6 +17855,7 @@ http://newstalkzb.co.nz##.c-promo
 http://nature.com##.c-site-messages
 http://politico.com##.california-playbook-sign-up-right-rail
 http://npr.org##.callout
+http://cars.com##.captureFormEditorial
 http://time.com##.cartoon-newsletter-container
 http://classicsdujour.com##.cdj-vip
 http://newrepublic.com##.center.popup
@@ -18849,6 +18852,7 @@ http://9gag.com##.download-app-container
 http://9gag.com##.get-the-app-banner
 http://independent.co.uk##.inline-prompt
 http://gayemagazine.com##.lvMF7
+http://bing.com##.opal_serpftrc
 http://india.com##.open-app
 http://sportskeeda.com##.sidebar-app-download
 http://imgur.com,sowetanlive.co.za##.smartbanner
@@ -21227,6 +21231,7 @@ http://rp-online.de##.park-snackbar-cookies
 http://walmart.ca##.privacy-open > div > [class] > div[class^="css"]
 http://bing.com##div[data-cookie]
 http://spot-a-shop.at,spot-a-shop.de,spot-a-shop.fi,spot-a-shop.fr,spot-a-shop.pl,spot-a-shop.se###__next > div > div > div[class^="css"]
+http://minhaconexao.com.br#?#section[id][class]:-abp-has(:scope > div[class] > button[class][onclick^="onClickCookiesBannerWeb"])
 http://sme.sk###js-top-info-bar
 http://egmont.cz###nrlskswidget
 http://thscore.mobi###returnTop
@@ -24071,7 +24076,6 @@ http://rtp.pt###rtpgeralcookiecontent
 http://cmjornal.pt,jornaldenegocios.pt###termos
 http://xalingo.com.br###wrng-agrmnt
 http://sapo.ao##.bsu-v2-ntfs
-http://minhaconexao.com.br##.c-640a9a7c
 http://vodafone.pt##.ck-nudge-slim
 http://sinonimos.com.br##.clm
 http://macorlux.pt##.cookie
