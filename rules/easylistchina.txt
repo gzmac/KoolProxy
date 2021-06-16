@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 8A814nCQnaPmjlueD/yRsw
-! Version: 202106150035
+! Checksum: BAx5ZW4QvSHtDo3Nbgh7jA
+! Version: 202106160035
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4986,6 +4986,7 @@
 ||https://boluoxs.com/js/digu.js
 ||https://book9.net^$third-party
 ||https://bxwxorg.com/ui/vue/element.
+||https://cn3k5.com^*_*_
 ||https://dabizi.net/images/pcad.png
 ||https://daomengren.com^*lin*.js
 ||https://duanwenxue.com/functions/
@@ -13435,7 +13436,6 @@
 ||http://weidianyuedu.com^$third-party
 ||http://wenhua.jiaoshou.com^
 ||http://wenshenbang.com^$third-party
-||http://wenwen120.com^
 ||http://whfpbc.99.com.cn^
 ||http://wj.jiancai365.cn^
 ||http://wm.mipcdn.com^
@@ -13632,6 +13632,7 @@
 ||http://215to.cn^
 ||http://222.186.12.235^
 ||http://2227q.com^
+||http://22qzhao5.cn^
 ||http://23txt.com^$third-party
 ||http://23txt.com^*-*-
 ||http://23txt.com^*.xm
@@ -13785,6 +13786,7 @@
 ||http://ahmibai.cn^
 ||http://ahuac.com^
 ||http://ahwczn.cn^
+||http://ahylong.cn^
 ||http://ahzhongzhan.cn^
 ||http://aibangzs.com^
 ||http://aikan6.com^
@@ -14008,6 +14010,7 @@
 ||http://clmmw.com^
 ||http://clxxkz.com.cn^
 ||http://cn-3drp.com^
+||http://cn3k5.com^*_*_
 ||http://cndaizi.com^
 ||http://cniuv.com^
 ||http://cnlhg.cn^
@@ -14603,6 +14606,7 @@
 ||http://ktzte.cn^
 ||http://kuaidibiaoju.com^
 ||http://kuaidibox.cn^
+||http://kuaidube.cn^
 ||http://kuaipaobiaoju.com^
 ||http://kuhu168.com/web/js/17mb.js
 ||http://kunloveyu.cn^
@@ -14786,6 +14790,7 @@
 ||http://ngmaul.cn^
 ||http://ngsaang.top^
 ||http://nhrlzy.com^
+||http://nicelook.cn^
 ||http://niegg.com^
 ||http://nihao987654.top^
 ||http://ningbojipiao.com^
@@ -21719,19 +21724,19 @@ https://hpjav.tv##body > div[style^="position: fixed;"]
 https://verystream.com#@#.adsbox
 https://googleads.g.doubleclick.net###mys-wrapper
 https://xhtml?%22+$script,third-party
+https://52biquge.com##[onclick*="app"]
+https://52biquge.com##a[href^="http://html.350.com/"]
+https://55shuba.com###botDiv
+https://biqubao.com##div[style="width:976px;"]
+https://bixia.org##dd[style*="bottom:"]
 https://bxwx3.org###addiv3
 https://bxwx3.org###bdstatic
-https://55shuba.com###botDiv
 https://duanwenxue.com##.qgzdwx
-https://jx.la##[onclick*="apk"]
-https://52biquge.com##[onclick*="app"]
 https://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
-https://52biquge.com##a[href^="http://html.350.com/"]
-https://bixia.org##dd[style*="bottom:"]
-https://xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
-https://smjb.net##div[style*="height: 50%"]
-https://biqubao.com##div[style="width:976px;"]
+https://jx.la##[onclick*="apk"]
 https://piaotian5.com##script + div[style="padding:15px;"]
+https://smjb.net##div[style*="height: 50%"]
+https://xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 https://getrelax.cc,sexylove.club##.loaded-popup-wrapper
 https://rjno1.com##div[style="display:none"]
 https://173.192.147.21,sejie.com,sejie3.us,thesoccerline.com###wp > br
@@ -28169,19 +28174,19 @@ http://hpjav.tv##body > div[style^="position: fixed;"]
 http://verystream.com#@#.adsbox
 http://googleads.g.doubleclick.net###mys-wrapper
 http://xhtml?%22+$script,third-party
+http://52biquge.com##[onclick*="app"]
+http://52biquge.com##a[href^="http://html.350.com/"]
+http://55shuba.com###botDiv
+http://biqubao.com##div[style="width:976px;"]
+http://bixia.org##dd[style*="bottom:"]
 http://bxwx3.org###addiv3
 http://bxwx3.org###bdstatic
-http://55shuba.com###botDiv
 http://duanwenxue.com##.qgzdwx
-http://jx.la##[onclick*="apk"]
-http://52biquge.com##[onclick*="app"]
 http://dukankan.com,ibqg5200.com,snwx3.com##[style*="fixed"]
-http://52biquge.com##a[href^="http://html.350.com/"]
-http://bixia.org##dd[style*="bottom:"]
-http://xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
-http://smjb.net##div[style*="height: 50%"]
-http://biqubao.com##div[style="width:976px;"]
+http://jx.la##[onclick*="apk"]
 http://piaotian5.com##script + div[style="padding:15px;"]
+http://smjb.net##div[style*="height: 50%"]
+http://xuehongxs.com##div[id^="cs_DIV_cscpvrich"]
 http://getrelax.cc,sexylove.club##.loaded-popup-wrapper
 http://rjno1.com##div[style="display:none"]
 http://173.192.147.21,sejie.com,sejie3.us,thesoccerline.com###wp > br
