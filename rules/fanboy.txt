@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 08izTI1txxRM1C/ZoBe4SQ
-! Version: 202106160000
+! Checksum: oKVhw6Wcl1oZRfY+eT6Wew
+! Version: 202106170000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-16 00:00 UTC
+! Last modified: 2021-06-17 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1165,6 +1165,7 @@
 ||https://thscore.mobi^*/top.
 ||https://focus.de/fol/pics/special/informiert.gif
 ||https://gluecksdetektiv.de/wp-content/plugins/easy-fancybox-pro/
+||https://google.com/search?$popup
 ||https://stncdn.it^*/smartbanner.
 ||https://valentins.de^*/glyphicon_up.
 ||https://vebidoo.de/images/xtotop.
@@ -2623,6 +2624,7 @@
 ||http://thscore.mobi^*/top.
 ||http://focus.de/fol/pics/special/informiert.gif
 ||http://gluecksdetektiv.de/wp-content/plugins/easy-fancybox-pro/
+||http://google.com/search?$popup,domain=lolmt2.com
 ||http://mdsngpush.finanzen.net^
 ||http://stncdn.it^*/smartbanner.
 ||http://valentins.de^*/glyphicon_up.
@@ -6275,6 +6277,9 @@ https://newsweek.com##.subscribe-block-wrapper
 https://time.com##.subscription-cta
 https://stuff.co.nz##.support-brief-container
 https://stuff.co.nz##.ta.t9.t8
+https://pjmedia.com##.thm-piano-bottom
+https://pjmedia.com,townhall.com##.thm-piano-eop
+https://redstate.com##.tp-container-inner
 https://thenationalpulse.com##.widget_media_image
 https://youtube.com##.ytd-statement-banner-renderer
 https://zerohedge.com##[class^="Banner_"]
@@ -6735,6 +6740,7 @@ https://gq-magazine.co.uk##.c-infobar-wrapper
 https://newstalkzb.co.nz##.c-promo
 https://nature.com##.c-site-messages
 https://politico.com##.california-playbook-sign-up-right-rail
+https://a16z.com##.call-to-action
 https://npr.org##.callout
 https://cars.com##.captureFormEditorial
 https://time.com##.cartoon-newsletter-container
@@ -6960,6 +6966,7 @@ https://thenewcivilrightsmovement.com##.join
 https://braindecoder.com##.join-widget
 https://thedodo.com##.join-widget-container
 https://authoritynutrition.com##.joinus
+https://plough.com##.jotform-feedback-link
 https://wired.com##.journey-template--in-content
 https://newatlas.com##.jqmOverlay
 https://smarteranalyst.com##.jquery-modal
@@ -7686,6 +7693,7 @@ https://broadwayworld.com##.widget-subscribe
 https://stereogum.com##.zergnet-holder
 https://newyorker.com##div[class^="NewsletterSubscribe_"]
 https://buzzfeed.com##div[id^="mod-newsletter-signup-"]
+https://tbsnews.net###___tbspushdiv
 https://kizi.com###kizi-popover-dialog
 https://livejapan.com###ptcd_modal_dialog
 https://google.com###pushdown
@@ -8689,6 +8697,7 @@ https://fusion.net,onegreenplanet.org,ryot.org##.reveal-modal-bg
 https://gdnonline.com##.right
 https://thehindubusinessline.com##.right-promo
 https://ehow.com##.right-rail-promo
+https://dailycaller.com##.rounded-full
 https://bing.com##.rq_stxt
 https://belivehotels.com##.rrss
 https://artstation.com##.s-bar
@@ -9527,6 +9536,7 @@ https://huawei.com##.ReadPolicy
 https://drweb.com##.SHOWIT-msg_showed
 https://cnn.com##.TermsOfService__component
 https://mtn.co.za##.Toast
+https://lareviewofbooks.org##.Toastify
 https://6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##.Tooltip
 https://hotcleaner.com##.V9
 https://hotcleaner.com##.XNKr
@@ -13505,7 +13515,7 @@ https://needlenthread.com#@#.pinterest1
 https://pinterest.com#@#.pinterestComponentShare
 https://marieclaire.ru#@#.pinterestShare
 https://privatecore.com#@#.post-fb
-https://23-59.com.ua,dietetycy.org.pl,freerider.ro,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,pruszkow.pl,thewire.in,tidssonen.no,truepundit.com,vanillamagazine.it,velodaily.ru#@#.post-share-container
+https://23-59.com.ua,dietetycy.org.pl,freerider.ro,gaystarnews.com,greekcitytimes.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,pruszkow.pl,thewire.in,tidssonen.no,truepundit.com,vanillamagazine.it,velodaily.ru#@#.post-share-container
 https://imgur.com#@#.post-share-panel
 https://reddit.com#@#.post-sharing
 https://ain.ua,guildwars2.com#@#.post-social
@@ -13825,7 +13835,7 @@ https://pekao.com.pl#@##gdpr-popup
 https://mirjan24.pl#@##gdpr:not(body):not(html):not(input):not(button)
 https://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@##gdpr_popin
 https://taloon.com#@##gdprpopup
-https://ansa.it,capital.it,huffingtonpost.it,m2o.it,meteo.it,rockol.it,video.deejay.it,video.espresso.repubblica.it,video.ilsecoloxix.it,video.lanuovasardegna.it,video.lastampa.it,video.rep.repubblica.it,video.repubblica.it#@##iubenda-cs-banner
+https://ansa.it,capital.it,huffingtonpost.it,leggo.it,m2o.it,meteo.it,rockol.it,video.deejay.it,video.espresso.repubblica.it,video.ilsecoloxix.it,video.lanuovasardegna.it,video.lastampa.it,video.rep.repubblica.it,video.repubblica.it#@##iubenda-cs-banner
 https://krone.at#@##krn-privacy-center
 https://bosch-mobility-solutions.com#@##m-cookie-overlay
 https://imoradar24.ro#@##modal-cookies
@@ -13973,7 +13983,7 @@ https://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfran
 https://totalcasino.pl#@#.gdpr-popup
 https://wufoo.com#@#.gdpr-prompt
 https://booking.pobeda.aero,coastalliving.com,commercialtrucktrader.com,cookinglight.com,esselunga.it,essence.com,ew.com,food.com,fortune.com,gct.com,golf.com,health.com,hellogiggles.com,instyle.com,metallica.com,mirjan24.pl,my.games,nytimes.com,people.com,realsimple.com,si.com,southernliving.com,time.com,travelandleisure.com#@#.gdpr:not(body):not(html)
-https://ansa.it#@#.iubenda-cs-content
+https://ansa.it,leggo.it#@#.iubenda-cs-content
 https://suzuki.co.nz#@#.js-cookie
 https://geleidehond.nl#@#.js-cookie-alert
 https://uniroyal.pl#@#.js-cookie-banner
@@ -17397,6 +17407,9 @@ http://newsweek.com##.subscribe-block-wrapper
 http://time.com##.subscription-cta
 http://stuff.co.nz##.support-brief-container
 http://stuff.co.nz##.ta.t9.t8
+http://pjmedia.com##.thm-piano-bottom
+http://pjmedia.com,townhall.com##.thm-piano-eop
+http://redstate.com##.tp-container-inner
 http://thenationalpulse.com##.widget_media_image
 http://youtube.com##.ytd-statement-banner-renderer
 http://zerohedge.com##[class^="Banner_"]
@@ -17857,6 +17870,7 @@ http://gq-magazine.co.uk##.c-infobar-wrapper
 http://newstalkzb.co.nz##.c-promo
 http://nature.com##.c-site-messages
 http://politico.com##.california-playbook-sign-up-right-rail
+http://a16z.com##.call-to-action
 http://npr.org##.callout
 http://cars.com##.captureFormEditorial
 http://time.com##.cartoon-newsletter-container
@@ -18082,6 +18096,7 @@ http://thenewcivilrightsmovement.com##.join
 http://braindecoder.com##.join-widget
 http://thedodo.com##.join-widget-container
 http://authoritynutrition.com##.joinus
+http://plough.com##.jotform-feedback-link
 http://wired.com##.journey-template--in-content
 http://newatlas.com##.jqmOverlay
 http://smarteranalyst.com##.jquery-modal
@@ -18808,6 +18823,7 @@ http://broadwayworld.com##.widget-subscribe
 http://stereogum.com##.zergnet-holder
 http://newyorker.com##div[class^="NewsletterSubscribe_"]
 http://buzzfeed.com##div[id^="mod-newsletter-signup-"]
+http://tbsnews.net###___tbspushdiv
 http://kizi.com###kizi-popover-dialog
 http://livejapan.com###ptcd_modal_dialog
 http://google.com###pushdown
@@ -19811,6 +19827,7 @@ http://fusion.net,onegreenplanet.org,ryot.org##.reveal-modal-bg
 http://gdnonline.com##.right
 http://thehindubusinessline.com##.right-promo
 http://ehow.com##.right-rail-promo
+http://dailycaller.com##.rounded-full
 http://bing.com##.rq_stxt
 http://belivehotels.com##.rrss
 http://artstation.com##.s-bar
@@ -20650,6 +20667,7 @@ http://huawei.com##.ReadPolicy
 http://drweb.com##.SHOWIT-msg_showed
 http://cnn.com##.TermsOfService__component
 http://mtn.co.za##.Toast
+http://lareviewofbooks.org##.Toastify
 http://6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##.Tooltip
 http://hotcleaner.com##.V9
 http://hotcleaner.com##.XNKr
@@ -24629,7 +24647,7 @@ http://needlenthread.com#@#.pinterest1
 http://pinterest.com#@#.pinterestComponentShare
 http://marieclaire.ru#@#.pinterestShare
 http://privatecore.com#@#.post-fb
-http://23-59.com.ua,dietetycy.org.pl,freerider.ro,gaystarnews.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,pruszkow.pl,thewire.in,tidssonen.no,truepundit.com,vanillamagazine.it,velodaily.ru#@#.post-share-container
+http://23-59.com.ua,dietetycy.org.pl,freerider.ro,gaystarnews.com,greekcitytimes.com,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,pruszkow.pl,thewire.in,tidssonen.no,truepundit.com,vanillamagazine.it,velodaily.ru#@#.post-share-container
 http://imgur.com#@#.post-share-panel
 http://reddit.com#@#.post-sharing
 http://ain.ua,guildwars2.com#@#.post-social
@@ -24949,7 +24967,7 @@ http://pekao.com.pl#@##gdpr-popup
 http://mirjan24.pl#@##gdpr:not(body):not(html):not(input):not(button)
 http://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@##gdpr_popin
 http://taloon.com#@##gdprpopup
-http://ansa.it,capital.it,huffingtonpost.it,m2o.it,meteo.it,rockol.it,video.deejay.it,video.espresso.repubblica.it,video.ilsecoloxix.it,video.lanuovasardegna.it,video.lastampa.it,video.rep.repubblica.it,video.repubblica.it#@##iubenda-cs-banner
+http://ansa.it,capital.it,huffingtonpost.it,leggo.it,m2o.it,meteo.it,rockol.it,video.deejay.it,video.espresso.repubblica.it,video.ilsecoloxix.it,video.lanuovasardegna.it,video.lastampa.it,video.rep.repubblica.it,video.repubblica.it#@##iubenda-cs-banner
 http://krone.at#@##krn-privacy-center
 http://bosch-mobility-solutions.com#@##m-cookie-overlay
 http://imoradar24.ro#@##modal-cookies
@@ -25097,7 +25115,7 @@ http://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfranc
 http://totalcasino.pl#@#.gdpr-popup
 http://wufoo.com#@#.gdpr-prompt
 http://booking.pobeda.aero,coastalliving.com,commercialtrucktrader.com,cookinglight.com,esselunga.it,essence.com,ew.com,food.com,fortune.com,gct.com,golf.com,health.com,hellogiggles.com,instyle.com,metallica.com,mirjan24.pl,my.games,nytimes.com,people.com,realsimple.com,si.com,southernliving.com,time.com,travelandleisure.com#@#.gdpr:not(body):not(html)
-http://ansa.it#@#.iubenda-cs-content
+http://ansa.it,leggo.it#@#.iubenda-cs-content
 http://suzuki.co.nz#@#.js-cookie
 http://geleidehond.nl#@#.js-cookie-alert
 http://uniroyal.pl#@#.js-cookie-banner
