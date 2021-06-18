@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: oKVhw6Wcl1oZRfY+eT6Wew
-! Version: 202106170000
+! Checksum: pT5BFM8UUF5cl63UM7GouA
+! Version: 202106180000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-17 00:00 UTC
+! Last modified: 2021-06-18 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -932,6 +932,7 @@
 ||https://aish.com^*-Subscribe-
 ||https://aish.com^*/Newsletter-
 ||https://amazonaws.com^*/subscription/
+||https://artdaily.cc/subscribe.html
 ||https://attn.com/survey
 ||https://bestbuy.com^*/email_submission_modal.
 ||https://bluntforcetruth.com^*/newsletter.
@@ -967,6 +968,7 @@
 ||https://politics.co.uk^*/newsletter.
 ||https://premierchristianradio.com^*/Stay-informed-
 ||https://reclaimthenet.org^*/subs.jpg
+||https://researchnews.cc/subscribe.html
 ||https://revntv.com^*-Subscribe-
 ||https://rferl.org/a/29791891.html
 ||https://sassyhongkong.com^*-mailchimp-
@@ -2363,6 +2365,7 @@
 ||http://aish.com^*-Subscribe-
 ||http://aish.com^*/Newsletter-
 ||http://amazonaws.com^*/subscription/
+||http://artdaily.cc/subscribe.html
 ||http://attn.com/survey
 ||http://bestbuy.com^*/email_submission_modal.
 ||http://bluntforcetruth.com^*/newsletter.
@@ -2403,6 +2406,7 @@
 ||http://premierchristianradio.com^*/Stay-informed-
 ||http://pym.nprapps.org^$domain=dw.com
 ||http://reclaimthenet.org^*/subs.jpg
+||http://researchnews.cc/subscribe.html
 ||http://revntv.com^*-Subscribe-
 ||http://rferl.org/a/29791891.html
 ||http://sassyhongkong.com^*-mailchimp-
@@ -6505,7 +6509,7 @@ https://thepostgame.com###pageModalDimmed
 https://perezhilton.com###ph_classic_nlf
 https://perezhilton.com###ph_classic_nlf_bg
 https://adage.com###piano-inline_nsl
-https://newstatesman.com,radioandmusic.com###popup
+https://artdaily.cc,newstatesman.com,radioandmusic.com,researchnews.cc###popup
 https://thegolfnewsnet.com###popup-box-gfcr-1
 https://space.com,tomshardware.co.uk,tomshardware.com###popup-modal
 https://thrillist.com###popup-signup
@@ -6771,6 +6775,7 @@ https://cheatsheet.com##.cs-related-links
 https://nytimes.com##.css-mlcs8h.shown
 https://recipetineats.com##.cta
 https://thecourier.co.uk##.cta--bg
+https://axios.com##.cta--modal
 https://rewire.news##.cta-a
 https://gazette-news.co.uk,worcesternews.co.uk,yourlocalguardian.co.uk##.cta-component-half-width
 https://digg.com##.cta-stories
@@ -10569,6 +10574,7 @@ https://callipo.com###nav_up
 https://sacecomponents.com###neko-to-top
 https://gamblingitalia.com,lacnews24.it,lintellettualedissidente.it,misya.info,monitorimmobiliare.it,radiospeaker.it,rivistastudio.com,silhouettedonna.it,soldioggi.it,sscnapoli.it,termometropolitico.com,termometropolitico.it,terranuova.it,valgardena.it###newsletter
 https://distribuzionemoderna.info###nsl
+https://virgilio.it###ob_sf
 https://lasicilia.it###overbox_ticker_newsstand
 https://it.hisamitsu###pageTop
 https://ansa.it###pg-slide
@@ -11551,6 +11557,11 @@ https://lescienze.it,unica.it##.seguici
 https://askanews.it##.seguici_footer
 https://chiesi.com##.seguicisu
 https://superguidatv.it##.sgtv_divRowContent_messenger_subscribe
+https://giornaleradio.fm##.sh_fb
+https://giornaleradio.fm##.sh_li
+https://giornaleradio.fm##.sh_te
+https://giornaleradio.fm##.sh_tw
+https://giornaleradio.fm##.sh_wa
 https://alfredopedulla.com,amica.it,areanapoli.it,autoline-eu.it,basketinside.com,blogtivvu.com,brundisium.net,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,deejay.it,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,funweek.it,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,intesasanpaolo.com,isaechia.it,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,mediagol.it,megasesso.com,metropolitano.it,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tag43.it,tenniscircus.com,tivusat.tv,toronews.net,trend-online.com,tuttobolognaweb.it,violanews.com##.share
 https://ilmeteo.net##.shared
 https://mediaset.it,meteo.it##.shr
@@ -17635,7 +17646,7 @@ http://thepostgame.com###pageModalDimmed
 http://perezhilton.com###ph_classic_nlf
 http://perezhilton.com###ph_classic_nlf_bg
 http://adage.com###piano-inline_nsl
-http://newstatesman.com,radioandmusic.com###popup
+http://artdaily.cc,newstatesman.com,radioandmusic.com,researchnews.cc###popup
 http://thegolfnewsnet.com###popup-box-gfcr-1
 http://space.com,tomshardware.co.uk,tomshardware.com###popup-modal
 http://thrillist.com###popup-signup
@@ -17901,6 +17912,7 @@ http://cheatsheet.com##.cs-related-links
 http://nytimes.com##.css-mlcs8h.shown
 http://recipetineats.com##.cta
 http://thecourier.co.uk##.cta--bg
+http://axios.com##.cta--modal
 http://rewire.news##.cta-a
 http://gazette-news.co.uk,worcesternews.co.uk,yourlocalguardian.co.uk##.cta-component-half-width
 http://digg.com##.cta-stories
@@ -21700,6 +21712,7 @@ http://callipo.com###nav_up
 http://sacecomponents.com###neko-to-top
 http://gamblingitalia.com,lacnews24.it,lintellettualedissidente.it,misya.info,monitorimmobiliare.it,radiospeaker.it,rivistastudio.com,silhouettedonna.it,soldioggi.it,sscnapoli.it,termometropolitico.com,termometropolitico.it,terranuova.it,valgardena.it###newsletter
 http://distribuzionemoderna.info###nsl
+http://virgilio.it###ob_sf
 http://lasicilia.it###overbox_ticker_newsstand
 http://it.hisamitsu###pageTop
 http://ansa.it###pg-slide
@@ -22682,6 +22695,11 @@ http://lescienze.it,unica.it##.seguici
 http://askanews.it##.seguici_footer
 http://chiesi.com##.seguicisu
 http://superguidatv.it##.sgtv_divRowContent_messenger_subscribe
+http://giornaleradio.fm##.sh_fb
+http://giornaleradio.fm##.sh_li
+http://giornaleradio.fm##.sh_te
+http://giornaleradio.fm##.sh_tw
+http://giornaleradio.fm##.sh_wa
 http://alfredopedulla.com,amica.it,areanapoli.it,autoline-eu.it,basketinside.com,blogtivvu.com,brundisium.net,carpicalcionews.it,cdt.ch,cittaceleste.it,comune.torino.it,coopcasarsa.it,corriere.it,corsedimoto.com,deejay.it,famigliacristiana.it,fantamagazine.com,fcinter1908.it,foodnetwork.it,forzaroma.info,funweek.it,gazzamercato.it,gazzetta.it,gettyimages.it,golssip.it,ildolomiti.it,ilmilanista.it,ilsecoloxix.it,ilsussidiario.net,intesasanpaolo.com,isaechia.it,itasportpress.it,juvenews.eu,landrover.it,lastampa.it,lifegate.it,mediagol.it,megasesso.com,metropolitano.it,miur.gov.it,mobilita.org,mondoudinese.it,numericalcio.it,padovasport.tv,paginegialle.it,panorama.it,passioneinter.com,pianetagenoa1893.net,pianetamilan.it,ravennanotizie.it,repubblica.it,reteimprese.it,sassuolocalcionews.it,sportavellino.it,supereva.it,tag43.it,tenniscircus.com,tivusat.tv,toronews.net,trend-online.com,tuttobolognaweb.it,violanews.com##.share
 http://ilmeteo.net##.shared
 http://mediaset.it,meteo.it##.shr
