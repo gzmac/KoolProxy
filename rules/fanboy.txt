@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pT5BFM8UUF5cl63UM7GouA
-! Version: 202106180000
+! Checksum: HdhM7DyMxE1MsIOI44ifbw
+! Version: 202106190000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-18 00:00 UTC
+! Last modified: 2021-06-19 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -9731,6 +9731,7 @@ https://linkedin.com##.global-alert
 https://houseoffraser.co.uk##.global-messages
 https://mozilla.org##.global-notice
 https://wankz.com##.global-notif
+https://cookiebot.com##.granify-widget-container
 https://guggenheim.org##.guggen-consent
 https://office.com##.headPopup
 https://veeam.com##.header-component__messages-overlay
@@ -20869,6 +20870,7 @@ http://linkedin.com##.global-alert
 http://houseoffraser.co.uk##.global-messages
 http://mozilla.org##.global-notice
 http://wankz.com##.global-notif
+http://cookiebot.com##.granify-widget-container
 http://guggenheim.org##.guggen-consent
 http://office.com##.headPopup
 http://veeam.com##.header-component__messages-overlay

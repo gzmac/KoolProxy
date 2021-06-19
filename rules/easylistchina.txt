@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: IFJWiq8JrU4abm/N/05fJA
-! Version: 202106180033
+! Checksum: myNC9lfa27HISKpcYRdI1Q
+! Version: 202106190033
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -5634,6 +5634,7 @@
 ||http://107.187.255.178^
 ||http://110160.com^$third-party
 ||http://111.175.219.*.js
+||http://11111fs.com^
 ||http://112.74.95.46^
 ||http://1133.cc^$third-party
 ||http://114.95.102.77^
@@ -6664,6 +6665,7 @@
 ||http://hyz86.com^
 ||http://hz-sllace.com^
 ||http://hz3137.com^$third-party
+||http://hzdwjc.com^
 ||http://hzlm.cc^
 ||http://hzyyhz.cn^
 ||http://i.zhuoyaju.com^
@@ -6741,6 +6743,7 @@
 ||http://jianmei123.com^
 ||http://jianpian.vip^$third-party
 ||http://jianxinshanghai.com^
+||http://jianyouling.com^
 ||http://jianyousj.com^
 ||http://jiasdart.cn^
 ||http://jiekc.com^
@@ -7246,6 +7249,7 @@
 ||http://sdhzstone.net^
 ||http://sdjjr.com^
 ||http://sdqoi2d.com^
+||http://sdurhnd.com^
 ||http://sdxctr.com^
 ||http://sdxkdj.cn^
 ||http://sexy-more.com^$third-party
@@ -7435,6 +7439,7 @@
 ||http://towers-shield.com^
 ||http://tpe163.com^
 ||http://trackingpro.pro^
+||http://trenhdg.com^
 ||http://trourted.pro^
 ||http://trys5.com^$third-party
 ||http://tsdlp.com^
@@ -7811,6 +7816,7 @@
 ||http://yqgjq.com^
 ||http://yqhlty.com^
 ||http://yqw88.com^
+||http://yrehdfer.com^
 ||http://ys2000.cdn.bcebos.com^
 ||http://ysgsq.cn^
 ||http://ysjkbk.com^
@@ -13258,6 +13264,7 @@
 ||http://js.shangxueba.com^
 ||http://js.ubaike.cn^
 ||http://js.yanyue.cn^
+||http://js1.haoge500.com^
 ||http://jsb.qianzhan.com^
 ||http://jscode.acg68.com^
 ||http://jscode.jbzj.com^
@@ -13589,6 +13596,11 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://losbateleros.com^
+||http://jzq2019.top^
+||http://gsqweb.cn^
+||http://keyand.xyz^
+||http://guoduand.cn^
 ||http://01tn.cn^
 ||http://027whht.com^
 ||http://0316dieroxiemzfjwmapk.xyz^
@@ -15573,6 +15585,7 @@
 ||http://zizcy.com^
 ||http://zjksgl.com^
 ||http://zjlfqf.com^
+||http://zjxkdq.cn^
 ||http://zkba9.cn^
 ||http://zkwsdf.com^
 ||http://zln44.cn^
@@ -21433,6 +21446,7 @@ https://toolfk.com##wavy + div[style]
 https://toolfk.com##wavy ~ a
 https://weibo.com#?#.card-content > ul > li:-abp-has(> p > .icon-txt-recommend)
 https://weibo.com#?#.card-wrap:-abp-has(> .card-film > .card-head > .title:-abp-contains(广告))
+https://weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(.wbpro-ad-tag:-abp-contains(广告))
 https://weibo.com#?#tr:-abp-has(> .td-03 > .icon-txt-recommend)
 https://wuhaozhan.net#?#.l-box:-abp-has(.l-a > span[style="margin-left:-5px;"])
 https://x3cn.com#?#.commonDiv:-abp-has(.ad)
@@ -27884,6 +27898,7 @@ http://toolfk.com##wavy + div[style]
 http://toolfk.com##wavy ~ a
 http://weibo.com#?#.card-content > ul > li:-abp-has(> p > .icon-txt-recommend)
 http://weibo.com#?#.card-wrap:-abp-has(> .card-film > .card-head > .title:-abp-contains(广告))
+http://weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(.wbpro-ad-tag:-abp-contains(广告))
 http://weibo.com#?#tr:-abp-has(> .td-03 > .icon-txt-recommend)
 http://wuhaozhan.net#?#.l-box:-abp-has(.l-a > span[style="margin-left:-5px;"])
 http://x3cn.com#?#.commonDiv:-abp-has(.ad)
