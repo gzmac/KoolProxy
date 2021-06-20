@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HdhM7DyMxE1MsIOI44ifbw
-! Version: 202106190000
+! Checksum: irJ0oMzhLjQlF6rHaeF3gw
+! Version: 202106200000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-19 00:00 UTC
+! Last modified: 2021-06-20 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -140,7 +140,6 @@
 ||https://getmailcounter.com^$third-party
 ||https://getresponse.com^$third-party
 ||https://getscoutapp.com^$third-party
-||https://getsitecontrol.com^$third-party
 ||https://getsmily.com^$third-party
 ||https://givealittle.co.nz/widget/$subdocument,third-party
 ||https://go.xhamsterlive.com/api/$third-party
@@ -1550,7 +1549,6 @@
 ||http://getmailcounter.com^$third-party
 ||http://getresponse.com^$third-party
 ||http://getscoutapp.com^$third-party
-||http://getsitecontrol.com^$third-party
 ||http://getsmily.com^$third-party
 ||http://givealittle.co.nz/widget/$subdocument,third-party
 ||http://go.xhamsterlive.com/api/$third-party,domain=xhamster.com
@@ -7742,6 +7740,7 @@ https://reddit.com##.AppSelectorModal__body
 https://financialexpress.com,indianexpress.com##.app-btn
 https://ebay.com##.app-download-banner
 https://sportskeeda.com##.app-download-modal
+https://gumtree.com.au##.app-download-wrapper
 https://cricbuzz.com##.cbz-leaderboard-banner
 https://9gag.com##.download-app-container
 https://9gag.com##.get-the-app-banner
@@ -10550,6 +10549,7 @@ https://eprice.it###fastRegBottom
 https://bastabugie.it###feed
 https://creditofondiario.eu###financity-footer-back-to-top-button
 https://ilgiornale.it###footer_map_col_1
+https://financecommunity.it###footernews
 https://ilquotidianodellazio.it###form-newsletter
 https://advisoronline.it###formSubscriptionDiv
 https://autobelle.it###freccetta
@@ -13013,6 +13013,7 @@ https://aquaphor.ru###modal-kuki
 https://forum-windows.net###ntf
 https://rgs.ru###rgs-main-context-bar
 https://linux-info.ru###trumpet_message
+https://gamefuelmasters.ru##.H5Cmzb7vlc1Q28uw4l-Bv
 https://drweb.ru##.SHOWIT-msg_showed
 https://ngnovoros.ru##._1TNYbgH
 https://oreluniver.ru##.accept
@@ -18880,6 +18881,7 @@ http://reddit.com##.AppSelectorModal__body
 http://financialexpress.com,indianexpress.com##.app-btn
 http://ebay.com##.app-download-banner
 http://sportskeeda.com##.app-download-modal
+http://gumtree.com.au##.app-download-wrapper
 http://cricbuzz.com##.cbz-leaderboard-banner
 http://9gag.com##.download-app-container
 http://9gag.com##.get-the-app-banner
@@ -21689,6 +21691,7 @@ http://eprice.it###fastRegBottom
 http://bastabugie.it###feed
 http://creditofondiario.eu###financity-footer-back-to-top-button
 http://ilgiornale.it###footer_map_col_1
+http://financecommunity.it###footernews
 http://ilquotidianodellazio.it###form-newsletter
 http://advisoronline.it###formSubscriptionDiv
 http://autobelle.it###freccetta
@@ -24153,6 +24156,7 @@ http://aquaphor.ru###modal-kuki
 http://forum-windows.net###ntf
 http://rgs.ru###rgs-main-context-bar
 http://linux-info.ru###trumpet_message
+http://gamefuelmasters.ru##.H5Cmzb7vlc1Q28uw4l-Bv
 http://drweb.ru##.SHOWIT-msg_showed
 http://ngnovoros.ru##._1TNYbgH
 http://oreluniver.ru##.accept
