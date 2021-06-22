@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tkWkRg2cH8Tkkqei5WRSOw
-! Version: 202106210000
+! Checksum: Uv4QhgIZGCvjKcTFIorhoA
+! Version: 202106220000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-21 00:00 UTC
+! Last modified: 2021-06-22 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6261,6 +6261,7 @@ https://atlasobscura.com##.membership-creative
 https://euobserver.com##.membership-upsell
 https://finecooking.com##.meter-bar
 https://propublica.org##.module-donate
+https://last.fm##.mpu-subscription-upsell
 https://newsweek.com##.msub
 https://lbry.tv##.nag
 https://buzzfeednews.com##.newsblock-tips
@@ -7292,7 +7293,7 @@ https://breakingnews.ie##.subscribe-box-articles
 https://albawaba.com,rt.com,sport360.com##.subscribe-btn
 https://middleeastmonitor.com##.subscribe-container
 https://todayonline.com##.subscribe-content
-https://narcity.com,spendwithpennies.com##.subscribe-cta
+https://last.fm,narcity.com,spendwithpennies.com##.subscribe-cta
 https://nutritioninsight.com##.subscribe-div
 https://afp.com,albawaba.com,gulfnews.com##.subscribe-footer
 https://financialbuzz.com,maclife.com,segmentnext.com##.subscribe-form
@@ -17402,6 +17403,7 @@ http://atlasobscura.com##.membership-creative
 http://euobserver.com##.membership-upsell
 http://finecooking.com##.meter-bar
 http://propublica.org##.module-donate
+http://last.fm##.mpu-subscription-upsell
 http://newsweek.com##.msub
 http://lbry.tv##.nag
 http://buzzfeednews.com##.newsblock-tips
@@ -18433,7 +18435,7 @@ http://breakingnews.ie##.subscribe-box-articles
 http://albawaba.com,rt.com,sport360.com##.subscribe-btn
 http://middleeastmonitor.com##.subscribe-container
 http://todayonline.com##.subscribe-content
-http://narcity.com,spendwithpennies.com##.subscribe-cta
+http://last.fm,narcity.com,spendwithpennies.com##.subscribe-cta
 http://nutritioninsight.com##.subscribe-div
 http://afp.com,albawaba.com,gulfnews.com##.subscribe-footer
 http://financialbuzz.com,maclife.com,segmentnext.com##.subscribe-form
