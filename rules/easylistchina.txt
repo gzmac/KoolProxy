@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: DCbVfxhaDkq4EZP3sTZ9gg
-! Version: 202106220035
+! Checksum: 3jQcgWESomMVoOkp2zqLZg
+! Version: 202106230024
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -6721,6 +6721,7 @@
 ||http://iyptc.cn^
 ||http://j8j9.com^$third-party
 ||http://ja9377.com^
+||http://jacquelinelaura.com^
 ||http://jbyy010.com^
 ||http://jcelyj.com^
 ||http://jcwlq.com^
@@ -13601,7 +13602,6 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://chuanjiae.cn^
 ||http://01tn.cn^
 ||http://027whht.com^
 ||http://0316dieroxiemzfjwmapk.xyz^
@@ -13687,6 +13687,7 @@
 ||http://4htixb.cn^
 ||http://4kfv18.cn^
 ||http://4nzrqw.cn^
+||http://4tdbbs.cn^
 ||http://4z5o27.cn^
 ||http://517kp.com^
 ||http://519397.com^
@@ -14014,6 +14015,7 @@
 ||http://chkwwg.cn^
 ||http://chongnikeji.com^
 ||http://chuangjulm.cn^
+||http://chuanjiae.cn^
 ||http://chuzrra.cn^
 ||http://cifree.xyz^
 ||http://cike666.com^
@@ -14349,6 +14351,7 @@
 ||http://haomaiweb.com^
 ||http://haomaojin.com^
 ||http://haoxianyangrouye.com^
+||http://haoyundm.com^
 ||http://happyyong.com^
 ||http://hbbww.com^
 ||http://hbfie.org/mb/meng/
@@ -14735,6 +14738,7 @@
 ||http://lzjsjw.cn^
 ||http://m06nev.com^
 ||http://mababa.info^
+||http://madisonjamesphotography.com^
 ||http://maicaoren.cn^
 ||http://maimaias.cn^
 ||http://maka.im^$third-party
@@ -15065,6 +15069,7 @@
 ||http://shidaikejivip.cn^
 ||http://shidailw.com^
 ||http://shiguangyx.cn^
+||http://shirleyyean.com^
 ||http://shishishiguixinfangfuzhuangshanghan.cn^
 ||http://shjrwh.cn^
 ||http://shjsxx.com^
@@ -19687,6 +19692,7 @@ https://eastmoney.com##.popswipe
 https://dzwww.com##.popular
 https://qiuziti.com##.popularize
 https://eol.cn,hao123.com,site.baidu.com##.popup
+https://dianyingim.com,dyxs11.com##.popup-tips
 https://easylife.tw,ez3c.tw,softwarebrother.com##.popup_bottom_block
 https://camerabay.tv##.popupad
 https://pzzc.net##.portal_block_summary
@@ -19911,6 +19917,7 @@ https://xilu.com##.shehuibanner
 https://hao.rising.cn##.shop-site
 https://teepr.com##.shop-widget
 https://qiushibaike.com##.shopwindow
+https://dianyingim.com,dyxs11.com##.shortcuts-mobile-overlay
 https://pixabay.com##.show-gtty-item
 https://miercn.com##.show-img-box
 https://200sht.info,sehuatang.org##.show-text
@@ -20639,6 +20646,7 @@ https://jinti.com##a[href*="immobel.com"]
 https://v.sogou.com##a[href*="iwan.sogou.com/"]
 https://m.baidu.com##a[href*="m.lecai.com"]
 https://ccav1.com##a[href*="meidebi."]
+https://nfuwow.com##a[href*="myyj.net"]
 https://kafan.cn##a[href*="nameidi."]
 https://zhuna.cn##a[href*="quchuchai."]
 https://dmzj.com##a[href*="qunhei.com"]
@@ -26138,6 +26146,7 @@ http://eastmoney.com##.popswipe
 http://dzwww.com##.popular
 http://qiuziti.com##.popularize
 http://eol.cn,hao123.com,site.baidu.com##.popup
+http://dianyingim.com,dyxs11.com##.popup-tips
 http://easylife.tw,ez3c.tw,softwarebrother.com##.popup_bottom_block
 http://camerabay.tv##.popupad
 http://pzzc.net##.portal_block_summary
@@ -26363,6 +26372,7 @@ http://xilu.com##.shehuibanner
 http://hao.rising.cn##.shop-site
 http://teepr.com##.shop-widget
 http://qiushibaike.com##.shopwindow
+http://dianyingim.com,dyxs11.com##.shortcuts-mobile-overlay
 http://pixabay.com##.show-gtty-item
 http://miercn.com##.show-img-box
 http://200sht.info,sehuatang.org##.show-text
@@ -27091,6 +27101,7 @@ http://jinti.com##a[href*="immobel.com"]
 http://v.sogou.com##a[href*="iwan.sogou.com/"]
 http://m.baidu.com##a[href*="m.lecai.com"]
 http://ccav1.com##a[href*="meidebi."]
+http://nfuwow.com##a[href*="myyj.net"]
 http://kafan.cn##a[href*="nameidi."]
 http://zhuna.cn##a[href*="quchuchai."]
 http://dmzj.com##a[href*="qunhei.com"]
