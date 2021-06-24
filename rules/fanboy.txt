@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8xghY7mIrsodpWTWlF16Nw
-! Version: 202106230000
+! Checksum: 7HNPyX28l+LuZOUKZSMeDQ
+! Version: 202106240000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-23 00:00 UTC
+! Last modified: 2021-06-24 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -13923,7 +13923,7 @@ https://bbcstudios.com,fotopuzzle.de,hearst.co.uk#@#.cookie-policy
 https://fotopuzzle.de#@#.cookie-policy-wrapper
 https://60millions-mag.com#@#.cookie-popup
 https://lot.com#@#.cookie-promo
-https://epolisbari.com,lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@#.cookie-text
+https://epolisbari.com,lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se,telecomitalia.it#@#.cookie-text
 https://lvbet.pl,proglib.io#@#.cookie-visible
 https://538.nl,pieseauto.ro,saxion.edu,unileverfoodsolutions.com.br,unileverfoodsolutions.com.tr,unileverfoodsolutions.it,xmradio.nl,xs4all.nl#@#.cookie-wall
 https://ben.nl,bynco.com#@#.cookie-wall-container
@@ -13939,7 +13939,7 @@ https://sap.com#@#.cookieConsent
 https://birdpix.nl,nederpix.nl,openfiber.it#@#.cookieContainer
 https://stihl.de#@#.cookieInfo
 https://milliman.com#@#.cookieMessage
-https://bancacentroemilia.it#@#.cookieModal
+https://bancacentroemilia.it,telecomitalia.it#@#.cookieModal
 https://staralliance.com#@#.cookieMsg
 https://losteria.de,metia.com#@#.cookieNotice
 https://voestalpine.com#@#.cookiePermission
@@ -14045,7 +14045,7 @@ https://telenor.se#@#div[class*="cookie-consent-modal_"]
 https://what3words.com#@#div[class^="CookieNotice"]
 https://ee.co.uk,monese.com,ukvcas.co.uk#@#div[class^="cookie-banner"]
 https://berliner-volksbank.de,dovoba.de#@#div[class^="cookie-consent_"]
-https://coolblue.be#@#div[class^="cookie-notification_"]
+https://coolblue.be,coolblue.de#@#div[class^="cookie-notification_"]
 https://birramenabrea.com,cnwl.nhs.uk,myspeed.pl,thw.de#@#div[data-cookie]
 https://timeout.com#@#div[data-module="cookie_banner"]
 https://konarzewski.com.pl,unicode.org#@#div[data-nconvert-cookie]
@@ -25067,7 +25067,7 @@ http://bbcstudios.com,fotopuzzle.de,hearst.co.uk#@#.cookie-policy
 http://fotopuzzle.de#@#.cookie-policy-wrapper
 http://60millions-mag.com#@#.cookie-popup
 http://lot.com#@#.cookie-promo
-http://epolisbari.com,lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@#.cookie-text
+http://epolisbari.com,lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se,telecomitalia.it#@#.cookie-text
 http://lvbet.pl,proglib.io#@#.cookie-visible
 http://538.nl,pieseauto.ro,saxion.edu,unileverfoodsolutions.com.br,unileverfoodsolutions.com.tr,unileverfoodsolutions.it,xmradio.nl,xs4all.nl#@#.cookie-wall
 http://ben.nl,bynco.com#@#.cookie-wall-container
@@ -25083,7 +25083,7 @@ http://sap.com#@#.cookieConsent
 http://birdpix.nl,nederpix.nl,openfiber.it#@#.cookieContainer
 http://stihl.de#@#.cookieInfo
 http://milliman.com#@#.cookieMessage
-http://bancacentroemilia.it#@#.cookieModal
+http://bancacentroemilia.it,telecomitalia.it#@#.cookieModal
 http://staralliance.com#@#.cookieMsg
 http://losteria.de,metia.com#@#.cookieNotice
 http://voestalpine.com#@#.cookiePermission
@@ -25189,7 +25189,7 @@ http://telenor.se#@#div[class*="cookie-consent-modal_"]
 http://what3words.com#@#div[class^="CookieNotice"]
 http://ee.co.uk,monese.com,ukvcas.co.uk#@#div[class^="cookie-banner"]
 http://berliner-volksbank.de,dovoba.de#@#div[class^="cookie-consent_"]
-http://coolblue.be#@#div[class^="cookie-notification_"]
+http://coolblue.be,coolblue.de#@#div[class^="cookie-notification_"]
 http://birramenabrea.com,cnwl.nhs.uk,myspeed.pl,thw.de#@#div[data-cookie]
 http://timeout.com#@#div[data-module="cookie_banner"]
 http://konarzewski.com.pl,unicode.org#@#div[data-nconvert-cookie]
