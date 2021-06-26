@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fPSGQBnW9vkZ0hr7Wh16tA
-! Version: 202106250050
+! Checksum: vgeH0/VBoOXptVK7AMhZ4Q
+! Version: 202106260000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-25 00:50 UTC
+! Last modified: 2021-06-26 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -707,6 +707,7 @@
 ||https://sharedcount.com^$third-party
 ||https://sharethis.com^$third-party
 ||https://sharexy.com^$third-party
+||https://sharpay.io^$third-party
 ||https://shpg.org^$third-party
 ||https://simplesharebuttons.com^$third-party
 ||https://smartaddon.com/share_addon.js
@@ -2125,6 +2126,7 @@
 ||http://sharedcount.com^$third-party
 ||http://sharethis.com^$third-party
 ||http://sharexy.com^$third-party
+||http://sharpay.io^$third-party
 ||http://shpg.org^$third-party
 ||http://simplesharebuttons.com^$third-party
 ||http://smartaddon.com/share_addon.js
@@ -7028,6 +7030,7 @@ https://sun-sentinel.com##.met-flyout
 https://sun-sentinel.com##.met-promo-content
 https://themighty.com##.meta-join
 https://thenewdaily.com.au##.mfp-bg
+https://dexerto.com##.mid-article-content-wrapper
 https://missouri.edu##.miz-layer
 https://motherjones.com##.mj-text-cta
 https://heartfm.co.za##.mk-subscribe-link
@@ -12346,6 +12349,7 @@ https://hardloopkalender.nl###interVeil
 https://dietenlijst.nl,koolhydratentabel.nl,voedingswaardetabel.nl###loading
 https://ardanta.nl###notification-bar
 https://kcprofessional.nl###optIn
+https://dolcevia.com###rstbox_73
 https://techzine.nl###scrollbuddy[style="top: -20px; position: fixed;"]
 https://allekringloopwinkels.nl###toolbar-bottom
 https://vandijk.nl###trackingOverlay
@@ -12366,6 +12370,7 @@ https://penstore.nl##.center-notice
 https://vergelijk.nl##.cg-82
 https://vergelijk.nl##.cg-97
 https://wehkamp.nl##.color-invert.font-size-small
+https://allradio.nl##.consent-overlay
 https://avans.nl,dirk.nl,dutchcarparts.nl,greve.nl,schiphol.nl,t-mobile.nl,utilities.nl##.cookie
 https://museum.nl##.cookie-overlay
 https://nederlandsebrouwers.nl,omaweetraad.nl,omdenken.nl,perfumesclub.nl,picnic.app,salusi.nl,universiteitleiden.nl##.cookies
@@ -12518,6 +12523,7 @@ https://vistaprint.it###MarketingText
 https://ludomedia.it###UIAvvisiUtente
 https://corriere.it,gazzetta.it###\5f evh-ric
 https://ubuntu-it.org###\5f ubuntu-it_cookie_policy
+https://sudnews.it###absolute
 https://affaronissimo.it###af-cw-box
 https://centromedicobeb.it###alert
 https://operasanfrancesco.it###avviso
@@ -12605,6 +12611,7 @@ https://puglialive.net###visitor_info
 https://farmacieaperte.it###warning-popup
 https://ativa.it###widget-privacy
 https://gamershqitalia.it###wrapDisclaimer
+https://perungiorno.it###x1d_choise
 https://meyer.it###zf--alerts-panel
 https://intrage.it##.BoxPrivacy
 https://rivistastudio.com##.SCK_Banner
@@ -18170,6 +18177,7 @@ http://sun-sentinel.com##.met-flyout
 http://sun-sentinel.com##.met-promo-content
 http://themighty.com##.meta-join
 http://thenewdaily.com.au##.mfp-bg
+http://dexerto.com##.mid-article-content-wrapper
 http://missouri.edu##.miz-layer
 http://motherjones.com##.mj-text-cta
 http://heartfm.co.za##.mk-subscribe-link
@@ -23490,6 +23498,7 @@ http://hardloopkalender.nl###interVeil
 http://dietenlijst.nl,koolhydratentabel.nl,voedingswaardetabel.nl###loading
 http://ardanta.nl###notification-bar
 http://kcprofessional.nl###optIn
+http://dolcevia.com###rstbox_73
 http://techzine.nl###scrollbuddy[style="top: -20px; position: fixed;"]
 http://allekringloopwinkels.nl###toolbar-bottom
 http://vandijk.nl###trackingOverlay
@@ -23510,6 +23519,7 @@ http://penstore.nl##.center-notice
 http://vergelijk.nl##.cg-82
 http://vergelijk.nl##.cg-97
 http://wehkamp.nl##.color-invert.font-size-small
+http://allradio.nl##.consent-overlay
 http://avans.nl,dirk.nl,dutchcarparts.nl,greve.nl,schiphol.nl,t-mobile.nl,utilities.nl##.cookie
 http://museum.nl##.cookie-overlay
 http://nederlandsebrouwers.nl,omaweetraad.nl,omdenken.nl,perfumesclub.nl,picnic.app,salusi.nl,universiteitleiden.nl##.cookies
@@ -23662,6 +23672,7 @@ http://vistaprint.it###MarketingText
 http://ludomedia.it###UIAvvisiUtente
 http://corriere.it,gazzetta.it###\5f evh-ric
 http://ubuntu-it.org###\5f ubuntu-it_cookie_policy
+http://sudnews.it###absolute
 http://affaronissimo.it###af-cw-box
 http://centromedicobeb.it###alert
 http://operasanfrancesco.it###avviso
@@ -23749,6 +23760,7 @@ http://puglialive.net###visitor_info
 http://farmacieaperte.it###warning-popup
 http://ativa.it###widget-privacy
 http://gamershqitalia.it###wrapDisclaimer
+http://perungiorno.it###x1d_choise
 http://meyer.it###zf--alerts-panel
 http://intrage.it##.BoxPrivacy
 http://rivistastudio.com##.SCK_Banner
