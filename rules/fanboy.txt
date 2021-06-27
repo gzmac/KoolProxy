@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vgeH0/VBoOXptVK7AMhZ4Q
-! Version: 202106260000
+! Checksum: YFgzFEGfxJC/1bYAQu3llQ
+! Version: 202106270050
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-26 00:00 UTC
+! Last modified: 2021-06-27 00:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10934,6 +10934,7 @@ https://sputnik.md##.arrowup
 https://revistablogurilor.ro##.cd-top
 https://hotnews.ro##.josSus
 https://capital.ro,evz.ro##.newsletter
+https://libertatea.ro##.nl-ntf-wrapper
 https://stirileprotv.ro##.notification-wrapper
 https://antena3.ro##.push-notification
 https://dcnews.ro##.pushinstruments
@@ -12511,6 +12512,7 @@ https://gyakorikerdesek.hu##body > div[style^="text-align: left;"]
 https://rendi.hu##div[style="width:100%; background-color:black; padding: 8px; color:white; opacity:0.8; z-index:2000; position: fixed; bottom:0;"]
 https://laptopsystem.hu##div[style^="position:fixed; bottom:0;"]
 https://filmkatalogus.hu##table[width="870"][cellspacing="3"]
+https://stundin.is##.bottom-banner
 https://visir.is##.bottom-disclaimer
 https://dinamalar.com##.quickslide
 https://jiosaavn.com##.site-message-container
@@ -13862,6 +13864,7 @@ https://bosch-mobility-solutions.com#@##m-cookie-overlay
 https://imoradar24.ro#@##modal-cookies
 https://17track.net#@##modal-gdpr
 https://faberkabel.de#@##modalCookie
+https://imobiliare.ro#@##modalCookies
 https://thesocialmedwork.com#@##notice-cookie-block
 https://gq-magazine.co.uk,mail.com,uefa.com#@##onetrust-banner-sdk
 https://gq-magazine.co.uk,mail.com,uefa.com#@##onetrust-consent-sdk
@@ -22082,6 +22085,7 @@ http://sputnik.md##.arrowup
 http://revistablogurilor.ro##.cd-top
 http://hotnews.ro##.josSus
 http://capital.ro,evz.ro##.newsletter
+http://libertatea.ro##.nl-ntf-wrapper
 http://stirileprotv.ro##.notification-wrapper
 http://antena3.ro##.push-notification
 http://dcnews.ro##.pushinstruments
@@ -23660,6 +23664,7 @@ http://gyakorikerdesek.hu##body > div[style^="text-align: left;"]
 http://rendi.hu##div[style="width:100%; background-color:black; padding: 8px; color:white; opacity:0.8; z-index:2000; position: fixed; bottom:0;"]
 http://laptopsystem.hu##div[style^="position:fixed; bottom:0;"]
 http://filmkatalogus.hu##table[width="870"][cellspacing="3"]
+http://stundin.is##.bottom-banner
 http://visir.is##.bottom-disclaimer
 http://dinamalar.com##.quickslide
 http://jiosaavn.com##.site-message-container
@@ -25011,6 +25016,7 @@ http://bosch-mobility-solutions.com#@##m-cookie-overlay
 http://imoradar24.ro#@##modal-cookies
 http://17track.net#@##modal-gdpr
 http://faberkabel.de#@##modalCookie
+http://imobiliare.ro#@##modalCookies
 http://thesocialmedwork.com#@##notice-cookie-block
 http://gq-magazine.co.uk,mail.com,uefa.com#@##onetrust-banner-sdk
 http://gq-magazine.co.uk,mail.com,uefa.com#@##onetrust-consent-sdk

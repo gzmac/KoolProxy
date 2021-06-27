@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: O3aCkDO6n+fPdx5w46PD0g
-! Version: 202106260035
+! Checksum: OJlj3aPcFetzMBce+iPT1g
+! Version: 202106270043
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4862,6 +4862,8 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://alicdn.com/img/ibank/*_!!2212029770429-
+||https://mydrivers.com/drivers/2021/racent.jpg
 ||https://17ce.com^*_$image
 ||https://69t49.com/floating/layer.js
 ||https://alicdn.com/img/ibank/*_!!2210231227621-0-cib.
@@ -5586,6 +5588,7 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
+||http://jessicalaurax.com^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://008844.cc^
@@ -12755,6 +12758,8 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://alicdn.com/img/ibank/*_!!2212029770429-
+||http://mydrivers.com/drivers/2021/racent.jpg
 ||http://17ce.com^*_$image
 ||http://3336672.com^
 ||http://3337729.com^
@@ -12783,6 +12788,7 @@
 ||http://avgle.topgirlsdating.com^$domain=avgle.com
 ||http://jads.co^$domain=avgle.com
 ||http://olmsoneenh.info^$domain=avgle.com
+||http://pic1.dianshu119.com^
 ||http://003store.com^
 ||http://0512s.com^$third-party
 ||http://1.01fy.cn^
@@ -16377,6 +16383,7 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://mydrivers.com##.down_xg + DIV + DIV[style="padding-top: 10px;"]
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -22834,6 +22841,7 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://mydrivers.com##.down_xg + DIV + DIV[style="padding-top: 10px;"]
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
