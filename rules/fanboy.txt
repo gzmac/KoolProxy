@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YFgzFEGfxJC/1bYAQu3llQ
-! Version: 202106270050
+! Checksum: 33AAE4D8RX+PcPEduAB61A
+! Version: 202106280000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-27 00:50 UTC
+! Last modified: 2021-06-28 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -3671,6 +3671,7 @@ https://fashionmagazine.com###kittycatfish_ad_content
 https://washingtonpost.com###knowmore
 https://doubleviking.com###kt_pane
 https://doubleviking.com###kt_toolbar_wrapper
+https://699pic.com###landlord
 https://scientificamerican.com###latestFloat
 https://cambridge.org###lawEU
 https://sulekha.com###lcf-outer
@@ -5098,6 +5099,7 @@ https://world-of-satellite.com##.guestwarn
 https://theonion.com##.h-reading
 https://tomshardware.com##.hService
 https://hpcwire.com##.halfColumnRight
+https://techraptor.net##.hamburger
 https://ecosalon.com,treehugger.com##.handle
 https://reddit.com##.happening-now-wrap
 https://healthcentral.com##.hb_ad
@@ -5843,6 +5845,8 @@ https://wired.com##.sponsored-stories-component
 https://blogcritics.org,labnol.org##.spread
 https://9gag.com##.spread-bar
 https://collinsdictionary.com##.spread_the_word
+https://699pic.com##.springtime-floatLink
+https://699pic.com##.springtime-pop
 https://the-line-up.com,thestack.com,xredmedia.com##.spu-box
 https://sandiegouniontribune.com##.sr-outer
 https://skysports.com##.ss-art-tools
@@ -6079,6 +6083,7 @@ https://xhamster.com##.wih-cams-thumb-widget
 https://xhamster.com,xhamster.desi,xhamster.one##.wih-cams-widget
 https://wildammo.com##.wild_ammo-tabs
 https://healthgrades.com##.wing
+https://699pic.com##.winpopbg
 https://theatlanticwire.com##.wire-to-go
 https://wetpaint.com##.wp-article-recommender
 https://washingtonpost.com##.wp-float-bar
@@ -6833,6 +6838,7 @@ https://forbes.com##.email-promo
 https://ocregister.com##.email-sign-up
 https://chicagobusiness.com,crainsnewyork.com,freedomoutpost.com,khn.org,msmagazine.com,newrepublic.com,phillytrib.com,propublica.org,reverb.com,seattletimes.com,skift.com,thoughtworks.com,trueachievements.com,truetrophies.com,twentytwowords.com,twr.asia,washingtonblade.com,waynedupree.com##.email-signup
 https://bhcourier.com##.email-signup-container
+https://townhall.com##.email-signup-inpage
 https://newrepublic.com##.email-signup__slim
 https://maritimeprofessional.com##.email-subscription
 https://nytimes.com##.email-updates
@@ -7191,6 +7197,7 @@ https://motherjones.com##.region-connect
 https://iai.tv##.register-reminder-wrapper
 https://hcanews.com##.registerNavText
 https://connectingafrica.com##.register_box
+https://triblive.com##.related
 https://newsweek.com##.remaining-articles > .container-fluid
 https://bildderfrau.de##.remodal-overlay[style="display: block;"]
 https://usnews.com##.reveal-modal
@@ -7200,6 +7207,7 @@ https://indiewire.com##.right-side > .u-padding-tb-20
 https://stockhouse.com##.rightTrueSidebar
 https://tweaktown.com##.right_subscribe
 https://intego.com##.roadblock
+https://mashable.com##.rounded.border-warmgray-100.border
 https://1015soul.com,927theblock.com,92q.com,955thelou.com,boomcolumbus.com,boomindy.com,boomphilly.com,cassiuslife.com,espnrichmond.com,foxync.com,hellobeautiful.com,hiphopnc.com,hot1041stl.com,hot963.com,hothiphopdetroit.com,hotspotatl.com,ipowerrichmond.com,joycolumbus.com,kissdetroit.com,kissrichmond.com,kysdc.com,magicbaltimore.com,majic945.com,majicatl.com,mybaltimorespirit.com,myboomatl.com,mycolumbusmagic.com,mycolumbuspower.com,myhoustonmajic.com,mymajicdc.com,mypraiseatl.com,myspiritdc.com,newsone.com,newstalkcleveland.com,oldschool1053.com,praise1027detroit.com,praisebaltimore.com,praisecharlotte.com,praisecleveland.com,praisedc.com,praisehouston.com,praiseindy.com,praisephilly.com,radionowhouston.com,radionowindy.com,rnbcincy.com,rnbphilly.com,thebeatdfw.com,theboxhouston.com,thelightnc.com,tlcnaptown.com,wiznation.com,wolbbaltimore.com,woldcnews.com,wzakcleveland.com,zhiphopcleveland.com##.sailthru
 https://blackamericaweb.com,metro.co.uk,thepoliticalinsider.com##.sailthru-signup-widget
 https://medicinenet.com##.sc-modal
@@ -7309,8 +7317,9 @@ https://joekraus.com##.subscribe-links
 https://politicsweb.co.za##.subscribe-long
 https://merriam-webster.com##.subscribe-modal
 https://xconfessions.com##.subscribe-modal__frame
+https://metro.us##.subscribe-now-box
 https://mashable.com##.subscribe-options
-https://ganeshaspeaks.com##.subscribe-section
+https://ganeshaspeaks.com,philadelphiaherald.com##.subscribe-section
 https://mybroadband.co.za##.subscribe-submit
 https://medicaldaily.com##.subscribe-to
 https://hindustantimes.com##.subscribe-update
@@ -8523,6 +8532,7 @@ https://ebay.co.uk,ebay.com.au##.info > .share
 https://pcgscoinfacts.com##.info-connect
 https://timeout.com##.information
 https://nj.com##.inline-sidebar
+https://inquirer.com##.inq-share__option
 https://mapometer.com##.inright
 https://bossip.com,foreigndesknews.com##.insta
 https://bulova.com,cadenaazul.com,comicrelief.com,cwseed.com,dailystar.co.uk,filmfare.com,lapoderosa.com,peoplesweather.com,sassymamahk.com,triangleoffense.com##.instagram
@@ -8801,6 +8811,7 @@ https://3net.com,411.ca,883jia.com.sg,aa.co.nz,aawsat.com,about.com,accorhotels.
 https://konami.com##.social-account
 https://tgdaily.com##.social-actions
 https://marketplace.org##.social-bottom
+https://vaticannews.va##.social-btn
 https://voiceofsandiego.org##.social-cell
 https://dibujos.net,time.com##.social-container
 https://fujitsu.com##.social-content
@@ -9582,6 +9593,7 @@ https://civilsociety.co.uk##.announcement-banner
 https://commsec.com.au,soundcloud.com##.announcements
 https://cryptoquant.com##.ant-row-center
 https://leo.org##.app-footer-content
+https://crucial.com##.app-light > div[style*="fixed"]
 https://start.me##.app__message
 https://mubi.com##.appear-enter-done
 https://annualreviews.org##.ar-news-footer
@@ -10259,6 +10271,7 @@ https://monster.fr###interMsgsW
 https://bycontext.com###lcBar
 https://paperblog.fr###left-block
 https://fnac.com###link-top
+https://rennes-infos-autrement.fr###mailpoet_form-3
 https://onorient.com###mc_embed_signup
 https://solocalgroup.com###message-plugin
 https://ma-reduc.com###mr-scroll
@@ -13818,6 +13831,7 @@ https://danbolig.dk,finanzen.ch#@##cookie-overlay
 https://patient.info#@##cookie-policy
 https://flybe.com#@##cookie-policy-modal
 https://bk.com,burgerking.co.nz###cookie-popup:not(html):not(body)
+https://danskebank.fi#@##cookie-text
 https://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@##cookie-wrapper
 https://blog.google#@##cookieBar
 https://ad.win.nl,dehn.de,techopital.com#@##cookieConsent
@@ -13904,6 +13918,7 @@ https://rituals.com#@#.cookie-bar:not(body)
 https://egmont.com,okazii.ro#@#.cookie-bar:not(body):not(html)
 https://zeist.hu.nl#@#.cookie-block
 https://lg.com#@#.cookie-check
+https://danskebank.fi#@#.cookie-consent-banner
 https://zwijsen.nl#@#.cookie-consent-container
 https://zwijsen.nl#@#.cookie-consent-content
 https://artyferia.pl#@#.cookie-consent-show
@@ -14821,6 +14836,7 @@ http://fashionmagazine.com###kittycatfish_ad_content
 http://washingtonpost.com###knowmore
 http://doubleviking.com###kt_pane
 http://doubleviking.com###kt_toolbar_wrapper
+http://699pic.com###landlord
 http://scientificamerican.com###latestFloat
 http://cambridge.org###lawEU
 http://sulekha.com###lcf-outer
@@ -16248,6 +16264,7 @@ http://world-of-satellite.com##.guestwarn
 http://theonion.com##.h-reading
 http://tomshardware.com##.hService
 http://hpcwire.com##.halfColumnRight
+http://techraptor.net##.hamburger
 http://ecosalon.com,treehugger.com##.handle
 http://reddit.com##.happening-now-wrap
 http://healthcentral.com##.hb_ad
@@ -16993,6 +17010,8 @@ http://wired.com##.sponsored-stories-component
 http://blogcritics.org,labnol.org##.spread
 http://9gag.com##.spread-bar
 http://collinsdictionary.com##.spread_the_word
+http://699pic.com##.springtime-floatLink
+http://699pic.com##.springtime-pop
 http://the-line-up.com,thestack.com,xredmedia.com##.spu-box
 http://sandiegouniontribune.com##.sr-outer
 http://skysports.com##.ss-art-tools
@@ -17229,6 +17248,7 @@ http://xhamster.com##.wih-cams-thumb-widget
 http://xhamster.com,xhamster.desi,xhamster.one##.wih-cams-widget
 http://wildammo.com##.wild_ammo-tabs
 http://healthgrades.com##.wing
+http://699pic.com##.winpopbg
 http://theatlanticwire.com##.wire-to-go
 http://wetpaint.com##.wp-article-recommender
 http://washingtonpost.com##.wp-float-bar
@@ -17983,6 +18003,7 @@ http://forbes.com##.email-promo
 http://ocregister.com##.email-sign-up
 http://chicagobusiness.com,crainsnewyork.com,freedomoutpost.com,khn.org,msmagazine.com,newrepublic.com,phillytrib.com,propublica.org,reverb.com,seattletimes.com,skift.com,thoughtworks.com,trueachievements.com,truetrophies.com,twentytwowords.com,twr.asia,washingtonblade.com,waynedupree.com##.email-signup
 http://bhcourier.com##.email-signup-container
+http://townhall.com##.email-signup-inpage
 http://newrepublic.com##.email-signup__slim
 http://maritimeprofessional.com##.email-subscription
 http://nytimes.com##.email-updates
@@ -18341,6 +18362,7 @@ http://motherjones.com##.region-connect
 http://iai.tv##.register-reminder-wrapper
 http://hcanews.com##.registerNavText
 http://connectingafrica.com##.register_box
+http://triblive.com##.related
 http://newsweek.com##.remaining-articles > .container-fluid
 http://bildderfrau.de##.remodal-overlay[style="display: block;"]
 http://usnews.com##.reveal-modal
@@ -18350,6 +18372,7 @@ http://indiewire.com##.right-side > .u-padding-tb-20
 http://stockhouse.com##.rightTrueSidebar
 http://tweaktown.com##.right_subscribe
 http://intego.com##.roadblock
+http://mashable.com##.rounded.border-warmgray-100.border
 http://1015soul.com,927theblock.com,92q.com,955thelou.com,boomcolumbus.com,boomindy.com,boomphilly.com,cassiuslife.com,espnrichmond.com,foxync.com,hellobeautiful.com,hiphopnc.com,hot1041stl.com,hot963.com,hothiphopdetroit.com,hotspotatl.com,ipowerrichmond.com,joycolumbus.com,kissdetroit.com,kissrichmond.com,kysdc.com,magicbaltimore.com,majic945.com,majicatl.com,mybaltimorespirit.com,myboomatl.com,mycolumbusmagic.com,mycolumbuspower.com,myhoustonmajic.com,mymajicdc.com,mypraiseatl.com,myspiritdc.com,newsone.com,newstalkcleveland.com,oldschool1053.com,praise1027detroit.com,praisebaltimore.com,praisecharlotte.com,praisecleveland.com,praisedc.com,praisehouston.com,praiseindy.com,praisephilly.com,radionowhouston.com,radionowindy.com,rnbcincy.com,rnbphilly.com,thebeatdfw.com,theboxhouston.com,thelightnc.com,tlcnaptown.com,wiznation.com,wolbbaltimore.com,woldcnews.com,wzakcleveland.com,zhiphopcleveland.com##.sailthru
 http://blackamericaweb.com,metro.co.uk,thepoliticalinsider.com##.sailthru-signup-widget
 http://medicinenet.com##.sc-modal
@@ -18459,8 +18482,9 @@ http://joekraus.com##.subscribe-links
 http://politicsweb.co.za##.subscribe-long
 http://merriam-webster.com##.subscribe-modal
 http://xconfessions.com##.subscribe-modal__frame
+http://metro.us##.subscribe-now-box
 http://mashable.com##.subscribe-options
-http://ganeshaspeaks.com##.subscribe-section
+http://ganeshaspeaks.com,philadelphiaherald.com##.subscribe-section
 http://mybroadband.co.za##.subscribe-submit
 http://medicaldaily.com##.subscribe-to
 http://hindustantimes.com##.subscribe-update
@@ -19673,6 +19697,7 @@ http://ebay.co.uk,ebay.com.au##.info > .share
 http://pcgscoinfacts.com##.info-connect
 http://timeout.com##.information
 http://nj.com##.inline-sidebar
+http://inquirer.com##.inq-share__option
 http://mapometer.com##.inright
 http://bossip.com,foreigndesknews.com##.insta
 http://bulova.com,cadenaazul.com,comicrelief.com,cwseed.com,dailystar.co.uk,filmfare.com,lapoderosa.com,peoplesweather.com,sassymamahk.com,triangleoffense.com##.instagram
@@ -19951,6 +19976,7 @@ http://3net.com,411.ca,883jia.com.sg,aa.co.nz,aawsat.com,about.com,accorhotels.c
 http://konami.com##.social-account
 http://tgdaily.com##.social-actions
 http://marketplace.org##.social-bottom
+http://vaticannews.va##.social-btn
 http://voiceofsandiego.org##.social-cell
 http://dibujos.net,time.com##.social-container
 http://fujitsu.com##.social-content
@@ -20733,6 +20759,7 @@ http://civilsociety.co.uk##.announcement-banner
 http://commsec.com.au,soundcloud.com##.announcements
 http://cryptoquant.com##.ant-row-center
 http://leo.org##.app-footer-content
+http://crucial.com##.app-light > div[style*="fixed"]
 http://start.me##.app__message
 http://mubi.com##.appear-enter-done
 http://annualreviews.org##.ar-news-footer
@@ -21410,6 +21437,7 @@ http://monster.fr###interMsgsW
 http://bycontext.com###lcBar
 http://paperblog.fr###left-block
 http://fnac.com###link-top
+http://rennes-infos-autrement.fr###mailpoet_form-3
 http://onorient.com###mc_embed_signup
 http://solocalgroup.com###message-plugin
 http://ma-reduc.com###mr-scroll
@@ -24970,6 +24998,7 @@ http://danbolig.dk,finanzen.ch#@##cookie-overlay
 http://patient.info#@##cookie-policy
 http://flybe.com#@##cookie-policy-modal
 http://bk.com,burgerking.co.nz###cookie-popup:not(html):not(body)
+http://danskebank.fi#@##cookie-text
 http://lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@##cookie-wrapper
 http://blog.google#@##cookieBar
 http://ad.win.nl,dehn.de,techopital.com#@##cookieConsent
@@ -25056,6 +25085,7 @@ http://rituals.com#@#.cookie-bar:not(body)
 http://egmont.com,okazii.ro#@#.cookie-bar:not(body):not(html)
 http://zeist.hu.nl#@#.cookie-block
 http://lg.com#@#.cookie-check
+http://danskebank.fi#@#.cookie-consent-banner
 http://zwijsen.nl#@#.cookie-consent-container
 http://zwijsen.nl#@#.cookie-consent-content
 http://artyferia.pl#@#.cookie-consent-show
