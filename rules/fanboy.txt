@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 33AAE4D8RX+PcPEduAB61A
-! Version: 202106280000
+! Checksum: LTq0bJAE/q/NPI76oparGA
+! Version: 202106290000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-28 00:00 UTC
+! Last modified: 2021-06-29 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -3310,6 +3310,7 @@ https://cbsnews.com###dashboard
 https://ebay.com###dd-top
 https://androidauthority.com###deal_day_bar
 https://earthtechling.com###deals-widget
+https://debugbear.com###debugbear-banner
 https://scientificamerican.com###defaultScienceJobs
 https://foreignaffairs.com###deliveredContainer
 https://songza.com###desk-email
@@ -13064,6 +13065,7 @@ https://pegast.ru##.pgs-top
 https://66.ru##.t-i-agree
 https://obozrevatel.com##.t657__wrapper
 https://vega-protect.ru##.t886
+https://pfr.gov.ru##.user-data-processing-wrapper
 https://yoomoney.ru##div[class^="Gdpr__StyledGdpr-"]
 https://pik-broker.ru##div[class^="cookie_cookie_"]
 https://aliexpress.ru##div[class^="styles_wrapper_"]
@@ -14475,6 +14477,7 @@ http://cbsnews.com###dashboard
 http://ebay.com###dd-top
 http://androidauthority.com###deal_day_bar
 http://earthtechling.com###deals-widget
+http://debugbear.com###debugbear-banner
 http://scientificamerican.com###defaultScienceJobs
 http://foreignaffairs.com###deliveredContainer
 http://songza.com###desk-email
@@ -24231,6 +24234,7 @@ http://pegast.ru##.pgs-top
 http://66.ru##.t-i-agree
 http://obozrevatel.com##.t657__wrapper
 http://vega-protect.ru##.t886
+http://pfr.gov.ru##.user-data-processing-wrapper
 http://yoomoney.ru##div[class^="Gdpr__StyledGdpr-"]
 http://pik-broker.ru##div[class^="cookie_cookie_"]
 http://aliexpress.ru##div[class^="styles_wrapper_"]
