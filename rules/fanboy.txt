@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LTq0bJAE/q/NPI76oparGA
-! Version: 202106290000
+! Checksum: /bWe7Rx2HdPplnfAlrl0OQ
+! Version: 202106300000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-29 00:00 UTC
+! Last modified: 2021-06-30 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -9066,7 +9066,9 @@ https://engadget.com##div[class^="o-social_nav"]
 https://today.com##div[class^="share_"]
 https://barandbench.com##div[class^="social-share-"]
 https://dailymail.co.uk,thisismoney.co.uk##div[class^="socialContainer-"]
+https://technologyreview.com##div[class^="socialFollowModule_"]
 https://fortune.com##div[class^="socialList_"]
+https://technologyreview.com##div[class^="socialList__wrapper-"]
 https://nbcnews.com##div[class^="socialShareWrapper_"]
 https://androidheadlines.com##div[class^="socialShare_"]
 https://player.fm##div[data-action="share"]
@@ -20233,7 +20235,9 @@ http://engadget.com##div[class^="o-social_nav"]
 http://today.com##div[class^="share_"]
 http://barandbench.com##div[class^="social-share-"]
 http://dailymail.co.uk,thisismoney.co.uk##div[class^="socialContainer-"]
+http://technologyreview.com##div[class^="socialFollowModule_"]
 http://fortune.com##div[class^="socialList_"]
+http://technologyreview.com##div[class^="socialList__wrapper-"]
 http://nbcnews.com##div[class^="socialShareWrapper_"]
 http://androidheadlines.com##div[class^="socialShare_"]
 http://player.fm##div[data-action="share"]
