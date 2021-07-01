@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /bWe7Rx2HdPplnfAlrl0OQ
-! Version: 202106300000
+! Checksum: p1qmaYDHTbwUWG0CKtpUUA
+! Version: 202107010000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-06-30 00:00 UTC
+! Last modified: 2021-07-01 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7042,7 +7042,7 @@ https://missouri.edu##.miz-layer
 https://motherjones.com##.mj-text-cta
 https://heartfm.co.za##.mk-subscribe-link
 https://fiercecable.com##.mktoForm
-https://fosspost.org##.ml-subscribe-form
+https://fosspost.org,makeuseof.com##.ml-subscribe-form
 https://cambridge.org##.mod--style1
 https://answear.ua,businessoffashion.com,longreads.com,vogue.com,xconfessions.com##.modal
 https://abc15.com##.modal--content
@@ -18211,7 +18211,7 @@ http://missouri.edu##.miz-layer
 http://motherjones.com##.mj-text-cta
 http://heartfm.co.za##.mk-subscribe-link
 http://fiercecable.com##.mktoForm
-http://fosspost.org##.ml-subscribe-form
+http://fosspost.org,makeuseof.com##.ml-subscribe-form
 http://cambridge.org##.mod--style1
 http://answear.ua,businessoffashion.com,longreads.com,vogue.com,xconfessions.com##.modal
 http://abc15.com##.modal--content

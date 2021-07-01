@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: +Ou8NgdyDpziBXsdt+4fHg
-! Version: 202106300035
+! Checksum: uHUeJVSGGYB6U/3bRfNiMA
+! Version: 202107010035
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4262,6 +4262,7 @@
 ||https://up.qingdaonews.com/up/$object,script
 ||https://upaiyun.com/system/post_tile/new_web_banners/
 ||https://upan.cc/images/pay/
+||https://upanso.com/taoke/
 ||https://upantool.com/a/
 ||https://usnewsexpress.com/wp-content/uploads/*ad-
 ||https://usxpic.com/bit2019/upload/image/20191125/11251039541.gif
@@ -6780,6 +6781,7 @@
 ||http://jiuzhilan.com^$third-party
 ||http://jixing8.com^$third-party
 ||http://jixing8.net^$third-party
+||http://jiyuanzhiwensuo.cn^
 ||http://jjxgly.com^
 ||http://jjz666.cn^
 ||http://jk939.com^
@@ -7597,6 +7599,7 @@
 ||http://windzq.com^
 ||http://wjguc.com^
 ||http://wka8.com^
+||http://wm-mxc.com^
 ||http://wmrmb.cn^$third-party
 ||http://wnlyjhb.com^
 ||http://wo19.top^
@@ -12125,6 +12128,7 @@
 ||http://up.qingdaonews.com/up/$object,script
 ||http://upaiyun.com/system/post_tile/new_web_banners/
 ||http://upan.cc/images/pay/
+||http://upanso.com/taoke/
 ||http://upantool.com/a/
 ||http://upload.cc^$domain=141jj.com|mizhiav.com
 ||http://uploadhouse.com^*.gif$domain=wishct.com
@@ -13632,6 +13636,9 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://tearf.cn^
+||http://timup.top^
+||http://dd-lightingshow.com^
 ||http://01tn.cn^
 ||http://027whht.com^
 ||http://0316dieroxiemzfjwmapk.xyz^
@@ -13999,6 +14006,8 @@
 ||http://bugcreator.cn^
 ||http://bulankk.com^
 ||http://bulkeach.com^
+||http://busxiongdi.com^
+||http://butendecatholicparish.com^
 ||http://buyuninfo.com^
 ||http://buzx53.cn^
 ||http://bx9000.top^
@@ -14164,6 +14173,7 @@
 ||http://dilqdiw.cn^
 ||http://dirbfm.cn^
 ||http://dkjdnq.cn^
+||http://dl12349.net^
 ||http://dldsrs.com^
 ||http://dlsdkw.cn^
 ||http://dlyukun.cn^
@@ -14186,6 +14196,7 @@
 ||http://du9zgx.cn^
 ||http://duanwenxue.com/functions/
 ||http://duluoweiyu.com^
+||http://dushuge.net^
 ||http://duwowvo.cn^
 ||http://duyousxtd.com^
 ||http://dvzk66.cn^
@@ -14669,6 +14680,7 @@
 ||http://kbstyn.com^
 ||http://kddlearn.cn^
 ||http://keilb.xyz^
+||http://kejiadoor.cn^
 ||http://keran.hl.cn^
 ||http://ketaoke.com^
 ||http://keyand.xyz^
@@ -14751,7 +14763,7 @@
 ||http://ljmei.com^
 ||http://llffaev.cn^
 ||http://llqd5.cn^
-||http://lmdknj.vbiquge.com^
+||http://lmdknj.xxbiquge.net^
 ||http://lnalttc.com^
 ||http://lnwow.co/1.
 ||http://lnwow.net/1.gif
@@ -14888,6 +14900,7 @@
 ||http://ningbojipiao.com^
 ||http://ningxiayy.com^
 ||http://niutaizong.cn^
+||http://njcengpianwang.cn^
 ||http://njcyt.com^
 ||http://njguluyu.cn^
 ||http://njhuashidai.cn^
@@ -15179,6 +15192,7 @@
 ||http://superbao.top^
 ||http://sv7oqa.cn^
 ||http://svfwer.top^
+||http://sviss.top^
 ||http://sw9t.ml^
 ||http://swq48b.cn^
 ||http://swyhome.com^
@@ -15707,6 +15721,7 @@
 ||http://zxin131.cn^
 ||http://zxjjzx.com^
 ||http://zxlmnet.com^
+||http://zxopen.tech^
 ||http://zxsmxt.com^
 ||http://zykxjt.com^
 ||http://zyqtc.cn^
@@ -18676,6 +18691,7 @@ https://zuowen.com##.couplet_left
 https://tigtag.com##.couplet_r
 https://zuowen.com##.couplet_right
 https://atyun.com##.coupletbox
+https://upanso.com##.coupon
 https://caixin.com##.course_box
 https://meishij.net##.cp_body_right
 https://baidu.com##.cpc-adv-container
@@ -20869,6 +20885,7 @@ https://halitv.com##a[href^="https://www.halitv.com/api/go."]
 https://howbuy.com##a[href^="https://www.howbuy.com/advertisement/"]
 https://sojson.com##a[href^="https://www.sojson.com/ad/"]
 https://zhiboba.org##a[href^="igg."]
+https://hzjzxh.org##a[href^="javascript"]
 https://ddrk.me,ddys.tv##a[href^="javascript"] img:not(#trk_hcaptcha):not([src^="https://captcha.su.baidu.com"])
 https://5118.com##a[id][href^="http"]:not([href*=".5118.com"]) > img
 https://mse.360.cn##a[id^="banner"]
@@ -25137,6 +25154,7 @@ http://zuowen.com##.couplet_left
 http://tigtag.com##.couplet_r
 http://zuowen.com##.couplet_right
 http://atyun.com##.coupletbox
+http://upanso.com##.coupon
 http://caixin.com##.course_box
 http://meishij.net##.cp_body_right
 http://baidu.com##.cpc-adv-container
@@ -27331,6 +27349,7 @@ http://halitv.com##a[href^="https://www.halitv.com/api/go."]
 http://howbuy.com##a[href^="https://www.howbuy.com/advertisement/"]
 http://sojson.com##a[href^="https://www.sojson.com/ad/"]
 http://zhiboba.org##a[href^="igg."]
+http://hzjzxh.org##a[href^="javascript"]
 http://ddrk.me,ddys.tv##a[href^="javascript"] img:not(#trk_hcaptcha):not([src^="https://captcha.su.baidu.com"])
 http://5118.com##a[id][href^="http"]:not([href*=".5118.com"]) > img
 http://mse.360.cn##a[id^="banner"]
