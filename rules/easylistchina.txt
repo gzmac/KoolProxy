@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ccyc+Azf/hlp+lOMJoDzMg
-! Version: 202107020035
+! Checksum: 4wzI3PcqpcAdK45VtGnXLA
+! Version: 202107030035
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -6696,6 +6696,7 @@
 ||http://jijunlongchengxinxi.cn^
 ||http://jikelian.xyz^
 ||http://jimeilm.com^
+||http://jindongsheng.top^
 ||http://jindu179.com^
 ||http://jinfu.love/maizhan/
 ||http://jinglongtang.cn^
@@ -7843,6 +7844,7 @@
 ||http://zgyiyi.com^$third-party
 ||http://zhaibei112.top^
 ||http://zhandi.cc^$third-party
+||http://zhangbaochang.top^
 ||http://zhangkc.com^
 ||http://zhangranfilm.com^
 ||http://zhengyahong.cn^
@@ -13894,6 +13896,7 @@
 ||http://boluoxs.com/js/digu.js
 ||http://book9.net^$third-party
 ||http://bostonceltics.com.cn^
+||http://bowei666.xyz^
 ||http://boweineng.cn^
 ||http://bpdffh.cn^
 ||http://bqhnj.cn^
@@ -13970,6 +13973,7 @@
 ||http://cityd.xyz^
 ||http://cityf.xyz^
 ||http://cjhbkj.cn^
+||http://cjv2gt.cn^
 ||http://cjyjqw.cn^
 ||http://ckaiv.com^
 ||http://ckjyck.qxs.la^
@@ -15049,6 +15053,7 @@
 ||http://shorug.cn^
 ||http://shrtswkj.com^
 ||http://shsnjj.top^
+||http://shufan.club^
 ||http://shumilou.co/style/html5.js
 ||http://shunxinyuancaiwu.cn^
 ||http://signstu.top^
@@ -15199,6 +15204,7 @@
 ||http://ttzw.tv/tz/h.js
 ||http://ttzw.tv/tz/true.js
 ||http://tuadong.com^
+||http://tuezse.cn^
 ||http://tukexiu.com^
 ||http://tunanchangban.com^
 ||http://tuoxintrade.cn^
@@ -15268,6 +15274,7 @@
 ||http://wangliqin.top^
 ||http://wangmingsort.cn^
 ||http://wangqing7.top^
+||http://wangyuekun.xyz^
 ||http://wannuochongkong.com^
 ||http://wantezy.cn^
 ||http://watchhouse.cn^
@@ -15298,6 +15305,7 @@
 ||http://wfyqc.com^
 ||http://whbhsoft.cn^
 ||http://whrles.com^
+||http://whsseqpcs.top^
 ||http://whxhhjx.com^
 ||http://whxjnwzhs.com^
 ||http://win999.com.cn^
@@ -15376,6 +15384,7 @@
 ||http://xinqiannv.com^
 ||http://xintaizhaoming.com^
 ||http://xinyuanstudio.com^
+||http://xisea.top^
 ||http://xiuqixuan.cn^
 ||http://xixizaix.cn^
 ||http://xjhjtz.cn^
@@ -15449,6 +15458,7 @@
 ||http://ybtianxi.com^
 ||http://ydfz.org^
 ||http://ydqcjy.cn^
+||http://yemingxing.top^
 ||http://yeyushe.cn^
 ||http://yfygs.cn^
 ||http://yg10x.cn^
@@ -15546,6 +15556,7 @@
 ||http://zanghaihua.org^
 ||http://zazkkk.com^
 ||http://zbqmsc.com^
+||http://zc710956.top^
 ||http://zcand.com^
 ||http://zdovrb.cn^
 ||http://zenwq.com^
@@ -18384,7 +18395,7 @@ https://ifeng.com##.blockR.ipad_none:nth-last-child(2)
 https://boo.tw##.blockUI
 https://oschina.net##.blog-left-ad
 https://codexiu.cn##.blog-twitter:first-child
-https://1point3acres.com##.bm.a_c
+https://1point3acres.com,xianzhenyuan.cn##.bm.a_c
 https://tropica.cn##.bm.a_c1
 https://ydss.cn##.bm.bml.pbn > table > tbody > tr > td:nth-child(-n+2)
 https://jlmhk.com##.bn
@@ -20798,7 +20809,7 @@ https://caibaojian.com##a[onclick*="aly"]
 https://jokerlu.com,jokerlu1.com##a[onclick^="_czc."]
 https://fixdown.com##a[onclick^="count_down"]
 https://52pk.com##a[onclick^="ga"]
-https://3dmgame.com##a[onclick^="goxiazai"]
+https://3dmgame.com##a[onclick^="gotoxiazai"]
 https://edc1014070.pixnet.net##a[onmouseover*="_openBrWindow"]
 https://pixnet.net##a[onmouseover*="_openBrWindow('https://goo.gl/"]
 https://olevod.com##a[style*="/upload/site/"]
@@ -21136,6 +21147,7 @@ https://eyuyao.com##div[id^="x_ad_"]
 https://oschina.net##div[name="detail_show_footer"]
 https://oschina.net##div[name="floatAdbox"]
 https://oschina.net##div[name^="index_banner_"]
+https://mp4er.com##div[onclick*=".exing101.com"]
 https://mp4er.com##div[onclick*="exvip23.com"]
 https://jsr9.com##div[onclick*="location"]
 https://nfmovies.com##div[onclick="openurl()"]
@@ -24850,7 +24862,7 @@ http://ifeng.com##.blockR.ipad_none:nth-last-child(2)
 http://boo.tw##.blockUI
 http://oschina.net##.blog-left-ad
 http://codexiu.cn##.blog-twitter:first-child
-http://1point3acres.com##.bm.a_c
+http://1point3acres.com,xianzhenyuan.cn##.bm.a_c
 http://tropica.cn##.bm.a_c1
 http://ydss.cn##.bm.bml.pbn > table > tbody > tr > td:nth-child(-n+2)
 http://jlmhk.com##.bn
@@ -27265,7 +27277,7 @@ http://caibaojian.com##a[onclick*="aly"]
 http://jokerlu.com,jokerlu1.com##a[onclick^="_czc."]
 http://fixdown.com##a[onclick^="count_down"]
 http://52pk.com##a[onclick^="ga"]
-http://3dmgame.com##a[onclick^="goxiazai"]
+http://3dmgame.com##a[onclick^="gotoxiazai"]
 http://edc1014070.pixnet.net##a[onmouseover*="_openBrWindow"]
 http://pixnet.net##a[onmouseover*="_openBrWindow('https://goo.gl/"]
 http://olevod.com##a[style*="/upload/site/"]
@@ -27604,6 +27616,7 @@ http://eyuyao.com##div[id^="x_ad_"]
 http://oschina.net##div[name="detail_show_footer"]
 http://oschina.net##div[name="floatAdbox"]
 http://oschina.net##div[name^="index_banner_"]
+http://mp4er.com##div[onclick*=".exing101.com"]
 http://mp4er.com##div[onclick*="exvip23.com"]
 http://jsr9.com##div[onclick*="location"]
 http://nfmovies.com##div[onclick="openurl()"]

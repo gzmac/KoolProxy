@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mg6bEFZPUuL6MJ3BNVOkuA
-! Version: 202107020000
+! Checksum: ofIaAZ30JTUvZDTmEvGDGg
+! Version: 202107030000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-07-02 00:00 UTC
+! Last modified: 2021-07-03 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -13214,7 +13214,7 @@ https://dybok.com.ua,unian.ua##.cookies
 https://landrover.ua##.notificationBars
 https://ua-football.com##.policy-mes
 https://kinoafisha.ua##.privacy-modal
-https://hyser.ua##.privacy-policy
+https://hyser.ua,ukrainci.com.ua##.privacy-policy
 https://papadon.com.ua##.t886
 https://infiniti-vietnam.com.vn##.c_128
 https://360.cymru###negesCaniatad
@@ -24387,7 +24387,7 @@ http://dybok.com.ua,unian.ua##.cookies
 http://landrover.ua##.notificationBars
 http://ua-football.com##.policy-mes
 http://kinoafisha.ua##.privacy-modal
-http://hyser.ua##.privacy-policy
+http://hyser.ua,ukrainci.com.ua##.privacy-policy
 http://papadon.com.ua##.t886
 http://infiniti-vietnam.com.vn##.c_128
 http://360.cymru###negesCaniatad
