@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ofIaAZ30JTUvZDTmEvGDGg
-! Version: 202107030000
+! Checksum: bsc8IBxnGWoonWyqigJWag
+! Version: 202107040000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-07-03 00:00 UTC
+! Last modified: 2021-07-04 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10089,7 +10089,6 @@ https://brain.fm##div[class^="modules-core-css-CookiePopup"]
 https://voxi.co.uk##div[class^="notification-container"]
 https://cheddar.com##div[class^="notificationBanner"]
 https://listen.tidal.com##div[class^="notificationWrapper--"]
-https://deliveroo.ie##div[class^="orderweb__"]
 https://buffer.com##div[class^="style__Banner-"]
 https://kdanmobile.com##div[class^="styled__ContentWrapper-"]
 https://tunein.com##div[class^="violator__container"]
@@ -12579,12 +12578,14 @@ https://ilfruttarolo.it###decretopr
 https://chicucina.it,inartek.it###discl
 https://nau.it###disclaimer
 https://corner.ch,cornertrader.ch###disclaimer-alert
+https://xtrawine.com###div-confirm-privacy
 https://amref.it###divCk
 https://elevensports.it###elevensports-privacy
 https://solopornoitaliani.xxx###first-visit
 https://mercateo.it###header-popup-info
 https://trovanumeri.com###hid
 https://accessibilitacentristorici.it###htmlbox_div1
+https://mariangelaguido.it###icegram_message_10971
 https://legea.it###infobarDiv
 https://lostrillone.tv###informativa
 https://insidemarketing.it###informativaPrivacy
@@ -21261,7 +21262,6 @@ http://brain.fm##div[class^="modules-core-css-CookiePopup"]
 http://voxi.co.uk##div[class^="notification-container"]
 http://cheddar.com##div[class^="notificationBanner"]
 http://listen.tidal.com##div[class^="notificationWrapper--"]
-http://deliveroo.ie##div[class^="orderweb__"]
 http://buffer.com##div[class^="style__Banner-"]
 http://kdanmobile.com##div[class^="styled__ContentWrapper-"]
 http://tunein.com##div[class^="violator__container"]
@@ -23752,12 +23752,14 @@ http://ilfruttarolo.it###decretopr
 http://chicucina.it,inartek.it###discl
 http://nau.it###disclaimer
 http://corner.ch,cornertrader.ch###disclaimer-alert
+http://xtrawine.com###div-confirm-privacy
 http://amref.it###divCk
 http://elevensports.it###elevensports-privacy
 http://solopornoitaliani.xxx###first-visit
 http://mercateo.it###header-popup-info
 http://trovanumeri.com###hid
 http://accessibilitacentristorici.it###htmlbox_div1
+http://mariangelaguido.it###icegram_message_10971
 http://legea.it###infobarDiv
 http://lostrillone.tv###informativa
 http://insidemarketing.it###informativaPrivacy
