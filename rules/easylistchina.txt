@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: AecnDkj8eughtnz54VQHDw
-! Version: 202107050034
+! Checksum: vjXJwltRmLJrYPLfe3VWFA
+! Version: 202107060034
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1282,6 +1282,7 @@
 ||https://acfun.cn/appSpreadContents/danmuad/
 ||https://acg.tv^$image,object
 ||https://acgbenzi.com^$image
+||https://acggd.com/4d22b/
 ||https://acglala.net/images/upload/*0.gif
 ||https://acgnx.se/images/adwork/
 ||https://acgnz.cn/static/b.js
@@ -2455,6 +2456,7 @@
 ||https://ghjie.com/JS/youcegg.js
 ||https://ghoffice.com/bbs/js/float.js
 ||https://ghost580.com/js/nei4.js
+||https://gjwind.com/xxmh.gif
 ||https://gk99.com/static/js/a-d-sys.js
 ||https://gll8.com/style/js/gll
 ||https://glzy8.com/img/ceo/js.js
@@ -2762,6 +2764,7 @@
 ||https://ikafan.com/upload/image/iqiyi_
 ||https://ikaka.com/globalad/
 ||https://ikkdm.com/js/play-
+||https://ikkdm.com/mg/
 ||https://ikkdm.com/top.htm
 ||https://im286.net/286/
 ||https://image-shop.baidu.com/n/imageproduct?
@@ -2961,6 +2964,7 @@
 ||https://jsdelivr.net/gh/*/960-80.gif
 ||https://jsdelivr.net/gh/*/960x100.gif
 ||https://jsdelivr.net/gh/a901361/
+||https://jsdelivr.net/gh/ekmov/cache@master/tbk.js
 ||https://jsdelivr.net/gh/sex169hub/
 ||https://jsdelivr.net/gh/supfree/supfree/top.gif
 ||https://jsdelivr.net/gh/voocdn/static/www/QlZ2twef.js
@@ -8680,6 +8684,7 @@
 ||http://acfun.cn/appSpreadContents/danmuad/
 ||http://acg.tv^$image,object,domain=bilibili.com
 ||http://acgbenzi.com^$image
+||http://acggd.com/4d22b/
 ||http://acglala.net/images/upload/*0.gif
 ||http://acgnx.se/images/adwork/
 ||http://acgnz.cn/static/b.js
@@ -10045,6 +10050,7 @@
 ||http://ghjie.com/JS/youcegg.js
 ||http://ghoffice.com/bbs/js/float.js
 ||http://ghost580.com/js/nei4.js
+||http://gjwind.com/xxmh.gif
 ||http://gk99.com/static/js/a-d-sys.js
 ||http://gll8.com/style/js/gll
 ||http://glzy8.com/img/ceo/js.js
@@ -10378,6 +10384,7 @@
 ||http://ikafan.com/upload/image/iqiyi_
 ||http://ikaka.com/globalad/
 ||http://ikkdm.com/js/play-
+||http://ikkdm.com/mg/
 ||http://ikkdm.com/top.htm
 ||http://im286.net/286/
 ||http://image-shop.baidu.com/n/imageproduct?
@@ -10621,6 +10628,7 @@
 ||http://jsdelivr.net/gh/*/960x100.gif
 ||http://jsdelivr.net/gh/a901361/
 ||http://jsdelivr.net/gh/cdnjsdelivr001/182cdn*.js
+||http://jsdelivr.net/gh/ekmov/cache@master/tbk.js
 ||http://jsdelivr.net/gh/fzdm/st*/js/fzwap-
 ||http://jsdelivr.net/gh/sex169hub/
 ||http://jsdelivr.net/gh/supfree/supfree/top.gif
@@ -14001,6 +14009,7 @@
 ||http://codelabbeijing.cn^
 ||http://coenr.com^
 ||http://cojia.net^
+||http://colchaguino.com^
 ||http://comberry.cn^
 ||http://continuedsys.cn^
 ||http://continuefaf.top^
@@ -15620,6 +15629,7 @@
 ||http://zoepb.cn^
 ||http://zougg.com^
 ||http://zoujuhonglawyer.com^
+||http://zouxinyan.xyz^
 ||http://zp0737.com^
 ||http://zpyfsj.cn^
 ||http://zqwlkj.cn^
@@ -16579,6 +16589,7 @@ https://kjsv.com###advertisingMap
 https://104.com.tw###aidma-job
 https://104.com.tw###aidma_128
 https://104.com.tw###aidma_588
+https://airav.cc###air_top_banner
 https://ali213.net###ali-js-4
 https://shenchuang.com###all
 https://aizhan.com###all_text_content
@@ -19800,6 +19811,7 @@ https://ithome.com##.related_buy
 https://tiexue.net##.reloadCont > div:first-child
 https://hoteastday.com##.reloadMedia1
 https://juejin.im##.request-health-alert
+https://baidu.com##.result-op[tpl="pc-education-fs"]
 https://tbtdg.com##.reveal-modal-bg
 https://rfidworld.com.cn##.rfidADClass
 https://acfun.cn##.right-activity
@@ -20588,6 +20600,7 @@ https://163.com,bilibili.com,longzhu.com##a[href*=".admaster."]
 https://itboth.com,itkeyword.com##a[href*=".aliyun."]
 https://boke112.com,dzbhdm.com,mzh.ren,techweb.com.cn,whsir.com##a[href*=".aliyun.com"]
 https://github.com##a[href*=".aliyun.com/minisite/goods?"]
+https://acggd.com##a[href*=".apk"]
 https://mydrivers.com##a[href*=".ashx?to="]
 https://zhanqi.tv##a[href*=".bfun.cn/ad."]:not([href*=".zhanqi."])
 https://backchina.com##a[href*=".cardbenefit.com/"]
@@ -21155,6 +21168,7 @@ https://oschina.net##div[name="detail_show_footer"]
 https://oschina.net##div[name="floatAdbox"]
 https://oschina.net##div[name^="index_banner_"]
 https://mp4er.com##div[onclick*=".exing101.com"]
+https://mp4er.com##div[onclick*=".exing113.com"]
 https://mp4er.com##div[onclick*="exvip23.com"]
 https://jsr9.com##div[onclick*="location"]
 https://nfmovies.com##div[onclick="openurl()"]
@@ -21303,6 +21317,7 @@ https://cnbeta.com##h2 > a[href^="https://active.greatroma.com"]
 https://ifeng.com#?#.box_list:-abp-has(.tuig)
 https://ifeng.com#?#div[class^="titleImg-"]:-abp-has(span[class^="source-"]:-abp-contains(推广))
 https://sina.cn##iframe[id^="sinaadtk_"]
+https://image.baidu.com#?#.newfcImgli:-abp-has(.fc-ad-tip)
 https://image.so.com#?#.cell:-abp-has(.txt:-abp-contains(广告))
 https://image.so.com#?#.imgcell:-abp-has(.txt:-abp-contains(广告))
 https://xblian.com##img[alt*="广告"]
@@ -23045,6 +23060,7 @@ http://kjsv.com###advertisingMap
 http://104.com.tw###aidma-job
 http://104.com.tw###aidma_128
 http://104.com.tw###aidma_588
+http://airav.cc###air_top_banner
 http://ali213.net###ali-js-4
 http://shenchuang.com###all
 http://aizhan.com###all_text_content
@@ -26267,6 +26283,7 @@ http://ithome.com##.related_buy
 http://tiexue.net##.reloadCont > div:first-child
 http://hoteastday.com##.reloadMedia1
 http://juejin.im##.request-health-alert
+http://baidu.com##.result-op[tpl="pc-education-fs"]
 http://tbtdg.com##.reveal-modal-bg
 http://rfidworld.com.cn##.rfidADClass
 http://acfun.cn##.right-activity
@@ -27055,6 +27072,7 @@ http://163.com,bilibili.com,longzhu.com##a[href*=".admaster."]
 http://itboth.com,itkeyword.com##a[href*=".aliyun."]
 http://boke112.com,dzbhdm.com,mzh.ren,techweb.com.cn,whsir.com##a[href*=".aliyun.com"]
 http://github.com##a[href*=".aliyun.com/minisite/goods?"]
+http://acggd.com##a[href*=".apk"]
 http://mydrivers.com##a[href*=".ashx?to="]
 http://zhanqi.tv##a[href*=".bfun.cn/ad."]:not([href*=".zhanqi."])
 http://backchina.com##a[href*=".cardbenefit.com/"]
@@ -27623,6 +27641,7 @@ http://oschina.net##div[name="detail_show_footer"]
 http://oschina.net##div[name="floatAdbox"]
 http://oschina.net##div[name^="index_banner_"]
 http://mp4er.com##div[onclick*=".exing101.com"]
+http://mp4er.com##div[onclick*=".exing113.com"]
 http://mp4er.com##div[onclick*="exvip23.com"]
 http://jsr9.com##div[onclick*="location"]
 http://nfmovies.com##div[onclick="openurl()"]
@@ -27771,6 +27790,7 @@ http://cnbeta.com##h2 > a[href^="https://active.greatroma.com"]
 http://ifeng.com#?#.box_list:-abp-has(.tuig)
 http://ifeng.com#?#div[class^="titleImg-"]:-abp-has(span[class^="source-"]:-abp-contains(推广))
 http://sina.cn##iframe[id^="sinaadtk_"]
+http://image.baidu.com#?#.newfcImgli:-abp-has(.fc-ad-tip)
 http://image.so.com#?#.cell:-abp-has(.txt:-abp-contains(广告))
 http://image.so.com#?#.imgcell:-abp-has(.txt:-abp-contains(广告))
 http://xblian.com##img[alt*="广告"]

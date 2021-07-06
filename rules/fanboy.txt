@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WcgeX82D8497ltFLLODNfA
-! Version: 202107050000
+! Checksum: mMpI1EQIuA6zShXkfHI7qA
+! Version: 202107060000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-07-05 00:00 UTC
+! Last modified: 2021-07-06 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -529,7 +529,6 @@
 ||https://getback.ch^$third-party
 ||https://getpush.net^$third-party
 ||https://getpushmonkey.com^$third-party
-||https://getsupernova.com^$third-party
 ||https://gravitec.net^$third-party
 ||https://heroesdom.com^$third-party
 ||https://jeeng.com^$third-party
@@ -1030,6 +1029,7 @@
 ||https://irishtimes.com/assets/js/notify.js
 ||https://ndtv.com/popupNotification.aspx
 ||https://renaultsport.com/spip.php?page=sw.js
+||https://rottentomatoes.com/service-worker/sw.js
 ||https://seattletimes.com/wp-content/plugins/st-user-messaging/$script
 ||https://ultimedia.com/js/common/notification.js
 ||https://yahoo.com/manifest_desktop_
@@ -1946,7 +1946,6 @@
 ||http://getback.ch^$third-party
 ||http://getpush.net^$third-party
 ||http://getpushmonkey.com^$third-party
-||http://getsupernova.com^$third-party
 ||http://gravitec.net^$third-party
 ||http://heroesdom.com^$third-party
 ||http://jeeng.com^$third-party
@@ -2472,6 +2471,7 @@
 ||http://notify.hindustantimes.com^
 ||http://push.api.bbci.co.uk^
 ||http://renaultsport.com/spip.php?page=sw.js
+||http://rottentomatoes.com/service-worker/sw.js
 ||http://seattletimes.com/wp-content/plugins/st-user-messaging/$script
 ||http://ultimedia.com/js/common/notification.js
 ||http://yahoo.com/manifest_desktop_
@@ -10032,7 +10032,7 @@ https://shine.cn##.user-terms-hint
 https://fxsolver.com##.userMessage
 https://arksurvivalevolved.zone##.userNotice
 https://fontspring.com##.user_notice
-https://easeus.com##.usernotice_pop
+https://easeus.com,fonelab.com##.usernotice_pop
 https://visualiq.com##.utilityBar
 https://singtel.com##.ux-consent-banner
 https://whitepages.com##.v-snack__content
@@ -21205,7 +21205,7 @@ http://shine.cn##.user-terms-hint
 http://fxsolver.com##.userMessage
 http://arksurvivalevolved.zone##.userNotice
 http://fontspring.com##.user_notice
-http://easeus.com##.usernotice_pop
+http://easeus.com,fonelab.com##.usernotice_pop
 http://visualiq.com##.utilityBar
 http://singtel.com##.ux-consent-banner
 http://whitepages.com##.v-snack__content
