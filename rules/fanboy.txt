@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mMpI1EQIuA6zShXkfHI7qA
-! Version: 202107060000
+! Checksum: aEHIjfK0w8gxS+EFnnMnzw
+! Version: 202107070000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-07-06 00:00 UTC
+! Last modified: 2021-07-07 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6859,6 +6859,7 @@ https://livemint.com##.epaperCard
 https://londonreal.tv##.episode-overlay
 https://americanlookout.com##.essbasc-popup
 https://livescience.com,techradar.com##.exit-intent
+https://publicdomainreview.org##.exit-modal__shade
 https://economist.com##.exit-pop
 https://jornaldacidadeonline.com.br##.exit-screen
 https://online-convert.com,pdf2go.com,rt.com##.extension-browser
@@ -8566,6 +8567,7 @@ https://sfglobe.com##.kfm_dialog_overlay
 https://kiplinger.com##.kip-follow
 https://kanogames.com##.kno-new-rght-wrp
 https://foreignaffairs.com##.l-article-tools
+https://kedglobal.com##.laFlow
 https://a-ha.com##.lastfm
 https://disclose.tv,sendatext.co##.lb_overlay
 https://classybro.com##.lbx_content
@@ -13073,7 +13075,6 @@ https://vega-protect.ru##.t886
 https://pfr.gov.ru##.user-data-processing-wrapper
 https://yoomoney.ru##div[class^="Gdpr__StyledGdpr-"]
 https://pik-broker.ru##div[class^="cookie_cookie_"]
-https://aliexpress.ru##div[class^="styles_wrapper_"]
 https://opusteno.rs###conditions-l
 https://freemeteo.rs###cookies
 https://infiniti.co.rs##.c_128
@@ -13704,6 +13705,7 @@ https://golem.de#@#.social-tools
 https://gamesrepublic.com,gopojie.net#@#.social-top:not(html):not(body)
 https://gallerix.asia,gallerix.org#@#.social-tumblr
 https://4players.de,chrisblattman.com,deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-twitter
+https://noez.de#@#.social-wide
 https://medialeaks.ru#@#.social-widgets
 https://bronchiectasisandntminitiative.org,copdfoundation.org,viralnova.com#@#.social-wrap
 https://archivebay.com,chess-online.com,dreuz.info,etoro.com,foxnews.com,ilgiorno.it,ilrestodelcarlino.it,lanazione.it,manager.paczkomaty.pl,quotidiano.net#@#.social-wrapper
@@ -18031,6 +18033,7 @@ http://livemint.com##.epaperCard
 http://londonreal.tv##.episode-overlay
 http://americanlookout.com##.essbasc-popup
 http://livescience.com,techradar.com##.exit-intent
+http://publicdomainreview.org##.exit-modal__shade
 http://economist.com##.exit-pop
 http://jornaldacidadeonline.com.br##.exit-screen
 http://online-convert.com,pdf2go.com,rt.com##.extension-browser
@@ -19738,6 +19741,7 @@ http://sfglobe.com##.kfm_dialog_overlay
 http://kiplinger.com##.kip-follow
 http://kanogames.com##.kno-new-rght-wrp
 http://foreignaffairs.com##.l-article-tools
+http://kedglobal.com##.laFlow
 http://a-ha.com##.lastfm
 http://disclose.tv,sendatext.co##.lb_overlay
 http://classybro.com##.lbx_content
@@ -24247,7 +24251,6 @@ http://vega-protect.ru##.t886
 http://pfr.gov.ru##.user-data-processing-wrapper
 http://yoomoney.ru##div[class^="Gdpr__StyledGdpr-"]
 http://pik-broker.ru##div[class^="cookie_cookie_"]
-http://aliexpress.ru##div[class^="styles_wrapper_"]
 http://opusteno.rs###conditions-l
 http://freemeteo.rs###cookies
 http://infiniti.co.rs##.c_128
@@ -24878,6 +24881,7 @@ http://golem.de#@#.social-tools
 http://gamesrepublic.com,gopojie.net#@#.social-top:not(html):not(body)
 http://gallerix.asia,gallerix.org#@#.social-tumblr
 http://4players.de,chrisblattman.com,deadspin.com,gizmodo.com,jezebel.com,kinja.com,kotaku.com,lifehacker.com#@#.social-twitter
+http://noez.de#@#.social-wide
 http://medialeaks.ru#@#.social-widgets
 http://bronchiectasisandntminitiative.org,copdfoundation.org,viralnova.com#@#.social-wrap
 http://archivebay.com,chess-online.com,dreuz.info,etoro.com,foxnews.com,ilgiorno.it,ilrestodelcarlino.it,lanazione.it,manager.paczkomaty.pl,quotidiano.net#@#.social-wrapper
