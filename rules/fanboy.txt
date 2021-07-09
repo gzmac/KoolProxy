@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: A5fLYIGAY5INgq36eFh3XA
-! Version: 202107080000
+! Checksum: BNfN3CYuXaRHsg+nT+Yw2Q
+! Version: 202107090000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-07-08 00:00 UTC
+! Last modified: 2021-07-09 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -3030,7 +3030,7 @@ https://arstechnica.com###article-links
 https://utsandiego.com###article-nav
 https://eonline.com###article-next-link
 https://eonline.com###article-prev-link
-https://courant.com,givemesport.com,timesofisrael.com###article-promo
+https://courant.com,givemesport.com###article-promo
 https://thehill.com###article-recommendation
 https://nationalobserver.com###article-slidein
 https://itworld.com###article-toolbar
@@ -4815,9 +4815,7 @@ https://newsok.com##.couponKit
 https://cracked.com##.crackedStoreHeaderWrapper
 https://adage.com##.crain-aac-flyout-recommend
 https://atavist.ibtimes.com##.creatavist-logo-icon
-https://timesofisrael.com##.crm-bottom-popup
 https://timesofisrael.com##.crm-post-module
-https://timesofisrael.com##.crm-promotion
 https://techcrunch.com##.crunchdaily
 https://csmonitor.com##.csmAd
 https://commondreams.org##.cta-processed
@@ -5320,9 +5318,8 @@ https://narrative.ly,timesofindia.indiatimes.com##.modal-content
 https://megabonus.com##.modal-dialog
 https://popdust.com##.modal-image
 https://popdust.com##.modal-lightsout
-https://narrative.ly,timesofisrael.com##.modal-overlay
+https://narrative.ly##.modal-overlay
 https://viki.com##.modal-register
-https://timesofisrael.com##.modal-window
 https://haaretz.com##.modal-wrapper
 https://rttnews.com##.modalBackground
 https://popsugar.com##.modal_container
@@ -9766,6 +9763,7 @@ https://thagson.com##.init_message
 https://picturehouses.com##.interim-banner
 https://curiousconcept.com##.is-consent
 https://vuejsdevelopers.com##.is-fixed-bottom.navbar
+https://pagetiger.com##.is-open
 https://itv.com##.itv-glob-foot__cookies
 https://slideshare.net##.j-tos-update-banner
 https://forumcommunity.net##.jnote
@@ -9877,6 +9875,7 @@ https://origin.com##.origin-sitestripe
 https://flashscore.co.uk,flashscore.com##.otPlaceholder
 https://ratemyprofessors.com##.overlay
 https://youronlinechoices.com##.p15
+https://smitegame.com##.page > .is-visible
 https://geberit.com##.page-hint-box
 https://plymouth.ac.uk##.page-notification
 https://nick.com,tvland.com##.page-overlay_wrapper
@@ -9977,6 +9976,7 @@ https://daft.ie##.strapline-container
 https://lykke.com##.styled__Banner-hg6ib8-0
 https://meteoblue.com##.successMessage
 https://spiceworks.com##.sui-site-message-container
+https://rittal.com##.swal-overlay
 https://outage.report##.swal2-container
 https://haier.com##.swiper-slide-img-txt
 https://games2gether.com##.system-notification-container
@@ -12092,8 +12092,9 @@ https://celle.de##.tracking-msg
 https://autohus.de##.u-fixed
 https://hypovereinsbank.de##.uccb
 https://emma-matratze.at,emma-matratze.de##.ucn-block
+https://hillwig.de##.ui-corner-all.ui-dialog
 https://euromaxx.nu##.ui-widget-content
-https://spaetzlesuche.de##.ui-widget-overlay
+https://hillwig.de,spaetzlesuche.de##.ui-widget-overlay
 https://anisearch.de##.urgent-msg
 https://cebit.de,domotex.de,hannovermesse.de,ligna.de,messe.de##.user-notes-notification
 https://oeaw.ac.at##.warning-popup
@@ -12758,6 +12759,7 @@ https://lidl.lt##.notification
 https://go4pro.lt##.wu_container
 https://seher.no,sol.no,start.no###__next > div[class^="css"]
 https://kube.no###cookie
+https://nordiskporselen.com###kjeks
 https://homenet.no###toast-container
 https://netonnet.no##.alert
 https://nextgentel.no##.blocker
@@ -12769,6 +12771,9 @@ https://forsvaret.no##.message-bar
 https://dnbeiendom.no##.modal-backdrop
 https://dekk1.no##.name_infobar.ModuleGroup
 https://dagbladet.no##.show.css-pp-box
+https://gezond.nl##.show.fade.modal
+https://gezond.nl##.show.fade.modal-backdrop
+https://nordiskporselen.com##.w3-container.w3-black
 https://dplay.no##div[class^="notification"]
 https://panasonic.pl###CP_Layer
 https://orange.pl###__next > section > div[class^="css-"] > div[class^="css-"]
@@ -12898,7 +12903,7 @@ https://domwroc24.pl##.ciacho-wrap-container
 https://forumrowerowe.org##.ckg
 https://scentre.pl##.consent
 https://poznan.pl##.content-head-information
-https://fitnessclubs4.pl,fum.info.pl,leroymerlin.pl,mazowieckie.com.pl,mmgastro.pl,otouczelnie.pl,polstor.pl,technetium.pl,virtualtrucker.pl,wykop.pl,zdrofit.pl##.cookie
+https://fitnessclubs4.pl,fum.info.pl,japanmotors.pl,leroymerlin.pl,mazowieckie.com.pl,mmgastro.pl,otouczelnie.pl,polstor.pl,technetium.pl,virtualtrucker.pl,wykop.pl,zdrofit.pl##.cookie
 https://alergia-allegra.pl,aliorbank.pl,angora.com.pl,bezux.pl,bigstar.pl,bitbay.pl,dhosting.pl,easycomp.pl,fitpatrol.pl,fly4free.pl,meczyki.pl,naszefutrzaki.eu,niedziela.pl,pkpcargo.com,polsatsport.pl,rozklad-pkp.pl,sprawdzonyfizjoterapeuta.pl,telepolis.pl,teletorium.pl,vistula.pl##.cookies
 https://dominospizza.pl##.cookies-visible
 https://chceauto.pl##.cookue
@@ -12992,6 +12997,7 @@ https://cliper.pt###cook
 https://gentside.com.br###cookie
 https://fidelidade.pt,ren.pt###cookies
 https://receitas100.pt###cxcx
+https://concursosnobrasil.com.br###lgpd
 https://rtp.pt###rtpgeralcookiecontent
 https://cmjornal.pt,jornaldenegocios.pt###termos
 https://xalingo.com.br###wrng-agrmnt
@@ -14190,7 +14196,7 @@ http://arstechnica.com###article-links
 http://utsandiego.com###article-nav
 http://eonline.com###article-next-link
 http://eonline.com###article-prev-link
-http://courant.com,givemesport.com,timesofisrael.com###article-promo
+http://courant.com,givemesport.com###article-promo
 http://thehill.com###article-recommendation
 http://nationalobserver.com###article-slidein
 http://itworld.com###article-toolbar
@@ -15976,9 +15982,7 @@ http://newsok.com##.couponKit
 http://cracked.com##.crackedStoreHeaderWrapper
 http://adage.com##.crain-aac-flyout-recommend
 http://atavist.ibtimes.com##.creatavist-logo-icon
-http://timesofisrael.com##.crm-bottom-popup
 http://timesofisrael.com##.crm-post-module
-http://timesofisrael.com##.crm-promotion
 http://techcrunch.com##.crunchdaily
 http://csmonitor.com##.csmAd
 http://commondreams.org##.cta-processed
@@ -16481,9 +16485,8 @@ http://narrative.ly,timesofindia.indiatimes.com##.modal-content
 http://megabonus.com##.modal-dialog
 http://popdust.com##.modal-image
 http://popdust.com##.modal-lightsout
-http://narrative.ly,timesofisrael.com##.modal-overlay
+http://narrative.ly##.modal-overlay
 http://viki.com##.modal-register
-http://timesofisrael.com##.modal-window
 http://haaretz.com##.modal-wrapper
 http://rttnews.com##.modalBackground
 http://popsugar.com##.modal_container
@@ -20928,6 +20931,7 @@ http://thagson.com##.init_message
 http://picturehouses.com##.interim-banner
 http://curiousconcept.com##.is-consent
 http://vuejsdevelopers.com##.is-fixed-bottom.navbar
+http://pagetiger.com##.is-open
 http://itv.com##.itv-glob-foot__cookies
 http://slideshare.net##.j-tos-update-banner
 http://forumcommunity.net##.jnote
@@ -21039,6 +21043,7 @@ http://origin.com##.origin-sitestripe
 http://flashscore.co.uk,flashscore.com##.otPlaceholder
 http://ratemyprofessors.com##.overlay
 http://youronlinechoices.com##.p15
+http://smitegame.com##.page > .is-visible
 http://geberit.com##.page-hint-box
 http://plymouth.ac.uk##.page-notification
 http://nick.com,tvland.com##.page-overlay_wrapper
@@ -21139,6 +21144,7 @@ http://daft.ie##.strapline-container
 http://lykke.com##.styled__Banner-hg6ib8-0
 http://meteoblue.com##.successMessage
 http://spiceworks.com##.sui-site-message-container
+http://rittal.com##.swal-overlay
 http://outage.report##.swal2-container
 http://haier.com##.swiper-slide-img-txt
 http://games2gether.com##.system-notification-container
@@ -23255,8 +23261,9 @@ http://celle.de##.tracking-msg
 http://autohus.de##.u-fixed
 http://hypovereinsbank.de##.uccb
 http://emma-matratze.at,emma-matratze.de##.ucn-block
+http://hillwig.de##.ui-corner-all.ui-dialog
 http://euromaxx.nu##.ui-widget-content
-http://spaetzlesuche.de##.ui-widget-overlay
+http://hillwig.de,spaetzlesuche.de##.ui-widget-overlay
 http://anisearch.de##.urgent-msg
 http://cebit.de,domotex.de,hannovermesse.de,ligna.de,messe.de##.user-notes-notification
 http://oeaw.ac.at##.warning-popup
@@ -23921,6 +23928,7 @@ http://lidl.lt##.notification
 http://go4pro.lt##.wu_container
 http://seher.no,sol.no,start.no###__next > div[class^="css"]
 http://kube.no###cookie
+http://nordiskporselen.com###kjeks
 http://homenet.no###toast-container
 http://netonnet.no##.alert
 http://nextgentel.no##.blocker
@@ -23932,6 +23940,9 @@ http://forsvaret.no##.message-bar
 http://dnbeiendom.no##.modal-backdrop
 http://dekk1.no##.name_infobar.ModuleGroup
 http://dagbladet.no##.show.css-pp-box
+http://gezond.nl##.show.fade.modal
+http://gezond.nl##.show.fade.modal-backdrop
+http://nordiskporselen.com##.w3-container.w3-black
 http://dplay.no##div[class^="notification"]
 http://panasonic.pl###CP_Layer
 http://orange.pl###__next > section > div[class^="css-"] > div[class^="css-"]
@@ -24061,7 +24072,7 @@ http://domwroc24.pl##.ciacho-wrap-container
 http://forumrowerowe.org##.ckg
 http://scentre.pl##.consent
 http://poznan.pl##.content-head-information
-http://fitnessclubs4.pl,fum.info.pl,leroymerlin.pl,mazowieckie.com.pl,mmgastro.pl,otouczelnie.pl,polstor.pl,technetium.pl,virtualtrucker.pl,wykop.pl,zdrofit.pl##.cookie
+http://fitnessclubs4.pl,fum.info.pl,japanmotors.pl,leroymerlin.pl,mazowieckie.com.pl,mmgastro.pl,otouczelnie.pl,polstor.pl,technetium.pl,virtualtrucker.pl,wykop.pl,zdrofit.pl##.cookie
 http://alergia-allegra.pl,aliorbank.pl,angora.com.pl,bezux.pl,bigstar.pl,bitbay.pl,dhosting.pl,easycomp.pl,fitpatrol.pl,fly4free.pl,meczyki.pl,naszefutrzaki.eu,niedziela.pl,pkpcargo.com,polsatsport.pl,rozklad-pkp.pl,sprawdzonyfizjoterapeuta.pl,telepolis.pl,teletorium.pl,vistula.pl##.cookies
 http://dominospizza.pl##.cookies-visible
 http://chceauto.pl##.cookue
@@ -24155,6 +24166,7 @@ http://cliper.pt###cook
 http://gentside.com.br###cookie
 http://fidelidade.pt,ren.pt###cookies
 http://receitas100.pt###cxcx
+http://concursosnobrasil.com.br###lgpd
 http://rtp.pt###rtpgeralcookiecontent
 http://cmjornal.pt,jornaldenegocios.pt###termos
 http://xalingo.com.br###wrng-agrmnt
