@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BNfN3CYuXaRHsg+nT+Yw2Q
-! Version: 202107090000
+! Checksum: H0KKxWsdofqyxkxWPQ0cPQ
+! Version: 202107100000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-07-09 00:00 UTC
+! Last modified: 2021-07-10 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6258,6 +6258,7 @@ https://lbry.tv##.nag
 https://buzzfeednews.com##.newsblock-tips
 https://shmoop.com##.no-ads
 https://designtaxi.com##.nt-displayboard
+https://wweek.com##.pb-f-global-blank-html
 https://propublica.org##.promo-bar__link-wrapper
 https://apkmirror.com##.promotedApp
 https://racingtv.com##.promotion__asset
@@ -6754,6 +6755,7 @@ https://wired.com##.consumer-marketing-unit--display-rail
 https://moneycontrol.com##.contact
 https://houseandleisure.co.za##.contact-us
 https://theneweuropean.co.uk##.container-pencil
+https://sfgate.com##.containerDailyPromo
 https://buzzfeed.com##.container__DucLZy4CZL
 https://fiercecable.com##.content-subscribe
 https://asianews.network##.content-subscription
@@ -13038,6 +13040,7 @@ https://forum-windows.net###ntf
 https://rgs.ru###rgs-main-context-bar
 https://linux-info.ru###trumpet_message
 https://gamefuelmasters.ru##.H5Cmzb7vlc1Q28uw4l-Bv
+https://aliexpress.ru##.PrivacyPolicyBanner-styles_wrapper__1qbIl
 https://drweb.ru##.SHOWIT-msg_showed
 https://ngnovoros.ru##._1TNYbgH
 https://oreluniver.ru##.accept
@@ -13062,6 +13065,7 @@ https://landrover.ru##.notificationBars
 https://lamoda.ru,lamoda.ua##.page > [class*="widget"]
 https://kamkabel.ru##.panel_152_wp
 https://pegast.ru##.pgs-top
+https://aliexpress.ru##.styles_wrapper__3isR2
 https://66.ru##.t-i-agree
 https://obozrevatel.com##.t657__wrapper
 https://vega-protect.ru##.t886
@@ -17425,6 +17429,7 @@ http://lbry.tv##.nag
 http://buzzfeednews.com##.newsblock-tips
 http://shmoop.com##.no-ads
 http://designtaxi.com##.nt-displayboard
+http://wweek.com##.pb-f-global-blank-html
 http://propublica.org##.promo-bar__link-wrapper
 http://apkmirror.com##.promotedApp
 http://racingtv.com##.promotion__asset
@@ -17921,6 +17926,7 @@ http://wired.com##.consumer-marketing-unit--display-rail
 http://moneycontrol.com##.contact
 http://houseandleisure.co.za##.contact-us
 http://theneweuropean.co.uk##.container-pencil
+http://sfgate.com##.containerDailyPromo
 http://buzzfeed.com##.container__DucLZy4CZL
 http://fiercecable.com##.content-subscribe
 http://asianews.network##.content-subscription
@@ -24207,6 +24213,7 @@ http://forum-windows.net###ntf
 http://rgs.ru###rgs-main-context-bar
 http://linux-info.ru###trumpet_message
 http://gamefuelmasters.ru##.H5Cmzb7vlc1Q28uw4l-Bv
+http://aliexpress.ru##.PrivacyPolicyBanner-styles_wrapper__1qbIl
 http://drweb.ru##.SHOWIT-msg_showed
 http://ngnovoros.ru##._1TNYbgH
 http://oreluniver.ru##.accept
@@ -24231,6 +24238,7 @@ http://landrover.ru##.notificationBars
 http://lamoda.ru,lamoda.ua##.page > [class*="widget"]
 http://kamkabel.ru##.panel_152_wp
 http://pegast.ru##.pgs-top
+http://aliexpress.ru##.styles_wrapper__3isR2
 http://66.ru##.t-i-agree
 http://obozrevatel.com##.t657__wrapper
 http://vega-protect.ru##.t886
