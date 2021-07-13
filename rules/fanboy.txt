@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: H53+0S7N4t4tmZJmYYWc7g
-! Version: 202107120000
+! Checksum: /URZgg4zYiY0tMchFI9THA
+! Version: 202107130000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-07-12 00:00 UTC
+! Last modified: 2021-07-13 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2599,7 +2599,7 @@
 ||http://emerse.com/consent.js
 ||http://freedoflondon.com/Styles/dialog-popup/jquery-ui.js
 ||http://freetls.fastly.net/main/sd-cmp-$domain=spanishdict.com
-||http://fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|calcalistech.com|gameblog.fr|gbnews.uk|geekzone.co.nz|infopedia.pt|liliputing.com|makeuseof.com|marbaro.it|phonearena.com|quotes.net|smallseotools.com|stadtfeste-in-deutschland.de|telegram.hr|timeanddate.com|wordreference.com|zerohedge.com
+||http://fundingchoicesmessages.google.com^$domain=androidpolice.com|apkmirror.com|calcalistech.com|gameblog.fr|gbnews.uk|geekzone.co.nz|infopedia.pt|liliputing.com|makeuseof.com|marbaro.it|phonearena.com|quotes.net|rateyourmusic.com|smallseotools.com|stadtfeste-in-deutschland.de|telegram.hr|timeanddate.com|wordreference.com|zerohedge.com
 ||http://gdpr.internetbrands.com^
 ||http://government-and-constitution.org/js/consent.js
 ||http://harpercollins.co.uk/js/cookie.js
@@ -4628,7 +4628,7 @@ https://maketecheasier.com##.below_content
 https://economist.com##.beta-bar
 https://itproportal.com##.beta-overlay-background
 https://itproportal.com##.beta-overlay-popup
-https://rsf.org##.bg-overlay
+https://eepower.com,rsf.org##.bg-overlay
 https://bhaskar.com##.bgTB
 https://huffpost.com##.bing_pixie
 https://buzznet.com##.bing_tab_header
@@ -9992,6 +9992,7 @@ https://adelaidenow.com.au,cairnspost.com.au,couriermail.com.au,dailytelegraph.c
 https://thomannmusic.ch##.thomann-cookie-consent-overlay
 https://tastedive.com##.tk-Footer
 https://bidvestbank.co.za,byutv.org,fantrax.com,tbs.com,tntdrama.com##.toast
+https://iloveimg.com##.toast-bottom-left
 https://ikea.com##.toast-container
 https://mobilbahis49.com##.toast-wrapper
 https://tv5.ca##.top-alertes
@@ -10046,6 +10047,7 @@ https://tiktok.com##[class*="-DivCookieBannerContainer"]
 https://pri.org##[class^="CtaMessage_"]
 https://vivid.money##[class^="cookieNotification_"]
 https://shutterstock.com##[data-automation="Eu_banner_container"]
+https://uber.com##[data-baseweb="toaster"]
 https://jooble.org##[data-test-name="_termsOfServices"]
 https://backmarket.com##[data-test="banner"]
 https://iubenda.com##a[style="padding-top: 10px; display: block;"]
@@ -15799,7 +15801,7 @@ http://maketecheasier.com##.below_content
 http://economist.com##.beta-bar
 http://itproportal.com##.beta-overlay-background
 http://itproportal.com##.beta-overlay-popup
-http://rsf.org##.bg-overlay
+http://eepower.com,rsf.org##.bg-overlay
 http://bhaskar.com##.bgTB
 http://huffpost.com##.bing_pixie
 http://buzznet.com##.bing_tab_header
@@ -21164,6 +21166,7 @@ http://adelaidenow.com.au,cairnspost.com.au,couriermail.com.au,dailytelegraph.co
 http://thomannmusic.ch##.thomann-cookie-consent-overlay
 http://tastedive.com##.tk-Footer
 http://bidvestbank.co.za,byutv.org,fantrax.com,tbs.com,tntdrama.com##.toast
+http://iloveimg.com##.toast-bottom-left
 http://ikea.com##.toast-container
 http://mobilbahis49.com##.toast-wrapper
 http://tv5.ca##.top-alertes
@@ -21218,6 +21221,7 @@ http://tiktok.com##[class*="-DivCookieBannerContainer"]
 http://pri.org##[class^="CtaMessage_"]
 http://vivid.money##[class^="cookieNotification_"]
 http://shutterstock.com##[data-automation="Eu_banner_container"]
+http://uber.com##[data-baseweb="toaster"]
 http://jooble.org##[data-test-name="_termsOfServices"]
 http://backmarket.com##[data-test="banner"]
 http://iubenda.com##a[style="padding-top: 10px; display: block;"]

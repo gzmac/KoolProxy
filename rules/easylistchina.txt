@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: h9H6M/4AdJDbgEMST4f18g
-! Version: 202107120034
+! Checksum: aR8QIJOP4CM4/ffYje4KDw
+! Version: 202107130033
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4845,6 +4845,9 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://alicdn.com/imgextra/*_!!2207010417239.
+||https://52996.me/scripts/my_
+||https://52996.me/upload/ad/
 ||https://17ce.com^*_$image
 ||https://69t49.com/floating/layer.js
 ||https://alicdn.com/img/ibank/*_!!2210231227621-0-cib.
@@ -5566,7 +5569,7 @@
 ||https://hm.baidu.com^$third-party
 ||https://sinajs.cn/open/analytics/
 ||https://wrating.com^$third-party
-||http://88888888vip.top^
+||http://amarketing.top^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://008844.cc^
@@ -5868,6 +5871,7 @@
 ||http://887591.com^
 ||http://88818122.cn^
 ||http://8881919.cc^
+||http://88888888vip.top^
 ||http://88cpc.com^$third-party
 ||http://88rpg.net^
 ||http://88shu.cn^$third-party
@@ -12683,6 +12687,9 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://alicdn.com/imgextra/*_!!2207010417239.
+||http://52996.me/scripts/my_
+||http://52996.me/upload/ad/
 ||http://17ce.com^*_$image
 ||http://3336672.com^
 ||http://3337729.com^
@@ -13544,8 +13551,7 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://guiyimq.fun^
-||http://zjjrlx4.com^
+||http://53953.club^
 ||http://01tn.cn^
 ||http://027whht.com^
 ||http://0511qsfhknvz.xyz^
@@ -14257,6 +14263,7 @@
 ||http://guangweixinxi345.cn^
 ||http://guannin.com^
 ||http://guansenff.cn^
+||http://guiyimq.fun^
 ||http://guoduand.cn^
 ||http://guvdfs.cn^
 ||http://gxdianhua.com^
@@ -14759,6 +14766,7 @@
 ||http://mzcs65562.cn^
 ||http://mzirmall.com^
 ||http://n18uji.xyz^
+||http://n5ta9.site^
 ||http://nabeghlavi.com.cn^
 ||http://nainaimi.top^
 ||http://najingyi.cn^
@@ -15573,6 +15581,7 @@
 ||http://zixun8.com^
 ||http://ziyeaiying.com^
 ||http://zizcy.com^
+||http://zjjrlx4.com^
 ||http://zjksgl.com^
 ||http://zjlfqf.com^
 ||http://zjxkdq.cn^
@@ -16324,6 +16333,7 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://pilipili.site##.block-sales
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -20774,8 +20784,6 @@ https://halitv.com##a[href^="https://www.halitv.com/api/go."]
 https://howbuy.com##a[href^="https://www.howbuy.com/advertisement/"]
 https://sojson.com##a[href^="https://www.sojson.com/ad/"]
 https://zhiboba.org##a[href^="igg."]
-https://hzjzxh.org,jisuyingyuan.info,suibiankan.cc##a[href^="javascript"]
-https://suibiankan.cc##a[href^="javascript"] + img
 https://ddrk.me,ddys.tv##a[href^="javascript"] img:not(#trk_hcaptcha):not([src^="https://captcha.su.baidu.com"])
 https://5118.com##a[id][href^="http"]:not([href*=".5118.com"]) > img
 https://mse.360.cn##a[id^="banner"]
@@ -21558,7 +21566,7 @@ https://ltn.com.tw#@#.adright
 https://money18.on.cc#@#.ads-bg
 https://gsxt.gov.cn#@#.ads-right
 https://159i.com,techroomage.com,zhaopin.com#@#.adsBox
-https://android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,reh.tw,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
+https://android-doc.com,apk.tw,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,reh.tw,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
 https://ruten.com.tw#@#.adslot
 https://gdmm.com,gkstk.com,youquba.net#@#.adtop
 https://bdp.cn#@#.adv-list
@@ -21597,7 +21605,6 @@ https://zdface.com#@#.top-ad
 https://andylain.com,bee.coupons,blogspot.com,blogspot.hk,blogspot.jp,blogspot.tw,comic.tw,jasonblog.tw#@#.vertical-ads
 https://i-cable.com#@#.video_ad
 https://bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
-https://1point3acres.com,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#div > .adsbygoogle
 https://brandsales.58.com#@#div[id^="ad_"]
 https://gohome.com.hk#@#div[id^="div-gpt-ad"]
 https://17ce.com###kr_wrap
@@ -22806,6 +22813,7 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://pilipili.site##.block-sales
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -27257,8 +27265,6 @@ http://halitv.com##a[href^="https://www.halitv.com/api/go."]
 http://howbuy.com##a[href^="https://www.howbuy.com/advertisement/"]
 http://sojson.com##a[href^="https://www.sojson.com/ad/"]
 http://zhiboba.org##a[href^="igg."]
-http://hzjzxh.org,jisuyingyuan.info,suibiankan.cc##a[href^="javascript"]
-http://suibiankan.cc##a[href^="javascript"] + img
 http://ddrk.me,ddys.tv##a[href^="javascript"] img:not(#trk_hcaptcha):not([src^="https://captcha.su.baidu.com"])
 http://5118.com##a[id][href^="http"]:not([href*=".5118.com"]) > img
 http://mse.360.cn##a[id^="banner"]
@@ -28043,7 +28049,7 @@ http://ltn.com.tw#@#.adright
 http://money18.on.cc#@#.ads-bg
 http://gsxt.gov.cn#@#.ads-right
 http://159i.com,techroomage.com,zhaopin.com#@#.adsBox
-http://android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,reh.tw,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
+http://android-doc.com,apk.tw,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,reh.tw,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
 http://ruten.com.tw#@#.adslot
 http://gdmm.com,gkstk.com,youquba.net#@#.adtop
 http://bdp.cn#@#.adv-list
@@ -28082,7 +28088,6 @@ http://zdface.com#@#.top-ad
 http://andylain.com,bee.coupons,blogspot.com,blogspot.hk,blogspot.jp,blogspot.tw,comic.tw,jasonblog.tw#@#.vertical-ads
 http://i-cable.com#@#.video_ad
 http://bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
-http://1point3acres.com,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#div > .adsbygoogle
 http://brandsales.58.com#@#div[id^="ad_"]
 http://gohome.com.hk#@#div[id^="div-gpt-ad"]
 http://17ce.com###kr_wrap
