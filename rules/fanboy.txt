@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /URZgg4zYiY0tMchFI9THA
-! Version: 202107130000
+! Checksum: /vImHqrlQ/nwlNYRs+JW7w
+! Version: 202107140000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-07-13 00:00 UTC
+! Last modified: 2021-07-14 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1781,6 +1781,7 @@
 ||http://widget.trustpilot.com^$third-party
 ||http://widget.zoorate.com^$third-party
 ||http://widgets.dzone.com^$third-party
+||http://widgets.recruitology.com^
 ||http://widgets.sprinkletxt.com^
 ||http://widgets.tapcdn.com^$third-party
 ||http://widgetsplus.com^$third-party
@@ -6298,6 +6299,7 @@ https://deseretnews.com###ask-form
 https://wellandgood.com###auto_signup
 https://tradeearthmovers.com.au###banner
 https://mindbodygreen.com###beWellModal
+https://politico.com###below-story-text > .story-enhancement
 https://axios.com###below_recirc--all_caught_up_ampm
 https://benzinga.com###benzinga-newsletter-signup
 https://quarterlyessay.com.au###bi-mailchimp-signup-footer
@@ -7129,6 +7131,7 @@ https://nautil.us##.paywall-popup
 https://dbknews.com##.pb-f-global-mailchimp-signup
 https://theglobeandmail.com##.pb-f-marketing-container-placeholder
 https://washingtonpost.com##.pb-f-page-follow-instream
+https://nejm.org##.pb-house-message
 https://playboy.com##.pb-newsletter
 https://playbuzz.com##.pb-site-subscription
 https://washingtontimes.com##.piano-fixed-footer-two
@@ -13044,6 +13047,7 @@ https://gamefuelmasters.ru##.H5Cmzb7vlc1Q28uw4l-Bv
 https://aliexpress.ru##.PrivacyPolicyBanner-styles_wrapper__1qbIl
 https://drweb.ru##.SHOWIT-msg_showed
 https://ngnovoros.ru##._1TNYbgH
+https://sberbank.ru##._3KWyaRBN-Zc2EeT_YjLEUV
 https://oreluniver.ru##.accept
 https://volia.com##.agreeCookie\.component__cookieWrapper
 https://bancaintesa.ru##.agreement-substrate
@@ -17471,6 +17475,7 @@ http://deseretnews.com###ask-form
 http://wellandgood.com###auto_signup
 http://tradeearthmovers.com.au###banner
 http://mindbodygreen.com###beWellModal
+http://politico.com###below-story-text > .story-enhancement
 http://axios.com###below_recirc--all_caught_up_ampm
 http://benzinga.com###benzinga-newsletter-signup
 http://quarterlyessay.com.au###bi-mailchimp-signup-footer
@@ -18302,6 +18307,7 @@ http://nautil.us##.paywall-popup
 http://dbknews.com##.pb-f-global-mailchimp-signup
 http://theglobeandmail.com##.pb-f-marketing-container-placeholder
 http://washingtonpost.com##.pb-f-page-follow-instream
+http://nejm.org##.pb-house-message
 http://playboy.com##.pb-newsletter
 http://playbuzz.com##.pb-site-subscription
 http://washingtontimes.com##.piano-fixed-footer-two
@@ -24219,6 +24225,7 @@ http://gamefuelmasters.ru##.H5Cmzb7vlc1Q28uw4l-Bv
 http://aliexpress.ru##.PrivacyPolicyBanner-styles_wrapper__1qbIl
 http://drweb.ru##.SHOWIT-msg_showed
 http://ngnovoros.ru##._1TNYbgH
+http://sberbank.ru##._3KWyaRBN-Zc2EeT_YjLEUV
 http://oreluniver.ru##.accept
 http://volia.com##.agreeCookie\.component__cookieWrapper
 http://bancaintesa.ru##.agreement-substrate
