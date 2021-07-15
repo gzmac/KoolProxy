@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /vImHqrlQ/nwlNYRs+JW7w
-! Version: 202107140000
+! Checksum: DPYsxFXuBqLqXN6m8EOYyg
+! Version: 202107150000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2021-07-14 00:00 UTC
+! Last modified: 2021-07-15 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11854,7 +11854,7 @@ https://kunstnet.de,notebookinfo.de,zitatezumnachdenken.com###consent
 https://strawpoll.de###consent-overlay
 https://der-farang.com###consent_overlay
 https://renault-koenig.de###cook
-https://alternative-zu.de,baskets-jena.de,bauernzeitung.ch,bookingsuedtirol.com,burg-lindenfels.de,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,goldankauf123.de,lvr.de,ruhrbarone.de,shop-apotheke.com###cookie
+https://alternative-zu.de,baskets-jena.de,bauernzeitung.ch,bookingsuedtirol.com,burg-lindenfels.de,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,goldankauf123.de,lvr.de,mallorca.de,ruhrbarone.de,shop-apotheke.com###cookie
 https://brf.be###cookieDashboard
 https://vileda.de###cookieSettings
 https://bambergfacts.de###cookiebar-007
@@ -11975,6 +11975,7 @@ https://bueromarkt-ag.de##.cCText
 https://infiniti.at,infiniti.ch,infiniti.de##.c_128
 https://syfit.de##.c_cont
 https://juedische-allgemeine.de##.cc
+https://golfpost.de##.cc_dialog
 https://antenne.at,de.vanguard,hw-zuschuss.daimler.com,meine-bankid.de,teambank.de,townsmith.de##.cdk-overlay-container
 https://herrenausstatter.de##.ce-container
 https://aeesuisse.ch,bluesnews.de##.ce_rsce_oneo_fixed_note
@@ -12725,6 +12726,7 @@ https://bancacrs.it,teleradiopadrepio.it##.spu-bg
 https://close-up.it##.stickyFooter
 https://bmwautoclubitalia.it##.t657__wrapper
 https://boxannunci.com##.terms
+https://itineraricamper.it##.toast
 https://regalideidesideri.it##.topBanner__content
 https://ingdirect.it##.topalertbanner
 https://emma-materasso.it##.ucn-block
@@ -23032,7 +23034,7 @@ http://kunstnet.de,notebookinfo.de,zitatezumnachdenken.com###consent
 http://strawpoll.de###consent-overlay
 http://der-farang.com###consent_overlay
 http://renault-koenig.de###cook
-http://alternative-zu.de,baskets-jena.de,bauernzeitung.ch,bookingsuedtirol.com,burg-lindenfels.de,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,goldankauf123.de,lvr.de,ruhrbarone.de,shop-apotheke.com###cookie
+http://alternative-zu.de,baskets-jena.de,bauernzeitung.ch,bookingsuedtirol.com,burg-lindenfels.de,die-glocke.de,essentraextrusion.de,filati.cc,gebag.de,goldankauf123.de,lvr.de,mallorca.de,ruhrbarone.de,shop-apotheke.com###cookie
 http://brf.be###cookieDashboard
 http://vileda.de###cookieSettings
 http://bambergfacts.de###cookiebar-007
@@ -23153,6 +23155,7 @@ http://bueromarkt-ag.de##.cCText
 http://infiniti.at,infiniti.ch,infiniti.de##.c_128
 http://syfit.de##.c_cont
 http://juedische-allgemeine.de##.cc
+http://golfpost.de##.cc_dialog
 http://antenne.at,de.vanguard,hw-zuschuss.daimler.com,meine-bankid.de,teambank.de,townsmith.de##.cdk-overlay-container
 http://herrenausstatter.de##.ce-container
 http://aeesuisse.ch,bluesnews.de##.ce_rsce_oneo_fixed_note
@@ -23903,6 +23906,7 @@ http://bancacrs.it,teleradiopadrepio.it##.spu-bg
 http://close-up.it##.stickyFooter
 http://bmwautoclubitalia.it##.t657__wrapper
 http://boxannunci.com##.terms
+http://itineraricamper.it##.toast
 http://regalideidesideri.it##.topBanner__content
 http://ingdirect.it##.topalertbanner
 http://emma-materasso.it##.ucn-block
