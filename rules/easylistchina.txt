@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: uCayMIgVOjWNZ2zEk3kXLw
-! Version: 202107150035
+! Checksum: BlrXqKdYYr5NhBQ3tG7PoQ
+! Version: 202107160033
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -6218,6 +6218,7 @@
 ||http://cpro.baidu.com^
 ||http://cpro.baidustatic.com^
 ||http://cpv6.com^
+||http://cqdzjc.com^
 ||http://cqfangduan.com^
 ||http://cqftonline.com^
 ||http://cqjjlsy.com^
@@ -6362,6 +6363,8 @@
 ||http://eiv.baidu.com^
 ||http://ejin56.com^$third-party
 ||http://ellenhilary.com^
+||http://elsiehoney.com^
+||http://elvirahedwig.com^
 ||http://emarbox.com^$third-party
 ||http://enohb.com^
 ||http://eoncreativity.com^
@@ -10287,6 +10290,7 @@
 ||http://huarenjie.com/attachment/myfiles/
 ||http://hubpd.com/hubpd/images/dingtong
 ||http://hudong.com/11/85/26100000005581147339859649123.jpg
+||http://hugo3c.tw^$csp=script-src 'self' * 'unsafe-inline'
 ||http://huhumh.com/js/
 ||http://huibaihe.net/js/dddd.js
 ||http://huibaihe.net/static/730-580.
@@ -12923,6 +12927,7 @@
 ||http://al.newxue.com^
 ||http://anews7.nvwu.com^
 ||http://api.557400.com^
+||http://aqc.gucheng.com^
 ||http://as1.m.hao123.com^
 ||http://as1.wenku.baidu.com^
 ||http://at*.doubanio.com^
@@ -13723,6 +13728,7 @@
 ||http://adtongji.xyz^
 ||http://aduic.com^
 ||http://advancedreefaquarium.com^
+||http://advancepak.com^
 ||http://affiliate6.com^
 ||http://agjy6.com^
 ||http://agpligj.cn^
@@ -14047,6 +14053,7 @@
 ||http://ddanq.com^
 ||http://dddyun.com^
 ||http://ddg1277.com^
+||http://ddot.xyz^
 ||http://ddskyuu.com^
 ||http://ddyingyan.com^
 ||http://ddzeg.com^
@@ -21917,7 +21924,7 @@ https://icourse163.org#@#.sns-link
 https://laosiji.com#@#.sns-wrapper
 https://mrbird.cc#@#.social-icons
 https://ghxi.com#@#.social-item
-https://ygodl.com,zhujib.com#@#.social-top:not(html):not(body)
+https://7b2.com,ygodl.com,zhujib.com#@#.social-top:not(html):not(body)
 https://cowtransfer.com#@#.socialButton
 https://storm.mg#@#.social_btn
 https://ali213.net#@#.subscribe-container
@@ -28404,7 +28411,7 @@ http://icourse163.org#@#.sns-link
 http://laosiji.com#@#.sns-wrapper
 http://mrbird.cc#@#.social-icons
 http://ghxi.com#@#.social-item
-http://ygodl.com,zhujib.com#@#.social-top:not(html):not(body)
+http://7b2.com,ygodl.com,zhujib.com#@#.social-top:not(html):not(body)
 http://cowtransfer.com#@#.socialButton
 http://storm.mg#@#.social_btn
 http://ali213.net#@#.subscribe-container
